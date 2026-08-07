@@ -56,6 +56,8 @@ input:focus-visible {
 .masthead {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 24px;
   min-height: 48px;
   padding: 14px 20px;
   border-bottom: 1px solid var(--line);
@@ -93,6 +95,31 @@ h1 {
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: -0.01em;
+}
+
+.masthead-nav {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.masthead-nav a,
+.masthead-nav span {
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+
+.masthead-nav a:hover {
+  color: var(--ink);
+}
+
+.masthead-nav [aria-current="page"] {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }
 
 .atlas-workspace {

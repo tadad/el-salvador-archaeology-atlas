@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { digs, precisionMeta, type Dig, type Precision } from "@/data/digs";
 import {
@@ -191,6 +192,10 @@ export function AtlasExplorer() {
     <main className="atlas-shell">
       <header className="masthead">
         <h1>Archaeology of El Salvador</h1>
+        <nav className="masthead-nav" aria-label="Primary navigation">
+          <span aria-current="page">Atlas</span>
+          <Link href="/sources.md">Sources</Link>
+        </nav>
       </header>
 
       <section className="atlas-workspace" aria-label="Salvadoran archaeology atlas">
