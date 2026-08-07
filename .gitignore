@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local source archive. The repository retains source URLs, hashes, and
+# page-addressable Markdown derivatives instead of duplicating the PDFs.
+sources/fundar/
+sources/institutional/
+sources/public-domain/
+app/public/pdfs/
+
+# Next.js and local browser output
+app/node_modules/
+app/.next/
+app/out/
+app/*.log
+app/*.tsbuildinfo
+app/.playwright-cli/
+app/output/
+
+# Local deployment state
+app/.vercel/
