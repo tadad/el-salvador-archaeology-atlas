@@ -442,7 +442,9 @@ export function AtlasExplorer() {
               </div>
 
               <div className="source-section">
-                <p className="source-heading">Source {selected.sources.length > 1 ? "papers" : "paper"}</p>
+                <p className="source-heading">
+                  Evidence &amp; exact citation{selected.sources.length > 1 ? "s" : ""}
+                </p>
                 {selected.sources.map((source) => (
                   <div className="source-card" key={`${source.file}-${source.pages}`}>
                     <div>
@@ -471,6 +473,9 @@ export function AtlasExplorer() {
                         </a>
                       ) : null}
                     </div>
+                    {source.citationNote ? (
+                      <p className="source-citation-note">{source.citationNote}</p>
+                    ) : null}
                   </div>
                 ))}
               </div>

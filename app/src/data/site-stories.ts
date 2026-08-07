@@ -1,5 +1,3 @@
-import { westernSiteStories } from "./western-sites";
-
 export type SiteStory = {
   overview: string;
   dates: string;
@@ -15,423 +13,422 @@ export type SiteStory = {
 export const siteStories: Record<string, SiteStory> = {
   "apaneca-habel": {
     overview:
-      "An early, historically reported excavation somewhere around Apaneca. It belongs to the first generation of archaeological work in El Salvador, but the surviving corpus reference is closer to a bibliographic trace than a modern field report.",
+      "A historical account of a grave opened at Apaneca. The precise location is unknown.",
     dates:
-      "Pre-Hispanic material; the corpus citation does not preserve a secure occupation date. The investigation predates Longyear’s 1940s survey.",
+      "The cited sources do not date the grave or its objects.",
     fieldwork:
-      "Habel is credited with excavation near Apaneca, but the cited paper gives no trench plan, parcel, excavation dimensions, or recoverable field coordinate.",
+      "Habel witnessed the grave being opened; the sources do not document controlled excavation or its exact location.",
     discoveries:
-      "The accessible citation does not enumerate the objects or architecture recovered. This marker therefore records the history of investigation, not a reconstructed assemblage.",
+      "The account lists carved jades, pottery objects, a double-profile head carved on a stone slab, and a polished gray stone object described at the time as a ‘sacrificial yoke.’",
   },
   "santa-leticia": {
     overview:
-      "A major highland settlement on the Santa Leticia estate, best known for three monumental ‘potbellied’ stone sculptures. The site helped establish that western El Salvador supported substantial communities before the Classic-period cities.",
+      "A pre-Hispanic archaeological site in the Cordillera Apaneca-Ilamatepec. A 1977 project investigated Santa Leticia through reconnaissance and excavation.",
     dates:
-      "Principally Late Preclassic, roughly the final centuries BCE and opening centuries CE. Demarest’s principal field season was in 1977.",
+      "The cited synthesis dates the site’s ‘potbellied’ sculptures to the Late Preclassic but does not date the site’s full occupation.",
     fieldwork:
-      "The project combined reconnaissance, a topographic map, and excavation across the settlement rather than investigating only the famous sculptures.",
+      "The 1977 project used regional reconnaissance and an excavation program intended to establish a ceramic and chronological sequence. It also produced a topographic site map.",
     discoveries:
-      "Excavation documented the settlement context and supported a Late Preclassic date for the potbellied monuments—large carved figures associated with the site’s public landscape.",
+      "The synthesis reports Late Preclassic ‘potbellied’ sculptures but provides no artifact inventory or excavation-unit results.",
   },
   "ataco-las-sepulturas": {
     overview:
-      "A pre-Hispanic settlement near Concepción de Ataco, locally associated with the name Las Sepulturas. Its mapped nucleus and carved jaguar heads point to a community with public architecture and a long occupational history.",
+      "Ataco is an excavated pre-Hispanic site with a mapped nuclear zone. The cited source does not publish its precise location or connect it to the name Las Sepulturas.",
     dates:
-      "Evidence discussed in the project spans the Preclassic and Postclassic periods. Reconnaissance began in 2006–2007, with further work from 2008.",
+      "The project reported Preclassic and Postclassic evidence. Reconnaissance, mapping, and exploratory excavation took place in 2006–2007; work continued under new direction from 2008.",
     fieldwork:
-      "Researchers surveyed the area, mapped the monumental nucleus, and opened exploratory excavations to test chronology and construction.",
+      "Researchers carried out archaeological reconnaissance, mapped the site's nuclear zone for the first time, and opened exploratory excavations.",
     discoveries:
-      "The work documented mounds and carved stone jaguar heads. The synthesis emphasizes the site’s Preclassic and Postclassic components but does not publish a complete artifact inventory at the cited page.",
+      "The later project studied jaguar heads and their spatial distribution. The synthesis does not describe individual sculptures or report excavation finds.",
   },
   "cara-sucia": {
     overview:
-      "A large ceremonial and residential center on El Salvador’s far western coastal plain. Its sequence is especially useful for understanding the region before and during the Cotzumalhuapa-related culture of the Late Classic.",
+      "An excavated pre-Hispanic site on El Salvador’s western coastal plain. Its documented sequence includes Late Preclassic and Late/Terminal Classic occupations.",
     dates:
-      "Two principal occupations were identified: a Late Preclassic community and a later occupation ending near the close of the Classic period. Major excavation took place in 1982–1983.",
+      "The sequence includes Late Preclassic and Late/Terminal Classic occupations; a Terminal Classic facet of the Tamasha phase is dated to 800–950 CE.",
     fieldwork:
-      "The national archaeological project mapped and excavated the center to establish its architecture, ceramics, and occupational sequence.",
+      "A 1982–1983 project used ceramic analysis and radiocarbon dates to define the site’s sequence; excavations are also documented.",
     discoveries:
-      "Excavators separated two major building and ceramic horizons, showing that the visible center was not a single-period settlement but the product of widely separated occupations.",
+      "The Terminal Classic facet included Motagua-style fine-paste pigment flasks, moldmade cylindrical vessels, fine-orange vessels similar to the Altar group, and copper.",
   },
   "el-carmen": {
     overview:
-      "A low household mound near the Estero El Zapote mangroves. Rather than a temple or palace, El Carmen preserves the repeated rebuilding of an extended-family residence and an unusually early settled way of life on the Salvadoran coast.",
+      "An excavated mound on an arm of the Estero El Zapote. The excavators interpreted its compacted-clay floors, ovens, storage pits, and refuse deposits as evidence of domestic use.",
     dates:
-      "Early Preclassic, broadly in the second millennium BCE. The excavation ran from May 23 to June 17, 1988.",
+      "Early Preclassic (called Early Formative in the report), with a corrected and calibrated average radiocarbon age of 1590 ± 150 BCE. Fieldwork ran from May 23 to June 17, 1988.",
     fieldwork:
-      "Archaeologists excavated 32 square metres through the roughly three-metre-high mound, following its floors and construction layers.",
+      "The team excavated 32 m² in 2 × 2 m units, using arbitrary 25 cm levels and natural levels where cultural features allowed.",
     discoveries:
-      "Seven occupation or construction floors, at least three high-heat ovens, and more than twelve storage pits were found. Impressions and remains of seeds, bone, and shell show a household drawing food from both inland and marine environments.",
+      "Excavation defined seven construction stages and exposed three features interpreted as high-temperature ovens, 12 storage pits, and possibly two more. Pit fills included burned-clay fragments with shell impressions, charred seeds, and bone.",
   },
   "el-eden": {
     overview:
-      "A small pre-Hispanic locality in the same coastal landscape as El Carmen. It was tested to learn whether the area held another settlement of El Carmen’s very early date.",
+      "The report identifies El Edén on land of Cooperativa Nueva York but gives no site boundary or archaeological coordinate. Its pottery was later than El Carmen’s Early Preclassic occupation.",
     dates:
-      "Middle to Late Preclassic, later than El Carmen. The test excavation was made during the 1988 El Carmen project.",
+      "Middle to Late Preclassic, based on pottery; fieldwork took place in May–June 1988.",
     fieldwork:
-      "The team opened a single 2 × 1 metre test pit, so this is a chronological sample rather than a broad excavation of the settlement.",
+      "Investigators surveyed, collected surface material, cleaned looter-trench profiles, and excavated one 2 × 1 metre test pit in arbitrary 25 cm levels.",
     discoveries:
-      "The pit produced pottery—including fugitive polychrome decoration—an obsidian blade, a metate fragment, charcoal, and bone. The ceramics showed that El Edén did not share El Carmen’s earliest occupation.",
+      "The test pit yielded eroded pottery, a prismatic obsidian blade, charcoal, obsidian, bone, and a metate fragment. The report identifies Middle Preclassic fugitive-polychrome sherds but notes that the second and third lots were disturbed.",
   },
   "el-zapote-san-isidro": {
     overview:
-      "A compact Postclassic settlement in the Cooperativa San Isidro, organized around a small central plaza. Its low earthen-and-stone buildings were set on a leveled or artificially built terrace.",
+      "An excavated site on a small flat area of El Zapote mountain within Cooperativa San Isidro. Three elongated mounds enclose a small plaza on a leveled terrace.",
     dates:
-      "Postclassic. Registered in 2011 and excavated January 7–11, 2013.",
+      "Postclassic, but the report could not determine whether the occupation was early or late within that period. The site was registered in 2011 and excavated January 7–11, 2013.",
     fieldwork:
-      "The team made a detailed 896-point topographic survey and opened three test units to examine construction and recover dating material.",
+      "Investigators recorded 896 total-station points and opened three test pits across the plaza and the bases of two mounds.",
     discoveries:
-      "The map revealed three elongated mounds, a possible fourth mound, and two small platforms around a plaza. Pottery from the work led researchers to propose the local San Isidro and Acahuaspán ceramic types.",
+      "Excavation documented earthen-and-stone construction and fill used to level the terrace. Pottery, obsidian, and stone objects were recovered, but the limited ceramic sample did not support a specific type or narrower date.",
   },
   "tacuscalco-los-cerritos": {
     overview:
-      "A substantial pre-Hispanic center and surrounding burial zone near Nahulingo. The site combines public architecture with evidence for the people who lived and were buried around it.",
+      "An excavated archaeological site in the Nahulingo area. The cited sources do not publish its boundaries or precise location.",
     dates:
-      "Pre-Hispanic, with the cited synthesis emphasizing fieldwork in 1990; later papers analyze excavated burials.",
+      "Investigations are documented in 1990 and 2004–2005. The cited pages do not date the site's occupation or burials.",
     fieldwork:
-      "The 1990 project combined monument mapping, systematic surface collection, and excavation, later followed by work focused on human remains and burial contexts.",
+      "The 1990 project included mapping, surface collection, and excavation. A 2004–2005 project conducted archaeological sounding and osteological study in the Tacuscalco–Los Cerritos/Ruiz sector.",
     discoveries:
-      "Researchers documented the site plan, collected diagnostic artifacts, and excavated burials. The cited overview does not reduce the settlement to a single securely dated phase.",
+      "A later review reports three multiple burials. The cited pages do not describe the individuals or associated objects.",
   },
   "iglesia-caluco": {
     overview:
-      "The ruined colonial church of San Pedro y San Pablo at Caluco, investigated as both a building and a record of the Indigenous town created under Spanish rule.",
+      "A colonial church at Caluco where archaeological excavation and topographic survey are documented.",
     dates:
-      "Colonial period; archaeological campaigns took place in 1994 and 1995.",
+      "Colonial period. Archaeological fieldwork is documented in 1994 and 1995.",
     fieldwork:
-      "Excavation inside and around the church tested its architectural history and deposits associated with the colonial congregation.",
+      "Excavation covered the church and adjacent areas in 1994. The program continued in 1995 and included a topographic survey.",
     discoveries:
-      "The work exposed buried architectural evidence and cultural deposits connected to the church’s construction and use. The synthesis records the project but gives only a brief inventory at the cited page.",
+      "The cited synthesis does not report what the excavations found.",
   },
   "asuncion-izalco": {
     overview:
-      "The ruins of Izalco’s colonial Iglesia de la Asunción. Archaeology here reads the standing ruin together with the buried fabric of a church serving one of Izalco’s historically Indigenous communities.",
+      "The ruins of Izalco’s colonial Iglesia de la Asunción, tested archaeologically in 1989.",
     dates:
-      "Colonial and later church use; the cited FUNDAR investigation is a modern archaeological assessment of the ruins.",
+      "The report places the church’s construction before 1586 and its destruction in the 1773 Santa Marta earthquake. The ruins continued to be used for burials afterward.",
     fieldwork:
-      "Researchers used test excavations and architectural observation within the church complex to identify construction levels and earlier features.",
+      "A two-week August sounding opened 18 test units in seven operations, covering more than 40 square meters. Burials prevented some units from reaching sterile deposits.",
     discoveries:
-      "The investigation documented buried walls, floors, and deposits that clarify how the church changed through time. The source is principally an architectural-archaeological report, not a single spectacular-find account.",
+      "The sounding identified paving, terraces, a wall-base reinforcement, a possible atrium floor, and a refuse deposit containing Indigenous-tradition pottery, majolica, glass bottles, Ming porcelain, and food remains. Eleven burials were exposed.",
   },
   "los-gavilanes": {
     overview:
-      "An Early Postclassic residential settlement discovered in the path of a housing development. The remains show ordinary buildings participating in the same long-distance networks visible at larger centers.",
+      "An excavated Early Postclassic site on a proposed housing parcel east of Chalchuapa. Investigators documented two pre-Hispanic structures.",
     dates:
-      "About 900–1200 CE. Salvage excavation ran from June through August 2005.",
+      "About 900–1200 CE. Fieldwork ran from June through August 2005.",
     fieldwork:
-      "Test pits and expanded rescue units exposed two pre-Hispanic structures before construction could destroy them.",
+      "Investigators surveyed the parcel, collected surface material, and excavated test pits. The report describes six excavation operations.",
     discoveries:
-      "Structure 2 had stone foundations, cobbled and burned-earth floors, and a small stone box that may have burned copal. Finds included pieces of a Xipe Totec effigy, Plumbate and Nicoya/Papagayo pottery, and a green obsidian blade from Pachuca, Mexico.",
+      "Structure 2 had stone foundations, cobbled and burned-earth floors, and a stone-lined feature with burning traces that the authors tentatively linked to copal. Finds included two fragments identified as a Xipe Totec effigy, Plumbate and Nicoya/Papagayo pottery, and a green obsidian blade attributed to Pachuca, Mexico.",
   },
   tazumal: {
     overview:
-      "The best-known monumental precinct within ancient Chalchuapa: a long-lived center with pyramids, platforms, burials, and objects linking western El Salvador to the wider Maya world and central Mexico.",
+      "An excavated monumental precinct at Chalchuapa centered on Mounds 1 and 2.",
     dates:
-      "Chalchuapa was occupied for many centuries; Tazumal’s major architecture is principally Classic and Postclassic. Excavation began in the 1940s, with major restoration and research continuing into the 2000s.",
+      "The cited publications document Late Classic architecture and an Early Postclassic addition dated to about 900–1200 CE.",
     fieldwork:
-      "Boggs and Longyear carried out extensive excavation and reconstruction. Later teams remapped buildings, studied architectural sequences, and excavated after part of Structure B1-2 collapsed in 2004.",
+      "Exploratory excavation and transit mapping examined Mounds 1 and 2 in April–May 1942. After part of Structure B1-2 collapsed in 2004, later projects combined excavation, restoration, topographic survey, and study of architectural development through 2012.",
     discoveries:
-      "Work revealed successive monumental buildings, tombs and offerings, sculpture, ceramics, and evidence of repeated remodeling. The site is central to the ceramic chronology used across western El Salvador.",
+      "Excavation recorded repeated rebuilding of Mound 1, four post-construction burials, stone and obsidian objects, and distinct early and later pottery deposits.",
   },
   "ciudad-nuevo-tazumal": {
     overview:
-      "A Postclassic settlement area immediately east of Tazumal, exposed as modern urbanization expanded across the archaeological landscape of Chalchuapa.",
+      "An excavated Postclassic site, also called El Cuje, northeast of Tazumal and south of Laguna Cuscachapa.",
     dates:
-      "Postclassic; rescue sondages were carried out from 2001 to 2003.",
+      "The recorded architecture was assigned to the Postclassic. Archaeological sounding took place from 2001 to 2003.",
     fieldwork:
-      "Archaeologists tested roughly ten manzanas of development land, recording low platforms and foundations before construction.",
+      "The cited synthesis reports archaeological sounding but does not describe its methods.",
     discoveries:
-      "The survey identified circular, elongated, polygonal, semi-oval, and square platforms and building foundations—evidence that settlement extended well beyond the protected Tazumal monuments.",
+      "Across an area of about ten manzanas, investigators recorded one circular, two long, one polygonal, two semi-oval, and four square platforms, plus eight foundations. The source says the architecture was built with stone and mud.",
   },
   "casa-blanca": {
     overview:
-      "A monumental sector of the larger Chalchuapa settlement, now an archaeological park. Its earthen platforms preserve a long sequence of public building beside the areas known as Tazumal and El Trapiche.",
+      "An excavated mound group at the northeastern edge of Chalchuapa, part of which is protected within Casa Blanca Archaeological Park.",
     dates:
-      "Primarily Preclassic and Classic occupation. A Japanese–Salvadoran multidisciplinary project worked here from 1995 to 2000.",
+      "Late Preclassic, Early Classic, and Postclassic components are reported.",
     fieldwork:
-      "The project paired precise topographic mapping and stratigraphic excavation with conservation and restoration of the exposed earthen architecture.",
+      "Longyear made a cursory inspection in 1942 and reported that two mounds had already been partly excavated. A 1995–2000 project excavated, mapped, and restored some structures.",
     discoveries:
-      "Excavation clarified construction stages and recovered ceramics and other materials used to place Casa Blanca within Chalchuapa’s long history. Conservation was part of the research design, not an afterthought.",
+      "Longyear counted sixteen mounds, described adobe-and-stone construction, and recorded ceramics, vessels with burned human bones, and stone sculptures. The 1995–2000 project reported a burial with offerings and three Plumbate vessels associated with Structure 2.",
   },
   "el-trapiche-e3-7": {
     overview:
-      "A major mound in Chalchuapa’s early monumental zone. A rescue excavation turned it into one of the country’s starkest archaeological records of public ritual and violence.",
+      "Mound E3-7 is an excavated part of El Trapiche in Chalchuapa. Researchers reported 33 burials within the mound.",
     dates:
-      "Late Preclassic context; rescue excavation took place in 1977–1978.",
+      "One documented burial is assigned to the Late Preclassic Caynac phase, 100 BCE–100 CE. Rescue excavation took place in 1977–1978.",
     fieldwork:
-      "Fowler’s team excavated mound E3-7 as a threatened component of the El Trapiche complex, documenting the human remains in their architectural context.",
+      "Manuel López and William Fowler excavated mound E3-7. The cited summaries do not describe the excavation methods.",
     discoveries:
-      "The excavation recorded 33 individuals, interpreted in the cited synthesis as victims of human sacrifice. Their placement made the mound important for understanding ritual authority in early Chalchuapa.",
+      "The 33 individuals had been buried within the mound. Fowler interpreted the context as human sacrifice; a later study says the bodies were prone with hands and feet tied and were placed collectively in three successive events.",
   },
   "templo-santiago-apostol": {
     overview:
-      "A colonial church in Chalchuapa whose buried deposits complement the nearby pre-Hispanic monuments, showing the town’s history after the Spanish invasion.",
+      "A historic church in Chalchuapa where the national Department of Archaeology conducted an investigation.",
     dates:
-      "Colonial and later use; archaeological investigation took place in 1998–1999.",
+      "The investigation took place in 1998–1999. The cited summary does not date the church or any archaeological deposits.",
     fieldwork:
-      "The national Department of Archaeology investigated the church fabric and subsurface deposits during a two-year project.",
+      "The summary says that Claudia Ramírez directed the investigation's second phase, but it does not identify the field methods.",
     discoveries:
-      "The cited national synthesis confirms architectural archaeology at the temple but does not provide a detailed object list on its summary page; the value of this point is the documented church investigation itself.",
+      "The cited summary does not describe architectural features, deposits, or objects from the investigation.",
   },
   "asuncion-ahuachapan": {
     overview:
-      "A historic church in central Ahuachapán where subsurface work revealed both the building’s architectural history and a much later episode of national political conflict.",
+      "Excavation inside and around this colonial church documented Late Preclassic deposits beneath the church and its later fill.",
     dates:
-      "Colonial and modern deposits. Archaeological testing and rescue work are documented for 2002–2003; one deposit belongs to the 1944 uprising.",
+      "The lower deposit is dated to the Late Preclassic, 400 BCE–250 CE. Fieldwork took place from October 14 to 25, 1985.",
     fieldwork:
-      "Sondages were placed in the church to examine buried construction and deposits encountered during intervention in the building.",
+      "Archaeologists excavated 12 test pits in the nave and outside the church to examine the subsurface, reported cavities, and foundation details.",
     discoveries:
-      "Researchers documented architectural remains and found arms and ammunition buried in connection with the events of 1944, showing how church archaeology can preserve twentieth-century history as well as colonial fabric.",
+      "They recorded 26 burials. A compact lower layer contained Late Preclassic ceramics and possibly two constructions; overlying church fill contained historic burials and some Protohistoric and Historic ceramics.",
   },
   "finca-san-rafael": {
     overview:
-      "A dispersed Postclassic residential area on a finca at Chalchuapa. Its small compounds help fill the gap between the city’s famous monuments and the households that surrounded them.",
+      "An excavated Postclassic site at Finca San Rafael in Chalchuapa, where a brief published summary reports structures, domestic groups, and terraces.",
     dates:
-      "Postclassic; archaeological testing took place in February 2006.",
+      "The site is assigned to the Postclassic period. Archaeological testing took place in February 2006.",
     fieldwork:
-      "A short testing program sampled low structures and terraces to determine the nature and extent of the remains.",
+      "The synthesis reports archaeological testing before a proposed housing development but does not describe the methods.",
     discoveries:
-      "The work identified about nine structures arranged in two probable domestic compounds, together with terraces and Postclassic material.",
+      "Investigators recorded about nine structures organized into two domestic groups, together with terraces. The synthesis does not identify recovered objects.",
   },
   "san-andres-campana": {
     overview:
-      "A major Maya center in the Zapotitán valley, organized around monumental platforms including the great Campana mound. It was a political and ceremonial focus for communities living across the valley.",
+      "An excavated monumental center in the Zapotitán valley, with an acropolis, a north plaza, and Structure 5, known as La Campana.",
     dates:
-      "Most visible florescence belongs to the Classic period, especially after resettlement following the Ilopango eruption. Carnegie fieldwork was underway by 1940–1941.",
+      "Material spans the Middle Preclassic through the Early Postclassic; the site reached its apogee in the Late Classic (600–900 CE).",
     fieldwork:
-      "The early project mapped and trenched the Campana–San Andrés complex, examining monumental construction and recovering ceramics for regional comparison; later projects expanded the sequence.",
+      "The Carnegie project made small excavations across the principal group and investigated several structures, a court, and a mound. Later work included two trenches beside La Campana and Mound B.",
     discoveries:
-      "Excavation documented massive platform architecture and successive building episodes. Ceramics and construction evidence helped establish San Andrés as a principal Classic-period center in the valley.",
+      "Excavations documented adobe-and-plaster monuments, successive construction episodes, volcanic ash and floors, pottery, figurines, obsidian, and carved stone.",
   },
   "joya-de-ceren": {
     overview:
-      "A farming village sealed rapidly by volcanic ash, preserving houses, kitchens, storehouses, gardens, and fields in exceptional detail. It offers a household-scale view of Maya life that monumental centers rarely preserve.",
+      "A Middle/Late Classic village buried by a volcanic eruption, where excavations exposed structures and cultivated fields.",
     dates:
-      "Classic period, buried by an eruption in the seventh century CE. Geophysical work began in 1979–1980 and sustained excavation resumed from 1989.",
+      "The park history dates the burial to about 640 CE; geophysical work took place in 1979–1980, and excavation began in 1989.",
     fieldwork:
-      "Teams combined careful excavation through volcanic deposits with geophysics and remote sensing to locate buildings and cultivated plots without stripping the entire site.",
+      "Investigators used geophysical methods, including magnetic resistance and radar, before beginning excavation.",
     discoveries:
-      "Earthen buildings, household tools, stored foods, planted fields, and activity areas survived in place. Their arrangement reveals daily work and an abrupt evacuation rather than a slowly abandoned ruin.",
+      "Excavations exposed several structures and cultivated fields. Research reported in 2011 also documented a variety of crops.",
   },
   "el-cambio": {
     overview:
-      "A pre-Hispanic settlement near Joya de Cerén where burials provide a direct record of community life in the Zapotitán valley before the better-known Classic village.",
+      "An excavated site in San Juan Opico, in the Zapotitán valley, with documented funerary contexts.",
     dates:
-      "The cited burial contexts are Preclassic. The summarized excavation season ran in 2006–2007.",
+      "The compiled bibliography names Preclassic burials; a later article reports one excavated individual as Early Postclassic (900–1250 CE).",
     fieldwork:
-      "Excavators opened settlement and mortuary contexts, recording body position, associated objects, and stratigraphy rather than collecting isolated bones.",
+      "A 2006–2007 excavation recorded burial contexts, positions, funerary pattern, and associated objects. A 2008 osteological study examined remains from the excavations.",
     discoveries:
-      "The project recovered Preclassic burials with offerings and used their placement and skeletal evidence to discuss local mortuary practice. The source summary does not supply a complete burial catalog at the cited pages.",
+      "The sources describe burials and associated objects but do not provide a complete catalog. One later-studied cranium had intentional tabular-erect shaping.",
   },
   "nuevo-lourdes-poniente": {
     overview:
-      "A settlement in the southeastern Zapotitán valley that helps answer when people returned after the enormous Ilopango eruption. Its value lies in the layers immediately above the volcanic ash.",
+      "An excavated site west of Urbanización Nuevo Lourdes Extensión in Colón. The 2013 work documented three primary burials whose pits cut through the Ilopango TBJ deposit.",
     dates:
-      "Terminal Preclassic activity is present, followed by repopulation around 600 CE and before about 650 CE. The dates come from ceramics, stratigraphy, and three radiocarbon samples.",
+      "Terminal Preclassic ceramic activity and Late Classic burial contexts are documented. The three human-bone samples calibrated to 678–862, 688–864, and 651–764 CE (2 sigma).",
     fieldwork:
-      "Researchers excavated pits and occupation deposits above the Ilopango tephra and submitted bone from three contexts for radiocarbon dating.",
+      "The 2013 investigation excavated the three burials and analyzed a human-bone sample from each by AMS radiocarbon dating.",
     discoveries:
-      "Mammiform vessel supports, Usulután decoration, red-banded pottery, and dated bone showed both earlier activity and a relatively early return to the devastated valley.",
+      "The burials had offerings, and stone slabs or adobe blocks bounded parts of the graves. Separately reported Terminal Preclassic ceramic material included mammiform supports and Usulután decoration combined with a red band.",
   },
   chanmico: {
     overview:
-      "A pre-Hispanic settlement locality near Laguna Chanmico and El Playón, part of the volcanically active landscape west of San Salvador.",
-    dates:
-      "Pre-Hispanic; the accessible synthesis mentions the investigation but does not provide a reliable phase range or field-season date for this particular point.",
+      "A poorly documented pre-Hispanic archaeological site reported north of Laguna Chanmico. The published sources do not define its location or extent.",
+    dates: "Pre-Hispanic, otherwise undated.",
     fieldwork:
-      "The corpus preserves Chanmico as an investigated site, but the cited summary does not describe the number or placement of excavation units.",
+      "The accessible sources identify Chanmico as documented and cite an investigation report, but they do not describe the fieldwork.",
     discoveries:
-      "No site-specific find list is given on the cited page. This is intentionally a modest record until the underlying Chanmico field report can be tied to the corpus.",
+      "The accessible sources provide no site-specific find list. A historical report of pottery fragments on the lake's northern shore is not securely tied to this site.",
   },
   "antiguo-cuscatlan-avenida-navas": {
     overview:
-      "A buried Middle Preclassic residential and burial area encountered beneath a modern street in Antiguo Cuscatlán. The find demonstrates that settlement here began long before the later Pipil capital.",
+      "A buried Middle Preclassic site exposed by utility work in Antiguo Cuscatlán. The excavated portion was cautiously interpreted as residential.",
     dates:
-      "Middle Preclassic. The rescue followed discovery during modern utility work; the source describes a ten-metre street segment.",
+      "The ceramic assignment places the occupation around 900–650 BCE, within the Middle Preclassic.",
     fieldwork:
-      "Archaeologists cleaned and excavated the narrow utility trench along Avenida Navas and Pasaje 4, working within the limits of an active street project.",
+      "A 1987 rescue investigation documented the utility trench and excavated one 2 × 1 m test pit from the trench floor.",
     discoveries:
-      "At least seven burials were exposed with ceramic material. Because the excavation was a narrow rescue window, it sampled a larger buried settlement rather than defining its full extent.",
+      "Investigators recorded at least seven burials; no artifacts were associated with them. The cultural layer also contained pottery, obsidian, burned earth, charcoal, floor segments, and stones interpreted as an earth oven.",
   },
   madreselva: {
     overview:
-      "A residential and ceremonial part of ancient Cuscatlán beneath the modern Madreselva development. It preserves the urban landscape associated with the powerful Indigenous capital encountered by the Spanish.",
+      "A rescue-excavated site within the Madre Selva development in Antiguo Cuscatlán. The report documents a Late Classic village and two Postclassic groups of structures.",
     dates:
-      "Occupation documented from about 600 to 1524 CE, spanning the Late Classic and Postclassic. Major rescue work began around 1991 and continued in the early 1990s.",
+      "The cited report dates the documented occupations to 600–1524 CE: Late Classic (600–900) and Postclassic (900–1524). Rescue activity is documented in 1992.",
     fieldwork:
-      "Development-led rescue excavation used trenches and test units across terraces, platforms, patios, and domestic zones before construction removed much of the site.",
+      "A development-led rescue program excavated the site. One Postclassic structure was dismantled and reassembled nearby as construction advanced.",
     discoveries:
-      "Excavators found house and temple remains, earthen platforms bounded by stone, burials near dwellings, and four offerings—including polychrome vessels, an infant dental deposit, and grinding stones.",
+      "Late Classic remains included wattle-and-daub dwellings, refuse pits, and burials near houses, commonly with ceramic vessels. Postclassic excavations recorded a three-structure plaza and a four-mound group; arrowheads lay beside the foundations of burned buildings.",
   },
   "sitio-c-la-viuda": {
     overview:
-      "One of the archaeological areas found during development of Ciudad Nuevo Cuscatlán. Known as Site C or La Viuda, it preserves settlement and mortuary evidence within a rapidly urbanizing landscape.",
+      "A site in Ciudad Nuevo Cuscatlán known as Site C or La Viuda. The accessible source identifies an internal report on rescue excavations but does not reproduce its findings.",
     dates:
-      "Classic-period occupation; intensive rescue excavation is cited for 1996.",
+      "Listed in a table of reports on pre-Hispanic burials; otherwise undated. The internal report is dated 1996.",
     fieldwork:
-      "The rescue project excavated settlement deposits and burials under construction pressure, recording stratigraphy, body position, osteology, and associated artifacts.",
+      "The report title identifies rescue excavations. The accessible review does not state the excavation units, methods, or fieldwork dates.",
     discoveries:
-      "Burial contexts and their offerings were the principal reported evidence. The corpus summary does not publish enough architectural detail to reconstruct a complete site plan.",
+      "The table says the report covers archaeological and stratigraphic context, funerary pattern, osteological analysis, and associated objects, but it does not publish the results.",
   },
   "hacienda-tula": {
     overview:
-      "A pre-Hispanic mound group on a flat ridge known as La Sabana in the San José Villanueva area. It was one of the eastern and central Salvadoran sites sampled to build an early national ceramic chronology.",
+      "A small archaeological locality on a flat ridge called La Sabana at Hacienda Tula. Three low rises were visible in 1942; two contained pottery-bearing volcanic ash, but the report concluded that their mound-like shape did not reflect constructed architecture.",
     dates:
-      "Pre-Hispanic; excavated during Longyear’s 1941–1942 archaeological survey.",
+      "No absolute occupation date was established. Ceramic comparison suggested only that the deposit was roughly contemporaneous with late Tazumal and Campana–San Andrés.",
     fieldwork:
-      "Longyear described the mound group and excavated selected architecture and deposits, using pottery as the principal tool for comparison with other sites.",
+      "The site was visited in March 1942. Boggs dug one test trench to sterile soil in each of the two largest rises and compared the recovered pottery with other Salvadoran collections.",
     discoveries:
-      "Mound construction and ceramic collections established occupation at the ridge. The older report is stronger on typological comparison than on the household-scale narrative expected from a modern excavation.",
+      "Sherds occurred in the lower part of a volcanic-ash layer. A fragmentary perforated black-scoria object described as a ‘club head’ was the only stone implement, and no complete vessel was excavated.",
   },
   "club-internacional": {
     overview:
-      "A sealed deposit beneath central San Salvador, discovered not by a planned dig but while workers excavated a basement for the Club Internacional. It is a rare archaeological window beneath the modern capital.",
+      "A compact deposit of pre-Hispanic objects exposed during basement construction in central San Salvador in 1939. The objects lay within the uppermost volcanic-ash stratum.",
     dates:
-      "Pre-Hispanic, assigned by Boggs to a late ceramic horizon in the chronology then in use. Discovered during construction in 1939.",
+      "Pre-Hispanic. Boggs tentatively compared the pottery association with late 9th-cycle Maya styles; the deposit itself was not directly dated.",
     fieldwork:
-      "Building workers exposed objects mixed with a volcanic-ash layer; Boggs documented the location and studied the recovered ceramic assemblage rather than conducting a broad site excavation.",
+      "Construction workers exposed the deposit. Boggs relied on the contractor’s description of the layers and catalogued the recovered objects; no controlled excavation is documented.",
     discoveries:
-      "The deposit contained numerous decorated vessels, including polychrome bowls and tetrapod forms. Their association beneath the city allowed Boggs to compare San Salvador’s buried sequence with Tazumal and other western sites.",
+      "The collection included pottery vessels and sherds, a small pottery head, and what Boggs tentatively identified as a peccary tusk.",
   },
   "cerro-zapote-san-jacinto": {
     overview:
-      "A stratified pre-Hispanic site on Cerro El Zapote at San Jacinto, now absorbed into metropolitan San Salvador. Volcanic ash physically separated two episodes of occupation.",
+      "An excavated locality on Cerro Zapote where archaeological material occurred both in buried humus and in the volcanic ash above it.",
     dates:
-      "Pre-Hispanic occupations on either side of an ash fall; Lardé and Lothrop excavated the site in 1926.",
+      "The lower deposit was later assigned to the Middle–Late Formative; a 1975 synthesis also lists Cerro El Zapote among Postclassic sites, but the mixed upper deposit is not securely dated.",
     fieldwork:
-      "The early excavation cut through layered deposits, making the vertical relationship between artifacts and volcanic ash more important than a broad horizontal plan.",
+      "In January 1926, investigators excavated beside a road across the hill above the Río Acelhuate, opposite Finca Modelo. The report gives no coordinate or trench dimensions.",
     discoveries:
-      "A lower humus layer contained handmade figurines and Usulután pottery; a sterile ash band separated it from an upper layer with a different, mixed assemblage. The sequence offered early evidence for eruption-based chronology.",
+      "The excavation recovered a pottery head, numerous sherds, and fragments of obsidian blades. The upper ash also yielded a mixed assemblage that the report could not separate securely.",
   },
   "basilica-el-pilar": {
     overview:
-      "A colonial basilica in San Vicente investigated beneath and around its standing architecture. The project treated the church as an archaeological site with successive building phases and burial space.",
+      "El Pilar is a historical church in San Vicente where an archaeological investigation was reported in 2003.",
     dates:
-      "Colonial and later use; excavation and restoration are documented in the early 2000s, including work in 2003.",
+      "The reported investigation dates to 2003; the finds included cultural materials identified only as Colonial-period.",
     fieldwork:
-      "Archaeological excavation accompanied architectural restoration, allowing buried features to be recorded before intervention in the building.",
+      "The published summary calls the work an investigation but does not describe its methods or extent.",
     discoveries:
-      "The work exposed catacombs, architectural elements, and colonial cultural materials. Together they document both the fabric of the basilica and the people interred and commemorated there.",
+      "The summary lists catacombs, architectural features, and Colonial-period cultural materials; it gives no artifact inventory or construction sequence.",
   },
   "cihuatan-p7": {
     overview:
-      "The principal pyramid of Cihuatán, a large Early Postclassic city built after the Classic Maya political collapse. Structure P-7 anchors the western ceremonial center and preserves evidence for the city’s violent end.",
+      "Structure P-7 is Cihuatán’s principal pyramid, within the city’s western ceremonial center. Limited excavation documented its construction and a burned terminal deposit.",
     dates:
-      "About 900–1200 CE. The focused P-7 project worked in 2001–2002, the first investigation of the pyramid since 1929.",
+      "Sparse diagnostic pottery is consistent with the Early Postclassic Guazapa phase, about 900–1200 CE. The focused investigation ran from 2001 to 2002.",
     fieldwork:
-      "Researchers made a new topographic record and opened fourteen to fifteen small units around the western stair and terraces to understand construction without stripping the pyramid.",
+      "Researchers made a new topographic survey, excavated stratigraphic units along the pyramid’s western side, and reopened part of the western stair exposed in 1929.",
     discoveries:
-      "Six stepped core terraces faced with tuff blocks, lime stucco, a western stair, and lava paving were documented. Burned collapse at the foot of the building supports a destructive, fire-marked end shared across Cihuatán.",
+      "Excavators documented six stepped core terraces, tuff-block facing, a stone platform at the western stair, and partial lava-block paving. Burned rubble at the pyramid’s foot indicates that its use ended in fire.",
   },
   carranza: {
     overview:
-      "A small Early Postclassic settlement north of Cihuatán, rescued before sugarcane cultivation damaged its low platforms. One building yielded a rare sculpture in a secure archaeological context.",
+      "Carranza is an excavated settlement near the southern end of Cihuatán. Rescue work focused on a low platform damaged by decades of sugarcane cultivation.",
     dates:
-      "Early Postclassic, probably about 950–1100 CE. Rescue excavation began in March 2002.",
+      "Pottery from Structure 1 dates to the Early Postclassic (900–1200 CE), possibly 950–1100 CE. Excavation began in 2002, with continuing work reported in 2004.",
     fieldwork:
-      "The team mapped low mounds and exposed Structure 1, a roughly twelve-metre-wide river-stone building only about half a metre high.",
+      "A six-week rescue excavation used 39 units to expose all of Structure 1, an area of 182 square metres. Later excavation investigated an offering in front of Structure 2.",
     discoveries:
-      "Excavators recovered substantial pieces of a life-size ceramic Xipe Totec figure—the first documented in context in El Salvador—along with Tohil Plumbate, Nicoya polychrome pottery, and other imported or exchange-linked material.",
+      "Nearly 100 fragments of a large ceramic Xipe Tótec figure were recovered mainly from Structure 1's central chamber. In front of Structure 2, excavators found a second near-life-sized figure in an offering with more than 500 ceramic vessels and abundant obsidian blades.",
   },
   "las-marias-tlaloc": {
     overview:
-      "A rescue spot beside the main pyramid of Las Marías, an Early Postclassic city. The small excavation captured what may have been a ritual building or deposit associated with the rain deity Tláloc.",
+      "A limited rescue excavation about 80 metres west of Las Marías’ principal pyramid exposed part of a buried structure and a deposit of unusually large Tláloc-bottle fragments.",
     dates:
-      "Early Postclassic or Guazapa phase, about 900–1200 CE. The rescue took place in July 2002.",
+      "A site-wide assessment tentatively dates Las Marías to 900–1200 CE. The rescue excavation ran from July 12 to 20, 2002, but the unit was not independently dated.",
     fieldwork:
-      "After a farmer encountered sherds, archaeologists opened a limited 2 × 2 metre unit and traced the shallow destruction layer over a buried cobbled floor and structure.",
+      "After a resident found sherds while planting, archaeologists opened one 2 × 2 metre unit. They excavated three levels to a maximum depth of 40 centimetres and stopped at a cobbled surface beside rows of tuff blocks.",
     discoveries:
-      "Parts of at least four unusually large Tláloc bottles or effigies lay in destruction debris. Their concentration suggests a specialized ritual context and may relate to the city’s terminal event.",
+      "The unit contained fragments from at least three oversized Tláloc bottles, a few vessel sherds, and pieces of prismatic obsidian blades. The report considered ritual use and a terminal destruction event possible, but said both interpretations required more excavation.",
   },
   "ciudad-vieja": {
     overview:
-      "The ruins of the first enduring Spanish town of San Salvador, laid out amid Indigenous communities during the conquest. It preserves houses, streets, civic space, and material evidence of cultural negotiation in a very short-lived colonial settlement.",
+      "Ciudad Vieja is the archaeological site of the first stable settlement of the Villa de San Salvador, an early colonial town about 10 kilometres south of Suchitoto.",
     dates:
-      "Founded in 1528 and abandoned around 1545, though some activity may have continued later. Excavation began in 1996, with sustained campaigns from 2000 to 2005.",
+      "Founded in 1528 and probably abandoned in 1545, although the abandonment may have been later. Archaeological work began in 1996, with multiple field seasons from 2000 through 2005.",
     fieldwork:
-      "Historical archaeology combined town-plan mapping, architectural excavation, artifact analysis, and documentary research across domestic and public areas.",
+      "A local summary says Ciudad Vieja was excavated from 1996 to 2005. The cited passages do not describe the excavation methods.",
     discoveries:
-      "Foundations, household goods, weapons, ceramics, and food remains reveal Spanish colonial routines alongside Indigenous labor, technologies, and hybrid practices. The site makes the conquest visible as daily life rather than only a written event.",
+      "The cited passages do not provide a site-specific inventory of structures or artifacts.",
   },
   "santa-maria": {
     overview:
-      "An Early Postclassic settlement with a pyramid and I-shaped ballcourt, excavated just before the Cerrón Grande reservoir submerged it. It became a type site for the Guazapa-phase ceramic sequence.",
+      "A Guazapa-phase settlement in the Cerrón Grande reservoir, with a principal pyramid and an I-shaped ballcourt. Most of the site is underwater at higher reservoir levels, and severe erosion was documented in 2003.",
     dates:
-      "About 900–1200 CE. Registered in 1974 and excavated in 1976 before inundation.",
+      "Early Postclassic, about 900–1200 CE. Registered in 1974, mapped and excavated in 1976, and revisited in 2002 and 2003.",
     fieldwork:
-      "Fifteen structures were mapped; Structure A-1 was fully excavated and forty-three test units sampled the site before flooding.",
+      "The 1976 team mapped 15 structures, fully excavated Structure A-1, and opened 43 test units. A 2003 low-water visit recorded exposed remains with GPS, measurements, and photographs.",
     discoveries:
-      "The plan included a roughly fifteen-metre pyramid and ballcourt on a platform. Architecture and ceramics from the excavations helped define the Guazapa phase; the submerged remains are now affected by reservoir erosion.",
+      "The 1976 plan showed a principal pyramid and an I-shaped ballcourt on a large artificial platform. Information from Santa María and Cihuatán helped define the Guazapa phase, especially its ceramic complex.",
   },
   "hacienda-colima": {
     overview:
-      "One of the archaeological localities investigated in the Cerrón Grande dam rescue, when teams raced to document settlements that would disappear beneath the new reservoir.",
+      "An archaeological locality at Hacienda Colima documented by the title of a 1974 Cerrón Grande rescue-excavation report.",
     dates:
-      "Pre-Hispanic occupation; rescue excavation is documented for 1974, within the broader 1974–1977 reservoir program.",
+      "The cited source documents excavation in 1974; the occupation period is unknown.",
     fieldwork:
-      "The corpus bibliography confirms excavation at Colima, but the accessible retrospective does not preserve a trench-by-trench account for this locality.",
+      "The report title confirms rescue excavation, but the cited bibliography gives no field methods.",
     discoveries:
-      "Site-specific finds are not enumerated in the cited summary. The point is retained because Colima was genuinely excavated, while its story remains necessarily less complete than the surviving Santa María report.",
+      "The cited bibliography does not describe any finds.",
   },
   "la-cienaga-santa-barbara": {
     overview:
-      "A very large mound settlement recorded at Hacienda Santa Bárbara before the Cerrón Grande reservoir filled. The scale of the site indicates a substantial community in the Lempa valley.",
+      "A Classic-period ritual center in the north-central Lempa region. The cited sources identify the archaeological place as Hacienda Santa Bárbara; they do not establish La Ciénaga as an alternate name.",
     dates:
-      "Pre-Hispanic; surveyed and excavated during the 1974–1977 Cerrón Grande rescue campaign.",
+      "Classic period. The cited syntheses do not give a site-specific fieldwork date.",
     fieldwork:
-      "Nearly one hundred mounds were registered, and Mound 20 received extensive excavation before inundation.",
+      "The Cerrón Grande project used survey and associated excavation, but the cited syntheses do not describe a Santa Bárbara-specific operation or site boundary.",
     discoveries:
-      "The documented result is chiefly the settlement’s scale and the intensive sample of Mound 20. The accessible retrospective does not attach a full artifact list or narrow phase date to this map point.",
+      "Santa Bárbara is associated with Copador-related wares, some stuccoed vessels with Maya motifs, and other artifacts related to the Copán–Quiriguá area. The cited pages do not document a mound count or an excavation of Mound 20.",
   },
   "hacienda-los-flores": {
     overview:
-      "A pre-Hispanic site north of the Lempa documented in the Cerrón Grande rescue zone. It now lies deeply submerged beneath the reservoir.",
+      "A Late Preclassic center in the Paraíso Basin identified during the Cerrón Grande rescue project.",
     dates:
-      "Pre-Hispanic; investigated during the 1974–1977 rescue program before the dam’s inundation.",
+      "Late Preclassic Dulce Nombre phase, about 400 BCE–250 CE.",
     fieldwork:
-      "Archaeologists registered and excavated the locality as part of the multi-site reservoir campaign; the surviving synthesis gives a precise map position but few operation details.",
+      "The rescue project identified a circular Mound 10 at Los Flores. The cited sources do not describe site-specific methods or give a fieldwork year.",
     discoveries:
-      "The citation establishes an excavated settlement at this coordinate but does not preserve a reliable site-specific catalog of buildings and artifacts. Its present condition—deeply underwater—is part of the archaeological history.",
+      "A later synthesis describes Los Flores as a ritual-administrative center for a substantial Late Preclassic population. No site-specific artifact list is provided on the cited pages.",
   },
   "el-tanque-el-morrito": {
     overview:
-      "A mound settlement in the Hacienda El Morrito sector of the Cerrón Grande rescue area, documented before reservoir construction transformed the landscape.",
+      "A Classic-period ritual center at Hacienda El Morrito in the north-central Lempa region.",
     dates:
-      "Pre-Hispanic; excavated during the 1974–1977 dam-rescue campaign.",
+      "Classic period. A 1976 publication reports the excavation, but the cited sources do not state when fieldwork occurred.",
     fieldwork:
-      "The project excavated Mound 3 at El Tanque. The retrospective identifies that operation but does not supply a recoverable trench coordinate.",
+      "A preliminary report title documents excavations of Mound 3. The cited syntheses provide no site-specific methods, boundary, or excavation coordinate.",
     discoveries:
-      "The corpus confirms architecture and occupation material within Mound 3 but does not give a detailed find list at the cited page; this marker therefore represents the El Morrito sector.",
+      "El Tanque is associated with Copador-related wares, some stuccoed vessels with Maya motifs, and artifacts related to the Copán–Quiriguá area. The cited pages do not give a Mound 3 find list.",
   },
   "cerron-grande-unnamed": {
     overview:
-      "A collective marker for four additional sites excavated in the Cerrón Grande reservoir project whose names and exact positions cannot be recovered from the accessible retrospective.",
+      "A project-area marker for the Cerrón Grande archaeological rescue program. It is not the location of a single site.",
     dates:
-      "Multiple pre-Hispanic occupations; rescue work took place from 1974 to 1977, immediately before inundation.",
+      "The rescue program ran from 1974 to 1977. The cited page gives no occupation dates for the individual sites.",
     fieldwork:
-      "The larger project recorded more than twenty sites and excavated nine. Five can be represented separately in this atlas; four remain grouped here.",
+      "The program identified 22 previously unknown sites and excavated nine before inundation. The cited page says an intensive survey was not possible.",
     discoveries:
-      "The project as a whole documented settlement and ceramics across the threatened Lempa valley. This is not a claim that four sites occupy one coordinate—it is a transparent placeholder for real excavations lacking recoverable locations.",
+      "The cited page does not name or locate the nine excavated sites or describe their finds.",
   },
   "paraiso-basin": {
     overview:
-      "A basin-scale group of excavations in the Cerrón Grande landscape. The evidence is important less as one ‘site’ than as a regional sequence tied to volcanic deposits.",
+      "A regional marker for excavation evidence from the Paraíso Basin. It does not represent a single archaeological site or trench.",
     dates:
-      "Pre-Hispanic occupations around the Ilopango eruption, now dated broadly to the early fifth through sixth centuries CE. The synthesis draws on earlier basin excavations.",
+      "Pre-Hispanic, otherwise undated. The cited review discusses estimates for the Ilopango eruption, not a basin-wide occupation span.",
     fieldwork:
-      "Multiple excavation contexts were compared across the basin; the cited overview reports the evidence collectively and does not provide individual unit coordinates.",
+      "A 1999 dissertation used excavation data from the Paraíso Basin and Nuevo Cuscatlán, ceramic study, and regional comparison. The cited review does not name the excavation locations or describe field methods.",
     discoveries:
-      "Artifacts and stratigraphy above and below Ilopango tephra helped refine the eruption chronology and track disruption and recovery. The map point represents an evidence area, not a single trench.",
+      "The review provides no site- or context-specific find inventory. It says the combined evidence contributed to reassessing the date of the Ilopango eruption.",
   },
   "loma-china": {
     overview:
-      "An Early Postclassic settlement excavated before construction of the San Lorenzo reservoir. A richly furnished burial connected eastern El Salvador to wider Mesoamerican exchange and ritual traditions.",
+      "An excavated Early Postclassic site of four mounds on a terrace beside the Lempa River in the San Lorenzo reservoir area.",
     dates:
-      "Early Postclassic, roughly 900–1200 CE. Rescue work took place in 1982–1983 within a project begun in 1981.",
+      "Early Postclassic. The study dates the start of the Loma China phase to about 900–1000 CE but gives no site-specific end date; rescue work took place in 1982–1983.",
     fieldwork:
-      "Loma China was one of eight sites selected for excavation after survey registered more than eighty sites across about one hundred square kilometres.",
+      "Investigators surveyed the reservoir area and excavated three of Loma China’s four mounds. The published study reconstructs the work from surviving field maps, interviews, and the artifact collection.",
     discoveries:
-      "A burial with offerings included a Toltec-style mosaic pectoral. The unusual object made the submerged site a key reference for long-distance connections in eastern El Salvador.",
+      "Structure B held a central flexed burial with four mosaic-covered sandstone plaques; ceramic vessels, green-obsidian blades, and other objects were interpreted as offerings. Two other excavated structures contained multiroom building remains.",
   },
   "san-lorenzo-unnamed": {
     overview:
@@ -445,13 +442,13 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "nueva-esperanza": {
     overview:
-      "A settlement and cemetery in the wet Bajo Lempa, found along the canalized Río El Espino. Waterlogged conditions preserved human bone unusually well for El Salvador’s acidic tropical soils.",
+      "An excavated site in the Nueva Esperanza community of Bajo Lempa, with burials preserved in a lacustrine setting and archaeological deposits beneath Ilopango ash.",
     dates:
-      "Late Preclassic, about 400 BCE–250 CE, and Early Classic, about 250–400 CE. Archaeological excavation followed modern canal work.",
+      "The reported burials were dated by ceramics and stratigraphy to the Late Preclassic (400 BCE–250 CE) and Early Classic (250–400 CE).",
     fieldwork:
-      "Researchers excavated burials and settlement deposits beside the canal, using stratigraphy, ceramics, and osteological analysis to date and interpret them.",
+      "The 2011 excavation documented a stratigraphic profile and recovered human bone and charcoal samples. A later osteological study examined Burials 2–4 while their analysis was still in progress.",
     discoveries:
-      "Burials included a child, a young adult man with filed and rotated teeth, and an adult woman with distinctive dental traits. The preserved skeletons provide rare evidence for health, identity, and mortuary practice.",
+      "Burials 2–4 included a child, a young adult man with filed teeth and a rotated canine, and an adult woman without third molars and with a possibly filed canine. Another excavated woman was buried beneath the ash with 19 ceramic offerings.",
   },
   "wreck-anden": {
     overview:
@@ -515,13 +512,13 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "pecio-psj-1": {
     overview:
-      "An unidentified late nineteenth-century wreck at the eastern end of the San Juan del Gozo peninsula. It is catalogued by the neutral field name PSJ-1 because the vessel’s historical identity remains unresolved.",
+      "PSJ-1 is an excavated wreck at the eastern end of the San Juan del Gozo peninsula. Its vessel name and construction date remain unknown.",
     dates:
-      "Late nineteenth century, based on the machinery and associated material. Archaeological investigation is reported in the modern maritime corpus.",
+      "Recorded and excavated in 2012. The sources classify the wreck as a steamship but give no construction or loss date.",
     fieldwork:
-      "Unlike a simple sighting, PSJ-1 received excavation and systematic documentation of its industrial components and surrounding wreck deposit.",
+      "Investigators partially excavated the exposed mast during an August 2012 visit. In November they opened four 2 × 2 m pits; one exposed the mast base before groundwater at 1.10 m halted excavation.",
     discoveries:
-      "The work exposed machinery and ship remains that date the loss but have not yet produced a definitive vessel name. The site demonstrates why archaeological labels sometimes remain more honest than a speculative identification.",
+      "The initial visit documented a riveted iron fragment and confirmed that it was part of a mast. The four-pit excavation exposed its lower portion, but the report could not date or name the vessel.",
   },
   "wreck-kirkdale": {
     overview:
@@ -545,63 +542,63 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "wreck-ss-honduras": {
     overview:
-      "A steamship wreck in the San Juan del Gozo–El Bajón sector of Jiquilisco Bay. The site is known to archaeologists, but its official position is intentionally not published.",
+      "The wreck of SS Honduras lies offshore from the San Juan del Gozo peninsula on a sandbank near the El Bajón outlet. The published article describes the area but does not print the recorded GPS coordinate.",
     dates:
-      "Historic steamship era; recorded during modern national surveys of underwater cultural heritage.",
+      "Built in 1871 and wrecked on April 25, 1886. Archaeologists identified and recorded the site in 2014.",
     fieldwork:
-      "The paper documents the wreck and its general setting while directing readers to the archaeology authority for the protected GPS coordinate.",
+      "Guided by a local fisher, investigators made three dives, inspected the wreck, and selectively recovered objects for identification. They compared the remains and objects with historical records.",
     discoveries:
-      "Submerged steamship remains were registered about four kilometres south of San Juan del Gozo. The atlas shows only an approximate area so it does not turn a protected-site description into a precise locator.",
+      "Researchers recorded the bow, a boiler, shaft, propeller, pipes, and cables. A marked 1876 Limoges porcelain butter dish, the wreck's location, and historical research supported its identification as SS Honduras.",
   },
   "los-llanitos": {
     overview:
-      "A compact mound group arranged around a plaza and ballcourt south of San Miguel. When excavated, its ballcourt was the southernmost example then known in Mesoamerica.",
+      "About a dozen small mounds were arranged around a plaza and an excavated ballcourt south of San Miguel.",
     dates:
-      "Pre-Hispanic and interpreted by Longyear as essentially a one-period site. Excavation ran February 3–March 15, 1942.",
+      "The ceramic complex was tentatively placed around 1100–1200 CE; excavation ran February 3–March 13, 1942.",
     fieldwork:
-      "Longyear mapped the plaza group and concentrated excavation on the ballcourt, while sampling other mounds and deposits for architecture and ceramics.",
+      "The 1942 project mapped the mound group, concentrated excavation on the ballcourt, and investigated three other mounds.",
     discoveries:
-      "Stone-and-adobe construction, caches, and pottery were recovered. The formal ballcourt extended the known geographic range of that public architectural tradition.",
+      "Excavation documented pumice-block walls set in adobe mortar, stone slabs facing the ballcourt, pottery, obsidian, and caches in two mounds.",
   },
   quelepa: {
     overview:
-      "A major monumental center in eastern El Salvador, with plazas, platforms, sculpture, and a local history distinct from the western Maya zone. It anchors the archaeological chronology of the country’s east.",
+      "An excavated archaeological center about 8 kilometres northwest of San Miguel. A 1973 account describes a ceremonial center covering more than half a square kilometre.",
     dates:
-      "Occupied from roughly 500 BCE to 1000 CE. Andrews’s principal excavation program ran from 1967 to 1969.",
+      "The later project summary dates the analyzed sequence from about 500 BCE to about 1000 CE. Excavation ran from 1967 through 1969.",
     fieldwork:
-      "The project mapped architecture and excavated buildings and deposits across the center to construct a ceramic and architectural sequence.",
+      "The program excavated at Quelepa and based the regional sequence mainly on ceramic and architectural analysis.",
     discoveries:
-      "Successive monumental construction, sculpture, and changing ceramic assemblages defined a long regional sequence. The work demonstrated that eastern El Salvador had its own durable center and interregional connections.",
+      "The excavated ceramics and architecture were used to establish an archaeological sequence for eastern El Salvador.",
   },
   "casa-quemada": {
     overview:
-      "A Late Classic settlement in the El Chaparral dam-impact area, laid out around three plazas. Its name—‘Burned House’—matches the project’s evidence for a community preserved under urgent rescue conditions.",
+      "A roughly 9-hectare Late Classic settlement on a natural platform beside the Torola River. The 2013 project recorded 18 structures and three plazas.",
     dates:
-      "Late Classic, broadly 600–900 CE. Rescue excavation took place in 2013.",
+      "Late Classic, about 600–900 CE. Preliminary excavation took place in 2009, followed by rescue excavation in 2013.",
     fieldwork:
-      "Archaeologists mapped eighteen structures and excavated fourteen of them, as well as all three plazas, before dam construction altered the area.",
+      "In 2009, investigators opened test pits and trenches at Structure 6 and two plaza areas. In 2013, archaeologists worked across the site, excavating 14 of the 18 structures and all three plazas.",
     discoveries:
-      "The unusually broad sample revealed the organization of an entire small settlement rather than one test trench, including architecture, plaza surfaces, ceramics, and activity deposits.",
+      "Excavators documented stone-and-earth architecture, fragmentary ceramics, obsidian, metate fragments, and a fired pit interpreted as a ceramic-firing oven.",
   },
   "el-chaparral": {
     overview:
-      "A small riverside village built on three terraces above the Torola. Its layout reflects a community combining farming with access to river resources.",
+      "An excavated locality on a steep part of the Torola River's south bank. It has retaining walls on three terraces, but their exact date is unknown.",
     dates:
-      "Likely Late Classic. Excavation ran from January 16 to February 15, 2013.",
+      "The walls postdate Late Classic material beneath them and may be colonial. Excavation ran from January 16 to February 15, 2013.",
     fieldwork:
-      "Twelve test pits—mostly 2 × 2 metres—sampled a roughly 100 × 50 metre settlement in the hydroelectric-dam impact zone.",
+      "Twelve test pits, mostly 2 × 2 metres, sampled the roughly 100 × 50 metre locality and its three terraces.",
     discoveries:
-      "Poorly preserved walls and structures, terraces, metates and other grinding stones, ceramics, and chipped stone indicated household life, agriculture, and use of the nearby river.",
+      "Excavators documented poorly preserved walls and a semicircular feature. Ceramics, chipped stone, metates, and grinding stones were mostly in secondary deposits and did not establish the walls' date.",
   },
   "el-chiquirin": {
     overview:
-      "A coastal shell midden and burial area at Punta El Chiquirín, encountered on a house lot close to the Gulf of Fonseca shore. It records repeated food gathering and burial in a maritime landscape.",
+      "A shell midden with stone walls and a burial at Punta El Chiquirín, about 150 metres from the Gulf of Fonseca shore.",
     dates:
-      "Pre-Hispanic; the cited rescue report provides the period assessment. The modern intervention followed discovery during work on the lot.",
+      "Radiocarbon and ceramic studies suggest a Late Classic main occupation, about 600–900 CE. Rescue work ran from late 2002 into early 2003.",
     fieldwork:
-      "Archaeologists carried out a small rescue excavation about 150 metres from the beach, documenting midden layers and burials before the context was lost.",
+      "After an accidental discovery, archaeologists mapped the site and opened six 1 × 1 metre units, later extending the excavation around the burial.",
     discoveries:
-      "Dense shell refuse, associated cultural material, and human burials showed that the location served both as a place of coastal subsistence and mortuary activity.",
+      "The excavation documented three stone walls filled with shells and a secondary burial. The burial had nine ceramic vessels, red pigment, and volcanic-rock fragments.",
   },
   "la-laguneta": {
     overview:
@@ -625,13 +622,13 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "el-cacao": {
     overview:
-      "A roughly ten-hectare settlement on sloping ground in San Miguel department. Its size and built landscape made it one of the eastern atlas project’s selected excavation samples.",
+      "An archaeological settlement on sloping ground in the Uluazapa area of San Miguel department. The mapped remains cover roughly ten hectares around a central plaza.",
     dates:
-      "Pre-Hispanic; the atlas discusses ceramic evidence from test excavation but the cited summary does not support a narrower date here.",
+      "Late Classic, approximately 600–900/1000 CE. The site was mapped and test-excavated in 2007.",
     fieldwork:
-      "After regional reconnaissance, the team mapped the settlement and opened test excavations to sample its architecture and deposits.",
+      "Researchers mapped the site and opened four test pits.",
     discoveries:
-      "The work confirmed a substantial settlement spread over about ten hectares. The surviving report is more explicit about layout and extent than about a single diagnostic discovery.",
+      "They documented about ten low structures and four additional architectural features around the plaza. The ceramic study assigns four groups found at El Cacao to the Lepa phase.",
   },
   "brisas-de-jiquilisco": {
     overview:
@@ -675,43 +672,43 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "sitio-carolina": {
     overview:
-      "A settlement on the north bank of the Río Torola, immediately beside the better-known Fumarolas locality. It belongs to a chain of communities later threatened by hydroelectric development.",
+      "A riverside archaeological locality on the north bank of the Río Torola, no more than 200 m northeast of Fumarolas / Agua Caliente. The later survey reported no visible structures or mounds.",
     dates:
-      "Pre-Hispanic; nine archaeological probes were excavated in 2003 during the Río Torola regional project.",
+      "A 2003 investigator tentatively attributed a small lithic sample to the Archaic, while the 2008–2009 survey proposed a Late Classic occupation (600–900 CE); neither assignment is independently dated in the cited article.",
     fieldwork:
-      "Survey located the site and a nine-probe testing program sampled its subsurface deposits and architectural traces.",
+      "A 2003 study placed nine test pits on the north side of the river. The 2008–2009 project later conducted surface survey on both banks.",
     discoveries:
-      "Testing recovered occupation material that helped define settlement along the Torola. The source emphasizes the site’s placement within a regional pattern rather than a single monumental find.",
+      "The test pits produced only a small lithic sample. The later survey recorded low-density surface obsidian, chert, ground-stone fragments, and coarse domestic pottery.",
   },
   "fumarolas-agua-caliente": {
     overview:
-      "A riverside settlement near hot-water or fumarole features on the Río Torola. Its proximity to Sitio Carolina shows how closely spaced archaeological communities could be along the riverbank.",
+      "A roughly 3-hectare archaeological locality on the north bank of the Río Torola. The survey reported no visible structures.",
     dates:
-      "Pre-Hispanic; recorded and tested during the early-2000s Río Torola survey and later revisited in dam-impact work.",
+      "The article assigns the site to the Late Classic (600–900 CE), but does not report absolute dating.",
     fieldwork:
-      "Researchers mapped surface remains and used test probes to evaluate buried deposits in the river corridor.",
+      "A 2008–2009 dam-impact project conducted systematic surface survey in the reservoir area. The cited sources do not document excavation at this site.",
     discoveries:
-      "Ceramics and settlement traces confirmed occupation of the geothermal river landscape. The main result is its contribution to the Torola settlement map.",
+      "Surface finds included grinding-stone fragments, manos, a metate, and obsidian flakes. The survey found no pottery.",
   },
   "gruta-espiritu-santo": {
     overview:
-      "El Salvador’s most celebrated rock-art shelter, a huge volcanic cavity covered with red, yellow, and black painted figures. The images span geometric forms, handprints, people, and animals.",
+      "A large painted and engraved rock shelter in an ignimbrite formation near Corinto. The report describes human figures, hands, animals, and geometric signs in several colors.",
     dates:
-      "Pre-Hispanic use probably extended across multiple periods; nine test pits were opened in 1977, and systematic rock-art recording followed in the 1990s.",
+      "The rock art remains undated. Ceramic identifications include tentative Late Preclassic and Late Postclassic surface finds and a test-pit type assigned to about 625–1000 CE; the deeper lithics were only broadly described as preceramic.",
     fieldwork:
-      "Work combined excavation of shelter deposits with tracing, photography, motif inventory, and comparison of pigment and superposition across the walls.",
+      "Nine test pits were excavated in 1977; two were stopped at shallow depth by large rocks. In 1996, a regional project photographed the paintings, traced a sample, and collected surface artifacts in front of the shelter.",
     discoveries:
-      "Excavation recovered occupation material beneath the painted shelter, while recording revealed hundreds of motifs and repeated painting episodes. The art demonstrates that the cave was used and reinterpreted over a long span.",
+      "The test pits contained ceramics and obsidian and chert artifacts. The 1996 surface collection included 12 potsherds and 270 flaked-stone pieces.",
   },
   "valle-san-juan-tronconera": {
     overview:
-      "An eroding ravine on Hacienda Valle San Juan where unusually well-preserved ceramic firing installations were exposed. The site offers direct evidence for pottery production rather than only finished vessels.",
+      "Erosion exposed a series of subterranean features in La Tronconera ravine at Hacienda Valle San Juan. Investigators interpreted them as probable ovens, but their use remains uncertain.",
     dates:
-      "Pre-Hispanic; Boggs carried out rescue excavation after erosion exposed the installations. Comparative pottery places them within the region’s ceramic sequence.",
+      "Radiocarbon and archaeomagnetic samples place the features and nearby activity around the beginning of the Common Era.",
     fieldwork:
-      "Archaeologists cleaned the ravine exposure and excavated the ovens and their associated deposits before further collapse could destroy them.",
+      "Beginning in 1966, investigators examined the eroded ravine profiles, excavated archaeological deposits, and traced the features' relationships to ancient ground surfaces and nearby refuse.",
     discoveries:
-      "The work documented purpose-built firing ovens, burned surfaces, ash, and ceramic material. These rare production features reveal how vessels were manufactured at the community level.",
+      "More than a dozen bell-shaped or cylindrical features were recorded with burned walls and bases, burned stones, and charcoal. Pottery firing was considered and rejected because the features lacked a basal opening for airflow.",
   },
   asanyamba: {
     overview:
@@ -725,23 +722,23 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "la-rama-rio-gualacho": {
     overview:
-      "Two exposed coastal profiles near Puerto El Triunfo that preserve buried cultural layers within the Jiquilisco landscape. They are geological windows into occupation rather than monumental sites.",
+      "Two profiles near Puerto El Triunfo preserved human footprints and pottery in buried layers.",
     dates:
-      "Pre-Hispanic deposits of more than one age; Haberland and Grebe investigated the profiles during mid-twentieth-century fieldwork.",
+      "Investigated in 1955. A later synthesis tentatively dated the La Rama footprints to about 1500 BCE or earlier and Gualacho to no later than 1000 BCE; pottery from nearby La Rama mounds was tentatively dated around AD 1200.",
     fieldwork:
-      "Researchers cleaned and described the La Rama and Río Gualacho sections, recording stratigraphy and collecting ceramics and other material by layer.",
+      "Researchers cut into the road banks at La Rama to expose footprints and documented a stratigraphic profile at Río Gualacho. They also examined pottery collected from a nearby mound excavated by the landowner in 1953.",
     discoveries:
-      "The profiles revealed stacked occupation deposits and pottery useful for regional chronology. Their value lies in the sequence visible through natural or artificial exposure.",
+      "La Rama preserved human and animal tracks beneath the surface and a few sherds in its upper layer. The lowest Río Gualacho layer contained parts of two vessels and sherds, mostly orange ware, with rare Usulután-style negative painting.",
   },
   "chinameca-burial": {
     overview:
-      "A burial encountered during construction in Chinameca, turning an urban work site into a small rescue excavation. It provides an intimate trace of pre-Hispanic life beneath the modern town.",
+      "Entierro 1 de Chinameca is an individual burial found fortuitously; its exact findspot and discovery date are not published.",
     dates:
-      "Pre-Hispanic; the burial was archaeologically documented during a recent construction-related rescue reported in Anales 56.",
+      "The associated mini-incensario suggests either the Terminal Late Classic (AD 700–900) or Early Postclassic (AD 900–1200).",
     fieldwork:
-      "Archaeologists exposed and recorded the human remains, their position, associated objects, and the surrounding stratigraphy within the limits of the disturbed parcel.",
+      "A 2015 paleopathology project examined the remains held by the Department of Archaeology; the report does not document a controlled excavation. The burial had already been disturbed by its finders and exposed to rain for two days.",
     discoveries:
-      "The excavation recovered a human burial with associated ceramic evidence. Because the private parcel is not identified publicly, the atlas maps only the town.",
+      "The burial included a mini-incensario with a serpent-shaped zoomorphic handle. The study documented bilobed cranial modeling, caries, enamel hypoplasia, and ante-mortem tooth loss.",
   },
   "el-espinal": {
     overview:
@@ -775,213 +772,643 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "pozo-el-amate": {
     overview:
-      "A small surface scatter southwest of Jocoaitique, recorded during Haberland’s exploratory survey through Morazán.",
+      "A terrace southwest of Jocoaitique where a 1954 survey recorded surface obsidian chips.",
     dates:
-      "Pre-Hispanic; surveyed in 1954. The limited collected material does not support a precise occupation range in the cited account.",
+      "Visited between June 29 and July 2, 1954. The source does not date the obsidian chips.",
     fieldwork:
-      "Haberland inspected the locality and collected diagnostic material from the surface without opening an excavation.",
+      "Haberland reported material visible on the surface; no excavation is documented.",
     discoveries:
-      "Pottery and other surface finds demonstrated occupation near Jocoaitique and helped extend the first comparative archaeological map of Morazán.",
+      "Numerous obsidian chips were found, but none was a recognizable tool. Three weathered sherds found elsewhere on the terrace were judged modern.",
   },
   "pueblo-viejo-perquin": {
     overview:
-      "A surface site on the route between Perquín and Jocoaitique, remembered in its name as an ‘old town.’",
+      "A surveyed lithic locality on a high hill north of the road between Jocoaitique and Perquín.",
     dates:
-      "Pre-Hispanic; visited during Haberland’s 1954 Morazán reconnaissance. The surface collection permits only broad dating.",
+      "The site was visited in 1954; the cited report does not date the lithic material.",
     fieldwork:
-      "The investigator followed local roads and paths, inspected exposed ground, and collected diagnostic artifacts from the site area.",
+      "During the June 29–July 2 reconnaissance, artifacts were recovered from cattle tracks on the hill. No controlled excavation is documented.",
     discoveries:
-      "Surface ceramics confirmed a pre-Hispanic occupation in the highland corridor. No architecture or buried context was excavated in the reported visit.",
+      "Investigators recovered a few obsidian chips and a fragment of a large, roughly bifacially chipped point or knife.",
   },
   "quebrada-las-marias": {
     overview:
-      "A highland surface locality east of the road south from Perquín, one of several sites used to establish that Morazán’s mountain valleys held widespread pre-Hispanic occupation.",
+      "A surveyed lithic locality near Quebrada Las Marías, about 1 km east of the main road south of Perquín.",
     dates:
-      "Pre-Hispanic; recorded in the 1954 reconnaissance. Its chronology remains broad because the evidence came from the surface.",
+      "The site was visited in 1954; the cited report does not date the lithic material.",
     fieldwork:
-      "Haberland reached the quebrada by road and footpath and made a surface inspection and collection.",
+      "During the June 29–July 2 reconnaissance, artifacts were recovered from wash cuts and from soil as deep as 10 cm. No controlled excavation is documented.",
     discoveries:
-      "Diagnostic sherds and scattered cultural material established an archaeological locality but did not reveal a complete settlement plan.",
+      "Investigators recovered more than 100 obsidian pieces, including eight small points and small end scrapers. The field notes did not include descriptions or drawings of these objects.",
   },
   "el-rosario-morazan": {
     overview:
-      "A surface-find locality in and around El Rosario, included in Haberland’s first systematic archaeological reconnaissance of Morazán.",
+      "An obsidian find locality on the plaza of El Rosario village.",
     dates:
-      "Pre-Hispanic material, documented in 1954; the survey account does not support a tight phase assignment.",
+      "Visited during a June 29–July 2, 1954 reconnaissance; the finds are undated.",
     fieldwork:
-      "Researchers inspected exposures around the community and collected artifacts visible at the surface.",
+      "Obsidian was collected from the surface. No controlled excavation is documented.",
     discoveries:
-      "The collected ceramics helped demonstrate occupation across Morazán’s settled valleys. This is a survey record, not an excavated mound or tomb.",
+      "The report lists 63 obsidian pieces, mostly small chips. Three were worked tools or fragments: two unifacial points or point fragments and one bifacial point-or-knife tip; a quartz chip was also found.",
   },
   gualococti: {
     overview:
-      "A surface archaeological locality around Gualococti, recorded as part of the same Morazán reconnaissance network as El Rosario and Perquín.",
+      "A find locality at Gualococti where stone artifacts were gathered from the banks of the main road.",
     dates:
-      "Pre-Hispanic; surveyed in 1954. Surface material allows only broad chronological placement.",
+      "The finds were recorded during the June 29–July 2, 1954 reconnaissance; the cited report does not date them.",
     fieldwork:
-      "The team conducted pedestrian inspection and collected visible diagnostic artifacts rather than excavating sealed deposits.",
+      "Investigators gathered about 40 stone pieces from the road banks. No controlled excavation is documented.",
     discoveries:
-      "Pottery and related surface evidence added Gualococti to the regional settlement map and provided material for comparison with eastern Salvadoran sequences.",
+      "Two pieces were quartz-like chips and the rest were obsidian. One obsidian fragment was interpreted as the possible tip of a knife or leaf-shaped point.",
   },
   "los-bonetes": {
     overview:
-      "A dramatic hilltop locality on two flat-topped heights near the Honduran frontier north of Carolina. Its setting suggests deliberate use of a defensible or highly visible landscape.",
+      "A surveyed hill with two mesa-like tops on the Honduran frontier north of Carolina. Archaeological material was recorded in the saddle and on the northern top.",
     dates:
-      "Pre-Hispanic; inspected during Haberland’s 1954 Morazán fieldwork. The surface sample does not establish a narrow date.",
+      "The archaeological material is undated. The site was surveyed in 1954 and entered on a departmental site card in 1972.",
     fieldwork:
-      "Haberland climbed and inspected the twin mesa-like summits, recording cultural material visible on their surfaces.",
+      "Los Bonetes was inspected during the June 29–July 2, 1954 reconnaissance. The report describes surface finds but no controlled excavation.",
     discoveries:
-      "Surface artifacts confirmed human use of both hilltops. Without excavation, the nature and duration of that occupation remain open questions.",
+      "Field notes recorded many obsidian chips, blades, a point, and very few sherds in the 701 m saddle. Obsidian chips were also found on the 740 m northern top.",
   },
   miracapa: {
     overview:
-      "One of the archaeological settlements registered along the Río Torola corridor near Carolina. It helps fill the space between better-documented Casa Quemada, Fumarolas, and El Chaparral.",
+      "A Department of Archaeology record names Miracapa east of Carolina and reports archaeological remains without describing them.",
     dates:
-      "Pre-Hispanic; recorded during modern regional survey associated with development studies in the Torola valley.",
+      "The cited source does not date the remains or the record.",
     fieldwork:
-      "Survey teams inspected and registered the locality. The cited overview does not document an extensive excavation comparable to Casa Quemada.",
+      "The cited source does not document a field visit, survey, or excavation at Miracapa.",
     discoveries:
-      "Surface and architectural evidence identified another settlement in the river corridor. The record is kept modest because the source supplies limited site-specific detail.",
+      "Archaeological remains were reported, but their type and location are not specified.",
   },
   "conchagua-vieja": {
     overview:
-      "A settlement on Isla Conchagüita combining pre-Hispanic remains with the history of a later island community. Its ridge position overlooks the maritime routes of the Gulf of Fonseca.",
+      "A ridge site on northeastern Isla Conchagüita with numerous stone house mounds and the standing walls of a colonial church.",
     dates:
-      "Pre-Hispanic occupation with later historic settlement; surveyed by Longyear in 1941–1942.",
+      "The church was in use by June 22, 1586. The other remains are undated; the report only describes some painted pottery as evidence of an earlier culture.",
     fieldwork:
-      "Longyear visited the village and ridge, described visible remains, and collected ceramics for comparison with his eastern Salvadoran excavations.",
+      "Longyear visited and studied the site during the report’s fall–winter 1941–42 reconnaissance, describing visible ruins and surface artifacts. No controlled excavation is documented.",
     discoveries:
-      "Surface ceramics and settlement traces linked the island to the Gulf’s wider cultural landscape. The visit was reconnaissance rather than a large excavation.",
+      "The report describes stone house mounds, church walls, a plaza with a cross-stand, and surface potsherds, metates, and obsidian blades. Sherds and obsidian were also visible in trail banks near the beach.",
   },
   "teca-conchaguita": {
     overview:
-      "A coastal archaeological locality on the north side of Isla Conchagüita, situated close to the shore and west of the island landing.",
+      "Teca is a reported site near the north shore of Isla Conchagüita. Longyear saw low terraces and stone mounds from a boat but did not visit the site.",
     dates:
-      "Pre-Hispanic; recorded during Longyear’s 1941–1942 national survey.",
+      "The community was occupied in 1586; the cited source does not date the visible terraces and stone mounds.",
     fieldwork:
-      "The site was located through shoreline reconnaissance and sampled through surface collection.",
+      "During his 1941–1942 reconnaissance, Longyear observed Teca from a boat and plotted it on a schematic island map. No excavation or surface collection is documented.",
     discoveries:
-      "Ceramic material established a pre-Hispanic occupation on the island’s north shore and complemented the record from nearby Conchagua Vieja.",
+      "Several low terraces and poorly preserved stone mounds were visible in a cleared area. The source reports no artifacts.",
   },
   "el-carrizal-nueva-esparta": {
     overview:
-      "A locality that Longyear knew by the older name El Carrizal and identified with modern Nueva Esparta. It represents the archaeological record beneath and around a living eastern town.",
+      "A compiled site-list entry identifies El Carrizal with the town then called Nueva Esparta and reports artifacts there. The entry’s typography indicates that the locality was field-confirmed, but the record does not locate the finds within the town.",
     dates:
-      "Pre-Hispanic material; visited during Longyear’s 1941–1942 survey.",
+      "The artifacts are undated; the source does not document when they were found or examined.",
     fieldwork:
-      "The survey relied on local place-name identification, inspection, and collection of material exposed around the settlement.",
+      "The source indicates that the locality was visited by Lothrop, Boggs, or Longyear, but does not identify which investigator, the date, or the method. No controlled excavation is documented.",
     discoveries:
-      "Surface artifacts confirmed earlier occupation at the town locality. No discrete excavation unit or monumental site plan is reported.",
+      "Obsidian, greenstone, and pottery artifacts were reported. No quantities, forms, contexts, or associated architecture are described.",
   },
   yucuaiquin: {
     overview:
-      "A pre-Hispanic surface-find locality at Yucuaiquín, included in Longyear’s effort to compare eastern Salvadoran communities beyond the major center of Quelepa.",
+      "A potential archaeological locality somewhere in or around modern Yucuaiquín. An early report stated that the town stood over pre-Hispanic remains, and a later survey verified an unspecified archaeological find. The cited sources document no excavation or site boundary.",
     dates:
-      "Pre-Hispanic; recorded in the 1941–1942 survey. The cited appendix supports broad rather than precise dating.",
+      "Pre-Hispanic, otherwise undated; reported by 1926 and field-checked in 2006–2008.",
     fieldwork:
-      "Longyear inspected the locality and collected diagnostic ceramics visible in surface exposures.",
+      "No excavation is documented. Researchers reported the locality and later field-checked it, but the published sources provide no investigation details.",
     discoveries:
-      "The pottery added another eastern community to the comparative ceramic sequence, although no formal architecture or sealed deposit was excavated.",
+      "An unspecified portable archaeological find. No structures, pottery types, burials, or excavated deposits are described.",
   },
   "cueva-del-toro": {
     overview:
-      "A rock shelter in the Corinto massif near Gruta del Espíritu Santo, carrying its own group of painted imagery within the region’s unusually rich rock-art landscape.",
+      "A painted rock shelter on the west side of the same ignimbrite massif as Gruta del Espíritu Santo. The 1996 study described about ten or fewer paintings, almost all human figures.",
     dates:
-      "Pre-Hispanic, probably used across more than one episode. Documented in the 1990s rock-art inventory.",
+      "Undated. The author tentatively compared the paintings with those at Gruta del Espíritu Santo but did not establish their period.",
     fieldwork:
-      "Researchers located, photographed, and described the shelter and its motifs, comparing them with nearby painted sites.",
+      "Researchers photographed the paintings and traced the four most visible examples in 1996. They also collected two flint flakes from the surface; no excavation is documented.",
     discoveries:
-      "Painted figures expanded the Corinto corpus beyond the main gruta and showed that image-making occurred across multiple shelters in the massif.",
+      "The paintings use shades of red ochre. Nearly all depict human figures, several with headdresses; one may combine human and bird features.",
   },
   "paredon-las-figuras": {
     overview:
-      "A painted rock wall north of Corinto whose name—‘wall of the figures’—reflects its visible concentration of imagery.",
+      "A painted volcanic rock wall about 7 km north of Corinto. The published visit was brief, and the report calls for more detailed study.",
     dates:
-      "Pre-Hispanic; systematically documented during the 1990s regional rock-art study.",
+      "Undated. The report does not assign the paintings to a period.",
     fieldwork:
-      "The team reached the shelter through regional reconnaissance and recorded its painted motifs through description and photography.",
+      "During the 1996 regional project, the team made a short description and photographed the paintings; no excavation is documented.",
     discoveries:
-      "The site added a northern outlier to the Corinto group and demonstrated that painted places were distributed beyond the famous Espíritu Santo shelter.",
+      "Most paintings are human figures and red; the one identified animal is a red-and-white serpent. The paintings are more than 1 m in size and were in poor condition from natural erosion and nearby human activity.",
   },
   "abrigo-los-fierros": {
     overview:
-      "A smaller rock shelter belonging to the Corinto region’s network of painted places. Its sparse documentation makes it important to distinguish from the main tourist landmark.",
+      "A roughly triangular rock shelter in volcanic tuff documented by the Corinto regional study. It opens south, with most paintings on the east wall near the entrance.",
     dates:
-      "Pre-Hispanic; documented in the modern regional rock-art inventory.",
+      "Undated. The report suggests that the paintings probably predate the local introduction of cattle but does not assign them to an archaeological period.",
     fieldwork:
-      "Researchers registered and described the shelter and its visible painted evidence; no excavation program is reported in the cited section.",
+      "During the 1996 regional project, the team made a brief description and photographed the paintings; no excavation is documented.",
     discoveries:
-      "Rock art confirmed another locus of image-making in the Corinto landscape, although the source offers less detail than it does for Gruta del Espíritu Santo.",
+      "Most images represent animals. The report identifies a red human figure, a yellow hand, a green monkey with yellow around it, two crabs, possible human-animal figures, signs, and red dots; green is the predominant color.",
   },
   "plan-de-la-montana": {
     overview:
-      "A shell-midden locality northwest of La Unión, one of many estuarine and island deposits showing how densely people used the Gulf of Fonseca shoreline.",
-    dates:
-      "Pre-Hispanic; registered in regional inventories drawing on surveys conducted from the 1970s onward.",
+      "A mainland archaeological site on the west side of the Gulf of Fonseca with at least 17 shell middens.",
+    dates: "The source gives no occupational date.",
     fieldwork:
-      "Surveyors identified shell concentrations and associated cultural material at the surface; the cited synthesis does not report a major excavation.",
+      "The cited synthesis documents the 2003 registration but does not describe the methods or report excavation.",
     discoveries:
-      "Shell, pottery, and domestic debris marked repeated use of coastal resources. The site contributes to a regional pattern rather than a single isolated find.",
+      "At least 17 shell middens with ceramics and stone artifacts. The source gives no artifact types or contexts.",
   },
   "vividores-zacatillo": {
     overview:
-      "A named shell midden on Isla Zacatillo, part of a cluster of deposits that records sustained use of the island’s protected Gulf shores.",
+      "A reported archaeological locality on Isla Zacatillo. A published synthesis identifies Vividores as having one shell midden.",
     dates:
-      "Pre-Hispanic; recorded in Gulf of Fonseca archaeological survey and inventory work.",
+      "Undated. The published passage does not assign Vividores to an archaeological period.",
     fieldwork:
-      "Researchers registered visible midden deposits and associated artifacts; no large excavation is described in the cited overview.",
+      "The synthesis attributes the report to Esteban Gómez but gives no site-specific field method or visit date. The cited passage does not document excavation.",
     discoveries:
-      "Dense shell and cultural debris identified a habitation or food-processing locality and helped establish that Zacatillo held several distinct archaeological deposits.",
+      "One shell midden is reported. The passage does not describe its contents, size, density, or function.",
   },
   "zacatillo-midden": {
     overview:
-      "An additional, unnamed shell-midden record on Isla Zacatillo. It is kept separate because the inventory distinguishes it from Vividores and Playitas, even though its exact position is unavailable.",
+      "A published synthesis reports one unnamed archaeological site with a shell midden on Isla Zacatillo, separately from Vividores and Playitas.",
     dates:
-      "Pre-Hispanic; documented through regional Gulf survey and inventory.",
+      "Undated. The source does not assign the unnamed site to an archaeological period.",
     fieldwork:
-      "The locality was identified through surface reconnaissance rather than a reported broad excavation.",
+      "The synthesis attributes the report to Esteban Gómez but gives no site-specific field method or visit date. No excavation is documented.",
     discoveries:
-      "Shell accumulation and associated artifacts demonstrated another focus of coastal activity on the island. The map offset is illustrative, not measured.",
+      "One shell midden is reported. The source does not describe its contents, size, density, function, or associated artifacts.",
   },
   "playitas-zacatillo": {
     overview:
-      "A shell-midden locality at Playitas on Isla Zacatillo, complementing the island’s Vividores and unnamed midden records.",
+      "A reported archaeological locality on Isla Zacatillo. A published synthesis identifies Playitas as having two shell middens.",
     dates:
-      "Pre-Hispanic; registered during regional archaeological survey of the Gulf of Fonseca.",
+      "Undated. The published passage does not assign Playitas to an archaeological period.",
     fieldwork:
-      "Surveyors documented exposed shell deposits and surface artifacts; the cited synthesis does not describe extensive excavation.",
+      "The synthesis attributes the report to Esteban Gómez but gives no site-specific field method or visit date. The cited passage does not document excavation.",
     discoveries:
-      "The midden preserves refuse from maritime subsistence and confirms repeated activity at several places around Zacatillo’s shore.",
+      "Two shell middens are reported. The passage does not describe their contents, size, density, or function.",
   },
   "laguna-meanguera": {
     overview:
-      "A shell-midden locality on Isla Meanguera, extending the Gulf’s archaeological record to one of its outer volcanic islands.",
+      "A reported archaeological locality on Isla Meanguera. A published synthesis identifies Laguna as having one shell midden.",
     dates:
-      "Pre-Hispanic; known from regional Gulf of Fonseca survey and inventory.",
+      "Undated. The published passage does not assign Laguna to an archaeological period.",
     fieldwork:
-      "Researchers registered the deposit through island reconnaissance and surface observation; no extensive excavation is cited.",
+      "The synthesis attributes the report to Esteban Gómez but gives no site-specific field method or visit date. No excavation is documented.",
     discoveries:
-      "Shell and associated cultural debris show that Meanguera’s communities repeatedly used marine foods and shoreline activity areas.",
+      "One shell midden is reported. The source does not describe its contents, size, density, function, or associated artifacts.",
   },
   "isla-periquito": {
     overview:
-      "A shell midden on tiny Isla Periquito in the inner Gulf of Fonseca. Its setting makes the archaeological deposit inseparable from canoe travel, fishing, and estuarine gathering.",
+      "A pre-Hispanic shell midden reported on Isla Periquito in the Gulf of Fonseca.",
     dates:
-      "Pre-Hispanic; documented in regional coastal inventories.",
+      "A 1983 map labels El Periquito as Classic, but it does not explain the dating evidence.",
     fieldwork:
-      "Survey identified midden material on the island; the cited overview does not report a large controlled excavation.",
+      "A published synthesis links the record to a 1978 Pacific-coast survey but gives no site-specific method. No excavation is documented.",
     discoveries:
-      "Shell refuse and artifacts confirmed repeated human use of even the Gulf’s smaller islands. The map marks the island, not the midden’s exact footprint.",
+      "Only a pre-Hispanic shell midden is reported. The sources do not describe its contents, size, associated artifacts, or function.",
   },
   "el-rico-manzanilla": {
     overview:
-      "A cluster of shell middens around El Rico and Estero La Manzanilla near San Alejo, within the same estuarine world as Asanyamba.",
+      "Two shell middens were identified in the El Rico area; the source places one in Estero Manzanilla.",
     dates:
-      "Pre-Hispanic; recorded through Gulf survey and inventory work, with regional comparison to excavated Asanyamba.",
+      "The article discusses them among pre-Hispanic shell-midden precedents but gives no site-specific dating evidence.",
     fieldwork:
-      "Surveyors traced exposed shell deposits around the estuary and registered associated ceramics and cultural debris.",
+      "Fabio Amador identified the two middens during an archaeological reconnaissance in July 2000. No excavation is documented.",
     discoveries:
-      "Multiple middens revealed repeated habitation and food processing along the estuary. The grouped marker represents a landscape of deposits rather than one mound.",
+      "The source reports only the two shell middens. It does not describe their deposits, contents, size, or associated artifacts.",
   },
-  ...westernSiteStories,
+  "atalaya-acajutla": {
+    overview: "Atalaya is a coastal Sonsonate find locality whose ceramic material was compared with the Atiquizaya complex. The published local evidence is preliminary and does not define the site’s size or boundaries.",
+    dates: "Haberland tentatively placed the Atiquizaya complex around 1000–700 BCE and suggested that Atalaya belonged to the same time level.",
+    fieldwork: "Haberland’s 1953–1954 and 1958 surveys collected surface material at about 150 localities and sometimes dug non-stratigraphic tests, but the article does not say which work was done at Atalaya.",
+    discoveries: "Atalaya shared some material and decorative traits with the Atiquizaya complex but lacked others, including extensive grooving. The article provides no Atalaya-specific artifact inventory.",
+  },
+  "atiquizaya-haberland": {
+    overview: "An excavated site near Atiquizaya defined an early ceramic complex for western El Salvador. The published map marks only the town-scale locality, and the excavation parcel is unknown.",
+    dates: "Haberland tentatively dated the Atiquizaya complex to about 1000–700 BCE, within the Middle Preclassic.",
+    fieldwork: "A later review reports excavation near Atiquizaya. Haberland’s synthesis identifies 1958 as the latest field season but does not say whether work at this site used surface collection, a test trench, or a pit.",
+    discoveries: "Reported ceramic finds include spouts with oval openings, figurines with movable arms, and one decorated bowl-rim sherd. Haberland interpreted the bowl sherd as an import related to the Providencia phase of highland Guatemala.",
+  },
+  "barra-ciega": {
+    overview: "Barra Ciega is a ceramic find locality east of Acajutla. Its surface collection contained material assigned to more than one period.",
+    dates: "Sources assign material to the Middle Preclassic Atiquizaya complex and the Postclassic Cihuatán phase, but no stratified chronology was established.",
+    fieldwork: "A mixed surface collection was studied; no excavation at Barra Ciega is documented. Agricultural disturbance prevented a secure reading of the deposits.",
+    discoveries: "The sources report pottery similar to the Atiquizaya complex and sherds assigned to the Cihuatán phase, but give no site-specific artifact inventory.",
+  },
+  "penate": {
+    overview: "A Postclassic neighborhood within greater Chalchuapa, composed of thirteen elongated platforms and one circular structure.",
+    dates: "Most strongly associated with the Postclassic, particularly the later occupation of Chalchuapa; investigated in 1969.",
+    fieldwork: "Sharer’s project mapped the platform group and partially excavated Structures C1-8 and C1-9.",
+    discoveries: "The excavated platforms had two stone-and-earth terraces with vertical slab facings, showing substantial architecture outside the protected monumental parks.",
+  },
+  "laguna-cuzcachapa": {
+    overview: "A volcanic crater lake embedded within ancient Chalchuapa, where settlement, water access and ritual activity developed together.",
+    dates: "Occupation began early in the Preclassic and continued through later parts of Chalchuapa’s history.",
+    fieldwork: "The University of Pennsylvania project excavated cultural deposits in 1969 and returned for limited work in 1970.",
+    discoveries: "Stratified ceramics and lakeshore deposits supplied one of Chalchuapa’s longest sequences and helped establish how early settlement expanded around a dependable water source.",
+  },
+  "laguna-seca-chalchuapa": {
+    overview: "A low residential landscape around a former crater immediately east of Tazumal, part of Chalchuapa’s continuous settlement rather than a separate ceremonial center.",
+    dates: "Material spans multiple periods of Chalchuapa’s occupation.",
+    fieldwork: "The Pennsylvania project conducted limited excavation in 1970 and catalogued platforms and deposits across the area.",
+    discoveries: "House-platform remains and ceramics demonstrated that dense residential occupation linked the better-known monumental groups.",
+  },
+  "las-victorias-chalchuapa": {
+    overview: "An extensive residential sector of Chalchuapa that once continued southward past Laguna Cuzcachapa toward Laguna Seca.",
+    dates: "Evidence extends from the Preclassic into the Postclassic.",
+    fieldwork: "National and Pennsylvania teams explored the group; the 1969 project excavated deposits and mapped a landscape of more than ninety residential platforms.",
+    discoveries: "Low house platforms, ceramics and the well-known Las Victorias carved stone show that ordinary residences and public symbolism occupied the same broad urban landscape.",
+  },
+  "cementerio-jardin": {
+    overview: "A salvage-excavated locality about 700 m southeast of the main Tazumal group.",
+    dates: "Surface material includes Late Preclassic, Late Classic and Early Postclassic remains; the excavated building belongs to the Early Postclassic component.",
+    fieldwork: "In 1985, a salvage project used test-unit transects and then exposed 80 m² around stone-and-adobe remains. Parts of the building remained unexcavated.",
+    discoveries: "The excavation exposed a multiroom building with floors and burned debris, along with ceramic vessels and censers, a greenstone plaque, a ceramic flute and obsidian artifacts. Its function remains unknown.",
+  },
+  "vergeles-del-eden": {
+    overview: "An archaeological test at the Vergeles del Edén cemetery identified a pre-Hispanic construction and obsidian-working debris.",
+    dates: "A later summary treats the structure as contemporary with Early Postclassic remains elsewhere in Chalchuapa, but reports no direct or absolute date from this test.",
+    fieldwork: "In 1995, Fabio Amador conducted an archaeological test. The available summary does not give its dimensions, location within the cemetery, or stratigraphy.",
+    discoveries: "The test exposed a rectilinear construction of stone rows with earth mortar, abundant obsidian debitage, and many projectile points. The original investigator tentatively interpreted the finds as evidence of tool production.",
+  },
+  "finca-rosita": {
+    overview: "A major Preclassic center beneath modern Santa Ana, organized around two plazas and large earthen pyramids.",
+    dates: "Middle–Late Preclassic, abandoned before or around the early centuries CE; first registered in 1983.",
+    fieldwork: "Salvage and systematic field projects in the late 1990s and early 2000s mapped the ceremonial core and recovered controlled ceramic samples.",
+    discoveries: "Six principal structures include a roughly thirteen-metre-high pyramid and another about ten metres high, demonstrating a substantial center independent of nearby Chalchuapa.",
+  },
+  "san-diego-guija": {
+    overview: "A group of at least ten low mounds lay around the Santa Ana–Metapán highway near Hacienda San Diego.",
+    dates: "Pre-Hispanic, otherwise undated.",
+    fieldwork: "Longyear documented and mapped the mound group during his 1941–1942 expedition. Earlier small excavations had cut into Mounds 1 and 10, but the report does not identify who conducted them or how.",
+    discoveries: "Exposed areas showed boulders set in adobe mortar. Five complete pottery vessels, several manos, and one carved stone object were reported; one polychrome bowl was apparently associated with a burial.",
+  },
+  "igualtepeque": {
+    overview: "Igualtepeque occupies a Lake Güija peninsula that becomes an island at high water. Published surveys describe architecture across the peninsula and more than 200 shoreline rock carvings.",
+    dates: "The architecture is assigned to the Guazapa phase (900–1200 CE). Many carvings have been related to a Nahua-Pipil occupation, but the carvings have not been directly dated.",
+    fieldwork: "A 1942 survey mapped the architecture and recorded at least 200 carvings. The west side of Mound 1 had already been partly exposed, but no controlled excavation is documented; a 2013 team inventoried the rock carvings.",
+    discoveries: "Reports describe two mounds in a walled plaza, approach terraces, a stair, pottery, worked-stone fragments, and carvings of human, animal, and geometric forms.",
+  },
+  "el-zonte-burials": {
+    overview: "Two burials were reported from a private beachfront parcel at El Zonte. The source describes Burial 1’s later osteological analysis but supplies little detail about Burial 2.",
+    dates: "Burial 1 is tentatively dated to the Late Classic (600–900 CE) through associated material. The cited source does not date Burial 2.",
+    fieldwork: "Burial 1 was found accidentally and lost its original archaeological context. In 1998 Roberto Gallardo archaeologically excavated Burial 2, but the cited source does not describe the excavation method.",
+    discoveries: "The later study identifies Burial 1 as a young adult man with bilobed cranial modification, dental disease, and Schmorl’s nodes. The cited source does not describe Burial 2’s remains or associated finds.",
+  },
+  "el-chahuite": {
+    overview: "A 2016 article lists El Chahuite as an archaeological site in the Zapotitán Valley. It provides no site description or boundary.",
+    dates: "The article gives no occupation date. Its bibliography cites a 2001 thesis about ceramics associated with times before and after the San Andrés/Boquerón volcanic deposit.",
+    fieldwork: "The thesis title indicates ceramic analysis, but the article does not describe excavation, collection, or stratigraphy at El Chahuite.",
+    discoveries: "The cited article describes no site-specific structures, artifacts, burials, or other finds.",
+  },
+  "san-luis-chalchuapa": {
+    overview: "A newly defined component of the Chalchuapa archaeological zone, investigated where modern development threatened buried occupation.",
+    dates: "Materials represent more than one period in Chalchuapa’s three-thousand-year sequence; the reported project was conducted by 2015.",
+    fieldwork: "The project divided the tract into four sectors and opened at least 67 planned 2 × 1 metre pits, with additional extensions around cultural features.",
+    discoveries: "Buried deposits and features expanded the recognized Chalchuapa zone beyond the ten better-known areas and demonstrated archaeological survival under undeveloped parcels.",
+  },
+  "amulunga": {
+    overview: "A published overview lists Amulunga among the archaeological sites of the Chalchuapa zone but provides no site description.",
+    dates: "The cited source does not assign Amulunga to a period.",
+    fieldwork: "No Amulunga-specific investigation is documented in the cited source.",
+    discoveries: "The cited source does not describe any remains or finds from Amulunga.",
+  },
+  "rio-pampe": {
+    overview: "A heavily damaged archaeological group on the south bank of the Río Pampe, recorded on Finca San Marcos and nearby land.",
+    dates: "Pre-Hispanic, otherwise undated in the cited sources.",
+    fieldwork: "Longyear documented the group during a 1941–1942 reconnaissance expedition. No Pampe-specific excavation or testing is documented in the cited sources.",
+    discoveries: "The report describes a rectangular terraced base, two plazas with stone walls, adobe-and-scoria construction, and surface pottery sherds.",
+  },
+  "el-caballito": {
+    overview: "A ten-mound archaeological site on top of Loma El Caballito, about 500 m above sea level, in Teotepeque.",
+    dates: "The cited synthesis includes El Caballito among Early Postclassic sites (800–1200 CE), but it presents no site-specific dating evidence.",
+    fieldwork: "The Costa del Bálsamo project reported discovering the site in 2012. The cited article maps the locality and models least-cost routes; it reports no excavation.",
+    discoveries: "The source describes four mounds around one small plaza and six more mounds in pairs forming at least three small plazas. It also notes a burned patch, but says its age and cause are uncertain.",
+  },
+  "texisio": {
+    overview: "A three-mound archaeological site on the upper part of Cerro Texisio, about 281 m above sea level, in Teotepeque.",
+    dates: "The cited synthesis includes Texisio among Early Postclassic sites (800–1200 CE), but it presents no site-specific dating evidence.",
+    fieldwork: "The Costa del Bálsamo project reported discovering the site in 2012. The cited article maps the locality and models least-cost routes; it reports no excavation.",
+    discoveries: "The source describes three mounds forming a small plaza. It provides no artifact inventory.",
+  },
+  "cerro-de-ulata": {
+    overview: "Cerro de Ulata is a surveyed mound settlement in Teotepeque, divided into eastern and western groups along two north–south ridge axes.",
+    dates: "The Izalco Project attributed the site to the Guazapa phase of the Early Postclassic from its settlement pattern and ceramics.",
+    fieldwork: "The Izalco Project first described and mapped the site in 1988. A later study modeled routes and visibility; no controlled excavation is documented.",
+    discoveries: "The survey recorded at least 25 mounds: at least 11 in the eastern group and 14 in the western group, with several small plazas. A later photograph documents a looters’ trench through the main pyramid.",
+  },
+  "jicalapa-site": {
+    overview: "Jicalapa is a ridge-top archaeological site south of the modern town, with structures divided among three terrace groups.",
+    dates: "The article discusses Jicalapa within an Early Postclassic (800–1200 CE) regional study, but gives no site-specific dating evidence.",
+    fieldwork: "The Costa del Bálsamo project discovered the site in 2010 and documented its surface architecture. A later study modeled possible routes; no controlled excavation is documented.",
+    discoveries: "The account records 18 structures, including 15 mostly low mounds, as well as some rectangular platform edges and stone alignments. One mound is associated with a rock bearing a concave depression.",
+  },
+  "letrero-del-diablo": {
+    overview: "El Letrero del Diablo is a petroglyph site on a rock wall beside Quebrada Iscacuyo, also called El Cacao, in Jicalapa municipality.",
+    dates: "The source discusses the site within an Early Postclassic (800–1200 CE) regional study, but gives no independent date for the carvings.",
+    fieldwork: "The project photographed all reported petroglyphs with a GigaPan system and assembled a digital panoramic mosaic. No controlled excavation is documented.",
+    discoveries: "The 50 × 8.5 m wall has a west-facing carved area measuring 10 × 2.7 m, with mostly geometric designs and fewer anthropomorphic and zoomorphic figures; the source interprets one carving as a stylized Tláloc. It also reports damage from chalk and red and white oil paint.",
+  },
+  "el-letrero-chiltiupan": {
+    overview: "El Letrero is a petroglyph site on Finca Guadalupe Arriba in Chiltiupán, near the confluence of the Pájaro León and El Zonte rivers.",
+    dates: "The article discusses the site within an Early Postclassic (800–1200 CE) regional study, but gives no independent date for the carvings.",
+    fieldwork: "The Costa del Bálsamo project discovered the site, registered a nearby platform, and photographed the carvings digitally. No controlled excavation is documented, and the source does not date this work.",
+    discoveries: "The 15 × 12 m rock has an east-facing carved area measuring 3 × 2 m, with circles, spirals, cupules, and fewer human and animal figures; the source interprets one carving as a stylized Tláloc. A small rectangular platform was recorded about 200 m north, but its use is not established.",
+  },
+  "zinacantan-cinacantan": {
+    overview: "Zinacantan is a mapped mound settlement on Cerro Pueblo Viejo in Tamanique. The 2007 survey identifies nearby Cerro Redondo as the probable peñol described in accounts of the 1538 battle, but that identification is not certain.",
+    dates: "Ceramics suggest a likely Late Postclassic occupation, while a longer span from the Early through Late Postclassic remains possible; documents place a battle at Cinacantan in 1538 and the community under encomienda in 1548.",
+    fieldwork: "Fowler discovered the site in 1989; Fowler, Gallardo, and Hamilton later registered it. Hamilton georeferenced and mapped three sectors with a total station in 2001–2002, and PAHES registered the historical site during its 2007 field season.",
+    discoveries: "Hamilton mapped 26 mounds in three sectors, including at least seven small plazas; a low wall bounds the southern sector. No controlled excavation is documented in these sources.",
+  },
+  "miramar-tamanique": {
+    overview: "Miramar is a fourteen-mound archaeological site on a high, narrow part of Loma El Cabro in Tamanique's Cooperativa Acahuaspán.",
+    dates: "The cited synthesis includes Miramar in a regional Early Postclassic study (800–1200 CE), but it presents no site-specific dating evidence.",
+    fieldwork: "The article illustrates Miramar with a LiDAR image, maps it regionally, and models least-cost routes. It does not state when the site was recorded or document excavation.",
+    discoveries: "The source describes mounds 1–2 m high: five apparently form a small plaza at the southeast end, while the others are aligned northwest–southeast along the narrow plateau. It cautiously suggests that some structures may have served as observation points.",
+  },
+  "el-panteoncito": {
+    overview: "El Panteoncito is a 35-structure site on the upper, northern sector of Loma El Cabro in Cooperativa San Isidro, Tamanique. The source divides its mounds into seven groups along two intersecting ridge axes.",
+    dates: "The article treats El Panteoncito within an Early Postclassic (800–1200 CE) regional study, but it presents no site-specific dating evidence.",
+    fieldwork: "The publication maps the site regionally, describes its mound groups, and uses GIS to model routes from four departure points. It does not document controlled excavation or state when the site was recorded.",
+    discoveries: "The source reports 35 structures in seven mound groups, including several small plazas and three isolated mounds. Groups C, F, and G include a low circular platform west of the mounds.",
+  },
+  "isla-el-cajete": {
+    overview: "An archaeological site occupies dry ground on Isla El Cajete in the Barra de Santiago mangroves. The 1983 report describes visible mounds, including one formal plaza, across the island’s western half.",
+    dates: "Most collected ceramics were tentatively associated with the Early Postclassic Guazapa complex, then dated about 900–1200 CE; the report allows later occupation and notes sparse possible Late Classic evidence.",
+    fieldwork: "In 1983, investigators sketched visible mounds with a compass and tape and collected surface pottery and obsidian. The report documents no controlled excavation.",
+    discoveries: "The report records rectangular earthen mounds, some faced with cut talpuja blocks and stucco, plus pottery, obsidian blades and cores, manos, and tripod metates.",
+  },
+  "isla-teopan-coatepeque": {
+    overview: "Construction near the shore of Isla Teopán exposed an archaeological deposit and a monumental potbelly sculpture in early 1996.",
+    dates: "Surface ceramics and other reported finds support a Late Preclassic date for the site.",
+    fieldwork: "An inspection identified Chul- and Caynac-complex sherds on the surface after construction exposed the deposit. The article documents no controlled excavation and gives only limited context for the sculpture.",
+    discoveries: "The report lists the sculpture, four mushroom stones, Bolinas figurines, and ceramics. Amaroli identified the sculpture as a woman and proposed that potbelly sculptures represented pregnant women.",
+  },
+  "piedra-sellada": {
+    overview: "Piedra Sellada is a large engraved boulder at the bottom of the Río Guayapa valley in El Imposible National Park.",
+    dates: "The available source does not date the carvings. Investigators visited the boulder in November 2007.",
+    fieldwork: "The 2007 visit examined the boulder and its immediate surroundings, and Philippe Costa drew the petroglyphs from digital photographs. The authors state that they did not conduct reconnaissance because the visit was brief and informal; no excavation is documented.",
+    discoveries: "The source confirms petroglyphs on the boulder but does not describe individual motifs on the available page.",
+  },
+  "azacualpa-guija": {
+    overview: "Azacualpa is a three-group mound complex on a flat bluff above the northeast shore of Lake Güija.",
+    dates: "The report does not date the site. Longyear documented it during his 1941–1942 expedition.",
+    fieldwork: "Longyear mapped the three groups. He reported no excavation in Groups I or II and earlier holes in the east and west sides of Group III’s Mound 8; no controlled excavation is documented.",
+    discoveries: "The maps and text record a plaza, mounds, and low platforms. Group III’s mounds had volcanic-stone terrace walls over boulder-and-adobe cores, and Mound 8 retained part of a lime-plaster floor.",
+  },
+  "el-congo-el-bigote": {
+    overview: "Seven mounds, locally called the Siete Príncipes, extended west for about 2.5 km from near the El Congo railroad station.",
+    dates: "The report provides no occupation date or cultural assignment.",
+    fieldwork: "A May 1942 visit documented the mounds’ positions and some dimensions. An earlier opening into one mound exposed adobe construction, but the report does not identify who made it or document a controlled excavation.",
+    discoveries: "The report describes seven mounds and adobe construction exposed by the earlier opening. A monumental stone head kept near the railroad station was said to come from the town’s outskirts, but its exact findspot and relationship to the mound group were unknown.",
+  },
+  "isla-teotipa-guija": {
+    overview: "Teotipa, also called Tipa Adentro, is a small island in Lake Güija where pottery and stone objects had been reported by 1944.",
+    dates: "The report gives no occupation date or cultural assignment.",
+    fieldwork: "The report does not document a visit, survey, or excavation on Teotipa; it relays earlier reports of objects from the island.",
+    discoveries: "Pottery and stone objects were reported without descriptions or findspots. Reported indications of ruins concerned the nearby Tipa Afuera peninsula, not Teotipa itself.",
+  },
+  "finca-potosi": {
+    overview: "A broad find locality on Finca Potosí, where a report lists pottery vessels, figurines, stone objects and pictographs.",
+    dates: "Undated; the report gives no period or cultural assignment.",
+    fieldwork: "The report records objects found at various places on the finca and pictographs observed in a deep ravine. It documents no excavation or bounded survey.",
+    discoveries: "Pottery vessels, figurines and stone objects were reported; the ravine pictographs were said to resemble those on Igualtepeque Island.",
+  },
+  "santa-teresa-santa-ana": {
+    overview: "About twelve mounds were recorded in the coffee plantation at Finca Santa Teresa, including one described as among El Salvador’s largest.",
+    dates: "The report gives no occupation date or cultural assignment.",
+    fieldwork: "Boggs’s 1940–1942 western field surveys included a visit to Santa Teresa, but the exact year is not stated. The report explicitly says no excavation had been done.",
+    discoveries: "Surface finds included figurine fragments and sculptured stone heads. An eroded mound section indicated adobe construction.",
+  },
+  "texistepeque-group-1": {
+    overview: "A reported mound group north of Texistepeque and east of the highway to Metapán.",
+    dates: "Undated; the report gives no occupation date or cultural assignment.",
+    fieldwork: "The western reconnaissance records a visit sometime in 1940–1942 and describes the group, but gives no site-specific visit date or field methods.",
+    discoveries: "About ten mounds were reported, including three about 15 m square and 5.5 m high. None appeared to have been excavated.",
+  },
+  "texistepeque-group-2": {
+    overview: "A reported mound group about 2 km south of Texistepeque, east of the highway to Metapán.",
+    dates: "Undated; the report gives no occupation date or cultural assignment.",
+    fieldwork: "The western survey visited and described the group sometime in 1940–1942, but gives no site-specific visit date or field methods.",
+    discoveries: "Five or six mounds were reported. Mounds 1 and 2 were about 5.5–6 m high; a small house stood on Mound 1, but the rest of the site appeared undisturbed.",
+  },
+  "copapayo": {
+    overview: "Three mounds were recorded in a cleared field near the former Copapayo railroad station and Santa Tecla–Sonsonate highway.",
+    dates: "Undated; the report gives no occupation date or cultural assignment.",
+    fieldwork: "Boggs’s western survey visited and described Copapayo sometime in 1940–1942, but gives no site-specific visit date or field methods. The report includes a sketch map; no controlled excavation is documented.",
+    discoveries: "The report records three mounds, one fairly large, and numerous potsherds on the surrounding surface.",
+  },
+  "los-lagartos-miahuacan": {
+    overview: "At least nine mounds and several smaller rises were recorded around Río Los Lagartos. Their identification with conquest-era Miahuacan or Mahuaclan is tentative.",
+    dates: "Undated; the report gives no occupation date or cultural assignment.",
+    fieldwork: "Boggs’s western survey visited, described, and sketch-mapped Los Lagartos sometime in 1940–1942. No controlled excavation is documented.",
+    discoveries: "The two tallest mounds were about 6–7 m high. Long cultivation had turned up much pottery, but no construction was exposed.",
+  },
+  "atapasco": {
+    overview: "Atapasco is the surveyed remains of a historic hacienda and water-powered ironworks about 2 km north of Quezaltepeque.",
+    dates: "The registration form assigns the remains to the seventeenth and eighteenth centuries. Documentary context mentions a Dominican ironworks at Atapasco in 1746, but does not date individual structures.",
+    fieldwork: "PAHES registered the site on November 1, 2007, with coordinates, a plan and photographs. No controlled excavation is documented.",
+    discoveries: "The report describes foundations, walls, retaining walls, channels, columns, water-drop and holding basins, wall niches, and other hydraulic features interpreted as parts of the former ironworks.",
+  },
+  "san-miguel-ingenio": {
+    overview: "San Miguel Ingenio preserves the surveyed remains of a water-powered ironworks about 10 km east of Metapán.",
+    dates: "Documentary evidence cautiously suggests operation from the last quarter of the eighteenth century, with continuity into the late nineteenth century.",
+    fieldwork: "PAHES recorded the site during its August–December 2007 field phase, publishing a coordinate and describing the standing remains. No controlled excavation is documented.",
+    discoveries: "The report describes foundations, walls, retaining walls, channels, columns, water-drop and holding basins, and wall niches. Modern houses had been built over some older structures.",
+  },
+  "ingenio-el-rosario-metapan": {
+    overview: "El Rosario is a surveyed water-powered ironworks complex 7.5 km east of Metapán, with a surviving hacienda house.",
+    dates: "Operation is documented in 1858–1861; a possible eighteenth-century history remains unresolved.",
+    fieldwork: "PAHES visited and documented El Rosario during its August–December 2007 field phase, publishing a coordinate and description. The report does not specify site-specific methods and documents no controlled excavation.",
+    discoveries: "The report describes a main water channel and basin, foundations, walls, retaining walls, columns, water-control features, and wall niches, along with the hacienda house. Río El Rosario lies about 20 m south of the recorded remains.",
+  },
+  "ingenio-santa-gertrudis": {
+    overview: "Santa Gertrudis preserves the surveyed remains of a water-powered ironworks and an associated hacienda house about 8.5 km southeast of Metapán.",
+    dates: "The ironworks was documented as operating in 1768. An 1807 inventory listed the ironworks and hacienda, but the report says its operating status then is uncertain.",
+    fieldwork: "PAHES visited Santa Gertrudis during its August–December 2007 field phase and published a coordinate and description. The report does not identify site-specific methods and documents no controlled excavation.",
+    discoveries: "The report describes a main water channel and basin, foundations, walls, retaining walls, other water-control channels, wall niches, and the hacienda house. It calls the remains badly damaged.",
+  },
+  "ostua": {
+    overview: "Ostúa preserves the facade of a colonial church and the base of an atrial cross about 20 m west.",
+    dates: "The report presents 1733 earthquake damage and flooding between 1734 and 1740 as unresolved explanations for the town's abandonment.",
+    fieldwork: "PAHES visited and registered Ostúa during its August–December 2007 field phase; the report does not identify which project methods were used at this site.",
+    discoveries: "The report documents the church facade and atrial-cross base; further wall foundations nearby are described only as probable.",
+  },
+  "santa-maria-magdalena-tacuba": {
+    overview: "Santa María Magdalena de Tacuba is a ruined colonial church facing Tacuba’s central park.",
+    dates: "The report says the first church was built about 1705, was furnished by 1769, and collapsed in the 1773 Santa Marta earthquake.",
+    fieldwork: "PAHES visited and registered the ruins during its August–December 2007 field phase. The report publishes a coordinate and description but does not identify which project methods were used at this site.",
+    discoveries: "The report records surviving lateral walls and the former sacristy and baptistery rooms.",
+  },
+  "beneficio-rio-claro": {
+    overview: "A surveyed historic coffee mill on Finca Río Claro, about 2 km north of Quezaltepeque.",
+    dates: "The report associates the complex with coffee production from the late nineteenth century through the time of the 2007 survey; it does not date individual features.",
+    fieldwork: "PAHES visited and documented Río Claro during its August–December 2007 field phase. The report lists project-wide methods but does not say which were used here, and it documents no controlled excavation.",
+    discoveries: "The report describes a coffee-mill structure with machinery, basins, channels, drying patios, and administrative structures. Its historical discussion attributes turbine-powered wet processing to Río Claro, but does not establish that the early equipment survives.",
+  },
+  "ingenio-san-francisco-paula": {
+    overview: "A northern Metapán ironworks also known as El Brujo, part of the district’s colonial furnace network.",
+    dates: "Colonial, with later rural reuse of the landscape.",
+    fieldwork: "The second PAHES phase located, photographed, measured and historically contextualized the industrial remains.",
+    discoveries: "Ruined furnace and hydraulic components add another production center to the unusually concentrated Metapán iron industry.",
+  },
+  "ingenio-el-carmen-metapan": {
+    overview: "A water-powered ironworks north of Metapán whose surviving walls supported a detailed reconstruction of the production building.",
+    dates: "Colonial iron industry.",
+    fieldwork: "Researchers combined measured architecture, comparison with Iberian ironworks and digital three-dimensional reconstruction.",
+    discoveries: "The building plan clarifies how furnace, water power, work areas and roofed industrial space operated as one mechanical system.",
+  },
+  "ingenio-san-rafael-metapan": {
+    overview: "Another component of the Metapán ironworking district, located east of town in the San Rafael canton.",
+    dates: "Colonial.",
+    fieldwork: "PAHES registered surviving architecture and compared it with the better-preserved regional ironworks.",
+    discoveries: "Industrial masonry and landscape position expand the mapped production network beyond the three first-phase furnaces.",
+  },
+  "antigua-iglesia-guaymango": {
+    overview: "The archaeological remains of Guaymango’s earlier colonial church within the modern town.",
+    dates: "Colonial.",
+    fieldwork: "The second PAHES campaign identified and architecturally documented the historic church location.",
+    discoveries: "Buried and standing construction traces preserve an earlier phase of the town’s ecclesiastical landscape.",
+  },
+  "antiguo-nejapa-la-fuente": {
+    overview: "A candidate location for old Nejapa in the Río Sucio landscape, abandoned after the 1658 El Playón eruption disrupted the settlement.",
+    dates: "Colonial, especially the sixteenth and seventeenth centuries.",
+    fieldwork: "Archaeologists combined pedestrian survey with geophysical testing to look for buried settlement remains.",
+    discoveries: "Surface and subsurface anomalies support a buried colonial community near the old water source, although the town plan remains incomplete.",
+  },
+  "chuchucato": {
+    overview: "A large Zapotitán Valley site threatened by subdivision, centered on a broad platform supporting a pyramid.",
+    dates: "Pre-Hispanic; the available corpus does not securely narrow the occupation beyond the valley’s Classic–Postclassic sequence.",
+    fieldwork: "FUNDAR documented and denounced development impacts in 2009; the accessible sources do not describe a broad controlled excavation.",
+    discoveries: "A monumental platform, pyramid and additional mound demonstrate a substantial center outside the protected San Andrés park.",
+  },
+  "shuteca": {
+    overview: "A Late Classic residential site beside the Shuteca River, partly destroyed when a municipal recreation center was built.",
+    dates: "Late Classic, approximately 600–900 CE; recorded in 2007.",
+    fieldwork: "FUNDAR recorded exposed remains and notified the national archaeology authority that salvage investigation was needed.",
+    discoveries: "Domestic occupation debris survived beside the construction damage, showing that the Sonsonate urban landscape overlays ordinary Classic-period households as well as monumental centers.",
+  },
+  "finca-san-jorge-las-aradas": {
+    overview: "Two related Santa Ana survey areas studied to compare how pre-Hispanic communities distributed architecture across the interior valley.",
+    dates: "Pre-Hispanic, with ceramics used to distinguish occupation phases; project fieldwork was reported in 2011.",
+    fieldwork: "Researchers mapped topography and archaeological features, collected surface material and compared settlement patterns between San Jorge and Las Aradas.",
+    discoveries: "Mounds, artifact scatters and terrain relationships show settlement extending well beyond Santa Ana’s best-known monumental sites.",
+  },
+  "san-benito-ahuachapan-survey": {
+    overview: "One of the named archaeological localities revisited or registered during the 2007 survey of southern Ahuachapán’s coastal plain.",
+    dates: "Preclassic material was the survey’s principal concern; visited in 2007.",
+    fieldwork: "Pedestrian reconnaissance and GPS recording placed the site within a network of early coastal settlements.",
+    discoveries: "Surface artifacts contributed to the comparison of Atalaya with settlements extending west toward the Guatemalan frontier; the cited summary gives no excavation inventory.",
+  },
+  "el-mapache-ahuachapan": {
+    overview: "A newly registered site from the 2007 reconnaissance of the southern Ahuachapán coastal plain.",
+    dates: "Preclassic survey context; recorded in 2007.",
+    fieldwork: "Surveyors identified surface cultural material and registered the locality by GPS.",
+    discoveries: "The site added another point to the dense early-settlement network surrounding Atalaya, although no controlled excavation is summarized.",
+  },
+  "el-escondido-ahuachapan": {
+    overview: "A named archaeological locality newly registered during the 2007 southern Ahuachapán survey.",
+    dates: "Preclassic survey context; recorded in 2007.",
+    fieldwork: "Pedestrian reconnaissance located and registered surface material.",
+    discoveries: "The occurrence helped demonstrate that early settlement was distributed across the coastal plain rather than concentrated only at Cara Sucia and Atalaya.",
+  },
+  "el-poeta-campesino": {
+    overview: "One of five sites newly registered by the 2007 reconnaissance program south of the Apaneca highlands.",
+    dates: "Preclassic survey context; recorded in 2007.",
+    fieldwork: "Surveyors walked the coastal plain and documented surface artifacts with GPS.",
+    discoveries: "Its material became part of the regional comparison used to place Atalaya within a broader early farming and foraging landscape.",
+  },
+  "tres-cerritos-nueva-york": {
+    overview: "A three-mound locality registered in the Nueva York cooperative landscape west of Atalaya.",
+    dates: "Preclassic survey context; recorded in 2007.",
+    fieldwork: "The reconnaissance program identified the mound cluster and registered its surface material.",
+    discoveries: "Three low elevations and associated artifacts supplied a settlement-form comparison with the larger coastal centers.",
+  },
+  "la-palma-ahuachapan-survey": {
+    overview: "A previously known site revisited during the 2007 survey between the Pacific plain and the Apaneca foothills.",
+    dates: "Preclassic survey context; revisited in 2007.",
+    fieldwork: "Pedestrian survey and surface recording linked the locality to the new coastal-site inventory.",
+    discoveries: "Surface artifacts helped bridge early settlements on the plain with those on the first highland slopes.",
+  },
+  "el-molino-burials": {
+    overview: "A 1985 registration card reports archaeological material and possible burials in eastern Santa Ana near Cerro Tecana.",
+    dates: "The card tentatively assigns the material to the Middle Preclassic.",
+    fieldwork: "The evidence survives as a registration-card entry summarized in a later publication. No controlled excavation is documented.",
+    discoveries: "The card reports ceramic fragments, figurines, six or eight burials, metates, and manos in a 50 × 50 m area up to 2 m deep. The publication warns that card reports are unverified and that reported bones may not have been human.",
+  },
+  "aguachapio-burial": {
+    overview: "A registration card lists Aguachapio in Jujutla and reports at least three low mounds and a possible burial.",
+    dates: "The card assigns the locality to the Late Preclassic and is dated February 24, 1986.",
+    fieldwork: "The publication reproduces a registration-card summary; it does not document controlled excavation.",
+    discoveries: "Reported finds include pottery, a plano-convex handstone and obsidian. The publication warns that these card records are not independently verified.",
+  },
+  "nueva-york-burial": {
+    overview: "A 1986 registration card lists Nueva York in Jujutla and reports a burial.",
+    dates: "The card labels the burial Classic period; it gives no narrower date.",
+    fieldwork: "The evidence survives as a registration-card entry summarized in a later publication. No controlled excavation is documented.",
+    discoveries: "The card reports only a Classic-period burial. It does not describe the context, body treatment or associated objects, and the publication warns that card reports are not independently verified.",
+  },
+  "tacachol-burial": {
+    overview: "A 1986 registration card lists Tacachol in Jujutla and reports a three-metre-high T-shaped elevation damaged by intensive looting.",
+    dates: "The card assigns the locality to the Late Preclassic and is dated February 24, 1986.",
+    fieldwork: "The evidence survives as a registration-card entry summarized in a later publication. No controlled excavation is documented.",
+    discoveries: "The card reports bone fragments, shovel-shaped teeth, pottery, grinding-stone fragments, obsidian and mollusc remains. The publication warns that such card reports are not independently verified and that not all reported bones were osteologically analyzed.",
+  },
+  "la-caseta-burial": {
+    overview: "A 1986 registration card lists La Caseta in San Francisco Menéndez and reports two four-metre mounds and a funerary urn.",
+    dates: "The card assigns material to the Late Preclassic and Late Classic and is dated February 24, 1986.",
+    fieldwork: "The evidence survives as a registration-card entry summarized in a later publication. No controlled excavation is documented.",
+    discoveries: "The card reports a lidded urn with an individual's remains, some vessels and copper bells, and says the area was looted around 1980–1982. The publication warns that such card reports are not independently verified and that many reported bones were not osteologically analyzed.",
+  },
+  "cangrejera-burials": {
+    overview: "A 1975 archaeology-department card lists Cangrejera in San Juan Opico.",
+    dates: "The card reports Middle and Late Preclassic ceramics and is dated January 14, 1975.",
+    fieldwork: "The evidence survives as a registration-card entry summarized in a later publication. No controlled excavation or osteological analysis is documented.",
+    discoveries: "The card reports 46 skeletons, three mounds and five use floors in Mound 1, with burials mainly between floors 3 and 4. It also lists ceramics, domestic metates and jadeite but says the artifacts were not associated with the burials; the publication warns that card reports are not independently verified.",
+  },
+  "san-diego-sonsonate-burials": {
+    overview: "A sparse archaeology-department card names San Diego and reports burials excavated in 1960. The published table gives no location.",
+    dates: "The table gives no archaeological period. It dates the card only to the 1980s and reports excavation in 1960.",
+    fieldwork: "The evidence survives as a registration-card entry recorded by Manuel López and reproduced in a later publication. No excavation method or field report is documented.",
+    discoveries: "The card reports burials but gives no count, context, body treatment or associated objects. The publication warns that registration-card reports are not independently verified.",
+  },
+  "la-joya-singuil": {
+    overview: "A published table preserves an archaeology-department registration-card entry named La Joya (Singüil) in Santa Ana.",
+    dates: "Unknown; the entry supplies neither a cultural period nor an investigation date.",
+    fieldwork: "The evidence is limited to an archival table entry. No fieldwork method or reproducible location is published.",
+    discoveries: "No finds are described for this entry.",
+  },
+  "bolinas-1": {
+    overview: "A published table preserves an archaeology-department registration-card entry named Bolinas 1 in Santa Ana.",
+    dates: "The card labels the locality Preclassic and Classic but gives no investigation date; the publication warns that card entries are not independently verified.",
+    fieldwork: "The evidence is limited to an archival table entry. No fieldwork method or reproducible location is published.",
+    discoveries: "No finds are described for this entry.",
+  },
+  "san-jose-la-majada": {
+    overview: "An archival table preserves a minimally documented archaeological lead named San José la Majada in Sonsonate Department.",
+    dates: "Unknown; the entry has no date or cultural period.",
+    fieldwork: "The table identifies a recorder but does not describe a survey, excavation, or other fieldwork.",
+    discoveries: "The entry tentatively asks whether the locality was a cemetery, but gives no evidence that confirms this interpretation.",
+  },
+  "centa-ciudad-arce": {
+    overview: "An archaeology-department registration card reports a funerary locality named CENTA in Ciudad Arce. The later publication warns that card reports are not independently verified.",
+    dates: "The card tentatively suggests a Postclassic date and is dated 20 January 1975; no field-investigation date is documented.",
+    fieldwork: "Stanley Boggs is named as the recorder, but the table does not describe excavation, recovery, survey or another fieldwork method.",
+    discoveries: "The card reports three urns and a cemetery at depths of 1.20 and 1.80 metres. It does not describe associated objects or the urns' arrangement.",
+  },
+  "el-primo-colon": {
+    overview: "An archaeology-department registration card preserves an unverified lead named El Primo in Colón municipality.",
+    dates: "The card tentatively asks whether the reported find was Classic and is dated 6 May 1987; no field-investigation date is documented.",
+    fieldwork: "José Retana is named as the recorder, but the table does not describe excavation, recovery, survey, or another fieldwork method.",
+    discoveries: "The card tentatively asks whether there was a lidded funerary urn with a jar beside it. The publication does not independently verify either object or describe its context.",
+  },
+  "monolit-lourdes": {
+    overview: "An archaeology-department registration card preserves an unverified burial lead named Monolit near Lourdes.",
+    dates: "The card assigns the reported burials to the Classic period and is dated 1991; no field-investigation date is documented.",
+    fieldwork: "Paul Amaroli is named as the recorder, but the table does not describe excavation, recovery, survey, or another fieldwork method.",
+    discoveries: "The card reports burials but gives no burial count, grave construction, associated objects, or osteological analysis. The publication warns that card reports are not independently verified.",
+  },
 };
