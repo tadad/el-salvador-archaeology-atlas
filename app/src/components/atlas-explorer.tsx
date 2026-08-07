@@ -27,6 +27,17 @@ const ExcavationMap = dynamic(() => import("./excavation-map"), {
 
 const precisionOrder: Precision[] = ["published", "landmark", "approx"];
 const siteQueryParam = "site";
+const unknownFacetValue = "Unknown" as const;
+
+type PeriodFilter = Period | typeof unknownFacetValue;
+type CultureFilter = Culture | typeof unknownFacetValue;
+
+const periodOptions: readonly PeriodFilter[] = [...periodOrder, unknownFacetValue];
+const cultureOptions: readonly CultureFilter[] = [...cultureOrder, unknownFacetValue];
+
+function matchesFacet(values: readonly string[], filter: string) {
+  return filter === unknownFacetValue ? values.length === 0 : values.includes(filter);
+}
 
 function siteIdFromUrl() {
   const siteId = new URL(window.location.href).searchParams.get(siteQueryParam);
@@ -43,18 +54,19 @@ function updateSiteInUrl(siteId: string | null, mode: "push" | "replace" = "push
 }
 
 const periodCounts = Object.fromEntries(
-  periodOrder.map((period) => [
+  periodOptions.map((period) => [
     period,
-    digs.filter((dig) => siteClassifications[dig.id].periods.includes(period)).length,
+    digs.filter((dig) => matchesFacet(siteClassifications[dig.id].periods, period)).length,
   ]),
-) as Record<Period, number>;
+) as Record<PeriodFilter, number>;
 
 const cultureCounts = Object.fromEntries(
-  cultureOrder.map((culture) => [
+  cultureOptions.map((culture) => [
     culture,
-    digs.filter((dig) => siteClassifications[dig.id].cultures.includes(culture)).length,
+    digs.filter((dig) => matchesFacet(siteClassifications[dig.id].cultures, culture))
+      .length,
   ]),
-) as Record<Culture, number>;
+) as Record<CultureFilter, number>;
 
 export function AtlasExplorer() {
   const panelRef = useRef<HTMLElement>(null);
@@ -65,8 +77,8 @@ export function AtlasExplorer() {
     landmark: true,
     approx: true,
   });
-  const [activePeriods, setActivePeriods] = useState<Period[]>([]);
-  const [activeCultures, setActiveCultures] = useState<Culture[]>([]);
+  const [activePeriods, setActivePeriods] = useState<PeriodFilter[]>([]);
+  const [activeCultures, setActiveCultures] = useState<CultureFilter[]>([]);
   const [yearRange, setYearRange] = useState(investigationYearBounds);
   const [openFacet, setOpenFacet] = useState<"period" | "culture" | "year" | null>(null);
 
@@ -80,10 +92,10 @@ export function AtlasExplorer() {
         const classification = siteClassifications[dig.id];
         const matchesPeriod =
           activePeriods.length === 0 ||
-          activePeriods.some((period) => classification.periods.includes(period));
+          activePeriods.some((period) => matchesFacet(classification.periods, period));
         const matchesCulture =
           activeCultures.length === 0 ||
-          activeCultures.some((culture) => classification.cultures.includes(culture));
+          activeCultures.some((culture) => matchesFacet(classification.cultures, culture));
         const matchesYear =
           !isYearFiltered ||
           (classification.lastInvestigatedYear !== null &&
@@ -145,7 +157,7 @@ export function AtlasExplorer() {
     });
   }
 
-  function togglePeriod(period: Period) {
+  function togglePeriod(period: PeriodFilter) {
     setActivePeriods((current) =>
       current.includes(period)
         ? current.filter((candidate) => candidate !== period)
@@ -153,7 +165,7 @@ export function AtlasExplorer() {
     );
   }
 
-  function toggleCulture(culture: Culture) {
+  function toggleCulture(culture: CultureFilter) {
     setActiveCultures((current) =>
       current.includes(culture)
         ? current.filter((candidate) => candidate !== culture)
@@ -229,21 +241,27 @@ export function AtlasExplorer() {
                       ×
                     </button>
                     <p className="facet-instruction">Match any selected period</p>
-                    {periodOrder.map((period) => (
+                    {periodOptions.map((period) => (
                       <button
                         key={period}
                         type="button"
                         className="facet-option"
                         aria-pressed={activePeriods.includes(period)}
                         onClick={() => togglePeriod(period)}
-                        title={periodDescriptions[period]}
+                        title={
+                          period === unknownFacetValue
+                            ? "No period is responsibly supported by the cited sources."
+                            : periodDescriptions[period]
+                        }
                       >
                         <span className="facet-check" aria-hidden="true" />
                         <span>{period}</span>
                         <span>{periodCounts[period]}</span>
                       </button>
                     ))}
-                    <p className="facet-note">Sites without a supported period are omitted when this filter is active.</p>
+                    <p className="facet-note">
+                      Unknown includes sites without a supported period.
+                    </p>
                   </div>
                 </details>
 
@@ -269,21 +287,28 @@ export function AtlasExplorer() {
                       ×
                     </button>
                     <p className="facet-instruction">Match any selected cultural affinity</p>
-                    {cultureOrder.map((culture) => (
+                    {cultureOptions.map((culture) => (
                       <button
                         key={culture}
                         type="button"
                         className="facet-option"
                         aria-pressed={activeCultures.includes(culture)}
                         onClick={() => toggleCulture(culture)}
-                        title={cultureDescriptions[culture]}
+                        title={
+                          culture === unknownFacetValue
+                            ? "No cultural affinity is responsibly supported by the cited sources."
+                            : cultureDescriptions[culture]
+                        }
                       >
                         <span className="facet-check" aria-hidden="true" />
                         <span>{culture}</span>
                         <span>{cultureCounts[culture]}</span>
                       </button>
                     ))}
-                    <p className="facet-note">These are cautious archaeological affinities, not fixed ethnic identities.</p>
+                    <p className="facet-note">
+                      Unknown includes sites without a supported affinity. These are
+                      cautious archaeological affinities, not fixed ethnic identities.
+                    </p>
                   </div>
                 </details>
 
