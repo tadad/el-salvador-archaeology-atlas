@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useEffect, useMemo } from "react";
 import { divIcon, type DivIcon } from "leaflet";
 import {
   MapContainer,
@@ -9,6 +9,7 @@ import {
   TileLayer,
   Tooltip,
   ZoomControl,
+  useMap,
 } from "react-leaflet";
 import { precisionMeta, type Dig, type Precision } from "@/data/digs";
 
@@ -25,6 +26,20 @@ function makeIcon(precision: Precision, selected: boolean): DivIcon {
     iconSize: selected ? [34, 34] : [26, 26],
     iconAnchor: selected ? [17, 17] : [13, 13],
   });
+}
+
+function SelectedSiteFocus({ selected }: { selected: Dig | null }) {
+  const map = useMap();
+
+  useEffect(() => {
+    if (!selected) return;
+
+    map.flyTo([selected.lat, selected.lon], Math.max(map.getZoom(), 12), {
+      duration: 0.75,
+    });
+  }, [map, selected]);
+
+  return null;
 }
 
 export default function ExcavationMap({ digs, selected, onSelect }: ExcavationMapProps) {
@@ -62,6 +77,7 @@ export default function ExcavationMap({ digs, selected, onSelect }: ExcavationMa
       />
       <ZoomControl position="bottomright" />
       <ScaleControl position="bottomleft" imperial={false} />
+      <SelectedSiteFocus selected={selected} />
       {digs.map((dig) => {
         const isSelected = selected?.id === dig.id;
         return (

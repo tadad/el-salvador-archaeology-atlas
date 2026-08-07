@@ -26,6 +26,21 @@ const ExcavationMap = dynamic(() => import("./excavation-map"), {
 });
 
 const precisionOrder: Precision[] = ["published", "landmark", "approx"];
+const siteQueryParam = "site";
+
+function siteIdFromUrl() {
+  const siteId = new URL(window.location.href).searchParams.get(siteQueryParam);
+  return siteId && digs.some((dig) => dig.id === siteId) ? siteId : null;
+}
+
+function updateSiteInUrl(siteId: string | null, mode: "push" | "replace" = "push") {
+  const url = new URL(window.location.href);
+
+  if (siteId) url.searchParams.set(siteQueryParam, siteId);
+  else url.searchParams.delete(siteQueryParam);
+
+  window.history[`${mode}State`](null, "", url);
+}
 
 const periodCounts = Object.fromEntries(
   periodOrder.map((period) => [
@@ -105,7 +120,21 @@ export function AtlasExplorer() {
     : null;
 
   useEffect(() => {
-    if (selectedId && !selected) setSelectedId(null);
+    function restoreSelectionFromUrl() {
+      setSelectedId(siteIdFromUrl());
+    }
+
+    restoreSelectionFromUrl();
+    window.addEventListener("popstate", restoreSelectionFromUrl);
+
+    return () => window.removeEventListener("popstate", restoreSelectionFromUrl);
+  }, []);
+
+  useEffect(() => {
+    if (selectedId && !selected) {
+      setSelectedId(null);
+      updateSiteInUrl(null, "replace");
+    }
   }, [selected, selectedId]);
 
   function togglePrecision(precision: Precision) {
@@ -142,6 +171,7 @@ export function AtlasExplorer() {
 
   function selectDig(dig: Dig) {
     setSelectedId(dig.id);
+    if (siteIdFromUrl() !== dig.id) updateSiteInUrl(dig.id);
     panelRef.current?.scrollTo({ top: 0, behavior: "smooth" });
   }
 
