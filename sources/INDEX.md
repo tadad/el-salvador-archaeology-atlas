@@ -8,15 +8,15 @@
 - [Public-domain primary and early sources](public-domain/INDEX.md) — conquest
   letters, colonial reporting, early ethnography, archaeology, mythology, and
   national histories.
-- [Institutional sources](institutional/INDEX.md) — 16 downloaded Salvadoran
-  university/government publications, Asociación Tikal papers, and MUNA
-  journals, plus records for two UNESCO files whose direct downloads were
-  blocked.
+- [Institutional sources](institutional/INDEX.md) — 17 downloaded Salvadoran
+  university/government publications, Asociación Tikal papers, MUNA journals,
+  and open-access scholarly articles, plus records for two UNESCO files whose
+  direct downloads were blocked.
 
 Each collection has a machine-readable manifest under [`../_data/`](../_data/)
 with original URL, local path, byte size, and SHA-256 checksum.
 
-All 123 PDFs also have a [page-addressable searchable Markdown
+All 124 PDFs also have a [page-addressable searchable Markdown
 mirror](markdown/INDEX.md). The extraction manifest records embedded-text, OCR,
 and unrecognized-page counts for every document.
 

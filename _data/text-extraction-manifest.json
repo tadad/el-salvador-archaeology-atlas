@@ -2203,6 +2203,27 @@
     "source_link": "../../institutional/2014-erquicia-estadistica-1854-arqueologia.pdf"
   },
   {
+    "source_path": "sources/institutional/2025-szymanski-prejs-san-isidro-figurines.pdf",
+    "output_path": "sources/markdown/2025-szymanski-prejs-san-isidro-figurines/2025-szymanski-prejs-san-isidro-figurines.md",
+    "source_sha256": "17b264e3d59077c7f2e75cde1cb76bb20efaf71cde9b0b05841cd634652ce79c",
+    "source_bytes": 1652850,
+    "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A6E2C8408DEAB88D1EBE4BCFDC1FCBAA/S0003598X25000377a.pdf/of_puppets_and_puppeteers_preclassic_clay_figurines_from_san_isidro_el_salvador.pdf",
+    "title": "Of puppets and puppeteers: Preclassic clay figurines from San Isidro, El Salvador",
+    "creator": "Jan Szymański and Gabriela Prejs",
+    "ocr_mode": "auto",
+    "ocr_language": "spa+eng",
+    "ocr_dpi": 250,
+    "generated": "2026-08-07",
+    "status": "complete",
+    "error": "",
+    "pages": 17,
+    "embedded_pages": 17,
+    "ocr_pages": 0,
+    "empty_pages": 0,
+    "warnings": [],
+    "source_link": "../../institutional/2025-szymanski-prejs-san-isidro-figurines.pdf"
+  },
+  {
     "source_path": "sources/institutional/anales-53.pdf",
     "output_path": "sources/markdown/anales-53/anales-53.md",
     "source_sha256": "a777ef11d07aadac7274492c86160f8783418a7ba397eb957792c80e1abe7de6",

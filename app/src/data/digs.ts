@@ -43,6 +43,8 @@ const publisherUrls: Record<string, string> = {
     "https://www.cultura.gob.sv/download/revista-identidades-18-2/?wpdmdl=89649",
   "anales-57-58.pdf":
     "https://www.cultura.gob.sv/download/revista-anales-57-y-58/?wpdmdl=3464",
+  "2025-szymanski-prejs-san-isidro-figurines.pdf":
+    "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A6E2C8408DEAB88D1EBE4BCFDC1FCBAA/S0003598X25000377a.pdf/of_puppets_and_puppeteers_preclassic_clay_figurines_from_san_isidro_el_salvador.pdf",
 };
 
 function source(
@@ -169,6 +171,13 @@ const anales56 = (pages: string, firstPage: number) =>
 const identidades18 = (pages: string, firstPage: number) =>
   institutional(
     "identidades-18-arqueologia.pdf",
+    pages,
+    firstPage,
+  );
+
+const sanIsidroFigurines = (pages: string, firstPage: number) =>
+  institutional(
+    "2025-szymanski-prejs-san-isidro-figurines.pdf",
     pages,
     firstPage,
   );
@@ -571,6 +580,14 @@ export const digs: Dig[] = [
         citationNote:
           "The synthesis identifies Santa Leticia in the Cordillera Apaneca-Ilamatepec and reports a 1977 project with regional reconnaissance and an excavation program intended to obtain a ceramic and chronological sequence. It says the project produced a topographic site map and dated the ‘potbellied’ sculptures to the Late Preclassic. It does not publish a coordinate, locate excavation units, date the site’s full occupation, or provide an artifact inventory.",
       },
+      {
+        ...sanIsidroFigurines(
+          "PDF p. 3 (printed p. 782), regional history of Bolinas-type figurine finds",
+          3,
+        ),
+        citationNote:
+          "The article reports that nearly all Bolinas-type specimens recovered at Santa Leticia were fragmentary and came primarily from surface deposits, structural fill, or other mixed or secondary contexts. It synthesizes earlier publications and does not identify an excavation unit, specimen count, date, or coordinate for the Santa Leticia finds.",
+      },
     ],
   },
   {
@@ -591,6 +608,104 @@ export const digs: Dig[] = [
         ),
         citationNote:
           "The synthesis reports that the Ataco Archaeological Project began in 2006–2007 with reconnaissance, the first mapping of the site's nuclear zone, and exploratory excavations. It says the project continued under new direction from 2008, addressing Preclassic and Postclassic cultural dynamics and studying jaguar heads and their spatial distribution. It does not publish a coordinate, connect the site to the name Las Sepulturas, describe mounds or public architecture, or provide an artifact inventory or excavation results.",
+      },
+      {
+        ...sanIsidroFigurines(
+          "PDF p. 3 (printed p. 782), Ataco Bolinas-type figurine context",
+          3,
+        ),
+        citationNote:
+          "The article reports that excavations at Ataco yielded fragments of Bolinas-type figurines from structural fill. It cites earlier work for the excavation details and provides no specimen count, unit, date, coordinate, or evidence that the figurines were deposited there in a primary ritual context.",
+      },
+    ],
+  },
+  {
+    id: "san-isidro-sonsonate",
+    name: "San Isidro (Sonsonate)",
+    lat: 13.7875,
+    lon: -89.5589,
+    precision: "landmark",
+    kind: "Excavated monumental site",
+    basis:
+      "Modern San Isidro locality; the article maps the archaeological center regionally but publishes no reproducible coordinate",
+    note:
+      "This landmark marker represents the community containing the multi-kilometre archaeological site, not Cerrito 1, Trapiche 3, an excavation unit, or a site boundary.",
+    sources: [
+      {
+        ...sanIsidroFigurines(
+          "PDF pp. 4–6 (printed pp. 783–785), Cerrito 1 excavation and figurine tableau",
+          4,
+        ),
+        citationNote:
+          "The 2022 excavation near the top of Cerrito 1 exposed five complete Bolinas-type figurines within just over 0.6 m² and less than 0.5 m below the modern surface. Ceramic typology and radiocarbon assays date the stratum to 410–380 BCE. Three approximately 0.30 m cream-paste figures had string-adjustable heads; two smaller orange-brown figures measured about 0.18 and 0.10 m. Four represent females and one a male, perhaps the first complete male Bolinas figure. The deposit also contained two polished jade disks, two stacks of serving vessels, and a smashed tripod metate. The authors warn that daily removal and two large tree roots may have altered the deposit's reconstructed arrangement.",
+      },
+      {
+        ...sanIsidroFigurines(
+          "PDF pp. 8–10 (printed pp. 787–789), spatial reconstruction and site axis",
+          8,
+        ),
+        citationNote:
+          "The authors reconstruct four figures as a west-facing row, with the smallest perhaps facing north, but treat intentional breakage and funerary meaning as hypotheses. Cerrito 1 stands east of a large plaza opposite Trapiche 3, where ploughing exposed a plain stela in 2018; the projected stela position, the two mounds, and the figurine row share the site's principal axis about 15° north of west. Open mouths, kaolin around the mouths, adjustable heads, empty earlobe holes, and absent adornment motivate—but do not prove—interpretations involving speech, song, feeding, directional movement, and perishable dress or jewellery.",
+      },
+      {
+        ...sanIsidroFigurines(
+          "PDF pp. 11–12 (printed pp. 790–791), interpretive limits and additional Cerrito 1 figurines",
+          11,
+        ),
+        citationNote:
+          "Only San Isidro and Tak’alik Ab’aj have secure primary-context Bolinas tableaux, so the paper presents possible identities and puppet-like ritual performance as questions rather than determinations. Cerrito 1 fill also contained many figurine fragments and a hollow upper body with a smooth lower edge; the smallest tableau figurine fits inside it, prompting a speculative birth-re-enactment analogy. Similarities among sites are interpreted as a possible community of practice and exchange network, not proof of identical rites or meanings.",
+      },
+      {
+        ...sanIsidroFigurines(
+          "PDF pp. 13–14 (printed pp. 792–793), depositional and sociopolitical interpretation",
+          13,
+        ),
+        citationNote:
+          "The tableau lay in a stratum associated with enlargement of Cerrito 1 and may represent a termination rite for the older construction or a dedication for its successor. The authors report that vestiges of an earlier offering were found at the predecessor floor in 2024. They argue cautiously for community-oriented public activity and a comparatively flat social hierarchy capable of monumental construction, while acknowledging possible leaders or a limited elite. Bolinas practice links San Isidro directly to highland Guatemala; avian celtiform pendants imply a longer interaction chain toward Nicaragua, Costa Rica, and Panama.",
+      },
+    ],
+  },
+  {
+    id: "chalchuapa-bolinas-figurines",
+    name: "Chalchuapa (Bolinas-type figurine finds)",
+    lat: 13.9867,
+    lon: -89.6814,
+    precision: "approx",
+    kind: "Regional find locality",
+    basis:
+      "Greater Chalchuapa archaeological zone; the article does not assign the cited fragments to a specific component site",
+    note:
+      "The marker intentionally represents greater Chalchuapa rather than Tazumal, Casa Blanca, Laguna Cuzcachapa, or a particular excavation unit.",
+    sources: [
+      {
+        ...sanIsidroFigurines(
+          "PDF pp. 2–3, 13 (printed pp. 781–782, 792), regional Bolinas finds and sociopolitical comparison",
+          2,
+        ),
+        citationNote:
+          "The article reports fragmentary Bolinas-type figurines from Chalchuapa, mostly in surface, structural-fill, mixed, or secondary deposits; it does not identify a component site or specimen count. Separately, it cites Chalchuapa as an example where monumental construction need not imply ruler-centered contexts. These are literature syntheses, not new Chalchuapa field results.",
+      },
+    ],
+  },
+  {
+    id: "zapotitan-valley-bolinas-figurines",
+    name: "Zapotitán Valley (Bolinas-type figurine finds)",
+    lat: 13.80,
+    lon: -89.40,
+    precision: "approx",
+    kind: "Regional find locality",
+    basis:
+      "Broad Zapotitán Valley centroid; the article names the valley but no site or coordinate",
+    note:
+      "This regional marker does not imply that the cited fragments came from Joya de Cerén, San Andrés, or any other individually mapped valley site.",
+    sources: [
+      {
+        ...sanIsidroFigurines(
+          "PDF p. 3 (printed p. 782), regional history of Bolinas-type figurine finds",
+          3,
+        ),
+        citationNote:
+          "The article reports fragmentary Bolinas-type figurines from the Zapotitán Valley, primarily from surface, structural-fill, mixed, or secondary deposits. It synthesizes earlier work and gives no individual site, specimen count, excavation unit, date, or coordinate, so the atlas retains only a broad regional lead.",
       },
     ],
   },
@@ -2249,6 +2364,14 @@ export const digs: Dig[] = [
         ),
         citationNote:
           "This later summary dates the 1967–1969 excavation program and says its ceramic and architectural analysis established an eastern sequence spanning about 500 BCE to 1000 CE. It does not support a culture assignment or an exact marker coordinate.",
+      },
+      {
+        ...sanIsidroFigurines(
+          "PDF p. 13 (printed p. 792), monumental development comparison",
+          13,
+        ),
+        citationNote:
+          "The article uses Quelepa comparatively, noting three stages of monumental development between about 500 BCE and 1000 CE alongside little unambiguous evidence for centralized leadership. This is a sociopolitical synthesis drawn from Andrews (1976), not a new Quelepa excavation result, coordinate, or revised chronology.",
       },
     ],
   },
@@ -4354,13 +4477,15 @@ export const digs: Dig[] = [
   },
   {
     id: "bolinas-1",
-    name: "Bolinas 1",
-    lat: 14.05,
-    lon: -89.55,
+    name: "Finca Bolinas / Bolinas 1",
+    lat: 13.9327,
+    lon: -89.6814,
     precision: "approx",
-    kind: "Historical or archival lead",
-    basis: "Broad Santa Ana placement; the table does not distinguish the city from the department",
-    note: "The marker is a generalized proxy, not a documented archaeological location.",
+    kind: "Figurine find locality",
+    basis:
+      "Approximately 6 km south of Chalchuapa, following the 2025 article; no parcel coordinate is published",
+    note:
+      "The identification of the article's Finca Bolinas with archival site card Bolinas 1 is plausible but not demonstrated by either source. The point is reconstructed from distance and direction, not a published archaeological coordinate.",
     sources: [
       {
         ...anales56(
@@ -4369,6 +4494,14 @@ export const digs: Dig[] = [
         ),
         citationNote:
           "PDF p. 47 warns that the archaeology-department cards contain variable information and cannot be treated as independently verified. PDF p. 50 lists Bolinas 1 as undated card 10-7, registered by Stanley Boggs. The rendered table on PDF p. 51 places the entry only in Santa Ana and labels it ‘Clásico y preclásico.’ It gives no finds, fieldwork method, investigation date, or coordinate. The following Sonsonate ‘¿Cementerio?’ entry belongs to San José La Majada, not Bolinas 1.",
+      },
+      {
+        ...sanIsidroFigurines(
+          "PDF pp. 2–3, 9–10, 12 (printed pp. 781–782, 788–789, 791), Finca Bolinas collection and interpretive limits",
+          2,
+        ),
+        citationNote:
+          "The article places private-ranch Finca Bolinas about 6 km south of Chalchuapa and reports that 95 figurines were found there around the mid-twentieth century, but stresses that their discovery circumstances and archaeological context are uncertain. Ninety-three represent females and two may be male; forms vary in size, paste, slip, paint, hair, jewellery, clothing, and occasional string articulation, while punctate eye treatment loosely unifies the broad type. Because the collection is not a secure context, it cannot establish an in-situ tableau. The paper also notes protruding abdomens on most complete figures as a possible pregnancy or postpartum reference, explicitly as indirect support for a speculative interpretation.",
       },
     ],
   },

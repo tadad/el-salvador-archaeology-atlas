@@ -73,6 +73,22 @@ export const siteClassifications: Record<string, SiteClassification> = {
     lastInvestigatedYear: 2011,
     lastInvestigatedLabel: "Project reported active at the 2011 symposium",
   },
+  "san-isidro-sonsonate": {
+    periods: ["Preclassic"],
+    cultures: [],
+    lastInvestigatedYear: 2024,
+    lastInvestigatedLabel: "2018–2024 PASI fieldwork documented in the cited article",
+  },
+  "chalchuapa-bolinas-figurines": {
+    periods: ["Preclassic"],
+    cultures: [],
+    lastInvestigatedYear: null,
+  },
+  "zapotitan-valley-bolinas-figurines": {
+    periods: ["Preclassic"],
+    cultures: [],
+    lastInvestigatedYear: null,
+  },
   "cara-sucia": {
     periods: ["Preclassic", "Classic"],
     cultures: ["Cotzumalhuapa tradition"],
@@ -933,7 +949,7 @@ export const siteClassifications: Record<string, SiteClassification> = {
     lastInvestigatedYear: null,
   },
   "bolinas-1": {
-    periods: [],
+    periods: ["Preclassic"],
     cultures: [],
     lastInvestigatedYear: null,
   },

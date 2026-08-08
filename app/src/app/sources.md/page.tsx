@@ -6,7 +6,7 @@ import styles from "./sources.module.css";
 export const metadata: Metadata = {
   title: "Sources | El Salvador Archaeology Atlas",
   description:
-    "A plain-text catalog of the 123 source PDFs in the El Salvador archaeology corpus.",
+    "A plain-text catalog of the 124 source PDFs in the El Salvador archaeology corpus.",
 };
 
 const collections = [
@@ -20,7 +20,7 @@ const collections = [
     name: "Institutional",
     id: "institutional",
     description:
-      "Research and journals from Salvadoran university and government repositories, Asociación Tikal, and the Ministry of Culture.",
+      "Research and journals from Salvadoran university and government repositories, Asociación Tikal, the Ministry of Culture, and scholarly publishers.",
   },
   {
     name: "Public domain",
@@ -45,7 +45,7 @@ export default function SourcesPage() {
 
       <div className={styles.content}>
         <header className={styles.intro}>
-          <p className={styles.eyebrow}>Source library · 123 PDFs</p>
+          <p className={styles.eyebrow}>Source library · 124 PDFs</p>
           <h1>Sources</h1>
           <p className={styles.summary}>
             Every PDF in the El Salvador archaeology corpus, with its title,

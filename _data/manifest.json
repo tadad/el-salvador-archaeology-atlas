@@ -577,8 +577,8 @@
     "id": "Q17629366",
     "title": "San Isidro (sitio arqueológico)",
     "kind": "site",
-    "evidence": "unassessed",
-    "review_status": "machine-discovered",
+    "evidence": "archaeologically-corroborated",
+    "review_status": "reviewed",
     "regional_relevance": "direct",
     "el_salvador_connection": "Direct Salvadoran subject discovered through article text or an El Salvador-specific discovery path.",
     "countries": [
@@ -590,7 +590,8 @@
       "es": "https://es.wikipedia.org/wiki/San_Isidro_(sitio_arqueol%C3%B3gico)"
     },
     "discovered_from": [
-      "category Categoría:Sitios precolombinos de El Salvador"
+      "category Categoría:Sitios precolombinos de El Salvador",
+      "review of Szymański and Prejs 2025"
     ],
     "source_leads": [
       "http://dx.doi.org/10.1080%2F00934690.2024.2362470",
@@ -600,6 +601,8 @@
       "http://www.ufg.edu.sv/ufg/theorethikos/Septiembre98/Picardo.html",
       "https://dx.doi.org/10.1080%2F00934690.2024.2362470",
       "https://dx.doi.org/10.15184%2Faqy.2025.37",
+      "https://www.cambridge.org/core/journals/antiquity/article/of-puppets-and-puppeteers-preclassic-clay-figurines-from-san-isidro-el-salvador/A6E2C8408DEAB88D1EBE4BCFDC1FCBAA",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A6E2C8408DEAB88D1EBE4BCFDC1FCBAA/S0003598X25000377a.pdf/of_puppets_and_puppeteers_preclassic_clay_figurines_from_san_isidro_el_salvador.pdf",
       "https://web.archive.org/web/20180612045110/http://www.ufg.edu.sv/ufg/theorethikos/Septiembre98/Picardo.html"
     ],
     "retrieved": "2026-08-06",

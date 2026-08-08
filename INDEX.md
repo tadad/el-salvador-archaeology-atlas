@@ -118,7 +118,7 @@ Generated 2026-08-06 from Spanish and English Wikipedia discovery paths.
 - [Sacerdote sin cabeza](topics/sacerdote-sin-cabeza--q6116658.md) — `legend`; `unassessed`; Wikipedia: es
 - [San Andrés (El Salvador)](topics/san-andres-el-salvador--q139853051.md) — `other`; `unassessed`; Wikipedia: en
 - [San Andrés (sitio arqueológico)](topics/san-andres-sitio-arqueologico--q2000719.md) — `site`; `unassessed`; Wikipedia: es
-- [San Isidro (sitio arqueológico)](topics/san-isidro-sitio-arqueologico--q17629366.md) — `site`; `unassessed`; Wikipedia: es
+- [San Isidro (sitio arqueológico)](topics/san-isidro-sitio-arqueologico--q17629366.md) — `site`; `archaeologically-corroborated`; Wikipedia: es
 - [San Salvador](topics/san-salvador--q3110.md) — `other`; `unassessed`; Wikipedia: es
 - [Señorío de Cuzcatlán](topics/senorio-de-cuzcatlan--q1146786.md) — `site`; `unassessed`; Wikipedia: en, es
 - [Siguanaba](topics/siguanaba--q7513462.md) — `legend`; `unassessed`; Wikipedia: en, es

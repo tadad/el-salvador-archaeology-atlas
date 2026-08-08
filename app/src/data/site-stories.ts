@@ -29,7 +29,7 @@ export const siteStories: Record<string, SiteStory> = {
     fieldwork:
       "The 1977 project used regional reconnaissance and an excavation program intended to establish a ceramic and chronological sequence. It also produced a topographic site map.",
     discoveries:
-      "The synthesis reports Late Preclassic ‘potbellied’ sculptures but provides no artifact inventory or excavation-unit results.",
+      "The sources report Late Preclassic ‘potbellied’ sculptures and fragmentary Bolinas-type figurines. The latter came mainly from surface, structural-fill, mixed, or secondary deposits; no specimen inventory or excavation-unit context is given.",
   },
   "ataco-las-sepulturas": {
     overview:
@@ -39,7 +39,37 @@ export const siteStories: Record<string, SiteStory> = {
     fieldwork:
       "Researchers carried out archaeological reconnaissance, mapped the site's nuclear zone for the first time, and opened exploratory excavations.",
     discoveries:
-      "The later project studied jaguar heads and their spatial distribution. The synthesis does not describe individual sculptures or report excavation finds.",
+      "The later project studied jaguar heads and their spatial distribution. A 2025 synthesis also reports fragments of Bolinas-type figurines in structural fill, but gives no specimen count, unit, or primary depositional context.",
+  },
+  "san-isidro-sonsonate": {
+    overview:
+      "A large Middle-to-Late Preclassic monumental center in Sonsonate. Its largest visible mound, Cerrito 1, faces the smaller Trapiche 3 structure across a plaza on an axis about 15° north of west.",
+    dates:
+      "Ceramic typology and radiocarbon assays date the Cerrito 1 figurine stratum to 410–380 BCE. The cited article documents PASI fieldwork in 2018, the 2022 tableau excavation, and vestiges of an earlier offering discovered in 2024.",
+    fieldwork:
+      "Excavation around the Cerrito 1 summit exposed the deposit less than 0.5 m below the surface. Objects had to be documented and removed day by day, and two bullhorn-tree roots crossed the context, so the authors treat its reconstructed arrangement cautiously. Photogrammetry mapped the site center; ploughing had brought a plain stela to the surface of Trapiche 3 in 2018.",
+    discoveries:
+      "Five complete Bolinas-type figures occupied just over 0.6 m²: three approximately 30 cm cream-paste figures with string-adjustable heads and two smaller orange-brown figures about 18 and 10 cm tall. Four represent females; one may be the first complete male of the type and bears facial tattoo or scarification. The offering also held two polished jade disks, two stacks of serving vessels, and a smashed tripod metate. Other Cerrito 1 fill contained many figurine fragments and a hollow torso into which the smallest tableau figure fits. The authors propose puppet-like performance and a termination or dedicatory rite, but explicitly mark intentional breakage, funerary meaning, identities, feeding, birth imagery, and political reconstruction as hypotheses.",
+  },
+  "chalchuapa-bolinas-figurines": {
+    overview:
+      "A regional evidence point for Bolinas-type figurine fragments somewhere within greater Chalchuapa; the 2025 article does not assign them to a particular component site.",
+    dates:
+      "The Bolinas tradition is broadly Middle and Late Preclassic. The article does not date the Chalchuapa specimens or the work that recovered them.",
+    fieldwork:
+      "The article synthesizes earlier Chalchuapa research rather than reporting new fieldwork. Most cited fragments came from surface, structural fill, mixed deposits, or other secondary contexts.",
+    discoveries:
+      "Fragmentary Bolinas-type figurines are reported, without a specimen count or component-site attribution. In a separate comparison, the authors cite Chalchuapa as evidence that monumental building can occur in communal rather than ruler-centered contexts.",
+  },
+  "zapotitan-valley-bolinas-figurines": {
+    overview:
+      "A broad regional lead for Bolinas-type figurine fragments reported somewhere in the Zapotitán Valley; it is not a single archaeological site.",
+    dates:
+      "The Bolinas tradition is broadly Middle and Late Preclassic. The article provides no specimen-level date for the valley finds.",
+    fieldwork:
+      "The 2025 article summarizes earlier valley research and does not identify a site, excavation unit, or field date.",
+    discoveries:
+      "Fragmentary Bolinas-type figurines are reported primarily from surface, structural-fill, mixed, or secondary deposits. The source does not connect them specifically to Joya de Cerén, San Andrés, or another mapped valley site.",
   },
   "cara-sucia": {
     overview:
@@ -1382,10 +1412,10 @@ export const siteStories: Record<string, SiteStory> = {
     discoveries: "No finds are described for this entry.",
   },
   "bolinas-1": {
-    overview: "A published table preserves an archaeology-department registration-card entry named Bolinas 1 in Santa Ana.",
-    dates: "The card labels the locality Preclassic and Classic but gives no investigation date; the publication warns that card entries are not independently verified.",
-    fieldwork: "The evidence is limited to an archival table entry. No fieldwork method or reproducible location is published.",
-    discoveries: "No finds are described for this entry.",
+    overview: "Finca Bolinas was a private ranch about 6 km south of Chalchuapa where 95 clay figurines were reportedly found around the mid-twentieth century. An archival registration-card entry named Bolinas 1 may refer to the same locality, but the sources do not prove that identification.",
+    dates: "The figurine type is associated regionally with the Middle and Late Preclassic. The archival card broadly labels Bolinas 1 Preclassic and Classic; neither source dates the discovery or deposit securely.",
+    fieldwork: "The circumstances and context of the Finca Bolinas discovery are uncertain, while the archival table gives no method or coordinate. The reconstructed marker follows only the article's statement that the ranch lay about 6 km south of Chalchuapa.",
+    discoveries: "The collection contains 93 figures interpreted as female and two possibly male. They vary from a few centimetres to more than 20 cm in height, use cream or reddish-brown paste, commonly retain white or orange slip, and often show elaborate hair, jewellery, or clothing. Some had string-articulated heads or limbs. Punctate eye treatment loosely unifies the broad Bolinas category, but the collection is not a secure in-situ tableau.",
   },
   "san-jose-la-majada": {
     overview: "An archival table preserves a minimally documented archaeological lead named San José la Majada in Sonsonate Department.",
