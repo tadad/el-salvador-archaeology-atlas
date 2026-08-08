@@ -22,7 +22,7 @@ sources.
 
 - [Interactive excavation atlas](app/) — a Next.js map of terrestrial and
   maritime archaeological investigations with coordinates, narrative site
-  summaries, and direct links to cited PDF pages
+  summaries, study-by-study timelines, and direct links to cited PDF pages
 - [Field guide](FIELD-GUIDE.md) — curated orientation and high-value research
   leads
 - [Source-derived leads](SOURCE-DERIVED-LEADS.md) — sites, artifacts, historical
