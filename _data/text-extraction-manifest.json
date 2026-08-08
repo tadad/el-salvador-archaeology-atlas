@@ -2081,6 +2081,27 @@
     "source_link": "../../institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf"
   },
   {
+    "source_path": "sources/institutional/1995-conyers-gpr-ceren.pdf",
+    "output_path": "sources/markdown/1995-conyers-gpr-ceren/1995-conyers-gpr-ceren.md",
+    "source_sha256": "895480f23a16aae643b690c65db76f678c2951572f70746b66102833977e81e0",
+    "source_bytes": 2472549,
+    "source_url": "https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Conyers_1995_The_Use_of_Ground-Penetrating_Radar_To_Map_the_Buried_Structures_and_Landscape_of_the_Ceren_Site.pdf",
+    "title": "The use of ground-penetrating radar to map the buried structures and landscape of the Cerén site, El Salvador",
+    "creator": "Lawrence B. Conyers",
+    "ocr_mode": "auto",
+    "ocr_language": "spa+eng",
+    "ocr_dpi": 250,
+    "generated": "2026-08-07",
+    "status": "complete",
+    "error": "",
+    "pages": 25,
+    "embedded_pages": 22,
+    "ocr_pages": 3,
+    "empty_pages": 0,
+    "warnings": [],
+    "source_link": "../../institutional/1995-conyers-gpr-ceren.pdf"
+  },
+  {
     "source_path": "sources/institutional/1998-coladan-pinturas-rupestres-oriente.pdf",
     "output_path": "sources/markdown/1998-coladan-pinturas-rupestres-oriente/1998-coladan-pinturas-rupestres-oriente.md",
     "source_sha256": "e1b02496139eb9abc54e5a5ae0a543c11e9c5bc5264ee62fcd6eb595fd75d410",
@@ -2099,6 +2120,29 @@
     "empty_pages": 0,
     "warnings": [],
     "source_link": "../../institutional/1998-coladan-pinturas-rupestres-oriente.pdf"
+  },
+  {
+    "source_path": "sources/institutional/2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
+    "output_path": "sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md",
+    "source_sha256": "a8cd10225bc65c2e7c81744e7b79ea06a68c2b4d211972b8c0fe4e04d00c2196",
+    "source_bytes": 1780300,
+    "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf",
+    "title": "Ciudad Vieja, El Salvador: Teledetección y patrón de asentamiento de una ciudad de la época de la conquista",
+    "creator": "William R. Fowler, Francisco Estrada-Belli, Conrad Hamilton, Jennifer R. Bales, Matthew D. Reynolds, and Kenneth L. Kvamme",
+    "ocr_mode": "auto",
+    "ocr_language": "spa+eng",
+    "ocr_dpi": 250,
+    "generated": "2026-08-07",
+    "status": "complete",
+    "error": "",
+    "pages": 16,
+    "embedded_pages": 15,
+    "ocr_pages": 1,
+    "empty_pages": 0,
+    "warnings": [
+      "Syntax Error: Expected the default config, but wasn't able to find it, or it isn't a Dictionary"
+    ],
+    "source_link": "../../institutional/2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf"
   },
   {
     "source_path": "sources/institutional/2007-erquicia-los-gavilanes.pdf",

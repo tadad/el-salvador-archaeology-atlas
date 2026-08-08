@@ -7,13 +7,17 @@ import { digs, precisionMeta, type Dig, type Precision } from "@/data/digs";
 import {
   cultureDescriptions,
   cultureOrder,
-  investigationYearBounds,
   periodDescriptions,
   periodOrder,
   siteClassifications,
   type Culture,
   type Period,
 } from "@/data/site-classifications";
+import {
+  latestStudyEvent,
+  siteStudyHistory,
+  studyKindLabels,
+} from "@/data/site-study-history";
 import { siteStories } from "@/data/site-stories";
 
 const ExcavationMap = dynamic(() => import("./excavation-map"), {
@@ -69,6 +73,22 @@ const cultureCounts = Object.fromEntries(
   ]),
 ) as Record<CultureFilter, number>;
 
+function studyYearFor(siteId: string) {
+  return (
+    latestStudyEvent(siteId)?.sortYear ??
+    siteClassifications[siteId].lastInvestigatedYear
+  );
+}
+
+const knownStudyYears = digs
+  .map((dig) => studyYearFor(dig.id))
+  .filter((year): year is number => year !== null);
+
+const studyYearBounds = {
+  min: Math.min(...knownStudyYears),
+  max: Math.max(...knownStudyYears),
+};
+
 export function AtlasExplorer() {
   const panelRef = useRef<HTMLElement>(null);
   const [selectedId, setSelectedId] = useState<string | null>(null);
@@ -80,17 +100,18 @@ export function AtlasExplorer() {
   });
   const [activePeriods, setActivePeriods] = useState<PeriodFilter[]>([]);
   const [activeCultures, setActiveCultures] = useState<CultureFilter[]>([]);
-  const [yearRange, setYearRange] = useState(investigationYearBounds);
+  const [yearRange, setYearRange] = useState(studyYearBounds);
   const [openFacet, setOpenFacet] = useState<"period" | "culture" | "year" | null>(null);
 
   const normalizedQuery = query.trim().toLocaleLowerCase();
   const isYearFiltered =
-    yearRange.min !== investigationYearBounds.min ||
-    yearRange.max !== investigationYearBounds.max;
+    yearRange.min !== studyYearBounds.min ||
+    yearRange.max !== studyYearBounds.max;
   const visibleDigs = useMemo(
     () =>
       digs.filter((dig) => {
         const classification = siteClassifications[dig.id];
+        const studyYear = studyYearFor(dig.id);
         const matchesPeriod =
           activePeriods.length === 0 ||
           activePeriods.some((period) => matchesFacet(classification.periods, period));
@@ -99,10 +120,13 @@ export function AtlasExplorer() {
           activeCultures.some((culture) => matchesFacet(classification.cultures, culture));
         const matchesYear =
           !isYearFiltered ||
-          (classification.lastInvestigatedYear !== null &&
-            classification.lastInvestigatedYear >= yearRange.min &&
-            classification.lastInvestigatedYear <= yearRange.max);
-        const searchableText = `${dig.name} ${dig.kind} ${dig.basis} ${classification.periods.join(" ")} ${classification.cultures.join(" ")} ${classification.lastInvestigatedLabel ?? classification.lastInvestigatedYear ?? ""} ${Object.values(siteStories[dig.id] ?? {}).join(" ")}`;
+          (studyYear !== null &&
+            studyYear >= yearRange.min &&
+            studyYear <= yearRange.max);
+        const studyText = (siteStudyHistory[dig.id] ?? [])
+          .map((event) => `${event.date} ${event.description} ${event.evidence}`)
+          .join(" ");
+        const searchableText = `${dig.name} ${dig.kind} ${dig.basis} ${classification.periods.join(" ")} ${classification.cultures.join(" ")} ${classification.lastInvestigatedLabel ?? classification.lastInvestigatedYear ?? ""} ${studyText} ${Object.values(siteStories[dig.id] ?? {}).join(" ")}`;
 
         return (
           activePrecision[dig.precision] &&
@@ -131,6 +155,12 @@ export function AtlasExplorer() {
   const selected = selectedId
     ? visibleDigs.find((dig) => dig.id === selectedId) ?? null
     : null;
+  const selectedStudies = selected
+    ? [...(siteStudyHistory[selected.id] ?? [])].sort(
+        (left, right) => (right.sortYear ?? -Infinity) - (left.sortYear ?? -Infinity),
+      )
+    : [];
+  const selectedLatestStudy = selected ? latestStudyEvent(selected.id) : null;
 
   useEffect(() => {
     function restoreSelectionFromUrl() {
@@ -178,7 +208,7 @@ export function AtlasExplorer() {
     setActivePrecision({ published: true, landmark: true, approx: true });
     setActivePeriods([]);
     setActiveCultures([]);
-    setYearRange(investigationYearBounds);
+    setYearRange(studyYearBounds);
     setOpenFacet(null);
   }
 
@@ -326,7 +356,7 @@ export function AtlasExplorer() {
                   }}
                 >
                   <summary>
-                    Last investigated
+                    Latest study
                     <span>{isYearFiltered ? `${yearRange.min}–${yearRange.max}` : "All"}</span>
                   </summary>
                   <div className="facet-popover year-popover">
@@ -347,8 +377,8 @@ export function AtlasExplorer() {
                     <input
                       id="investigation-year-min"
                       type="range"
-                      min={investigationYearBounds.min}
-                      max={investigationYearBounds.max}
+                      min={studyYearBounds.min}
+                      max={studyYearBounds.max}
                       value={yearRange.min}
                       onChange={(event) =>
                         setYearRange((current) => ({
@@ -361,8 +391,8 @@ export function AtlasExplorer() {
                     <input
                       id="investigation-year-max"
                       type="range"
-                      min={investigationYearBounds.min}
-                      max={investigationYearBounds.max}
+                      min={studyYearBounds.min}
+                      max={studyYearBounds.max}
                       value={yearRange.max}
                       onChange={(event) =>
                         setYearRange((current) => ({
@@ -371,7 +401,7 @@ export function AtlasExplorer() {
                         }))
                       }
                     />
-                    <p className="facet-note">Excavation, survey, or formal site recording. Unknown years are omitted when narrowed.</p>
+                    <p className="facet-note">Includes fieldwork, formal recording, collection analysis, and substantive reinterpretation. Unknown years are omitted when narrowed.</p>
                   </div>
                 </details>
 
@@ -457,7 +487,24 @@ export function AtlasExplorer() {
                   </dd>
                 </div>
                 <div>
-                  <dt>Last investigated</dt>
+                  <dt>Latest study</dt>
+                  <dd>
+                    {selectedLatestStudy ? (
+                      <>
+                        {selectedLatestStudy.date}
+                        <span className="classification-qualifier">
+                          {studyKindLabels[selectedLatestStudy.kind]}
+                        </span>
+                      </>
+                    ) : (
+                      siteClassifications[selected.id].lastInvestigatedLabel ??
+                      siteClassifications[selected.id].lastInvestigatedYear ??
+                      "Not documented in the cited papers"
+                    )}
+                  </dd>
+                </div>
+                <div>
+                  <dt>Last field investigation</dt>
                   <dd>
                     {siteClassifications[selected.id].lastInvestigatedLabel ??
                       siteClassifications[selected.id].lastInvestigatedYear ??
@@ -482,6 +529,30 @@ export function AtlasExplorer() {
                   <p>{siteStories[selected.id].discoveries}</p>
                 </section>
               </div>
+
+              {selectedStudies.length ? (
+                <section className="study-history" aria-labelledby="study-history-heading">
+                  <div className="study-history-heading">
+                    <p className="story-label" id="study-history-heading">Study history</p>
+                    <p>Fieldwork and later scholarship are listed separately.</p>
+                  </div>
+                  <ol className="study-timeline">
+                    {selectedStudies.map((event, index) => (
+                      <li key={`${event.date}-${event.kind}-${index}`}>
+                        <div className="study-date">{event.date}</div>
+                        <div className="study-event">
+                          <span className={`study-kind study-kind-${event.kind}`}>
+                            {studyKindLabels[event.kind]}
+                            {event.siteAttribution === "uncertain" ? " · Site attribution uncertain" : ""}
+                          </span>
+                          <p>{event.description}</p>
+                          <cite>{event.evidence}</cite>
+                        </div>
+                      </li>
+                    ))}
+                  </ol>
+                </section>
+              ) : null}
 
               <div className="map-evidence">
                 <p className="map-evidence-heading">About this marker</p>

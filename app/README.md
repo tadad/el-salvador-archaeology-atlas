@@ -2,7 +2,10 @@
 
 An interactive map of the excavation and maritime archaeology locations
 identified in the El Salvador corpus. Every site links to the cited source PDF
-and page.
+and page. Site records distinguish the latest field investigation from later
+collection analysis, archival synthesis, and reinterpretation, and expose the
+full documented study history instead of substituting publication dates for
+field seasons.
 
 ## Run it
 
