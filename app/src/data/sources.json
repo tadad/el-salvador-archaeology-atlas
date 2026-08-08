@@ -1035,6 +1035,33 @@
     "filename": "identidades-19.pdf"
   },
   {
+    "collection": "Institutional",
+    "title": "Ciudad Vieja, El Salvador: Teledetección y patrón de asentamiento de una ciudad de la época de la conquista",
+    "creator": "William R. Fowler, Francisco Estrada-Belli, Conrad Hamilton, Jennifer R. Bales, Matthew D. Reynolds, and Kenneth L. Kvamme",
+    "publishDate": "2004",
+    "description": "Primary report on the 2002–2003 geophysical survey, GIS integration, and excavation verification at Ciudad Vieja.",
+    "pdfUrl": "https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf",
+    "filename": "2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf"
+  },
+  {
+    "collection": "Institutional",
+    "title": "Regional patterns, local techniques. Remote sensing and archaeology at prehispanic site of San Isidro, El Salvador",
+    "creator": "Jan Szymański, Krzysztof Misiewicz, Radosław Mieszkowski, and Joachim Martecki",
+    "publishDate": "2022",
+    "description": "Open-access primary report on drone photogrammetry, GPR, magnetometry, electrical resistivity, and excavation verification at San Isidro.",
+    "pdfUrl": "https://www.researchgate.net/profile/Jan-Szymanski/publication/363318851_Regional_patterns_local_techniques_Remote_sensing_and_archaeology_at_prehispanic_site_of_San_Isidro_El_Salvador/links/63185bb561e4553b956ec0bc/Regional-patterns-local-techniques-Remote-sensing-and-archaeology-at-prehispanic-site-of-San-Isidro-El-Salvador.pdf",
+    "filename": "2022-szymanski-et-al-san-isidro-remote-sensing.pdf"
+  },
+  {
+    "collection": "Institutional",
+    "title": "The use of ground-penetrating radar to map the buried structures and landscape of the Cerén site, El Salvador",
+    "creator": "Lawrence B. Conyers",
+    "publishDate": "1995",
+    "description": "Primary report on the 1979 and 1994 GPR datasets used to map buried structures and the pre-eruption landscape at Cerén.",
+    "pdfUrl": "https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Conyers_1995_The_Use_of_Ground-Penetrating_Radar_To_Map_the_Buried_Structures_and_Landscape_of_the_Ceren_Site.pdf",
+    "filename": "1995-conyers-gpr-ceren.pdf"
+  },
+  {
     "collection": "Public domain",
     "title": "Arqueología Cuzcatleca Valle de San Salvador",
     "creator": "Jorge Lardé y Larín",

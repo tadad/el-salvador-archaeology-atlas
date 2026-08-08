@@ -14,6 +14,48 @@
     "error": ""
   },
   {
+    "filename": "2022-szymanski-et-al-san-isidro-remote-sensing.pdf",
+    "title": "Regional patterns, local techniques. Remote sensing and archaeology at prehispanic site of San Isidro, El Salvador",
+    "creator": "Jan Szymański, Krzysztof Misiewicz, Radosław Mieszkowski, and Joachim Martecki",
+    "date": "2022",
+    "level": "primary-research",
+    "url": "https://www.researchgate.net/profile/Jan-Szymanski/publication/363318851_Regional_patterns_local_techniques_Remote_sensing_and_archaeology_at_prehispanic_site_of_San_Isidro_El_Salvador/links/63185bb561e4553b956ec0bc/Regional-patterns-local-techniques-Remote-sensing-and-archaeology-at-prehispanic-site-of-San-Isidro-El-Salvador.pdf",
+    "landing_page": "https://doi.org/10.1016/j.jasrep.2022.103628",
+    "status": "failed",
+    "bytes": 0,
+    "sha256": "",
+    "local_path": "",
+    "error": "Open-access PDF hosts returned automated security challenges (HTTP 403); official DOI and author-hosted PDF remain linked."
+  },
+  {
+    "filename": "2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
+    "title": "Ciudad Vieja, El Salvador: Teledetección y patrón de asentamiento de una ciudad de la época de la conquista",
+    "creator": "William R. Fowler, Francisco Estrada-Belli, Conrad Hamilton, Jennifer R. Bales, Matthew D. Reynolds, and Kenneth L. Kvamme",
+    "date": "2004",
+    "level": "primary-research",
+    "url": "https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf",
+    "landing_page": "https://www.asociaciontikal.com/simposio-17-ano-2003/61-03-fowler-doc/",
+    "status": "downloaded",
+    "bytes": 1780300,
+    "sha256": "a8cd10225bc65c2e7c81744e7b79ea06a68c2b4d211972b8c0fe4e04d00c2196",
+    "local_path": "institutional/2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
+    "error": ""
+  },
+  {
+    "filename": "1995-conyers-gpr-ceren.pdf",
+    "title": "The use of ground-penetrating radar to map the buried structures and landscape of the Cerén site, El Salvador",
+    "creator": "Lawrence B. Conyers",
+    "date": "1995",
+    "level": "primary-research",
+    "url": "https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Conyers_1995_The_Use_of_Ground-Penetrating_Radar_To_Map_the_Buried_Structures_and_Landscape_of_the_Ceren_Site.pdf",
+    "landing_page": "https://doi.org/10.1002/gea.3340100404",
+    "status": "downloaded",
+    "bytes": 2472549,
+    "sha256": "895480f23a16aae643b690c65db76f678c2951572f70746b66102833977e81e0",
+    "local_path": "institutional/1995-conyers-gpr-ceren.pdf",
+    "error": ""
+  },
+  {
     "filename": "1954-haberland-apuntes-petrograbados.pdf",
     "title": "Apuntes sobre petrograbados de El Salvador",
     "creator": "Wolfgang Haberland",

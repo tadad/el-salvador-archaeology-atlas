@@ -18,6 +18,8 @@ discovered_from:
   - "category Categoría:Sitios precolombinos de El Salvador"
   - "review of Szymański and Prejs 2025"
 source_leads:
+  - "https://doi.org/10.1016/j.jasrep.2022.103628"
+  - "https://www.researchgate.net/profile/Jan-Szymanski/publication/363318851_Regional_patterns_local_techniques_Remote_sensing_and_archaeology_at_prehispanic_site_of_San_Isidro_El_Salvador/links/63185bb561e4553b956ec0bc/Regional-patterns-local-techniques-Remote-sensing-and-archaeology-at-prehispanic-site-of-San-Isidro-El-Salvador.pdf"
   - "http://dx.doi.org/10.1080%2F00934690.2024.2362470"
   - "http://dx.doi.org/10.15184%2Faqy.2025.37"
   - "http://vmvdu.mop.gob.sv/sitdt/doc/02_sonsonate/ANEXO%20MUNICIPAL%20DE%20IZALCO.pdf"
@@ -35,6 +37,12 @@ source_leads:
 ## Discovery summary
 
 San Isidro is a large Middle-to-Late Preclassic monumental site in the Department of Sonsonate. Szymański and Prejs report Proyecto Arqueológico San Isidro (PASI) excavations at Cerrito 1, the site's largest visible structure, and compare its evidence with Bolinas-type figurine finds elsewhere in south-eastern Mesoamerica. The reviewed article does not publish a reproducible site coordinate or boundary, so the interactive atlas uses the modern San Isidro locality only as a landmark proxy.
+
+## Drone mapping and geophysics
+
+PASI used drone photogrammetry—not airborne LiDAR—to map the settlement. An amateur drone located almost 40 mounds across roughly 4 km² in 2018. The 2021 campaign used a DJI Phantom 4 RTK and ground station to collect about 27,000 overlapping photographs across more than 6.5 km²; Agisoft Metashape and Pix4Dmapper generated a dense point cloud and digital elevation model. Visualization borrowed techniques used in a Guatemalan LiDAR project, but dense shade forest still produced missing or extrapolated areas, a limitation a laser survey might have reduced. The authors counted 51 visible structures as a minimum because modern settlement, cultivation, and forest obscured others. [Open-access article, PDF pp. 3–4](https://doi.org/10.1016/j.jasrep.2022.103628)
+
+In the presumed center, investigators combined 450 MHz GPR, cesium magnetometry, horizontal electrical-resistivity profiling, and vertical electrical sounding. GNSS-RTK positioned the GPR profiles to centimetre-scale precision. The surveys identified possible anthropogenic features as well as volcanic, agricultural, metal, and soil-moisture signatures; several linear or right-angled anomalies could not be assigned securely to ancient architecture. Targeted excavations at Cerrito and Trapiche then checked the remote-sensing interpretations and helped establish that some mounds were largely heaped or compacted clay without formal facings. [Open-access article, PDF pp. 5–10](https://doi.org/10.1016/j.jasrep.2022.103628)
 
 ## Cerrito 1 tableau
 
@@ -68,9 +76,10 @@ Formal and contextual parallels with Tak’alik Ab’aj suggest a shared ritual 
 ## Local source matches
 
 - [Szymański and Prejs, *Of puppets and puppeteers: Preclassic clay figurines from San Isidro, El Salvador* (2025)](../sources/markdown/2025-szymanski-prejs-san-isidro-figurines/2025-szymanski-prejs-san-isidro-figurines.md) — complete 17-page embedded-text derivative; verify layout and figures against the [open-access publisher PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A6E2C8408DEAB88D1EBE4BCFDC1FCBAA/S0003598X25000377a.pdf/of_puppets_and_puppeteers_preclassic_clay_figurines_from_san_isidro_el_salvador.pdf).
+- [Szymański et al., *Regional patterns, local techniques* (2022)](https://doi.org/10.1016/j.jasrep.2022.103628) — open-access primary report added to the library catalog; the official and author-hosted PDF endpoints currently return automated security challenges to the archiver, so no local derivative is claimed.
 
 <!-- local-source-matches:end -->
 
 ## Research note
 
-This record was reviewed against the source PDF. Interpretive claims are labelled as hypotheses where the authors do so; the article's 2024 San Isidro reference remains the stronger source for the site's full chronology and geographic extent.
+This record was reviewed against the 2025 source PDF and the full text of the open-access 2022 article. Interpretive claims are labelled as hypotheses where the authors do so; the 2024 San Isidro publication remains the stronger source for the site's full chronology and geographic extent.

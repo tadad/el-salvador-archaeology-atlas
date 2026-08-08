@@ -45,6 +45,12 @@ const publisherUrls: Record<string, string> = {
     "https://www.cultura.gob.sv/download/revista-anales-57-y-58/?wpdmdl=3464",
   "2025-szymanski-prejs-san-isidro-figurines.pdf":
     "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A6E2C8408DEAB88D1EBE4BCFDC1FCBAA/S0003598X25000377a.pdf/of_puppets_and_puppeteers_preclassic_clay_figurines_from_san_isidro_el_salvador.pdf",
+  "2022-szymanski-et-al-san-isidro-remote-sensing.pdf":
+    "https://www.researchgate.net/profile/Jan-Szymanski/publication/363318851_Regional_patterns_local_techniques_Remote_sensing_and_archaeology_at_prehispanic_site_of_San_Isidro_El_Salvador/links/63185bb561e4553b956ec0bc/Regional-patterns-local-techniques-Remote-sensing-and-archaeology-at-prehispanic-site-of-San-Isidro-El-Salvador.pdf",
+  "2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf":
+    "https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf",
+  "1995-conyers-gpr-ceren.pdf":
+    "https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Conyers_1995_The_Use_of_Ground-Penetrating_Radar_To_Map_the_Buried_Structures_and_Landscape_of_the_Ceren_Site.pdf",
 };
 
 function source(
@@ -178,6 +184,13 @@ const identidades18 = (pages: string, firstPage: number) =>
 const sanIsidroFigurines = (pages: string, firstPage: number) =>
   institutional(
     "2025-szymanski-prejs-san-isidro-figurines.pdf",
+    pages,
+    firstPage,
+  );
+
+const sanIsidroRemoteSensing = (pages: string, firstPage: number) =>
+  institutional(
+    "2022-szymanski-et-al-san-isidro-remote-sensing.pdf",
     pages,
     firstPage,
   );
@@ -631,6 +644,30 @@ export const digs: Dig[] = [
     note:
       "This landmark marker represents the community containing the multi-kilometre archaeological site, not Cerrito 1, Trapiche 3, an excavation unit, or a site boundary.",
     sources: [
+      {
+        ...sanIsidroRemoteSensing(
+          "PDF pp. 3–4, 2018–2021 aerial survey and site model",
+          3,
+        ),
+        citationNote:
+          "Drone photogrammetry expanded the mapped settlement from almost 40 mounds over roughly 4 km² in 2018 to 51 visible structures within a 2021 survey covering more than 6.5 km². The 2021 work used a DJI Phantom 4 RTK, about 27,000 overlapping photographs, Agisoft Metashape, and Pix4Dmapper to construct a point cloud and digital elevation model. The authors borrowed visualization practices from a Guatemalan airborne-laser study, but did not use a LiDAR sensor; tree-covered areas remained unreliable or unmapped.",
+      },
+      {
+        ...sanIsidroRemoteSensing(
+          "PDF pp. 5–8, GPR, magnetometry, and electrical-resistivity surveys",
+          5,
+        ),
+        citationNote:
+          "The presumed center was surveyed with 450 MHz GPR positioned by GNSS-RTK, cesium magnetometry, horizontal electrical-resistivity profiling, and vertical electrical sounding. The methods detected both possible anthropogenic anomalies and strong volcanic or agricultural signatures; the article repeatedly cautions that several right-angled or linear anomalies could not be assigned securely to archaeological architecture.",
+      },
+      {
+        ...sanIsidroRemoteSensing(
+          "PDF pp. 9–10, archaeological verification and conclusions",
+          9,
+        ),
+        citationNote:
+          "Targeted excavations at the Cerrito and Trapiche groups checked the remote-sensing interpretations. They supported a Middle-to-Late Preclassic chronology and showed that some mounds were largely heaped or compacted clay without formal facings; the authors present broader claims about urban organization and San Isidro's regional status as provisional results of an initial project phase.",
+      },
       {
         ...sanIsidroFigurines(
           "PDF pp. 4–6 (printed pp. 783–785), Cerrito 1 excavation and figurine tableau",
@@ -1285,8 +1322,35 @@ export const digs: Dig[] = [
     basis:
       "Marker is tied to the named archaeological park; the cited sources do not publish a coordinate or site boundary",
     note:
-      "Geophysical survey in 1979–1980 preceded an excavation program begun in 1989.",
+      "GPR surveys in 1979, 1992, and 1994 preceded and accompanied the excavation program; dry-season surveys in 1979 and 1994 produced the useful mapping results.",
     sources: [
+      {
+        ...institutional(
+          "1995-conyers-gpr-ceren.pdf",
+          "PDF pp. 1–2, study summary and buried-site inventory",
+          1,
+        ),
+        citationNote:
+          "Conyers analyzed more than 7,800 m of GPR profiles to map the buried living surface and structures through as much as 5–6 m of volcanic overburden. The paper reports 26 structures identifiable on profiles, including excavated examples used for comparison and additional anomalies not yet confirmed by drilling or excavation.",
+      },
+      {
+        ...institutional(
+          "1995-conyers-gpr-ceren.pdf",
+          "PDF pp. 7–9, 1979, 1992, and 1994 survey history and acquisition",
+          7,
+        ),
+        citationNote:
+          "The 1979 dry-season survey collected about 4,000 m of 80 MHz data over roughly 1 ha; an anomaly was later confirmed as a buried structure. An August 1992 attempt was limited by rainy-season moisture and found no significant anomalies. In 1994, 3,800 m of digital 300 and 500 MHz data were added, bringing the five-grid coverage to about 2 ha.",
+      },
+      {
+        ...institutional(
+          "1995-conyers-gpr-ceren.pdf",
+          "PDF pp. 18–23, structure identification and paleolandscape interpretation",
+          18,
+        ),
+        citationNote:
+          "Eight of nine excavated or partly excavated structures inside the grids were recognizable in the radar data, and 18 additional structure-like anomalies awaited confirmation. Depth-corrected profiles reconstructed a small valley, drainage channels, bluffs, plazas, household clusters, fields, and likely quarrying areas. These are geophysical interpretations, not excavated inventories of every anomaly.",
+      },
       {
         ...fundar(
           "parks.pdf",
@@ -1808,8 +1872,26 @@ export const digs: Dig[] = [
     basis:
       "Approximate marker; a cited summary places the site about 10 km south of Suchitoto but publishes no coordinate",
     note:
-      "Excavation is documented for 1996–2005; the cited passages do not describe the methods or finds.",
+      "The 2002–2003 campaign combined geophysical survey and GIS with excavation checks; GPR was planned but not ultimately used because conductivity and magnetic-susceptibility results were already strong.",
     sources: [
+      {
+        ...institutional(
+          "2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
+          "PDF pp. 3–5 (printed pp. 679–681), remote-sensing design and coverage",
+          3,
+        ),
+        citationNote:
+          "The project integrated subsurface remote sensing with GIS and excavation south of the Plaza Mayor. It initially tested magnetic gradiometry, electrical conductivity, and magnetic susceptibility. GPR was considered but not deployed after conductivity and susceptibility performed well; gradiometry was also discontinued. Two survey stages, 27 November–2 December 2002 and 18–23 March 2003, expanded coverage from 1.68 ha to approximately 20 ha of state-owned land.",
+      },
+      {
+        ...institutional(
+          "2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
+          "PDF pp. 5–8 (printed pp. 681–684), anomaly map and excavation verification",
+          5,
+        ),
+        citationNote:
+          "Conductivity and susceptibility anomalies guided the January–May 2003 excavation of Structure 3D2 near the Plaza Mayor. Excavation checked the mapped rooms and street alignment and helped explain unusually strong readings, demonstrating how the geophysical plan was tested rather than treated as a literal architectural map.",
+      },
       {
         ...institutional(
           "2012-escamilla-fowler-practica-arqueologia.pdf",
