@@ -41,7 +41,7 @@ const mysteries = [
   },
   {
     title: "What survives beneath Antiguo Cuscatlán?",
-    status: "Residential zone identified · civic and ceremonial core still missing",
+    status: "Candidate elite and ceremonial groups identified · capital core still unconfirmed",
     body: (
       <>
         Antiguo Cuscatlán is the probable setting of Cuzcatán, capital of the
@@ -49,14 +49,19 @@ const mysteries = [
         invasion, yet its surviving plan remains astonishingly unclear.
         Archaeologists have documented an extensive late precolonial
         residential zone—roughly 85 hectares in the earliest survey—with
-        house platforms, ceramics, obsidian, metates, and, at Madre Selva,
-        possible elite residences and a ceremonial group. What has never been
-        securely located is the capital’s central core: its principal plaza,
-        governing residences, pyramids, or ballcourt. Modern construction has
-        destroyed some deposits and may cover others, while the chronology and
-        full extent of what remains have never been resolved. For the most
-        important precolonial settlement in El Salvador, we still know far
-        more about its scattered neighborhoods than about its center.
+        house platforms, ceramics, obsidian, and metates. At Madre Selva,
+        excavators found three long halls interpreted as a possible governing
+        lineage compound and four mounds interpreted as a ceremonial group.
+        Cumbres de Cuscatlán produced another possible elite building and a
+        small ritual platform. Flores Manzano’s 2025 reconstruction treats the
+        Madre Selva groups as the monumental zone of the 1524 city, but the
+        identification is explicitly hypothetical: no complete city plan,
+        securely identified principal plaza, or ballcourt has been recovered.
+        Modern construction destroyed some deposits and may cover others, and
+        the surviving preservation zone represents only a fragment. The open
+        question is therefore no longer whether elite and ceremonial
+        architecture existed, but whether these particular remains formed the
+        capital’s principal core and what survives around them.
       </>
     ),
     maps: [
@@ -105,6 +110,10 @@ const mysteries = [
       {
         label: "Amaroli, Hermes & Velásquez 1994",
         href: "https://www.asociaciontikal.com/wp-content/uploads/2016/11/46.93-Amaroli-et-al..pdf",
+      },
+      {
+        label: "Flores Manzano 2025",
+        href: "https://revistas.utec.edu.sv/index.php/koot/article/view/1069",
       },
     ],
   },

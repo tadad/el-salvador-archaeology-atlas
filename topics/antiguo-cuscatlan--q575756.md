@@ -18,6 +18,7 @@ wikipedia:
 discovered_from:
   - "search Pedro de Alvarado Cuscatlán"
 source_leads:
+  - "https://revistas.utec.edu.sv/index.php/koot/article/view/1069"
   - "http://abaco.uca.edu.sv/acervo/Diario_Oficial/1865%20falta%20oct%20nov%20dic/1865-06.pdf"
   - "http://www.antiguocuscatlan.gob.sv"
   - "http://www.antiguocuscatlan.gob.sv/?categoria=15"
@@ -64,12 +65,57 @@ De acuerdo con la estadística del departamento de La Libertad hecha por el gobe
 
 Mediante el crecimiento de la ciudad capital, Antiguo Cuscatlán ha pasado a ser una periferia importante, albergando instituciones importantes, tales como el Ministerio de Relaciones Exteriores (Cancillería), la Fiscalía General de la República, las Embajadas de la Orden de Malta, Estados Unidos de América, Belice. Además en esta ciudad se encuentra la sede oficial de la SICA, Secretaría de Integración Centroamericana.
 
+## Archaeological synthesis: Classic through 1524
+
+Flores Manzano's 2025 article synthesizes surface survey, the 1992 Madre
+Selva rescue, the 1993–94 Cumbres de Cuscatlán rescue, unpublished internal
+records, and a July 2024 visit to the surviving preservation zone. It should not
+be read as one new excavation report.
+
+- At Madre Selva, the compiled 1992 record reports about 22 burials, more than
+  65 ceramic vessels, eight Postclassic structures, and numerous ordinary
+  dwellings. The Late Classic occupation is reconstructed as a village of at
+  least roughly 50 hectares around Plan de la Laguna, with bahareque houses,
+  refuse pits, household burials, obsidian, figurines, and carbonized avocado,
+  cacao, squash, and maize seeds (PDF pp. 14–16; printed pp. 24–26).
+- The Postclassic remains include a three-hall plaza interpreted as an elite or
+  governing lineage compound and a four-mound group interpreted as ceremonial.
+  Burned buildings and arrow points are real observations, but neither the 1992
+  investigators nor Flores Manzano establishes that this destruction occurred
+  during the Spanish invasion (PDF pp. 16–18; printed pp. 26–28).
+- Cumbres de Cuscatlán covered an 850,000 m² development, but its 330
+  operations excavated only about 1,100 m². The paper compiles domestic
+  platforms, agricultural terraces, activity areas, stone-and-earth buildings,
+  offerings, and occupation from the Late Preclassic through Late Postclassic
+  (PDF pp. 19–28; printed pp. 29–38). The article calls this sample 0.3% in one
+  passage and 0.2% in another; the two stated areas instead calculate to about
+  0.13%, so the published percentages should not be repeated without that caveat.
+- The Cumbres Sector IV complex occupied a modified 80 × 40 m hill. It included
+  a two-room masonry-and-bahareque building labeled a palace and a small
+  T-shaped platform labeled an adoratory. A drain prompted a later temazcal
+  interpretation, which the article reports as disputed. One offering contained
+  Plumbate and Nicoya vessels and unused obsidian blades, including green
+  Pachuca obsidian (PDF pp. 24–26; printed pp. 34–36).
+- In July 2024, Flores Manzano revisited the Madre Selva preservation zone,
+  reported an additional mound-like feature and a relocated foundation that he
+  tentatively associates with the earlier Group 1 plan, and documented the
+  roughly 16 m foundation with Polycam and an iPad Pro LiDAR sensor. The paper's
+  rendered monumental center is explicitly a hypothetical reconstruction, not
+  a surveyed plan of the entire city (PDF pp. 38–41; printed pp. 48–51).
+
+The author proposes that this broad archaeological zone represents historic
+Cuscatlán and interprets the former lagoon as a potentially important ritual
+landscape. Those are arguments to test, not direct excavation results. Modern
+development destroyed or obscured much of the settlement, and the rescue sample
+was too small to recover a secure plan or boundary for the capital.
+
 <!-- local-source-matches:start -->
 ## Local source matches
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
 - [Recientes investigaciones en Antiguo Cuscatlán, El Salvador](../sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf) — Paul Amaroli, Bernard Hermes, and Juan Luis Velásquez
+- [Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador](../sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md) — Carlos Flores Manzano
 - [Un sitio Preclásico Medio en la ciudad de Antiguo Cuscatlán, depto. de La Libertad, El Salvador, Centroamérica. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1987 (con fotografías agregadas en 2012).](../sources/fundar/antiguo_preclasico.pdf) — Amaroli, Paul E.
 - [Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524](../sources/public-domain/documentosantigu00alva.pdf) — Alvarado, Pedro de, 1485?-1541
 - [En la búsqueda de Cuscatlán: un estudio etnohistórico y arqueológico. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador, 1986.](../sources/fundar/buscacuscatlan.pdf) — Amaroli, Paul E.

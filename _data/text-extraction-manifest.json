@@ -2247,6 +2247,27 @@
     "source_link": "../../institutional/2014-erquicia-estadistica-1854-arqueologia.pdf"
   },
   {
+    "source_path": "sources/institutional/2025-flores-manzano-despues-ilopango.pdf",
+    "output_path": "sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md",
+    "source_sha256": "0c5e6915c0a7e7e2f736ddcbbbaf63e297aa31e57907ab5e602a4aa686a8e13e",
+    "source_bytes": 3474511,
+    "source_url": "https://repositorio.utec.edu.sv/server/api/core/bitstreams/bde7c19d-6250-4ce7-9709-6e4cc3342b21/content",
+    "title": "Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador",
+    "creator": "Carlos Flores Manzano",
+    "ocr_mode": "auto",
+    "ocr_language": "spa+eng",
+    "ocr_dpi": 250,
+    "generated": "2026-08-09",
+    "status": "complete",
+    "error": "",
+    "pages": 50,
+    "embedded_pages": 50,
+    "ocr_pages": 0,
+    "empty_pages": 0,
+    "warnings": [],
+    "source_link": "../../institutional/2025-flores-manzano-despues-ilopango.pdf"
+  },
+  {
     "source_path": "sources/institutional/2025-szymanski-prejs-san-isidro-figurines.pdf",
     "output_path": "sources/markdown/2025-szymanski-prejs-san-isidro-figurines/2025-szymanski-prejs-san-isidro-figurines.md",
     "source_sha256": "17b264e3d59077c7f2e75cde1cb76bb20efaf71cde9b0b05841cd634652ce79c",

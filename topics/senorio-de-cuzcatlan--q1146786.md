@@ -36,6 +36,7 @@ discovered_from:
   - "search obsidiana El Salvador prehispánica"
   - "search señorío Cuzcatlán"
 source_leads:
+  - "https://revistas.utec.edu.sv/index.php/koot/article/view/1069"
   - "http://books.google.com.sv/books?id=5rIVAAAAYAAJ&printsec=titlepage"
   - "http://books.google.com.sv/books?id=Uk4CAAAAYAAJ&printsec=titlepage"
   - "http://dx.doi.org/10.1093%2Facrefore%2F9780199366439.013.616"
@@ -82,7 +83,9 @@ Estaba dividido en 72 provincias tributarias denominadas como kalpishkayu (náhu
 <!-- local-source-matches:start -->
 ## Local source matches
 
-No conservative automatic match was found in the downloaded archive. Check the field guide and source indexes manually.
+- [Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador](../sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md) — Carlos Flores Manzano
+- [Recientes investigaciones en Antiguo Cuscatlán, El Salvador](../sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf) — Paul Amaroli, Bernard Hermes, and Juan Luis Velásquez
+- [En la búsqueda de Cuscatlán: un estudio etnohistórico y arqueológico](../sources/fundar/buscacuscatlan.pdf) — Paul E. Amaroli
 
 <!-- local-source-matches:end -->
 
