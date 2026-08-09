@@ -27,6 +27,7 @@ const mysteries = [
         1525 securely from 1528.
       </>
     ),
+    maps: [],
     sources: [
       {
         label: "Amaroli 1986",
@@ -58,6 +59,44 @@ const mysteries = [
         more about its scattered neighborhoods than about its center.
       </>
     ),
+    maps: [
+      {
+        src: "/images/buscacuscatlan/figure-18-survey-area.webp",
+        alt: "Figure 18 map outlining the Antiguo Cuscatlán archaeological survey area.",
+        caption: "Figure 18. Survey area.",
+        href: "https://fundar.org.sv/referencias/buscacuscatlan.pdf#page=180",
+      },
+      {
+        src: "/images/buscacuscatlan/figure-19-cultural-materials.webp",
+        alt: "Figure 19 map showing the distribution and density of cultural materials around Antiguo Cuscatlán.",
+        caption: "Figure 19. Surface cultural materials.",
+        href: "https://fundar.org.sv/referencias/buscacuscatlan.pdf#page=181",
+      },
+      {
+        src: "/images/buscacuscatlan/figure-20-surface-collections.webp",
+        alt: "Figure 20 map showing the numbered surface collection proveniences around Antiguo Cuscatlán.",
+        caption: "Figure 20. Surface collection proveniences.",
+        href: "https://fundar.org.sv/referencias/buscacuscatlan.pdf#page=182",
+      },
+      {
+        src: "/images/buscacuscatlan/figure-25-late-classic-distribution.webp",
+        alt: "Figure 25 map showing the interpreted distribution of Late Classic materials.",
+        caption: "Figure 25. Late Classic distribution.",
+        href: "https://fundar.org.sv/referencias/buscacuscatlan.pdf#page=189",
+      },
+      {
+        src: "/images/buscacuscatlan/figure-26-postclassic-distribution.webp",
+        alt: "Figure 26 map showing the interpreted distribution of Postclassic materials.",
+        caption: "Figure 26. Postclassic distribution.",
+        href: "https://fundar.org.sv/referencias/buscacuscatlan.pdf#page=190",
+      },
+      {
+        src: "/images/buscacuscatlan/figure-27-joateca-distribution.webp",
+        alt: "Figure 27 map showing the distribution of Joateca ceramics used as a Protohistoric marker.",
+        caption: "Figure 27. Joateca ceramic distribution.",
+        href: "https://fundar.org.sv/referencias/buscacuscatlan.pdf#page=191",
+      },
+    ],
     sources: [
       {
         label: "Amaroli 1986",
@@ -107,6 +146,29 @@ export default function UnknownPage() {
                   <strong>Status:</strong> {mystery.status}
                 </p>
                 <p>{mystery.body}</p>
+                {mystery.maps.length > 0 ? (
+                  <div className={styles.mapFigures}>
+                    {mystery.maps.map((map) => (
+                      <figure className={styles.mapFigure} key={map.src}>
+                        <a href={map.href} target="_blank" rel="noreferrer">
+                          <img
+                            src={map.src}
+                            alt={map.alt}
+                            width="2520"
+                            height="1530"
+                            loading="lazy"
+                          />
+                        </a>
+                        <figcaption>
+                          {map.caption}{" "}
+                          <a href={map.href} target="_blank" rel="noreferrer">
+                            Amaroli 1986 ↗
+                          </a>
+                        </figcaption>
+                      </figure>
+                    ))}
+                  </div>
+                ) : null}
                 <p className={styles.sources} aria-label="Research leads">
                   <strong>Research leads:</strong>{" "}
                   {mystery.sources.map((source) => (

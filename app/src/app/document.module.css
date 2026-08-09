@@ -84,6 +84,29 @@
   margin: 0.75rem 0;
 }
 
+.mapFigures {
+  margin-top: 1.5rem;
+}
+
+.mapFigure {
+  margin: 1.5rem 0 0;
+}
+
+.mapFigure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #d8d8d8;
+  background: #f7f7f7;
+}
+
+.mapFigure figcaption {
+  margin-top: 0.4rem;
+  color: #555;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
 @media (max-width: 520px) {
   .masthead,
   .content {
