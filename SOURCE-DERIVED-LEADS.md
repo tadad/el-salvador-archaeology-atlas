@@ -11,6 +11,7 @@ are provisional and apply only to the core described in the cited source.
 | --- | --- | --- | --- |
 | El Cajete | El Salvador | archaeologically corroborated | [1983 reconnaissance](sources/fundar/amaroli_elcajete.pdf) |
 | Antiguo Cuscatlán Middle Preclassic site | La Libertad | archaeologically corroborated | [1987 field manuscript](sources/fundar/antiguo_preclasico.pdf) |
+| Madre Selva and Cumbres de Cuscatlán urban-archaeology zone | Antiguo Cuscatlán | rescue-excavated Classic and Postclassic settlement; much of the wider zone destroyed or untested | [2025 synthesis and preservation-zone revisit](sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md) |
 | Asunción church, Ahuachapán | Ahuachapán | archaeologically/historically corroborated | [1985 investigation](sources/fundar/asuncion_ahuachapan.pdf) |
 | Asunción church ruins, Izalco | Sonsonate | archaeologically/historically corroborated | [1989 report](sources/fundar/asuncion_izalco.pdf) and [field photographs](sources/fundar/asuncion_izalco_fotos.zip) |
 | Asanyamba | Gulf of Fonseca/La Unión | archaeologically corroborated | [1982 ceramic analysis](sources/fundar/beaudry_asanyamba.pdf) |
@@ -77,7 +78,7 @@ are provisional and apply only to the core described in the cited source.
 | Nahuat settlement across Central America | historically influential model requiring reassessment | [Vivó Escoto 1973](sources/fundar/vivo_escoto_poblamiento.pdf) |
 | “Pipil question” and ceramic ethnicity | disputed | [Haberland on Marihua](sources/fundar/haberland_marihua.pdf) |
 | Southeastern Maya frontier | mixed archaeological pattern; “frontier” model historically contingent | [Lothrop 1939](sources/fundar/lothrop_se_frontier_maya.pdf), [Bruhns 1996](sources/fundar/frontier.pdf) |
-| Cuscatlán capital/location | ethnohistorically documented polity; exact archaeological identification disputed | [Amaroli 1986](sources/fundar/buscacuscatlan.pdf), [1993 fieldwork](sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf) |
+| Cuscatlán capital/location | ethnohistorically documented polity; the proposed identification of the Madre Selva monumental groups with the 1524 capital remains interpretive | [Amaroli 1986](sources/fundar/buscacuscatlan.pdf), [1993 fieldwork](sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf), [Flores Manzano 2025](sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md) |
 | Tacuzcalco/Tacuscalco | historically attested and archaeologically corroborated | [Alvarado letters](sources/public-domain/documentosantigu00alva.pdf), [Palacio report](sources/public-domain/sansalvadorundh00beregoog.pdf) |
 | Cacao towns of Izalco, Caluco, Nahulingo, and Tacuzcalco | historically attested | [Palacio 1576](sources/public-domain/sansalvadorundh00beregoog.pdf) |
 | Atlácatl as named national hero | mixed/legendary; later documentary chain needed | [Alvarado letters](sources/public-domain/documentosantigu00alva.pdf) |

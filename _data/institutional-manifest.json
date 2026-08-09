@@ -296,5 +296,19 @@
     "sha256": "628d499496d6e4d0ca877cb147ac3387f7924cbbca27ab28c54d7ce75344ab19",
     "local_path": "institutional/identidades-19.pdf",
     "error": ""
+  },
+  {
+    "filename": "2025-flores-manzano-despues-ilopango.pdf",
+    "title": "Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador",
+    "creator": "Carlos Flores Manzano",
+    "date": "2025",
+    "level": "strong-secondary/original-research",
+    "url": "https://repositorio.utec.edu.sv/server/api/core/bitstreams/bde7c19d-6250-4ce7-9709-6e4cc3342b21/content",
+    "landing_page": "https://revistas.utec.edu.sv/index.php/koot/article/view/1069",
+    "status": "downloaded",
+    "bytes": 3474511,
+    "sha256": "0c5e6915c0a7e7e2f736ddcbbbaf63e297aa31e57907ab5e602a4aa686a8e13e",
+    "local_path": "institutional/2025-flores-manzano-despues-ilopango.pdf",
+    "error": ""
   }
 ]

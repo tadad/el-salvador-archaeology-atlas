@@ -4,9 +4,9 @@ This directory mirrors every source PDF as page-addressable Markdown.
 Embedded text is used when adequate; deficient pages are OCRed in `auto` mode.
 Always check the source PDF before exact quotation or relying on tables and page layout.
 
-- Documents: 126
-- Pages: 6256
-- Complete: 105
+- Documents: 127
+- Pages: 6306
+- Complete: 106
 - Partial: 21
 - Errors: 0
 - OCR-derived pages: 1117
@@ -26,6 +26,7 @@ Always check the source PDF before exact quotation or relying on tables and page
 - [Informe de actividades en Cihuatán, 2011-2012. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 2012.](<2012fundar/2012fundar.md>) - 140 pages; complete; 5 OCR
 - [Obrajes para beneficiar añil en San Vicente y La Paz](<2013-erquicia-obrajes-anil/2013-erquicia-obrajes-anil.md>) - 16 pages; complete; 0 OCR
 - [Nación moderna y arqueología: La Estadística de 1854](<2014-erquicia-estadistica-1854-arqueologia/2014-erquicia-estadistica-1854-arqueologia.md>) - 9 pages; complete; 0 OCR
+- [Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador](<2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md>) - 50 pages; complete; 0 OCR
 - [Of puppets and puppeteers: Preclassic clay figurines from San Isidro, El Salvador](<2025-szymanski-prejs-san-isidro-figurines/2025-szymanski-prejs-san-isidro-figurines.md>) - 17 pages; complete; 0 OCR
 - [Le Salvador précolombien : études archéologiques](<BSG_DELTA700FA/BSG_DELTA700FA.md>) - 72 pages; partial; 27 OCR
 - [Informe sobre la primera etapa de las excavaciones en las ruinas de Cihuatán. América Indígena , Vol. 35(4):699-714.](<Gloria1975/Gloria1975.md>) - 17 pages; complete; 17 OCR

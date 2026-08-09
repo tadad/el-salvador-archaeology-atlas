@@ -653,7 +653,37 @@ export const siteStudyHistory: Record<string, readonly StudyEvent[]> = {
       evidence: "antiguo_preclasico.pdf, PDF pp. 1, 3, 6, 11",
     },
   ],
+  "plan-de-la-laguna-cuscatlan": [
+    {
+      date: "2024–2025",
+      sortYear: 2025,
+      kind: "archival-synthesis",
+      description: "Flores Manzano reexamined the survey and rescue record and proposed the former lagoon as a potentially meaningful ritual landscape; that interpretation is explicitly distinguishable from the survey observations.",
+      evidence: "2025-flores-manzano-despues-ilopango.pdf, PDF pp. 2–3, 8–10, 35–38",
+    },
+    {
+      date: "December 1984–February 1985",
+      sortYear: 1985,
+      kind: "fieldwork",
+      description: "An intensive pedestrian survey used parallel transects, recorded surface features, and made 49 diagnostic collections across the wider Cuscatlán study area, including extensive remains around the former lagoon.",
+      evidence: "buscacuscatlan.pdf, PDF pp. 89–90 (printed pp. 82–83)",
+    },
+  ],
   madreselva: [
+    {
+      date: "2024–2025",
+      sortYear: 2025,
+      kind: "archival-synthesis",
+      description: "A new synthesis reexamined published and unpublished rescue records and presented an explicitly hypothetical reconstruction of the monumental groups.",
+      evidence: "2025-flores-manzano-despues-ilopango.pdf, PDF pp. 1, 14–29, 40–41",
+    },
+    {
+      date: "July 2024",
+      sortYear: 2024,
+      kind: "condition-assessment",
+      description: "Flores Manzano revisited the preservation zone, recorded a possible additional mound and relocated foundation, and made a Polycam/iPad LiDAR model; the structural identification is tentative.",
+      evidence: "2025-flores-manzano-despues-ilopango.pdf, PDF pp. 38–40 (printed pp. 48–50)",
+    },
     {
       date: "2013",
       sortYear: 2013,
@@ -674,6 +704,29 @@ export const siteStudyHistory: Record<string, readonly StudyEvent[]> = {
       kind: "fieldwork",
       description: "Rescue excavation investigated the site during urban development.",
       evidence: "1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf, PDF pp. 1–8",
+    },
+  ],
+  "cumbres-de-cuscatlan": [
+    {
+      date: "2024–2025",
+      sortYear: 2025,
+      kind: "archival-synthesis",
+      description: "Flores Manzano synthesized the sector reports and unpublished rescue documentation, including the palace, adoratory, offerings, and the very small excavated sample.",
+      evidence: "2025-flores-manzano-despues-ilopango.pdf, PDF pp. 19–29",
+    },
+    {
+      date: "1997",
+      sortYear: 1997,
+      kind: "reinterpretation",
+      description: "A drain in the Sector IV palace prompted a possible temazcal interpretation, which the 2025 paper reports as disputed.",
+      evidence: "2025-flores-manzano-despues-ilopango.pdf, PDF p. 25 (printed p. 35)",
+    },
+    {
+      date: "1993–1994",
+      sortYear: 1994,
+      kind: "fieldwork",
+      description: "The five-sector rescue project used reconnaissance, random sampling, and directed pits and trenches before urban development.",
+      evidence: "1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf, PDF pp. 3–5; 2025-flores-manzano-despues-ilopango.pdf, PDF p. 19",
     },
   ],
   "sitio-c-la-viuda": [

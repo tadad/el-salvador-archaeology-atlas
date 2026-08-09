@@ -29,7 +29,7 @@ sources.
   problems, and traditions surfaced by the downloaded literature even when
   Wikipedia coverage is weak or absent
 - [Searchable PDF text](sources/markdown/INDEX.md) — page-addressable Markdown
-  for all 126 locally archived PDFs, using embedded text and targeted
+  for all 127 locally archived PDFs, using embedded text and targeted
   multilingual OCR
 - [Topic index](INDEX.md) — generated inventory of discovery records
 - [Sources](sources/INDEX.md) — downloaded and linked primary/strong secondary
@@ -69,7 +69,7 @@ page markers, while `_data/` retains the corpus manifests. This keeps the
 research provenance reproducible without making application deployments clone
 hundreds of megabytes of duplicate source files.
 
-The current searchable mirror covers all 6,256 PDF pages. Each derivative
+The current searchable mirror covers all 6,306 PDF pages. Each derivative
 records its source URL and hash, preserves PDF page boundaries, and labels each
 page as embedded text, OCR, or unrecognized. Treat the text as a discovery aid
 and check the PDF before exact quotation or interpreting tables and figures.

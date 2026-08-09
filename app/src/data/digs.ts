@@ -29,6 +29,8 @@ const publisherUrls: Record<string, string> = {
     "https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf",
   "1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf":
     "https://www.asociaciontikal.com/wp-content/uploads/2016/11/46.93-Amaroli-et-al..pdf",
+  "2025-flores-manzano-despues-ilopango.pdf":
+    "https://repositorio.utec.edu.sv/server/api/core/bitstreams/bde7c19d-6250-4ce7-9709-6e4cc3342b21/content",
   "1998-coladan-pinturas-rupestres-oriente.pdf":
     "https://www.asociaciontikal.com/wp-content/uploads/2016/11/43.97_-_Elisenda.pdf",
   "anales-53.pdf":
@@ -1523,6 +1525,36 @@ export const digs: Dig[] = [
     ],
   },
   {
+    id: "plan-de-la-laguna-cuscatlan",
+    name: "Plan de la Laguna (Cuscatlán survey landscape)",
+    lat: 13.67222,
+    lon: -89.24722,
+    precision: "landmark",
+    kind: "Intensively surveyed archaeological landscape",
+    basis: "Former Laguna de Cuscatlán crater and modern Plan de la Laguna landmark",
+    note: "The point marks the crater landscape around which survey finds were distributed, not a single collection location, structure, or excavation unit.",
+    sources: [
+      {
+        ...fundar(
+          "buscacuscatlan.pdf",
+          "PDF pp. 89–90 (printed pp. 82–83), intensive survey methods and results",
+          89,
+        ),
+        citationNote:
+          "Amaroli reports walking parallel transects 20–30 m apart in 1984–1985 and making 49 diagnostic surface collections. Remains around the former lagoon crater were extensive and essentially continuous, but varied in density; the report does not publish a geographic coordinate for each collection or define the entire distribution as one bounded site.",
+      },
+      {
+        ...institutional(
+          "2025-flores-manzano-despues-ilopango.pdf",
+          "PDF pp. 2–3, 8–10 (printed pp. 12–13, 18–20), landscape and survey synthesis",
+          2,
+        ),
+        citationNote:
+          "The paper identifies the former Laguna de Cuscatlán, now Plan de la Laguna, as the principal topographic feature and reproduces the survey area and cultural-material distribution. Its interpretation of the lagoon as a ritual landscape is a hypothesis rather than a directly excavated result.",
+      },
+    ],
+  },
+  {
     id: "madreselva",
     name: "Madreselva",
     lat: 13.6669,
@@ -1549,6 +1581,63 @@ export const digs: Dig[] = [
         ),
         citationNote:
           "The retrospective account dates rescue activity at the Postclassic Madre Selva site to 1992 and reports that one structure, called the Palacio de Madre Selva, was dismantled and reassembled nearby. It does not date the site's Late Classic occupation or provide an excavation coordinate.",
+      },
+      {
+        ...institutional(
+          "2025-flores-manzano-despues-ilopango.pdf",
+          "PDF pp. 14–18 (printed pp. 24–28), Madre Selva synthesis",
+          14,
+        ),
+        citationNote:
+          "The paper synthesizes unpublished 1992 records: about 22 burials, more than 65 vessels, eight Postclassic structures, a Late Classic village of roughly 50 hectares or more, a three-hall elite compound, and a four-mound ceremonial group. Burned structures and arrow points are documented, but the paper does not establish that the burning resulted from the 1524 invasion.",
+      },
+      {
+        ...institutional(
+          "2025-flores-manzano-despues-ilopango.pdf",
+          "PDF pp. 38–41 (printed pp. 48–51), preservation-zone revisit and reconstruction",
+          38,
+        ),
+        citationNote:
+          "Flores Manzano reports a July 2024 visit, a possible additional mound, and a relocated roughly 16 m foundation documented with Polycam and iPad Pro LiDAR. Its association with Group 1 is tentative, and Figure 16 is explicitly a hypothetical reconstruction rather than a measured plan of the whole city.",
+      },
+    ],
+  },
+  {
+    id: "cumbres-de-cuscatlan",
+    name: "Cumbres de Cuscatlán",
+    lat: 13.66555,
+    lon: -89.2438,
+    precision: "landmark",
+    kind: "Multi-period rescue-excavation area",
+    basis: "Modern Urbanización Cumbres de Cuscatlán across the five mapped project sectors",
+    note: "The point is a modern-development centroid for an approximately 850,000 m² rescue area, not a published coordinate for Sector IV, the palace, the adoratory, or an excavation unit.",
+    sources: [
+      {
+        ...institutional(
+          "1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf",
+          "PDF pp. 3–5 (printed pp. 529–531); project plan on PDF p. 10 (printed p. 536)",
+          3,
+        ),
+        citationNote:
+          "The contemporary report places the five-sector Cumbres project immediately south of Antiguo Cuscatlán, with Sector V adjoining Madre Selva to the west and Plan de la Laguna to the north. Figure 5 maps the modern development sectors but publishes no geographic excavation coordinate.",
+      },
+      {
+        ...institutional(
+          "2025-flores-manzano-despues-ilopango.pdf",
+          "PDF pp. 19–28 (printed pp. 29–38), Cumbres rescue synthesis",
+          19,
+        ),
+        citationNote:
+          "Flores Manzano synthesizes 330 operations and about 1,100 m² excavated across the roughly 850,000 m² project, documenting terraces, domestic platforms, offerings, and stone-and-earth buildings from the Late Preclassic through Late Postclassic. The stated areas calculate to about 0.13%; the article inconsistently labels the sample 0.3% and later 0.2%.",
+      },
+      {
+        ...institutional(
+          "2025-flores-manzano-despues-ilopango.pdf",
+          "PDF pp. 24–26 (printed pp. 34–36), Sector IV Group 2",
+          24,
+        ),
+        citationNote:
+          "Sector IV Group 2 occupied a modified 80 × 40 m hill and included a two-room building called a palace and a small T-shaped platform called an adoratory. The possible temazcal interpretation of the palace drain is reported as disputed; the marker does not claim to locate these individual structures.",
       },
     ],
   },

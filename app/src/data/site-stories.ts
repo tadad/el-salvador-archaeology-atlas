@@ -280,15 +280,35 @@ export const siteStories: Record<string, SiteStory> = {
     discoveries:
       "Investigators recorded at least seven burials; no artifacts were associated with them. The cultural layer also contained pottery, obsidian, burned earth, charcoal, floor segments, and stones interpreted as an earth oven.",
   },
+  "plan-de-la-laguna-cuscatlan": {
+    overview:
+      "The former Laguna de Cuscatlán crater and its margins anchor a broad archaeological landscape in modern Antiguo Cuscatlán. The marker represents the surveyed landscape rather than one bounded site or excavation.",
+    dates:
+      "The survey documented Late Classic and Postclassic material around the former lagoon. Earlier occupations occur elsewhere in the wider Cuscatlán zone, but the cited survey pages do not map every period to this landmark.",
+    fieldwork:
+      "From December 1984 through February 1985, investigators walked intensive parallel transects generally 20–30 m apart, recorded visible platforms and stone concentrations, and made 49 diagnostic surface collections.",
+    discoveries:
+      "Surface remains around the crater were extensive and nearly continuous, though their density varied. Finds included pottery, obsidian blades, manos, metates, donut stones, and probable residential platforms. The distribution supports a substantial settlement landscape but did not reveal an undisputed capital core or ballcourt.",
+  },
   madreselva: {
     overview:
       "A rescue-excavated site within the Madre Selva development in Antiguo Cuscatlán. The report documents a Late Classic village and two Postclassic groups of structures.",
     dates:
       "The cited report dates the documented occupations to 600–1524 CE: Late Classic (600–900) and Postclassic (900–1524). Rescue activity is documented in 1992.",
     fieldwork:
-      "A development-led rescue program excavated the site. One Postclassic structure was dismantled and reassembled nearby as construction advanced.",
+      "A development-led rescue program excavated the site. One Postclassic structure was dismantled and reassembled nearby as construction advanced. In July 2024, Flores Manzano revisited the preservation zone and documented a relocated foundation with Polycam and an iPad Pro LiDAR sensor; no new excavation is reported.",
     discoveries:
-      "Late Classic remains included wattle-and-daub dwellings, refuse pits, and burials near houses, commonly with ceramic vessels. Postclassic excavations recorded a three-structure plaza and a four-mound group; arrowheads lay beside the foundations of burned buildings.",
+      "Late Classic remains included wattle-and-daub dwellings, refuse pits, and burials near houses, commonly with ceramic vessels. Postclassic excavations recorded a three-structure plaza and a four-mound group; arrowheads lay beside the foundations of burned buildings, but their connection to the Spanish invasion is unproven. The 2024 revisit reported a possible additional mound and a relocated foundation tentatively associated with Group 1.",
+  },
+  "cumbres-de-cuscatlan": {
+    overview:
+      "A five-sector rescue-archaeology project across the modern Cumbres de Cuscatlán development, adjoining Madre Selva and the former Plan de la Laguna. The atlas point represents the broad project area, not one excavation unit.",
+    dates:
+      "The excavated evidence ranges from the Late Preclassic through the Late Postclassic. Rescue fieldwork ran during 1993–1994.",
+    fieldwork:
+      "Investigators began with pedestrian reconnaissance and then used random and directed excavation in small pits and trenches. The later synthesis reports 330 operations and about 1,100 m² excavated across approximately 850,000 m²; those areas equal roughly 0.13%, despite conflicting percentages printed in the paper.",
+    discoveries:
+      "The project recorded agricultural terraces, domestic platforms, modified slopes, activity areas, offerings, and stone-and-earth buildings. Sector IV included a two-room building called a palace and a T-shaped platform called an adoratory; offerings there contained Plumbate and Nicoya ceramics and unused obsidian blades, including green Pachuca obsidian. A proposed temazcal interpretation remains disputed.",
   },
   "sitio-c-la-viuda": {
     overview:

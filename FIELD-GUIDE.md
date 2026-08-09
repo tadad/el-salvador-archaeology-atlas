@@ -143,7 +143,11 @@ de Cuzcatlán should be treated as a research problem, not a fixed map. Separate
 The indispensable local source trail is [Alvarado's 1524 letters](sources/public-domain/documentosantigu00alva.pdf),
 [García de Palacio's 1576 report](sources/public-domain/sansalvadorundh00beregoog.pdf),
 [Amaroli's *En la búsqueda de Cuscatlán*](sources/fundar/buscacuscatlan.pdf),
-and [the Antiguo Cuscatlán investigations](sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf).
+[the Antiguo Cuscatlán investigations](sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf),
+and Flores Manzano's [2025 synthesis and preservation-zone revisit](sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md).
+The 2025 paper is especially useful for tracing unpublished 1992–95 rescue
+records, but distinguish the earlier excavators' evidence from Flores Manzano's
+2024 observations and from his explicitly hypothetical reconstruction.
 
 ### Historical archaeology
 

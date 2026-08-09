@@ -211,11 +211,23 @@ export const siteClassifications: Record<string, SiteClassification> = {
     lastInvestigatedYear: 1987,
     lastInvestigatedLabel: "1987 rescue investigation",
   },
+  "plan-de-la-laguna-cuscatlan": {
+    periods: ["Classic", "Postclassic"],
+    cultures: ["Maya-related", "Nahua / Pipil-related"],
+    lastInvestigatedYear: 1985,
+    lastInvestigatedLabel: "December 1984–February 1985 intensive pedestrian survey",
+  },
   madreselva: {
     periods: ["Classic", "Postclassic"],
     cultures: ["Maya-related", "Nahua / Pipil-related"],
-    lastInvestigatedYear: 1992,
-    lastInvestigatedLabel: "1992 rescue activity",
+    lastInvestigatedYear: 2024,
+    lastInvestigatedLabel: "July 2024 preservation-zone condition assessment and mobile LiDAR recording",
+  },
+  "cumbres-de-cuscatlan": {
+    periods: ["Preclassic", "Classic", "Postclassic"],
+    cultures: ["Maya-related", "Nahua / Pipil-related"],
+    lastInvestigatedYear: 1994,
+    lastInvestigatedLabel: "1993–1994 rescue excavation",
   },
   "sitio-c-la-viuda": {
     periods: [],
