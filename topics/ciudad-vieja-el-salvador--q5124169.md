@@ -2,8 +2,8 @@
 id: "Q5124169"
 title: "Ciudad Vieja (El Salvador)"
 kind: "site"
-evidence: "unassessed"
-review_status: "machine-discovered"
+evidence: "archaeologically-corroborated"
+review_status: "partially-reviewed"
 regional_relevance: "direct"
 el_salvador_connection: "Direct Salvadoran subject discovered through article text or an El Salvador-specific discovery path."
 retrieved: "2026-08-06"
@@ -24,6 +24,8 @@ discovered_from:
   - "search excavación arqueológica El Salvador"
   - "search sitio arqueológico El Salvador"
 source_leads:
+  - "https://www.asociaciontikal.com/simposio-17-ano-2003/61-03-fowler-doc/"
+  - "https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf"
   - "http://biblioteca.utec.edu.sv/entorno/index.php/entorno/article/view/154"
   - "http://books.google.com/books?as_brr=0&as_pub=-icon&q=%22Ciudad+Vieja+%28El+Salvador%29%22"
   - "http://sitemason.vanderbilt.edu/page/dQOMJa"
@@ -46,16 +48,20 @@ El área donde se encontraba está villa, que luego será conocido como el valle
 
 El traslado anteriormente apuntalado permitió que los cimientos de la villa se mantuvieran intactos hasta su redescubrimiento en el siglo XX . Por ello, el sitio constituye uno de los pocos lugares de Hispanoamérica para realizar arqueología de la época de la Conquista de América y las primeras décadas de la colonización. El sitio está situado a unos ocho o diez kilómetros al sur de Suchitoto , que en ese tiempo era un pueblo de indios , hoy parte del departamento de Cuscatlán .
 
+## 2002–2003 geophysical survey
+
+The Ciudad Vieja project integrated subsurface remote sensing, GIS, and excavation to study the early colonial town south of the Plaza Mayor. The team initially tested magnetic gradiometry, electrical conductivity, and magnetic susceptibility. Ground-penetrating radar was considered, but it was not deployed after conductivity and susceptibility produced strong results; gradiometry was also discontinued after the first stage. [PDF pp. 3–5 (printed pp. 679–681)](../sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md#page-3)
+
+Survey ran from 27 November to 2 December 2002 and again from 18 to 23 March 2003. The first stage covered 1.68 ha; the second expanded conductivity and susceptibility coverage to approximately 20 ha of state-owned land in 20 × 20 m grids. Anomaly maps indicated buried rooms, buildings, and a street near the Plaza Mayor. Excavation of Structure 3D2 from January through May 2003 tested parts of that plan and helped explain strong readings rather than accepting every anomaly as architecture. [PDF pp. 5–8 (printed pp. 681–684)](../sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md#page-5)
+
 <!-- local-source-matches:start -->
 ## Local source matches
 
-Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
-
-- [Los límites de Cihuatán: reconocimiento arqueológico para determinar la extensión de la antigua ciudad. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2003.](../sources/fundar/limits.pdf) — Amaroli, Paul E. y Fabio E. Amador
-- [Un sitio Preclásico Medio en la ciudad de Antiguo Cuscatlán, depto. de La Libertad, El Salvador, Centroamérica. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1987 (con fotografías agregadas en 2012).](../sources/fundar/antiguo_preclasico.pdf) — Amaroli, Paul E.
+- [Fowler et al., *Ciudad Vieja, El Salvador: Teledetección y patrón de asentamiento de una ciudad de la época de la conquista* (2004)](../sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md) — complete 16-page derivative; verify plans and exact wording against the [source PDF](https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf).
+- [Escamilla and Fowler, *Práctica y conducta de la arqueología salvadoreña durante los últimos 25 años* (2012)](../sources/markdown/2012-escamilla-fowler-practica-arqueologia/2012-escamilla-fowler-practica-arqueologia.md#page-7) — later project-history synthesis.
 
 <!-- local-source-matches:end -->
 
 ## Research note
 
-This is a broad-discovery record. Verify claims against the primary and strong secondary sources before relying on it.
+The remote-sensing section was reviewed against the primary source PDF. The broad discovery summary remains a discovery aid and should be checked against primary historical and excavation sources before consequential use.

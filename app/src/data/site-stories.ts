@@ -43,11 +43,11 @@ export const siteStories: Record<string, SiteStory> = {
   },
   "san-isidro-sonsonate": {
     overview:
-      "A large Middle-to-Late Preclassic monumental center in Sonsonate. Its largest visible mound, Cerrito 1, faces the smaller Trapiche 3 structure across a plaza on an axis about 15° north of west.",
+      "A large Middle-to-Late Preclassic monumental center in Sonsonate. Drone photogrammetry mapped at least 51 visible structures across more than 6 square kilometres; its largest visible mound, Cerrito 1, faces Trapiche 3 across a plaza.",
     dates:
-      "Ceramic typology and radiocarbon assays date the Cerrito 1 figurine stratum to 410–380 BCE. The cited article documents PASI fieldwork in 2018, the 2022 tableau excavation, and vestiges of an earlier offering discovered in 2024.",
+      "PASI began in 2018. Drone mapping ran through 2021, geophysics and targeted excavation were reported from the 2021 campaign, the figurine tableau was excavated in 2022, and vestiges of an earlier offering were documented in 2024.",
     fieldwork:
-      "Excavation around the Cerrito 1 summit exposed the deposit less than 0.5 m below the surface. Objects had to be documented and removed day by day, and two bullhorn-tree roots crossed the context, so the authors treat its reconstructed arrangement cautiously. Photogrammetry mapped the site center; ploughing had brought a plain stela to the surface of Trapiche 3 in 2018.",
+      "Aerial mapping used overlapping drone photographs, RTK positioning, photogrammetric point clouds, and a digital elevation model—not a LiDAR sensor. Ground work combined GPR, magnetometry, electrical resistivity, and excavation checks. Excavation around the Cerrito 1 summit later exposed the figurine deposit less than 0.5 m below the surface.",
     discoveries:
       "Five complete Bolinas-type figures occupied just over 0.6 m²: three approximately 30 cm cream-paste figures with string-adjustable heads and two smaller orange-brown figures about 18 and 10 cm tall. Four represent females; one may be the first complete male of the type and bears facial tattoo or scarification. The offering also held two polished jade disks, two stacks of serving vessels, and a smashed tripod metate. Other Cerrito 1 fill contained many figurine fragments and a hollow torso into which the smallest tableau figure fits. The authors propose puppet-like performance and a termination or dedicatory rite, but explicitly mark intentional breakage, funerary meaning, identities, feeding, birth imagery, and political reconstruction as hypotheses.",
   },
@@ -235,11 +235,11 @@ export const siteStories: Record<string, SiteStory> = {
     overview:
       "A Middle/Late Classic village buried by a volcanic eruption, where excavations exposed structures and cultivated fields.",
     dates:
-      "The park history dates the burial to about 640 CE; geophysical work took place in 1979–1980, and excavation began in 1989.",
+      "The park history dates the burial to about 640 CE. GPR was collected in 1979, attempted again in the wet season of 1992, and expanded digitally in 1994; excavation began in 1989.",
     fieldwork:
-      "Investigators used geophysical methods, including magnetic resistance and radar, before beginning excavation.",
+      "Investigators collected more than 7.8 km of GPR profiles across five grids, converted travel time to depth, and modeled the buried living surface. The 1979 and 1994 dry-season datasets were productive; wet ground attenuated the 1992 survey.",
     discoveries:
-      "Excavations exposed several structures and cultivated fields. Research reported in 2011 also documented a variety of crops.",
+      "GPR recognized eight of nine excavated structures within the survey grids and 18 additional structure-like anomalies awaiting confirmation. It also mapped a buried valley, drainage, plazas, household clusters, fields, and possible clay-quarrying areas.",
   },
   "el-cambio": {
     overview:
@@ -376,9 +376,9 @@ export const siteStories: Record<string, SiteStory> = {
     dates:
       "Founded in 1528 and probably abandoned in 1545, although the abandonment may have been later. Archaeological work began in 1996, with multiple field seasons from 2000 through 2005.",
     fieldwork:
-      "A local summary says Ciudad Vieja was excavated from 1996 to 2005. The cited passages do not describe the excavation methods.",
+      "The 2002–2003 campaign integrated magnetic gradiometry, electrical conductivity, magnetic susceptibility, GIS, and excavation. GPR was planned but not used after conductivity and susceptibility gave strong results; the geophysical survey covered about 20 hectares.",
     discoveries:
-      "The cited passages do not provide a site-specific inventory of structures or artifacts.",
+      "Anomaly maps traced subsurface rooms, structures, and a street south of the Plaza Mayor and guided excavation of Structure 3D2. Excavation verified parts of the mapped plan and clarified several strong readings.",
   },
   "santa-maria": {
     overview:

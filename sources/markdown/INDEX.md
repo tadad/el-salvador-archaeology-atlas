@@ -4,20 +4,22 @@ This directory mirrors every source PDF as page-addressable Markdown.
 Embedded text is used when adequate; deficient pages are OCRed in `auto` mode.
 Always check the source PDF before exact quotation or relying on tables and page layout.
 
-- Documents: 124
-- Pages: 6215
-- Complete: 103
+- Documents: 126
+- Pages: 6256
+- Complete: 105
 - Partial: 21
 - Errors: 0
-- OCR-derived pages: 1113
+- OCR-derived pages: 1117
 - Unrecognized or non-text pages: 129
 
 ## Documents
 
 - [Apuntes sobre petrograbados de El Salvador](<1954-haberland-apuntes-petrograbados/1954-haberland-apuntes-petrograbados.md>) - 7 pages; complete; 0 OCR
 - [Recientes investigaciones en Antiguo Cuscatlán, El Salvador](<1994-amaroli-hermes-velasquez-antiguo-cuscatlan/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.md>) - 16 pages; complete; 2 OCR
+- [The use of ground-penetrating radar to map the buried structures and landscape of the Cerén site, El Salvador](<1995-conyers-gpr-ceren/1995-conyers-gpr-ceren.md>) - 25 pages; complete; 3 OCR
 - [Las pinturas rupestres del oriente de El Salvador](<1998-coladan-pinturas-rupestres-oriente/1998-coladan-pinturas-rupestres-oriente.md>) - 12 pages; complete; 1 OCR
 - [Diagnóstico del Centro Ceremonial Poniente, sitio arqueológico Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2000.](<2000Diagnostico/2000Diagnostico.md>) - 125 pages; partial; 1 OCR
+- [Ciudad Vieja, El Salvador: Teledetección y patrón de asentamiento de una ciudad de la época de la conquista](<2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md>) - 16 pages; complete; 1 OCR
 - [Los Gavilanes: un sitio del Postclásico Temprano en la zona arqueológica de Chalchuapa](<2007-erquicia-los-gavilanes/2007-erquicia-los-gavilanes.md>) - 14 pages; complete; 0 OCR
 - [Resultados de la primera fase del Proyecto de Reconocimiento y Registro de Sitios Arqueológicos Históricos de El Salvador](<2009-erquicia-sitios-arqueologicos-historicos/2009-erquicia-sitios-arqueologicos-historicos.md>) - 19 pages; complete; 2 OCR
 - [Práctica y conducta de la arqueología salvadoreña durante los últimos 25 años](<2012-escamilla-fowler-practica-arqueologia/2012-escamilla-fowler-practica-arqueologia.md>) - 12 pages; complete; 0 OCR

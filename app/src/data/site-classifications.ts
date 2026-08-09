@@ -22,7 +22,7 @@ export type Culture = (typeof cultureOrder)[number];
 export type SiteClassification = {
   periods: Period[];
   cultures: Culture[];
-  /** Latest field excavation, survey, or site-recording year documented by the cited corpus. */
+  /** Latest field excavation, survey, recording, or condition-assessment year documented by the cited corpus. */
   lastInvestigatedYear: number | null;
   /** Used when a project endpoint or "active as of" date is more honest than a bare year. */
   lastInvestigatedLabel?: string;
@@ -114,7 +114,7 @@ export const siteClassifications: Record<string, SiteClassification> = {
     periods: [],
     cultures: [],
     lastInvestigatedYear: 2005,
-    lastInvestigatedLabel: "2004–2005 archaeological sounding and osteological study",
+    lastInvestigatedLabel: "2004–2005 archaeological sounding",
   },
   "iglesia-caluco": {
     periods: ["Colonial"],
@@ -149,8 +149,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "casa-blanca": {
     periods: ["Preclassic", "Classic", "Postclassic"],
     cultures: [],
-    lastInvestigatedYear: 2000,
-    lastInvestigatedLabel: "1995–2000 project",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "2008 Structure 5 and Mound 6 restoration-investigation",
   },
   "el-trapiche-e3-7": {
     periods: ["Preclassic"],
@@ -167,8 +167,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "asuncion-ahuachapan": {
     periods: ["Preclassic", "Postclassic", "Colonial"],
     cultures: [],
-    lastInvestigatedYear: 1985,
-    lastInvestigatedLabel: "October 1985 archaeological test excavation",
+    lastInvestigatedYear: 2003,
+    lastInvestigatedLabel: "2002–2003 rescue investigation",
   },
   "finca-san-rafael": {
     periods: ["Postclassic"],
@@ -220,7 +220,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "sitio-c-la-viuda": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1996,
+    lastInvestigatedLabel: "1996 rescue excavation and osteological study",
   },
   "hacienda-tula": {
     periods: [],
@@ -284,17 +285,20 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "la-cienaga-santa-barbara": {
     periods: ["Classic"],
     cultures: ["Maya-related"],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1976,
+    lastInvestigatedLabel: "Santa Bárbara investigated by 1976; exact field year unstated",
   },
   "hacienda-los-flores": {
     periods: ["Preclassic"],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1976,
+    lastInvestigatedLabel: "Los Flores rescue subproject documented by 1976",
   },
   "el-tanque-el-morrito": {
     periods: ["Classic"],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1976,
+    lastInvestigatedLabel: "Mound 3 excavation documented by 1976; exact field year unstated",
   },
   "cerron-grande-unnamed": {
     periods: [],
@@ -311,7 +315,7 @@ export const siteClassifications: Record<string, SiteClassification> = {
     periods: ["Postclassic"],
     cultures: [],
     lastInvestigatedYear: 1983,
-    lastInvestigatedLabel: "1982–1983 rescue excavation",
+    lastInvestigatedLabel: "1980–1983 rescue project; narrower excavation dates conflict",
   },
   "san-lorenzo-unnamed": {
     periods: [],
@@ -333,17 +337,20 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "wreck-ss-colon": {
     periods: ["Modern / Maritime"],
     cultures: ["Maritime / Industrial"],
-    lastInvestigatedYear: 2011,
+    lastInvestigatedYear: 2013,
+    lastInvestigatedLabel: "Return inspection and documentation, January 10, 2013",
   },
   "wreck-ss-columbus": {
     periods: ["Modern / Maritime"],
     cultures: ["Maritime / Industrial"],
-    lastInvestigatedYear: 2010,
+    lastInvestigatedYear: 2016,
+    lastInvestigatedLabel: "Photographic field documentation, February 2016",
   },
   "wreck-cheribon": {
     periods: ["Modern / Maritime"],
     cultures: ["Maritime / Industrial"],
-    lastInvestigatedYear: 2005,
+    lastInvestigatedYear: 2015,
+    lastInvestigatedLabel: "2015 protected-area delimitation project",
   },
   "wreck-ss-douglas": {
     periods: ["Modern / Maritime"],
@@ -365,13 +372,14 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "wreck-kirkdale": {
     periods: ["Modern / Maritime"],
     cultures: ["Maritime / Industrial"],
-    lastInvestigatedYear: 2012,
+    lastInvestigatedYear: 2015,
+    lastInvestigatedLabel: "Five investigative dives completed by 2015",
   },
   "wreck-brucklay-castle": {
     periods: ["Modern / Maritime"],
     cultures: ["Maritime / Industrial"],
-    lastInvestigatedYear: 2013,
-    lastInvestigatedLabel: "2013 search; wreck not relocated",
+    lastInvestigatedYear: null,
+    lastInvestigatedLabel: "2013 search did not relocate the wreck; no confirmed site-investigation date",
   },
   "wreck-ss-honduras": {
     periods: ["Modern / Maritime"],
@@ -382,13 +390,14 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "los-llanitos": {
     periods: ["Postclassic"],
     cultures: [],
-    lastInvestigatedYear: 1942,
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Condition visit during the 2006–2008 Atlas project; exact year unstated",
   },
   quelepa: {
     periods: ["Preclassic", "Classic"],
     cultures: [],
-    lastInvestigatedYear: 1969,
-    lastInvestigatedLabel: "1967–1969 project",
+    lastInvestigatedYear: 2017,
+    lastInvestigatedLabel: "2017 aerial and ground documentation of the ballcourt",
   },
   "casa-quemada": {
     periods: ["Classic"],
@@ -411,14 +420,14 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "la-laguneta": {
     periods: ["Classic", "Postclassic"],
     cultures: ["Eastern Salvadoran / Lenca-related"],
-    lastInvestigatedYear: 2007,
-    lastInvestigatedLabel: "2006–2007 survey",
+    lastInvestigatedYear: 2017,
+    lastInvestigatedLabel: "2017 aerial and ground documentation of the ballcourt",
   },
   "salto-el-coyote": {
     periods: ["Classic", "Postclassic"],
     cultures: ["Eastern Salvadoran / Lenca-related"],
-    lastInvestigatedYear: 2007,
-    lastInvestigatedLabel: "2006–2007 survey",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Investigated during the 2006–2008 Atlas project; exact field season unstated",
   },
   "el-cacao": {
     periods: ["Classic"],
@@ -429,25 +438,26 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "brisas-de-jiquilisco": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 2007,
-    lastInvestigatedLabel: "2006–2007 testing",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Tested during the 2006–2008 Atlas project; exact field season unstated",
   },
   "la-florida-jiquilisco": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 2007,
-    lastInvestigatedLabel: "2006–2007 testing",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Tested during the 2006–2008 Atlas project; exact field season unstated",
   },
   "el-astillero": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 1983,
-    lastInvestigatedLabel: "1981–1983 rescue campaign",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Inundated site area assessed during the 2006–2008 Atlas project; exact year unstated",
   },
   "el-jocotal": {
     periods: ["Classic"],
     cultures: ["Eastern Salvadoran / Lenca-related"],
-    lastInvestigatedYear: 1983,
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Revisited during the 2006–2008 Atlas project; exact year unstated",
   },
   "sitio-carolina": {
     periods: ["Classic"],
@@ -470,14 +480,14 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "valle-san-juan-tronconera": {
     periods: ["Preclassic"],
     cultures: [],
-    lastInvestigatedYear: 1966,
-    lastInvestigatedLabel: "Initial 1966 investigation; later fieldwork is undated",
+    lastInvestigatedYear: null,
+    lastInvestigatedLabel: "Initial 1966 investigation; later observations and excavations are documented but undated",
   },
   asanyamba: {
     periods: ["Classic"],
     cultures: [],
-    lastInvestigatedYear: 1981,
-    lastInvestigatedLabel: "1977–1981 fieldwork",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Condition visit during the 2006–2008 Atlas project; exact year unstated",
   },
   "la-rama-rio-gualacho": {
     periods: ["Preclassic", "Postclassic"],
@@ -493,20 +503,20 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "el-espinal": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 2007,
-    lastInvestigatedLabel: "Revisited in the 2006–2007 atlas survey",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Revisited during the 2006–2008 Atlas project; exact year unstated",
   },
   "san-ildefonso-site": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 2007,
-    lastInvestigatedLabel: "2006–2007 atlas survey",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Recorded during the 2006–2008 Atlas project; exact year unstated",
   },
   "san-jose-jucuaran": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 2007,
-    lastInvestigatedLabel: "2006–2007 atlas survey",
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Recorded during the 2006–2008 Atlas project; exact year unstated",
   },
   "pozo-el-amate": {
     periods: [],
@@ -552,15 +562,16 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "conchagua-vieja": {
     periods: ["Colonial"],
     cultures: [],
-    lastInvestigatedYear: 1942,
-    lastInvestigatedLabel: "1941–1942 survey",
+    lastInvestigatedYear: 2005,
+    lastInvestigatedLabel:
+      "Investigated within Gómez’s 2002–2005 Conchagüita/Gulf-islands project; exact site season not stated",
   },
   "teca-conchaguita": {
     periods: ["Colonial"],
     cultures: [],
-    lastInvestigatedYear: 1942,
+    lastInvestigatedYear: 2005,
     lastInvestigatedLabel:
-      "Observed from a boat during Longyear’s 1941–1942 reconnaissance; not visited",
+      "Investigated within Gómez’s 2002–2005 Conchagüita/Gulf-islands project; exact site season not stated",
   },
   "el-carrizal-nueva-esparta": {
     periods: [],
@@ -600,22 +611,30 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "vividores-zacatillo": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 2005,
+    lastInvestigatedLabel:
+      "Investigated within Gómez’s 2002–2005 Gulf-islands project; exact site season not stated",
   },
   "zacatillo-midden": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 2005,
+    lastInvestigatedLabel:
+      "Investigated within Gómez’s 2002–2005 Gulf-islands project; exact site season not stated",
   },
   "playitas-zacatillo": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 2005,
+    lastInvestigatedLabel:
+      "Investigated within Gómez’s 2002–2005 Gulf-islands project; exact site season not stated",
   },
   "laguna-meanguera": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 2005,
+    lastInvestigatedLabel:
+      "Investigated within Gómez’s 2002–2005 Gulf-islands project; exact site season not stated",
   },
   "isla-periquito": {
     periods: ["Classic"],
@@ -632,7 +651,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "atalaya-acajutla": {
     periods: ["Preclassic"],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 2009,
+    lastInvestigatedLabel: "Two technical inspections in 2009",
   },
   "atiquizaya-haberland": {
     periods: ["Preclassic"],
@@ -648,28 +668,32 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "penate": {
     periods: ["Postclassic"],
     cultures: ["Nahua / Pipil-related"],
-    lastInvestigatedYear: 1969,
+    lastInvestigatedYear: 1970,
+    lastInvestigatedLabel: "Partial excavation during the 1968–1970 Chalchuapa project",
   },
   "laguna-cuzcachapa": {
     periods: ["Preclassic", "Classic"],
     cultures: ["Maya-related"],
     lastInvestigatedYear: 1970,
-    lastInvestigatedLabel: "1969–1970 excavations",
+    lastInvestigatedLabel: "Investigated during the 1968–1970 Chalchuapa project",
   },
   "laguna-seca-chalchuapa": {
     periods: ["Preclassic", "Classic", "Postclassic"],
     cultures: ["Maya-related", "Nahua / Pipil-related"],
     lastInvestigatedYear: 1970,
+    lastInvestigatedLabel: "Investigated during the 1968–1970 Chalchuapa project",
   },
   "las-victorias-chalchuapa": {
     periods: ["Preclassic", "Classic", "Postclassic"],
     cultures: ["Maya-related", "Nahua / Pipil-related"],
-    lastInvestigatedYear: 1969,
+    lastInvestigatedYear: 1970,
+    lastInvestigatedLabel: "Investigated during the 1968–1970 Chalchuapa project",
   },
   "cementerio-jardin": {
     periods: ["Preclassic", "Classic", "Postclassic"],
     cultures: ["Nahua / Pipil-related"],
     lastInvestigatedYear: 1985,
+    lastInvestigatedLabel: "1985 salvage excavation",
   },
   "vergeles-del-eden": {
     periods: ["Postclassic"],
@@ -680,8 +704,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "finca-rosita": {
     periods: ["Preclassic"],
     cultures: ["Maya-related"],
-    lastInvestigatedYear: 2001,
-    lastInvestigatedLabel: "1998–2001 investigations",
+    lastInvestigatedYear: 2003,
+    lastInvestigatedLabel: "Four test pits excavated in 2003",
   },
   "san-diego-guija": {
     periods: [],
@@ -692,8 +716,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "igualtepeque": {
     periods: ["Postclassic"],
     cultures: ["Nahua / Pipil-related"],
-    lastInvestigatedYear: 2013,
-    lastInvestigatedLabel: "Rock-carving inventory",
+    lastInvestigatedYear: 2021,
+    lastInvestigatedLabel: "November 2020–February 2021 community survey and site reconnaissance",
   },
   "el-zonte-burials": {
     periods: ["Classic"],
@@ -709,7 +733,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "san-luis-chalchuapa": {
     periods: ["Preclassic", "Classic", "Postclassic"],
     cultures: ["Maya-related", "Nahua / Pipil-related"],
-    lastInvestigatedYear: 2015,
+    lastInvestigatedYear: 2014,
+    lastInvestigatedLabel: "Excavation begun 2 April 2014",
   },
   "amulunga": {
     periods: [],
@@ -795,54 +820,55 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "azacualpa-guija": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 1942,
-    lastInvestigatedLabel: "Documented during Longyear’s September 1941–April 1942 expedition; exact Azacualpa visit date not stated",
+    lastInvestigatedYear: 2004,
+    lastInvestigatedLabel: "Condition photographed by November 2004; exact visit date not stated",
   },
   "el-congo-el-bigote": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 1942,
-    lastInvestigatedLabel: "Longyear visit in May 1942",
+    lastInvestigatedYear: 2004,
+    lastInvestigatedLabel: "Excavated after 1978 and documented by 2004; exact season not stated",
   },
   "isla-teotipa-guija": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
-    lastInvestigatedLabel: "No site-specific field visit is documented",
+    lastInvestigatedYear: 1942,
+    lastInvestigatedLabel: "Visited during Boggs’s 1940–1942 western survey; exact year not stated",
   },
   "finca-potosi": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1942,
+    lastInvestigatedLabel: "Visited during Boggs’s 1940–1942 western survey; exact year not stated",
   },
   "santa-teresa-santa-ana": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1942,
     lastInvestigatedLabel: "Boggs’s western field surveys occurred in 1940–1942; the exact Santa Teresa visit year is not stated",
   },
   "texistepeque-group-1": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1942,
     lastInvestigatedLabel: "Boggs’s western field surveys occurred in 1940–1942; the exact Texistepeque Group I visit year is not stated",
   },
   "texistepeque-group-2": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1942,
     lastInvestigatedLabel: "Boggs’s western field surveys occurred in 1940–1942; the exact Texistepeque Group II visit year is not stated",
   },
   "copapayo": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1942,
     lastInvestigatedLabel: "Boggs’s western field surveys occurred in 1940–1942; the exact Copapayo visit year is not stated",
   },
   "los-lagartos-miahuacan": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1942,
     lastInvestigatedLabel: "Boggs’s western surveys occurred in 1940–1942; the exact Los Lagartos visit year is not stated",
   },
   "atapasco": {
@@ -888,27 +914,32 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "ingenio-san-francisco-paula": {
     periods: ["Colonial"],
     cultures: ["Colonial Spanish / Indigenous", "Maritime / Industrial"],
-    lastInvestigatedYear: 2009,
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Mapped and recorded by PAHES in August 2008",
   },
   "ingenio-el-carmen-metapan": {
     periods: ["Colonial"],
     cultures: ["Colonial Spanish / Indigenous", "Maritime / Industrial"],
-    lastInvestigatedYear: 2009,
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Mapped and recorded by PAHES in August 2008",
   },
   "ingenio-san-rafael-metapan": {
     periods: ["Colonial"],
     cultures: ["Colonial Spanish / Indigenous", "Maritime / Industrial"],
-    lastInvestigatedYear: 2009,
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Mapped and recorded by PAHES in August 2008",
   },
   "antigua-iglesia-guaymango": {
     periods: ["Colonial"],
     cultures: ["Colonial Spanish / Indigenous"],
-    lastInvestigatedYear: 2009,
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Recorded during the 2008 PAHES field phase",
   },
   "antiguo-nejapa-la-fuente": {
     periods: ["Colonial"],
     cultures: ["Colonial Spanish / Indigenous"],
-    lastInvestigatedYear: 2009,
+    lastInvestigatedYear: 2008,
+    lastInvestigatedLabel: "Revisited during the 2008 PAHES field phase",
   },
   "chuchucato": {
     periods: ["Classic", "Postclassic"],
@@ -940,8 +971,8 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "san-diego-sonsonate-burials": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: 1960,
-    lastInvestigatedLabel: "Excavation reported in the card; no field report or method documented",
+    lastInvestigatedYear: 1989,
+    lastInvestigatedLabel: "Registered sometime in the 1980s; the card also reports a 1960 excavation",
   },
   "la-joya-singuil": {
     periods: [],
@@ -961,25 +992,19 @@ export const siteClassifications: Record<string, SiteClassification> = {
   "centa-ciudad-arce": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1975,
+    lastInvestigatedLabel: "Registration card dated January 20, 1975",
   },
   "el-primo-colon": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1987,
+    lastInvestigatedLabel: "Registration card dated May 6, 1987",
   },
   "monolit-lourdes": {
     periods: [],
     cultures: [],
-    lastInvestigatedYear: null,
+    lastInvestigatedYear: 1991,
+    lastInvestigatedLabel: "Registration card dated 1991",
   },
-};
-
-export const knownInvestigationYears = Object.values(siteClassifications)
-  .map((classification) => classification.lastInvestigatedYear)
-  .filter((year): year is number => year !== null);
-
-export const investigationYearBounds = {
-  min: Math.min(...knownInvestigationYears),
-  max: Math.max(...knownInvestigationYears),
 };

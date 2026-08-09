@@ -22,14 +22,15 @@ sources.
 
 - [Interactive excavation atlas](app/) — a Next.js map of terrestrial and
   maritime archaeological investigations with coordinates, narrative site
-  summaries, and direct links to cited PDF pages
+  summaries, study-by-study timelines, and direct links to cited PDF pages
 - [Field guide](FIELD-GUIDE.md) — curated orientation and high-value research
   leads
 - [Source-derived leads](SOURCE-DERIVED-LEADS.md) — sites, artifacts, historical
   problems, and traditions surfaced by the downloaded literature even when
   Wikipedia coverage is weak or absent
 - [Searchable PDF text](sources/markdown/INDEX.md) — page-addressable Markdown
-  for all 124 PDFs, using embedded text and targeted multilingual OCR
+  for all 126 locally archived PDFs, using embedded text and targeted
+  multilingual OCR
 - [Topic index](INDEX.md) — generated inventory of discovery records
 - [Sources](sources/INDEX.md) — downloaded and linked primary/strong secondary
   material
@@ -68,7 +69,7 @@ page markers, while `_data/` retains the corpus manifests. This keeps the
 research provenance reproducible without making application deployments clone
 hundreds of megabytes of duplicate source files.
 
-The current searchable mirror covers all 6,215 PDF pages. Each derivative
+The current searchable mirror covers all 6,256 PDF pages. Each derivative
 records its source URL and hash, preserves PDF page boundaries, and labels each
 page as embedded text, OCR, or unrecognized. Treat the text as a discovery aid
 and check the PDF before exact quotation or interpreting tables and figures.

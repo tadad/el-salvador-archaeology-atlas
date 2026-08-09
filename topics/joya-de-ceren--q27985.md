@@ -3,7 +3,7 @@ id: "Q27985"
 title: "Joya de Cerén"
 kind: "site"
 evidence: "archaeologically-corroborated"
-review_status: "machine-discovered"
+review_status: "partially-reviewed"
 regional_relevance: "direct"
 el_salvador_connection: "Direct Salvadoran subject discovered through article text or an El Salvador-specific discovery path."
 retrieved: "2026-08-06"
@@ -26,6 +26,8 @@ discovered_from:
   - "search excavación arqueológica El Salvador"
   - "search sitio arqueológico El Salvador"
 source_leads:
+  - "https://doi.org/10.1002/gea.3340100404"
+  - "https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Conyers_1995_The_Use_of_Ground-Penetrating_Radar_To_Map_the_Buried_Structures_and_Landscape_of_the_Ceren_Site.pdf"
   - "http://artsandsciences.colorado.edu/magazine/2009/06/cu-team-discovers-mayan-crop-system/"
   - "http://dx.doi.org/10.1007%2F978-3-030-44600-0_65-1"
   - "http://dx.doi.org/10.1017%2Flaq.2021.28"
@@ -72,13 +74,20 @@ El nombre del sitio deriva del poblado cercano; y se ubica a unos de 450 m s. n.
 
 Las estructuras excavadas se encuentran en cuatro áreas de excavación (operaciones), que también han sido llamadas como grupos o conjuntos, y que para la interpretación pública en el parque arqueológico son denominadas simplemente como áreas. Al área 1 corresponden las estructuras 1, 6, 10, 11, y 12; al área 2, las estructuras 2, 7, y 9; al área 3, únicamente la estructura 3; y al área 4, únicamente la estructura 4.
 
+## Ground-penetrating radar
+
+Cerén was an early and unusually deep archaeological application of ground-penetrating radar. A dry-season 80 MHz survey in June 1979 collected about 4,000 m of profiles over roughly 1 ha; one anomaly was later confirmed by drilling as a buried structure. An August 1992 survey was unsuccessful because rainy-season moisture attenuated the radar signal after about 2–3 m. In 1994, investigators added about 3,800 m of digital 300 and 500 MHz profiles. The combined database comprised more than 7,800 m in five grids over approximately 2 ha. [PDF pp. 6–9](../sources/markdown/1995-conyers-gpr-ceren/1995-conyers-gpr-ceren.md#page-6)
+
+Conyers converted radar travel times to depth and used the strong reflection from the pre-eruption Tierra Blanca Joven surface to reconstruct buried topography. Within the grids, eight of nine excavated or partly excavated structures could be recognized in the GPR data, while 18 additional structure-like anomalies had not yet been confirmed by drilling or excavation. The survey also modeled a small valley, drainage channels, bluffs, plaza surfaces, household clusters, cultivated space, and likely clay-quarrying areas. These remain geophysical interpretations where excavation has not tested them. [PDF pp. 18–23](../sources/markdown/1995-conyers-gpr-ceren/1995-conyers-gpr-ceren.md#page-18)
+
 <!-- local-source-matches:start -->
 ## Local source matches
 
-No conservative automatic match was found in the downloaded archive. Check the field guide and source indexes manually.
+- [Conyers, *The use of ground-penetrating radar to map the buried structures and landscape of the Cerén site, El Salvador* (1995)](../sources/markdown/1995-conyers-gpr-ceren/1995-conyers-gpr-ceren.md) — complete 25-page derivative; verify figures and exact wording against the [source PDF](https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Conyers_1995_The_Use_of_Ground-Penetrating_Radar_To_Map_the_Buried_Structures_and_Landscape_of_the_Ceren_Site.pdf).
+- [Escamilla and Fowler, *Práctica y conducta de la arqueología salvadoreña durante los últimos 25 años* (2012)](../sources/markdown/2012-escamilla-fowler-practica-arqueologia/2012-escamilla-fowler-practica-arqueologia.md#page-5) — later project-history synthesis.
 
 <!-- local-source-matches:end -->
 
 ## Research note
 
-This is a broad-discovery record. Verify claims against the primary and strong secondary sources before relying on it.
+The geophysical section was reviewed against the primary source PDF. The broad discovery summary remains a discovery aid and should be checked against primary excavation publications before consequential use.
