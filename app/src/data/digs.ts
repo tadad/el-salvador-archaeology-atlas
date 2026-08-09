@@ -1865,15 +1865,25 @@ export const digs: Dig[] = [
   {
     id: "ciudad-vieja",
     name: "Ciudad Vieja",
-    lat: 13.8594,
-    lon: -89.0325,
-    precision: "approx",
+    lat: 13.859167,
+    lon: -89.032778,
+    precision: "published",
     kind: "Excavated site",
     basis:
-      "Approximate marker; a cited summary places the site about 10 km south of Suchitoto but publishes no coordinate",
+      "Published site coordinate, converted from 13°51′33″ N / 89°01′58″ W in Fowler’s FAMSI project report",
     note:
       "The 2002–2003 campaign combined geophysical survey and GIS with excavation checks; GPR was planned but not ultimately used because conductivity and magnetic-susceptibility results were already strong.",
     sources: [
+      {
+        ...externalPdf(
+          "2007-fowler-famsi-ciudad-vieja.pdf",
+          "PDF p. 6, ‘Localidad, Entorno, Contexto’",
+          "https://www.famsi.org/reports/02091es/02091esFowler01.pdf",
+          6,
+        ),
+        citationNote:
+          "Fowler publishes the site coordinate as 13°51′33″ north latitude and 89°01′58″ west longitude, at 534 m above sea level. The atlas converts that DMS coordinate to 13.859167, −89.032778 decimal degrees.",
+      },
       {
         ...institutional(
           "2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
