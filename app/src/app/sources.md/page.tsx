@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import sourceRecords from "@/data/sources.json";
-import styles from "./sources.module.css";
+import styles from "../document.module.css";
 
 export const metadata: Metadata = {
   title: "Sources | El Salvador Archaeology Atlas",
@@ -39,23 +39,25 @@ export default function SourcesPage() {
         </Link>
         <nav className={styles.primaryNav} aria-label="Primary navigation">
           <Link href="/">Atlas</Link>
+          <Link href="/unknown">Unknown</Link>
           <span aria-current="page">Sources</span>
         </nav>
       </header>
 
       <div className={styles.content}>
         <header className={styles.intro}>
-          <p className={styles.eyebrow}>
-            Source library · {sourceRecords.length} PDFs
-          </p>
           <h1>Sources</h1>
-          <p className={styles.summary}>
+          <p>
+            <em>Source library · {sourceRecords.length} PDFs</em>
+          </p>
+          <p>
             Every PDF in the El Salvador archaeology corpus, with its title,
             credited creator, publication date, description, and original PDF
             link. The links open files on the institutions that host them.
           </p>
 
           <nav className={styles.collectionNav} aria-label="Source collections">
+            <strong>Collections:</strong>{" "}
             {collections.map((collection) => {
               const count = sourceRecords.filter(
                 (source) => source.collection === collection.name,
@@ -63,8 +65,7 @@ export default function SourcesPage() {
 
               return (
                 <a href={`#${collection.id}`} key={collection.id}>
-                  <span>{collection.name}</span>
-                  <span>{count}</span>
+                  {collection.name} ({count})
                 </a>
               );
             })}
@@ -78,44 +79,33 @@ export default function SourcesPage() {
 
           return (
             <section className={styles.collection} id={collection.id} key={collection.id}>
-              <header className={styles.collectionHeader}>
-                <div>
-                  <p className={styles.eyebrow}>Collection {collection.id}</p>
-                  <h2>{collection.name}</h2>
-                </div>
-                <p>{collection.description}</p>
-                <span className={styles.collectionCount}>{sources.length}</span>
-              </header>
+              <h2>{collection.name}</h2>
+              <p>
+                {collection.description} <em>({sources.length} sources)</em>
+              </p>
 
               <ol className={styles.sourceList}>
-                {sources.map((source, index) => (
+                {sources.map((source) => (
                   <li className={styles.source} key={`${source.collection}-${source.filename}`}>
-                    <span className={styles.sourceNumber} aria-hidden="true">
-                      {String(index + 1).padStart(2, "0")}
-                    </span>
                     <article>
                       <h3>{source.title}</h3>
-                      <dl className={styles.metadata}>
-                        <div>
-                          <dt>Creator</dt>
-                          <dd>{source.creator}</dd>
-                        </div>
-                        <div>
-                          <dt>Published</dt>
-                          <dd>{source.publishDate}</dd>
-                        </div>
-                      </dl>
-                      <p className={styles.description}>{source.description}</p>
+                      <p>
+                        <strong>Creator:</strong> {source.creator}
+                        <br />
+                        <strong>Published:</strong> {source.publishDate}
+                      </p>
+                      <p>{source.description}</p>
+                      <p>
+                        <a
+                          href={source.pdfUrl}
+                          target="_blank"
+                          rel="noreferrer"
+                          aria-label={`Open ${source.title} PDF`}
+                        >
+                          Open PDF ↗
+                        </a>
+                      </p>
                     </article>
-                    <a
-                      className={styles.pdfLink}
-                      href={source.pdfUrl}
-                      target="_blank"
-                      rel="noreferrer"
-                      aria-label={`Open ${source.title} PDF`}
-                    >
-                      PDF <span aria-hidden="true">↗</span>
-                    </a>
                   </li>
                 ))}
               </ol>
