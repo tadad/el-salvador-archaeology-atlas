@@ -46,14 +46,15 @@ or generating a new text extraction.
 Resolve a cited source in this order:
 
 1. Read the source `file` value in the site record and search for that basename
-   under `sources/` and `sources/markdown/`.
-2. If the basename does not match, search `sources/**/INDEX.md` and other local
-   source indexes by title, author, and year.
+   under `vault/Attachments/PDFs/` and `vault/Papers/`.
+2. If the basename does not match, search `vault/Collections/*.md` and other
+   local source indexes by title, author, and year.
 3. Search filename variants and related parts of the same publication. When a
    report is divided into chapters, volumes, appendices, or parts, identify and
    search every local derivative in that source family.
 4. Use the Markdown derivative for discovery and reading. Trace useful passages
-   to the corresponding PDF under `sources/` before relying on the claim.
+   to the corresponding PDF under `vault/Attachments/PDFs/` before relying on
+   the claim.
 5. Use the PDF only for final verification of consequential claims,
    quotations, names, dates, diacritics, tables, captions, maps, or other
    layout that Markdown may not preserve.

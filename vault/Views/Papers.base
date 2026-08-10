@@ -1,0 +1,52 @@
+filters:
+  and:
+    - 'type == "paper"'
+    - 'file.inFolder("Papers")'
+properties:
+  title:
+    displayName: Title
+  authors:
+    displayName: Authors
+  publication_year:
+    displayName: Year
+  work_type:
+    displayName: Type
+  languages:
+    displayName: Languages
+  collection:
+    displayName: Collection
+  pages:
+    displayName: Pages
+  extraction_status:
+    displayName: OCR status
+  ocr_pages:
+    displayName: OCR pages
+  unrecognized_pages:
+    displayName: Unrecognized pages
+  pdf:
+    displayName: PDF
+views:
+  - type: table
+    name: Library
+    order:
+      - title
+      - authors
+      - publication_year
+      - work_type
+      - languages
+      - collection
+      - pages
+      - extraction_status
+      - pdf
+  - type: table
+    name: OCR review
+    filters:
+      or:
+        - 'extraction_status != "complete"'
+        - 'unrecognized_pages > 0'
+    order:
+      - title
+      - extraction_status
+      - unrecognized_pages
+      - ocr_pages
+      - pdf

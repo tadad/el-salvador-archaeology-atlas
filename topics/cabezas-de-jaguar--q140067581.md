@@ -59,7 +59,7 @@ Estos monumentos consisten en cabezas o rostros que han sido tallados en la supe
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [“Jaguar Face” Sculptures Found in El Salvador. Mexicon XXIV (5). October, 2002.](../sources/fundar/jaguar.pdf) — Amaroli, Paul E. y Karen Olsen Bruhns
+- [“Jaguar Face” Sculptures Found in El Salvador. Mexicon XXIV (5). October, 2002.](../vault/Attachments/PDFs/fundar/jaguar.pdf) — Amaroli, Paul E. y Karen Olsen Bruhns
 
 <!-- local-source-matches:end -->
 

@@ -40,8 +40,8 @@ Entre 2001 y 2005, el arqueólogo japonés Shione Shibata realizaría investigac
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Observaciones respecto a la importancia de "Tazumal" en la prehistoria salvadoreña. Tzunpame , Año III No. 2, San Salvador. 1943.](../sources/fundar/tzunpame_boggs_tazumal.pdf) — Boggs, Stanley H.
-- [Un nuevo hallazgo de escultura de Xipe Tótec en El Salvador. XVI Simposio de Investigaciones Arqueológicas , Guatemala. 2002.](../sources/fundar/xipe2.pdf) — Amaroli, Paul E.
+- [Observaciones respecto a la importancia de "Tazumal" en la prehistoria salvadoreña. Tzunpame , Año III No. 2, San Salvador. 1943.](../vault/Attachments/PDFs/fundar/tzunpame_boggs_tazumal.pdf) — Boggs, Stanley H.
+- [Un nuevo hallazgo de escultura de Xipe Tótec en El Salvador. XVI Simposio de Investigaciones Arqueológicas , Guatemala. 2002.](../vault/Attachments/PDFs/fundar/xipe2.pdf) — Amaroli, Paul E.
 
 <!-- local-source-matches:end -->
 

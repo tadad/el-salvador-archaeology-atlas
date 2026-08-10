@@ -79,7 +79,7 @@ El sitio llegó a tener en total 6 estructuras, cuya denominación arqueológica
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Observaciones respecto a la importancia de "Tazumal" en la prehistoria salvadoreña. Tzunpame , Año III No. 2, San Salvador. 1943.](../sources/fundar/tzunpame_boggs_tazumal.pdf) — Boggs, Stanley H.
+- [Observaciones respecto a la importancia de "Tazumal" en la prehistoria salvadoreña. Tzunpame , Año III No. 2, San Salvador. 1943.](../vault/Attachments/PDFs/fundar/tzunpame_boggs_tazumal.pdf) — Boggs, Stanley H.
 
 <!-- local-source-matches:end -->
 

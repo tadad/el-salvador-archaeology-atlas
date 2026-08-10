@@ -66,9 +66,9 @@ Otra versión establece que Izalco tendría los significados de: «en las arenas
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Dos artículos publicados juntos: 1) Antigüedades salvadoreñas errantes: un jugador de pelota precolombino del área de Izalco. 2) Una extraña figurilla articulada de cerámica. Mesoamérica 21:105-114. 1991.](../sources/fundar/boggs_figurillas.pdf) — Boggs, Stanley H.
-- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../sources/fundar/asuncion_izalco.pdf) — Amaroli, Paul E.
-- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../sources/fundar/asuncion_izalco_fotos.zip) — Amaroli, Paul E.
+- [Dos artículos publicados juntos: 1) Antigüedades salvadoreñas errantes: un jugador de pelota precolombino del área de Izalco. 2) Una extraña figurilla articulada de cerámica. Mesoamérica 21:105-114. 1991.](../vault/Attachments/PDFs/fundar/boggs_figurillas.pdf) — Boggs, Stanley H.
+- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../vault/Attachments/PDFs/fundar/asuncion_izalco.pdf) — Amaroli, Paul E.
+- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../vault/Attachments/PDFs/fundar/asuncion_izalco_fotos.zip) — Amaroli, Paul E.
 
 <!-- local-source-matches:end -->
 

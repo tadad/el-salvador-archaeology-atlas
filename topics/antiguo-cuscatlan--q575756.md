@@ -114,12 +114,12 @@ was too small to recover a secure plan or boundary for the capital.
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Recientes investigaciones en Antiguo Cuscatlán, El Salvador](../sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf) — Paul Amaroli, Bernard Hermes, and Juan Luis Velásquez
-- [Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador](../sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md) — Carlos Flores Manzano
-- [Un sitio Preclásico Medio en la ciudad de Antiguo Cuscatlán, depto. de La Libertad, El Salvador, Centroamérica. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1987 (con fotografías agregadas en 2012).](../sources/fundar/antiguo_preclasico.pdf) — Amaroli, Paul E.
-- [Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524](../sources/public-domain/documentosantigu00alva.pdf) — Alvarado, Pedro de, 1485?-1541
-- [En la búsqueda de Cuscatlán: un estudio etnohistórico y arqueológico. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador, 1986.](../sources/fundar/buscacuscatlan.pdf) — Amaroli, Paul E.
-- [Vestimentas y tocados antiguos / Ancient Costumes and Coiffures [edición bilingüe] . Colección antropología e historia , No. 8. Administración del Patrimonio Cultural, Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1977.](../sources/fundar/boggs_vestimentas.pdf) — Boggs, Stanley H.
+- [Recientes investigaciones en Antiguo Cuscatlán, El Salvador](../vault/Attachments/PDFs/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf) — Paul Amaroli, Bernard Hermes, and Juan Luis Velásquez
+- [Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador](../vault/Papers/2025-flores-manzano-despues-ilopango.md) — Carlos Flores Manzano
+- [Un sitio Preclásico Medio en la ciudad de Antiguo Cuscatlán, depto. de La Libertad, El Salvador, Centroamérica. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1987 (con fotografías agregadas en 2012).](../vault/Attachments/PDFs/fundar/antiguo_preclasico.pdf) — Amaroli, Paul E.
+- [Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524](../vault/Attachments/PDFs/public-domain/documentosantigu00alva.pdf) — Alvarado, Pedro de, 1485?-1541
+- [En la búsqueda de Cuscatlán: un estudio etnohistórico y arqueológico. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador, 1986.](../vault/Attachments/PDFs/fundar/buscacuscatlan.pdf) — Amaroli, Paul E.
+- [Vestimentas y tocados antiguos / Ancient Costumes and Coiffures [edición bilingüe] . Colección antropología e historia , No. 8. Administración del Patrimonio Cultural, Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1977.](../vault/Attachments/PDFs/fundar/boggs_vestimentas.pdf) — Boggs, Stanley H.
 
 <!-- local-source-matches:end -->
 

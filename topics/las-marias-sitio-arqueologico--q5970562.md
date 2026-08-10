@@ -38,8 +38,8 @@ El centro de La Marías está conformado por: la pirámide principal (que tiene 
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Informe sobre el rescate de efigies de Tláloc en Las Marías. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2002.](../sources/fundar/tlalocreport.pdf) — Amaroli, Paul E. y Karen Olsen Bruhns
-- [La urgencia de comprar el sitio arqueológico Las Marías. Manuscrito archivado en la Secretaría de Cultura y FUNDAR. 2000.](../sources/fundar/lasmariasurgencia.pdf) — Amaroli, Paul E.
+- [Informe sobre el rescate de efigies de Tláloc en Las Marías. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2002.](../vault/Attachments/PDFs/fundar/tlalocreport.pdf) — Amaroli, Paul E. y Karen Olsen Bruhns
+- [La urgencia de comprar el sitio arqueológico Las Marías. Manuscrito archivado en la Secretaría de Cultura y FUNDAR. 2000.](../vault/Attachments/PDFs/fundar/lasmariasurgencia.pdf) — Amaroli, Paul E.
 
 <!-- local-source-matches:end -->
 

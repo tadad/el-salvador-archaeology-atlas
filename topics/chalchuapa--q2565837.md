@@ -74,7 +74,7 @@ Sedimentos provenientes de la Laguna Cuzcachapa , muestran que para alrededor de
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Los Gavilanes: un sitio del Postclásico Temprano en la zona arqueológica de Chalchuapa](../sources/institutional/2007-erquicia-los-gavilanes.pdf) — José Heriberto Erquicia
+- [Los Gavilanes: un sitio del Postclásico Temprano en la zona arqueológica de Chalchuapa](../vault/Attachments/PDFs/institutional/2007-erquicia-los-gavilanes.pdf) — José Heriberto Erquicia
 
 <!-- local-source-matches:end -->
 

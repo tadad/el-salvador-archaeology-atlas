@@ -60,7 +60,7 @@ La ciudad de Santa Ana fue fundada en la época prehispánica durante el períod
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [El sitio arqueológico de Santa María: observaciones a 27 años de su inundación por el embalse Cerrón Grande. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2003.](../sources/fundar/drowned.pdf) — Amaroli, Paul E.
+- [El sitio arqueológico de Santa María: observaciones a 27 años de su inundación por el embalse Cerrón Grande. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2003.](../vault/Attachments/PDFs/fundar/drowned.pdf) — Amaroli, Paul E.
 
 <!-- local-source-matches:end -->
 

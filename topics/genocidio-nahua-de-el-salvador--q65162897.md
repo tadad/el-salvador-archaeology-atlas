@@ -39,7 +39,7 @@ Ante la caída de los precios del Café y durante un período de recesión prolo
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [El Poblamiento náhuat en El Salvador y otros países de Centroamérica. Colección Antropología No. 2. Dirección de Cultura, Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1973.](../sources/fundar/vivo_escoto_poblamiento.pdf) — Vivó Escoto, Jorge
+- [El Poblamiento náhuat en El Salvador y otros países de Centroamérica. Colección Antropología No. 2. Dirección de Cultura, Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1973.](../vault/Attachments/PDFs/fundar/vivo_escoto_poblamiento.pdf) — Vivó Escoto, Jorge
 
 <!-- local-source-matches:end -->
 

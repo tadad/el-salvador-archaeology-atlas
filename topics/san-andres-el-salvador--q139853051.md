@@ -42,9 +42,9 @@ Positioned near multiple volcanoes, including the Santa Ana and San Salvador vol
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [First Season's Archaeological Work at Campana San Andres, El Salvador. American Anthropologist, 42. 1940.](../sources/fundar/ries_1940.pdf) — Ries, Maurice
-- [Notas sobre las excavaciones en la Hacienda "San Andrés, Departamento de La Libertad. Tzunpame , Año III No. 2, San Salvador. 1943.](../sources/fundar/tzunpame_boggs_sanandres.pdf) — Boggs, Stanley H.
-- [Salvador [Notes on excavations at Campana San Andres, El Salvador]. Year book, Carnegie Institution of Washington , Vol. 40. 1941.](../sources/fundar/dimick_1941.pdf) — Dimick, John M.
+- [First Season's Archaeological Work at Campana San Andres, El Salvador. American Anthropologist, 42. 1940.](../vault/Attachments/PDFs/fundar/ries_1940.pdf) — Ries, Maurice
+- [Notas sobre las excavaciones en la Hacienda "San Andrés, Departamento de La Libertad. Tzunpame , Año III No. 2, San Salvador. 1943.](../vault/Attachments/PDFs/fundar/tzunpame_boggs_sanandres.pdf) — Boggs, Stanley H.
+- [Salvador [Notes on excavations at Campana San Andres, El Salvador]. Year book, Carnegie Institution of Washington , Vol. 40. 1941.](../vault/Attachments/PDFs/fundar/dimick_1941.pdf) — Dimick, John M.
 
 <!-- local-source-matches:end -->
 

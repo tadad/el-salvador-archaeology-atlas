@@ -57,8 +57,8 @@ En la parte salvadoreña del lago (que tiene aproximadamente 32 km², 74 %) est�
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Antigüedades salvadoreñas errantes. Dos Xipe Totecs del lago de Güija. Anales del Museo Nacional “David J. Guzmán”, 49:107-116. San Salvador. 1976.](../sources/fundar/boggs_xipes.pdf) — Boggs, Stanley H.
-- [The Lake Güija Plaque. Research Reports on Ancient Maya Writing , 15. Center for Maya Research, Washington, D.C. 1988.](../sources/fundar/guijaplaque.pdf) — Houston, Stephen y Paul Amaroli
+- [Antigüedades salvadoreñas errantes. Dos Xipe Totecs del lago de Güija. Anales del Museo Nacional “David J. Guzmán”, 49:107-116. San Salvador. 1976.](../vault/Attachments/PDFs/fundar/boggs_xipes.pdf) — Boggs, Stanley H.
+- [The Lake Güija Plaque. Research Reports on Ancient Maya Writing , 15. Center for Maya Research, Washington, D.C. 1988.](../vault/Attachments/PDFs/fundar/guijaplaque.pdf) — Houston, Stephen y Paul Amaroli
 
 <!-- local-source-matches:end -->
 

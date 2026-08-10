@@ -64,21 +64,21 @@ Cihuatán es considerado como uno de los mayores sitios arqueológicos de El Sal
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [An Early Postclassic Round Structure at Cihuatán, El Salvador. Arqueología Iberoamericana 2:35-45. June, 2009.](../sources/fundar/p28.pdf) — Bruhns, Karen Olsen y Paul Amaroli
-- [Cihuatán, El Salvador: A Study in Intrasite Variability. Vanderbilt University Publications in Anthropology No. 35. Nashville, Tennessee. 1988.](../sources/fundar/kelley_1988.pdf) — Kelley, Jane H.
-- [Cihuatán: An Early Postclassic Town of El Salvador. The 1977-1978 Excavations. University of Missouri Monographs in Anthropology , No. 5. Department of Anthropology, University of Missouri-Columbia, Columbia Publications. 1980.](../sources/fundar/bruhns.pdf) — Bruhns, Karen O.
-- [Conservación de la Muralla Norte del Centro Ceremonial Poniente de Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2009.](../sources/fundar/muralla_norte.pdf) — Bruhns, Karen Olsen y Paul Amaroli
-- [Conservación en la Estructura P-5 del Juego de Pelota Norte de Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2006.](../sources/fundar/temascal.pdf) — Amaroli, Paul E. y Zachery Revene
-- [Diagnóstico del Centro Ceremonial Poniente, sitio arqueológico Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2000.](../sources/fundar/2000Diagnostico.pdf) — Amaroli, Paul E.
-- [Figurillas con ruedas de Cihuatán y el Oriente de El Salvador. Colección antropología , No. 3. Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1973.](../sources/fundar/ruedas.pdf) — Boggs, Stanley H.
-- [Final Report, 1979 Field Season, Cihuatán, El Salvador: Botanical Investigations. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 1979.](../sources/fundar/botanical_final.pdf) — Harlan, Annita, Williard Van Asdall y Charles Miksicek
-- [Informe avance Proyecto Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2008.](../sources/fundar/acropolis1.pdf) — Amaroli, Paul E.
-- [Informe avance Proyecto Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2009.](../sources/fundar/acropolis2.pdf) — Amaroli, Paul E.
-- [Informe de actividades en Cihuatán, 2011-2012. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 2012.](../sources/fundar/2012fundar.pdf) — Amaroli, Paul E.
-- [Informe de las excavaciones realizadas en la Estructura P-7 (la Pirámide Principal) del sitio arqueológico Cihuatán , 2001-2002. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2003.](../sources/fundar/P7.pdf) — Amaroli, Paul E., Fabio E. Amador y Karen Olsen Bruhns
-- [Informe sobre la excavación de la Estructura P-28, Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2006.](../sources/fundar/roundreport.pdf) — Amaroli, Paul E. y Karen Olsen Bruhns
-- [Informe sobre la primera etapa de las excavaciones en las ruinas de Cihuatán. América Indígena , Vol. 35(4):699-714.](../sources/fundar/Gloria1975.pdf) — Hernández, Gloria E.
-- [Investigaciones Arqueológicas en Cihuátan. Anales del Museo Nacional “David J. Guzmán”, 49:75-92. San Salvador. 1976. En dos partes: Parte 1 (texto) , Parte 2 (mapa detallado)](../sources/fundar/bruhns1976_mapa.pdf) — Bruhns, Karen Olsen
+- [An Early Postclassic Round Structure at Cihuatán, El Salvador. Arqueología Iberoamericana 2:35-45. June, 2009.](../vault/Attachments/PDFs/fundar/p28.pdf) — Bruhns, Karen Olsen y Paul Amaroli
+- [Cihuatán, El Salvador: A Study in Intrasite Variability. Vanderbilt University Publications in Anthropology No. 35. Nashville, Tennessee. 1988.](../vault/Attachments/PDFs/fundar/kelley_1988.pdf) — Kelley, Jane H.
+- [Cihuatán: An Early Postclassic Town of El Salvador. The 1977-1978 Excavations. University of Missouri Monographs in Anthropology , No. 5. Department of Anthropology, University of Missouri-Columbia, Columbia Publications. 1980.](../vault/Attachments/PDFs/fundar/bruhns.pdf) — Bruhns, Karen O.
+- [Conservación de la Muralla Norte del Centro Ceremonial Poniente de Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2009.](../vault/Attachments/PDFs/fundar/muralla_norte.pdf) — Bruhns, Karen Olsen y Paul Amaroli
+- [Conservación en la Estructura P-5 del Juego de Pelota Norte de Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2006.](../vault/Attachments/PDFs/fundar/temascal.pdf) — Amaroli, Paul E. y Zachery Revene
+- [Diagnóstico del Centro Ceremonial Poniente, sitio arqueológico Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2000.](../vault/Attachments/PDFs/fundar/2000Diagnostico.pdf) — Amaroli, Paul E.
+- [Figurillas con ruedas de Cihuatán y el Oriente de El Salvador. Colección antropología , No. 3. Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1973.](../vault/Attachments/PDFs/fundar/ruedas.pdf) — Boggs, Stanley H.
+- [Final Report, 1979 Field Season, Cihuatán, El Salvador: Botanical Investigations. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 1979.](../vault/Attachments/PDFs/fundar/botanical_final.pdf) — Harlan, Annita, Williard Van Asdall y Charles Miksicek
+- [Informe avance Proyecto Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2008.](../vault/Attachments/PDFs/fundar/acropolis1.pdf) — Amaroli, Paul E.
+- [Informe avance Proyecto Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2009.](../vault/Attachments/PDFs/fundar/acropolis2.pdf) — Amaroli, Paul E.
+- [Informe de actividades en Cihuatán, 2011-2012. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 2012.](../vault/Attachments/PDFs/fundar/2012fundar.pdf) — Amaroli, Paul E.
+- [Informe de las excavaciones realizadas en la Estructura P-7 (la Pirámide Principal) del sitio arqueológico Cihuatán , 2001-2002. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2003.](../vault/Attachments/PDFs/fundar/P7.pdf) — Amaroli, Paul E., Fabio E. Amador y Karen Olsen Bruhns
+- [Informe sobre la excavación de la Estructura P-28, Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2006.](../vault/Attachments/PDFs/fundar/roundreport.pdf) — Amaroli, Paul E. y Karen Olsen Bruhns
+- [Informe sobre la primera etapa de las excavaciones en las ruinas de Cihuatán. América Indígena , Vol. 35(4):699-714.](../vault/Attachments/PDFs/fundar/Gloria1975.pdf) — Hernández, Gloria E.
+- [Investigaciones Arqueológicas en Cihuátan. Anales del Museo Nacional “David J. Guzmán”, 49:75-92. San Salvador. 1976. En dos partes: Parte 1 (texto) , Parte 2 (mapa detallado)](../vault/Attachments/PDFs/fundar/bruhns1976_mapa.pdf) — Bruhns, Karen Olsen
 
 <!-- local-source-matches:end -->
 

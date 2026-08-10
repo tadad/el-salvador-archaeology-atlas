@@ -51,7 +51,7 @@ Tales tell of a time long ago when the Lenca celestial deity was creating the sk
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Mythology of the Aztecs of Salvador](../sources/public-domain/jstor-534659.pdf) — Hartman, C. V.
+- [Mythology of the Aztecs of Salvador](../vault/Attachments/PDFs/public-domain/jstor-534659.pdf) — Hartman, C. V.
 
 <!-- local-source-matches:end -->
 

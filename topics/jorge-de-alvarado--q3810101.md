@@ -45,9 +45,9 @@ En 1510 pasó a Las Indias junto con sus hermanos mayores Pedro y Gonzalo y los 
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Arqueología Cuzcatleca Valle de San Salvador](../sources/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf) — Jorge Lardé y Larín
-- [Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524](../sources/public-domain/documentosantigu00alva.pdf) — Alvarado, Pedro de, 1485?-1541
-- [El Poblamiento náhuat en El Salvador y otros países de Centroamérica. Colección Antropología No. 2. Dirección de Cultura, Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1973.](../sources/fundar/vivo_escoto_poblamiento.pdf) — Vivó Escoto, Jorge
+- [Arqueología Cuzcatleca Valle de San Salvador](../vault/Attachments/PDFs/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf) — Jorge Lardé y Larín
+- [Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524](../vault/Attachments/PDFs/public-domain/documentosantigu00alva.pdf) — Alvarado, Pedro de, 1485?-1541
+- [El Poblamiento náhuat en El Salvador y otros países de Centroamérica. Colección Antropología No. 2. Dirección de Cultura, Dirección de Publicaciones, Ministerio de Educación, San Salvador. 1973.](../vault/Attachments/PDFs/fundar/vivo_escoto_poblamiento.pdf) — Vivó Escoto, Jorge
 
 <!-- local-source-matches:end -->
 

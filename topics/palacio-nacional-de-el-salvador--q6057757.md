@@ -58,10 +58,10 @@ Después de la conquista de lo que hoy es El Salvador, se estableció en el terr
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [San Salvador und Honduras im jahre 1576. Amtlicher bericht des licenciaten dr. Diego Garcia de Palacio an den könig von Spanien ub̈er die centralamerikanischen provinzen San Salvador und Honduras im jahre 1576](../sources/public-domain/sansalvadorundh00beregoog.pdf) — García de Palacio, Diego, fl. 1576-1587; Frantzius, Alexander von, 1821-1877, tr; Berendt, Karl Hermann, 1817-1878
-- [The Cult of Our Lord of Esquipulas in Middle America and New Mexico. El Palacio , Vol. 61, No. 12 (December, 1954), pp. 387-401. Artículo cortesía de www.elpalacio.org .](../sources/fundar/borhegyi_esquipulas_1954.pdf) — Borhegyi, Stephen F. de
-- [The Miraculous Shrines of Our Lord of Esquipulas in Guatemala and Chimayo, New Mexico. El Palacio , Vol. 60, No. 3 (March, 1953), pp. 83-111. En dos partes: PARTE 1 , PARTE 2 . Artículo cortesía de www.elpalacio.org .](../sources/fundar/borhegyi_esquipulas_1953a.pdf) — Borhegyi, Stephen F. de
-- [The Miraculous Shrines of Our Lord of Esquipulas in Guatemala and Chimayo, New Mexico. El Palacio , Vol. 60, No. 3 (March, 1953), pp. 83-111. En dos partes: PARTE 1 , PARTE 2 . Artículo cortesía de www.elpalacio.org .](../sources/fundar/borhegyi_esquipulas_1953b.pdf) — Borhegyi, Stephen F. de
+- [San Salvador und Honduras im jahre 1576. Amtlicher bericht des licenciaten dr. Diego Garcia de Palacio an den könig von Spanien ub̈er die centralamerikanischen provinzen San Salvador und Honduras im jahre 1576](../vault/Attachments/PDFs/public-domain/sansalvadorundh00beregoog.pdf) — García de Palacio, Diego, fl. 1576-1587; Frantzius, Alexander von, 1821-1877, tr; Berendt, Karl Hermann, 1817-1878
+- [The Cult of Our Lord of Esquipulas in Middle America and New Mexico. El Palacio , Vol. 61, No. 12 (December, 1954), pp. 387-401. Artículo cortesía de www.elpalacio.org .](../vault/Attachments/PDFs/fundar/borhegyi_esquipulas_1954.pdf) — Borhegyi, Stephen F. de
+- [The Miraculous Shrines of Our Lord of Esquipulas in Guatemala and Chimayo, New Mexico. El Palacio , Vol. 60, No. 3 (March, 1953), pp. 83-111. En dos partes: PARTE 1 , PARTE 2 . Artículo cortesía de www.elpalacio.org .](../vault/Attachments/PDFs/fundar/borhegyi_esquipulas_1953a.pdf) — Borhegyi, Stephen F. de
+- [The Miraculous Shrines of Our Lord of Esquipulas in Guatemala and Chimayo, New Mexico. El Palacio , Vol. 60, No. 3 (March, 1953), pp. 83-111. En dos partes: PARTE 1 , PARTE 2 . Artículo cortesía de www.elpalacio.org .](../vault/Attachments/PDFs/fundar/borhegyi_esquipulas_1953b.pdf) — Borhegyi, Stephen F. de
 
 <!-- local-source-matches:end -->
 

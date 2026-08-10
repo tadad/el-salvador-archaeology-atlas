@@ -66,9 +66,9 @@ Está decoración en negativo se obtiene en la cocción de la pieza, a partir de
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Dos artículos publicados juntos: 1) Antigüedades salvadoreñas errantes: un jugador de pelota precolombino del área de Izalco. 2) Una extraña figurilla articulada de cerámica. Mesoamérica 21:105-114. 1991.](../sources/fundar/boggs_figurillas.pdf) — Boggs, Stanley H.
-- [Hornos precolombinos en Usulután. Estudios Centroamericanos (ECA ) 38:769-775. 1983 .](../sources/fundar/boggs_hornos.pdf) — Boggs, Stanley H.
-- [Two Early Postclassic Caches from El Salvador. Cerámica de Cultura Maya , No. 12:1-9, 1982.](../sources/fundar/caches..pdf) — Bruhns, Karen Olsen
+- [Dos artículos publicados juntos: 1) Antigüedades salvadoreñas errantes: un jugador de pelota precolombino del área de Izalco. 2) Una extraña figurilla articulada de cerámica. Mesoamérica 21:105-114. 1991.](../vault/Attachments/PDFs/fundar/boggs_figurillas.pdf) — Boggs, Stanley H.
+- [Hornos precolombinos en Usulután. Estudios Centroamericanos (ECA ) 38:769-775. 1983 .](../vault/Attachments/PDFs/fundar/boggs_hornos.pdf) — Boggs, Stanley H.
+- [Two Early Postclassic Caches from El Salvador. Cerámica de Cultura Maya , No. 12:1-9, 1982.](../vault/Attachments/PDFs/fundar/caches..pdf) — Bruhns, Karen Olsen
 
 <!-- local-source-matches:end -->
 

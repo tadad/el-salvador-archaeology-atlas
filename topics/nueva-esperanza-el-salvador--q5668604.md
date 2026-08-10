@@ -44,8 +44,8 @@ Desde sus inicios la mujer ha tenido un papel muy activo, tanto con su trabajo e
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Nuevas estructuras descubiertas en el Centro Ceremonial Poniente, Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2003.](../sources/fundar/nuevas.pdf) — Bruhns, Karen Olsen y Paul Amaroli
-- [Revista Identidades 18: nuevas tendencias en arqueología](../sources/institutional/identidades-18-arqueologia.pdf) — Ministerio de Cultura
+- [Nuevas estructuras descubiertas en el Centro Ceremonial Poniente, Cihuatán. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, San Salvador. 2003.](../vault/Attachments/PDFs/fundar/nuevas.pdf) — Bruhns, Karen Olsen y Paul Amaroli
+- [Revista Identidades 18: nuevas tendencias en arqueología](../vault/Attachments/PDFs/institutional/identidades-18-arqueologia.pdf) — Ministerio de Cultura
 
 <!-- local-source-matches:end -->
 

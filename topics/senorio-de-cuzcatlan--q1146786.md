@@ -83,9 +83,9 @@ Estaba dividido en 72 provincias tributarias denominadas como kalpishkayu (náhu
 <!-- local-source-matches:start -->
 ## Local source matches
 
-- [Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador](../sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md) — Carlos Flores Manzano
-- [Recientes investigaciones en Antiguo Cuscatlán, El Salvador](../sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf) — Paul Amaroli, Bernard Hermes, and Juan Luis Velásquez
-- [En la búsqueda de Cuscatlán: un estudio etnohistórico y arqueológico](../sources/fundar/buscacuscatlan.pdf) — Paul E. Amaroli
+- [Después de Ilopango: La arqueología urbana de Cuscatlán, en los periodos Clásico y Posclásico, El Salvador](../vault/Papers/2025-flores-manzano-despues-ilopango.md) — Carlos Flores Manzano
+- [Recientes investigaciones en Antiguo Cuscatlán, El Salvador](../vault/Attachments/PDFs/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf) — Paul Amaroli, Bernard Hermes, and Juan Luis Velásquez
+- [En la búsqueda de Cuscatlán: un estudio etnohistórico y arqueológico](../vault/Attachments/PDFs/fundar/buscacuscatlan.pdf) — Paul E. Amaroli
 
 <!-- local-source-matches:end -->
 

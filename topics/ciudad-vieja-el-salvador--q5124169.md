@@ -50,15 +50,15 @@ El traslado anteriormente apuntalado permitió que los cimientos de la villa se 
 
 ## 2002–2003 geophysical survey
 
-The Ciudad Vieja project integrated subsurface remote sensing, GIS, and excavation to study the early colonial town south of the Plaza Mayor. The team initially tested magnetic gradiometry, electrical conductivity, and magnetic susceptibility. Ground-penetrating radar was considered, but it was not deployed after conductivity and susceptibility produced strong results; gradiometry was also discontinued after the first stage. [PDF pp. 3–5 (printed pp. 679–681)](../sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md#page-3)
+The Ciudad Vieja project integrated subsurface remote sensing, GIS, and excavation to study the early colonial town south of the Plaza Mayor. The team initially tested magnetic gradiometry, electrical conductivity, and magnetic susceptibility. Ground-penetrating radar was considered, but it was not deployed after conductivity and susceptibility produced strong results; gradiometry was also discontinued after the first stage. [PDF pp. 3–5 (printed pp. 679–681)](../vault/Papers/2004-fowler-et-al-ciudad-vieja-teledeteccion.md#page-3)
 
-Survey ran from 27 November to 2 December 2002 and again from 18 to 23 March 2003. The first stage covered 1.68 ha; the second expanded conductivity and susceptibility coverage to approximately 20 ha of state-owned land in 20 × 20 m grids. Anomaly maps indicated buried rooms, buildings, and a street near the Plaza Mayor. Excavation of Structure 3D2 from January through May 2003 tested parts of that plan and helped explain strong readings rather than accepting every anomaly as architecture. [PDF pp. 5–8 (printed pp. 681–684)](../sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md#page-5)
+Survey ran from 27 November to 2 December 2002 and again from 18 to 23 March 2003. The first stage covered 1.68 ha; the second expanded conductivity and susceptibility coverage to approximately 20 ha of state-owned land in 20 × 20 m grids. Anomaly maps indicated buried rooms, buildings, and a street near the Plaza Mayor. Excavation of Structure 3D2 from January through May 2003 tested parts of that plan and helped explain strong readings rather than accepting every anomaly as architecture. [PDF pp. 5–8 (printed pp. 681–684)](../vault/Papers/2004-fowler-et-al-ciudad-vieja-teledeteccion.md#page-5)
 
 <!-- local-source-matches:start -->
 ## Local source matches
 
-- [Fowler et al., *Ciudad Vieja, El Salvador: Teledetección y patrón de asentamiento de una ciudad de la época de la conquista* (2004)](../sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md) — complete 16-page derivative; verify plans and exact wording against the [source PDF](https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf).
-- [Escamilla and Fowler, *Práctica y conducta de la arqueología salvadoreña durante los últimos 25 años* (2012)](../sources/markdown/2012-escamilla-fowler-practica-arqueologia/2012-escamilla-fowler-practica-arqueologia.md#page-7) — later project-history synthesis.
+- [Fowler et al., *Ciudad Vieja, El Salvador: Teledetección y patrón de asentamiento de una ciudad de la época de la conquista* (2004)](../vault/Papers/2004-fowler-et-al-ciudad-vieja-teledeteccion.md) — complete 16-page derivative; verify plans and exact wording against the [source PDF](https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf).
+- [Escamilla and Fowler, *Práctica y conducta de la arqueología salvadoreña durante los últimos 25 años* (2012)](../vault/Papers/2012-escamilla-fowler-practica-arqueologia.md#page-7) — later project-history synthesis.
 
 <!-- local-source-matches:end -->
 

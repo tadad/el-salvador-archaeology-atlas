@@ -48,7 +48,7 @@ El estilo de las pinturas de Corinto se parece mucho al del paleolítico sudamer
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [La Cueva del Espíritu Santo. Anales del Museo Nacional “David J. Guzmán”, 49:93-106. San Salvador. 1976.](../sources/fundar/haberland_corinto.pdf) — Haberland, Wolfgang
+- [La Cueva del Espíritu Santo. Anales del Museo Nacional “David J. Guzmán”, 49:93-106. San Salvador. 1976.](../vault/Attachments/PDFs/fundar/haberland_corinto.pdf) — Haberland, Wolfgang
 
 <!-- local-source-matches:end -->
 

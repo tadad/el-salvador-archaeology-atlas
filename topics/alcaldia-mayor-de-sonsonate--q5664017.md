@@ -38,8 +38,8 @@ A partir de 1786, debido a la implementación de las reformas borbónicas, el al
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../sources/fundar/asuncion_izalco.pdf) — Amaroli, Paul E.
-- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../sources/fundar/asuncion_izalco_fotos.zip) — Amaroli, Paul E.
+- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../vault/Attachments/PDFs/fundar/asuncion_izalco.pdf) — Amaroli, Paul E.
+- [Informe sobre el sondeo arqueológico en las ruinas de la iglesia de La Asunción, Izalco, Departamento de Sonsonate, El Salvador. Manuscrito archivado en la Secretaría de Cultura y FUNDAR, 1989. En dos archivos: Parte 1 (texto) , Parte 2 (fotos complementarias, archivo ZIP) .](../vault/Attachments/PDFs/fundar/asuncion_izalco_fotos.zip) — Amaroli, Paul E.
 
 <!-- local-source-matches:end -->
 

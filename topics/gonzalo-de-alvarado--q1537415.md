@@ -46,7 +46,7 @@ Según el historiador Francisco Antonio de Fuentes y Guzmán en su famosa obra R
 
 Conservative title/keyword matches from the downloaded archive; inspect each source before treating it as directly probative.
 
-- [Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524](../sources/public-domain/documentosantigu00alva.pdf) — Alvarado, Pedro de, 1485?-1541
+- [Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524](../vault/Attachments/PDFs/public-domain/documentosantigu00alva.pdf) — Alvarado, Pedro de, 1485?-1541
 
 <!-- local-source-matches:end -->
 
