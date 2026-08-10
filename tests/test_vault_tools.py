@@ -2,11 +2,13 @@ import copy
 import json
 import unittest
 from pathlib import Path
+from unittest.mock import Mock, patch
 
 from tools.build_vault_ontology import render_paper_note, validate
 from tools.convert_pdfs_to_markdown import (
     OCR_END,
     OCR_START,
+    embedded_pages,
     normalize_prior_record,
     replace_generated_region,
     retained_prior_records,
@@ -18,6 +20,17 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class ConverterSafetyTests(unittest.TestCase):
+    def test_embedded_text_uses_reading_order_instead_of_physical_layout(self) -> None:
+        completed = Mock(returncode=0, stdout="left\nright\f", stderr="")
+        with patch("tools.convert_pdfs_to_markdown.command", return_value=completed) as run:
+            pages, warning = embedded_pages(Path("paper.pdf"), 1)
+
+        self.assertEqual(pages, ["left\nright"])
+        self.assertEqual(warning, "")
+        run.assert_called_once_with(
+            ["pdftotext", "-enc", "UTF-8", "paper.pdf", "-"], timeout=900
+        )
+
     def test_generated_region_preserves_content_on_both_sides(self) -> None:
         existing = (
             f"# Paper\n\n## Notes\n\nKeep before.\n\n{OCR_START}\nOLD\n{OCR_END}"

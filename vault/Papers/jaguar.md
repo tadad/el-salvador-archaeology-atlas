@@ -21,7 +21,8 @@ ocr_pages: 0
 unrecognized_pages: 0
 ocr_mode: "auto"
 ocr_language: "spa+eng"
-generated: 2026-08-06
+ocr_dpi: 250
+generated: 2026-08-10
 review_status: "unreviewed"
 ---
 
@@ -44,75 +45,136 @@ review_status: "unreviewed"
 
 _Extraction method: embedded text._
 
-"Jaguar Face" sculptures found in EI Salvador                          as identified at ChaIchuapa
-SAN SALVADORIBERKELEY (Paul E. Amaroli/Karen                           (Sharer 1978). The head of a
-Olsen Bruhns) . During the construction of a new school in             clay figurine encountered in
-cant6n Tapalshucut Norte, about 1.5 km to the north of                 the vicinity is of the G6mez
-IzaIco in western EI Salvador, a find was made of a series of          type, assigned in Chalchuapa
-stone sculptures, apparently in situ. According to the school          to the period of about 600­
-director, Mrs. Morena Mendez, in February, 2002, con­                  350 BC (Dahlin 1978). Thus,
-struction workers cutting a narrow north-south foundation              it seems likely that the Tapal­
-trench encountered a line of 7 sculptures at a depth of only           shucut Norte site dates to the
-about 50 cm. The find was made on the weekend and by the               Middle-Late Preciassic, al­
-time the director arrived on Monday, two of the sculptures             though earlier and later occu ­
-had been stolen. She insisted that the remaining pieces be             pations are, of course, possi­
-locked up in the tool shed to protect them from disappearance          ble.
-as well , despite opposition from the workmen.                              To date, no investigation
-                                     The remaining sculptures          has been done at the Tapal­
-                                 consist of three abstract "jag­       shucu t Norte site and the
-                                 uar heads", a type of sculpture       school is in use with no at­
-                                 assigned to the Late Preclassic       tempt being made to protect
-                                 Period. Tbis dating is based on       the remains of the platform in Fig. 9. The other cylindrical
-                                 the very few of these sculp­          the school yard.                sculpturefromTapalshucut, with
-                                                                                                       what appears to be a stylized
-                                 tures to have been found more              FUNDAR        (Fundaci6n serpent head. (Height: 62 cm).
-                                 or less in situ, those from           Nacional de Arqueologfa de
-                                 Chalchuapa and Santa Leticia          EI Salvador) recorded the site and advised CONCULTURA
-                                 (Anderson 1978 , Demarest             to immediately protect the sculptures, to seek recovery of
-                                 1986). Although commonly              the two stolen sculptures and to conduct investigations at
-                                 identified as jaguars (Richard­       the school yard. CONCULTURA subsequently removed
-                                 son 1940), the less sty lized         the sculptures to the Museo Nacional "David 1. Guzman" in
-                                 heads (some 20 are known in           San Salv ador where they are now housed. The two stolen
+"Jaguar Face" sculptures found in EI Salvador
+SAN SALVADORIBERKELEY (Paul E. Amaroli/Karen
+Olsen Bruhns) . During the construction of a new school in
+cant6n Tapalshucut Norte, about 1.5 km to the north of
+IzaIco in western EI Salvador, a find was made of a series of
+stone sculptures, apparently in situ. According to the school
+director, Mrs. Morena Mendez, in February, 2002, con­
+struction workers cutting a narrow north-south foundation
+trench encountered a line of 7 sculptures at a depth of only
+about 50 cm. The find was made on the weekend and by the
+time the director arrived on Monday, two of the sculptures
+had been stolen. She insisted that the remaining pieces be
+locked up in the tool shed to protect them from disappearance
+as well , despite opposition from the workmen.
+The remaining sculptures
+consist of three abstract "jag­
+uar heads", a type of sculpture
+assigned to the Late Preclassic
+Period. Tbis dating is based on
+the very few of these sculp­
+tures to have been found more
+or less in situ, those from
+Chalchuapa and Santa Leticia
+(Anderson 1978 , Demarest
+1986). Although commonly
+identified as jaguars (Richard­
+son 1940), the less sty lized
+heads (some 20 are known in
 Fig. 7. One of the three "jaguar
-head" sculptures at TapaJshucut, total , virtually all of them with­   sculptures have not been recovered, and the site has received
-Izalco. (Height: 64 cm).         out provenience) appear more          no further study .
-                                 serpent like (Fig. 7).
-    The other two sculptures encountered in Tapa]shucut                                        References
-Norte are of a type previously unknown although perhaps                Anderson , Dana
-related to the pedestal sculptures of the Pacific Piedmont.            1978 Monuments. In : Sharer, Robert 1. (ed.), vol. 1,
-These consist of a cylindrical base crowned with a head . In                 pp.42-60.
+head" sculptures at TapaJshucut, total , virtually all of them with­
+Izalco. (Height: 64 cm).
+out provenience) appear more
+serpent like (Fig. 7).
+The other two sculptures encountered in Tapa]shucut
+Norte are of a type previously unknown although perhaps
+related to the pedestal sculptures of the Pacific Piedmont.
+These consist of a cylindrical base crowned with a head . In
 one case this is a crude human head (Fig. 8) . The head of the
-                                                                       Dahlin, Bruce H .
 other sculpture appears more like a very stylized serpent,
-                                                                       1978 Figurines . In: Sharer, Robert 1. (ed .), vol. 2,
 and while it admittedly bears resemblance to Tlaloc (the
-                                                                              pp. 133-211.
 Mexican rain deity), such an identification is considered
-unlikely given the dating of this find (Fig. 9) .                      Demarest, Arthur
-    The school is located in an                                        1986 The Archaeology ofSanta Leticia and the Rise ofMaya
-area of coffee plantation along                                             Civilization. Middle American Research Institute,
-one of the long ridges that de­                                             Publication 52. New Orleans: Tulane University.
-scend in a southerly direction                                         Richardson, Francis B.
-from IzaIco Volcano. Exam­                                             1940 Non-Maya Monumental Sculpture of Central Ameri­
-ination of the schoolyard re­                                                ca. In: Hay, Clarence L. et al. (ed.), The Maya and
-vealed the remains of a low                                                  Their Neighbors. New York: Appleton-Century,
-platform in the area where the                                               pp. 395--416.
-heads were found . It is possible                                      Sharer, Robert 1.
-that tbe heads were aligned                                            1978 Pottery and Conclusions. Sharer, Robert 1. (ed), vol. 3.
+unlikely given the dating of this find (Fig. 9) .
+The school is located in an
+area of coffee plantation along
+one of the long ridges that de­
+scend in a southerly direction
+from IzaIco Volcano. Exam­
+ination of the schoolyard re­
+vealed the remains of a low
+platform in the area where the
+heads were found . It is possible
+that tbe heads were aligned
 along one side of this platform,
-                                                                       Sharer, Robert 1. (ed.)
 although, given the lack of in­
-                                                                       1978 The Prehistory of Chalchuapa, EI Salvador. 3 vols .
 vestigation, which side is in
-                                                                              University Museum Monograph 36. Philadelphia:
 doubt. Two other platforms
-                                                                              University of Pennsylvania Press .
-were       noted       in     the
+were
+noted
+in
+the
 coffee plantations across the
-road and behind a large cattle                                         The Maya ruins of Xkipche, Yucatan, Mexico
-corral south of the school. Of Fig. 8. A cylindrical sculpture         BONN (Michael Vallo and Iken Paap). From the well­
-                                   crowned with a human head
-the few sherds collected, one from Tapalshucut. (Height not            known Maya ruins of Uxmal in the Mexican state of Yu­
-can be classified as belonging recorded, but similar to that of        catan, a now paved road is heading south to the small
-to the Cutumay ceramic group Figure 9).                                village of San Simon. Along the road, several smaller Maya       91
+road and behind a large cattle
+corral south of the school. Of Fig. 8. A cylindrical sculpture
+crowned with a human head
+the few sherds collected, one from Tapalshucut. (Height not
+can be classified as belonging recorded, but similar to that of
+to the Cutumay ceramic group Figure 9).
+
+as identified at ChaIchuapa
+(Sharer 1978). The head of a
+clay figurine encountered in
+the vicinity is of the G6mez
+type, assigned in Chalchuapa
+to the period of about 600­
+350 BC (Dahlin 1978). Thus,
+it seems likely that the Tapal­
+shucut Norte site dates to the
+Middle-Late Preciassic, al­
+though earlier and later occu ­
+pations are, of course, possi­
+ble.
+To date, no investigation
+has been done at the Tapal­
+shucu t Norte site and the
+school is in use with no at­
+tempt being made to protect
+the remains of the platform in Fig. 9. The other cylindrical
+sculpturefromTapalshucut, with
+the school yard.
+what appears to be a stylized
+FUNDAR
+(Fundaci6n serpent head. (Height: 62 cm).
+Nacional de Arqueologfa de
+EI Salvador) recorded the site and advised CONCULTURA
+to immediately protect the sculptures, to seek recovery of
+the two stolen sculptures and to conduct investigations at
+the school yard. CONCULTURA subsequently removed
+the sculptures to the Museo Nacional "David 1. Guzman" in
+San Salv ador where they are now housed. The two stolen
+sculptures have not been recovered, and the site has received
+no further study .
+
+References
+Anderson , Dana
+1978 Monuments. In : Sharer, Robert 1. (ed.), vol. 1,
+pp.42-60.
+Dahlin, Bruce H .
+1978 Figurines . In: Sharer, Robert 1. (ed .), vol. 2,
+pp. 133-211.
+Demarest, Arthur
+1986 The Archaeology ofSanta Leticia and the Rise ofMaya
+Civilization. Middle American Research Institute,
+Publication 52. New Orleans: Tulane University.
+Richardson, Francis B.
+1940 Non-Maya Monumental Sculpture of Central Ameri­
+ca. In: Hay, Clarence L. et al. (ed.), The Maya and
+Their Neighbors. New York: Appleton-Century,
+pp. 395--416.
+Sharer, Robert 1.
+1978 Pottery and Conclusions. Sharer, Robert 1. (ed), vol. 3.
+Sharer, Robert 1. (ed.)
+1978 The Prehistory of Chalchuapa, EI Salvador. 3 vols .
+University Museum Monograph 36. Philadelphia:
+University of Pennsylvania Press .
+
+The Maya ruins of Xkipche, Yucatan, Mexico
+BONN (Michael Vallo and Iken Paap). From the well­
+known Maya ruins of Uxmal in the Mexican state of Yu­
+catan, a now paved road is heading south to the small
+village of San Simon. Along the road, several smaller Maya
+
+91
 <!-- ocr:end -->

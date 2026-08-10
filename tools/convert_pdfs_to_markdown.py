@@ -101,7 +101,7 @@ def pdf_pages(path: Path) -> int:
 
 
 def embedded_pages(path: Path, page_count: int) -> tuple[list[str], str]:
-    result = command(["pdftotext", "-layout", "-enc", "UTF-8", str(path), "-"], timeout=900)
+    result = command(["pdftotext", "-enc", "UTF-8", str(path), "-"], timeout=900)
     if result.returncode:
         raise RuntimeError(result.stderr.strip() or "pdftotext failed")
     pages = result.stdout.split("\f")
