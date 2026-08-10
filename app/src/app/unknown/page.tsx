@@ -129,7 +129,7 @@ export default function UnknownPage() {
         <nav className={styles.primaryNav} aria-label="Primary navigation">
           <Link href="/">Atlas</Link>
           <span aria-current="page">Unknown</span>
-          <Link href="/sources.md">Sources</Link>
+          <Link href="/sources/papers">Sources</Link>
         </nav>
       </header>
 

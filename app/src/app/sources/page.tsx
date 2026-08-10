@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
 
-export default function LegacySourcesPage() {
+export default function SourcesPage() {
   redirect("/sources/papers");
 }

@@ -225,7 +225,7 @@ export function AtlasExplorer() {
         <nav className="masthead-nav" aria-label="Primary navigation">
           <span aria-current="page">Atlas</span>
           <Link href="/unknown">Unknown</Link>
-          <Link href="/sources.md">Sources</Link>
+          <Link href="/sources/papers">Sources</Link>
         </nav>
       </header>
 
