@@ -33,11 +33,9 @@ sources.
 - [Searchable PDF text](vault/Views/Papers.base) — page-addressable Markdown
   for all 127 locally archived PDFs, using embedded text and targeted
   multilingual OCR
-- [Topic index](INDEX.md) — generated inventory of discovery records
 - [Sources](vault/Library.md) — downloaded and linked primary/strong secondary
   material
 - [Schema](SCHEMA.md) — record fields, evidence labels, and inclusion rules
-- [`topics/`](topics/) — one Markdown discovery record per subject
 
 ## Scope rule
 

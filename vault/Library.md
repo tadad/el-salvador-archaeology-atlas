@@ -12,13 +12,18 @@
   university/government publications, Asociación Tikal papers, MUNA journals,
   and open-access scholarly articles, plus records for three files whose direct
   downloads were blocked.
+- [Research-lead intake](<Collections/Research Lead Intake.md>) — 34 additional
+  open-access archaeology, ethnohistory, language, and oral-history sources
+  recovered before retiring the old discovery layer, plus five blocked leads.
 
-Each collection has a machine-readable manifest in the repository's `_data/`
-directory with original URL, local path, byte size, and SHA-256 checksum.
+Each collection has machine-readable provenance in the repository's `_data/`
+directory or, for local intake data, under ignored `tmp/data/`, with original
+URL, local path, byte size, and SHA-256 checksum.
 
-All 127 locally archived PDFs also have a [page-addressable searchable Markdown
-mirror](Views/Papers.base). The extraction manifest records embedded-text, OCR,
-and unrecognized-page counts for every document.
+The original 127 locally archived PDFs have a [page-addressable searchable
+Markdown mirror](Views/Papers.base). The 34 newly reconciled sources are archived
+with checksummed provenance and await extraction after the in-progress pipeline
+refactor.
 
 ## Important linked sources not mirrored
 
