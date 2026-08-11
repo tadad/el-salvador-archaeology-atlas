@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.061
 longitude: -89.067
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Paraíso Basin marker; the cited review publishes no excavation coordinate or evidence-area boundary"
 coordinate_note: "This is a regional evidence marker, not a single archaeological site or trench."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
 latest_study_year: 1999
 latest_study_label: "1999"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: null
 ---
 

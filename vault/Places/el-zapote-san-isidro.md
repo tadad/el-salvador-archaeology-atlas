@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.7227
 longitude: -89.8417
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate point reconstructed from Figure 1 and the site description"
 coordinate_note: "The report places the site on a small flat area at 400 m elevation within Cooperativa San Isidro. Figure 1 labels the site on a broad regional image but does not state a site coordinate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/anales-54]]"
 latest_study_year: 2013
 latest_study_label: "2013"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2013
 ---
 

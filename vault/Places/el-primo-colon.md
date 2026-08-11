@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.70951
 longitude: -89.353666
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Colón municipality near Río Los Chorros; the table gives an ambiguous 20 or 200 m offset without an origin or direction"
 coordinate_note: "The marker is an approximate modern map placement, not a published archaeological coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1987
 last_fieldwork_label: "Registration card dated May 6, 1987"
 ---

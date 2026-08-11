@@ -299,24 +299,6 @@ h1 {
   }
 }
 
-.map-footnote {
-  display: flex;
-  justify-content: space-between;
-  gap: 24px;
-  padding-top: 10px;
-  color: var(--ink-soft);
-  font-size: 0.67rem;
-  line-height: 1.45;
-}
-
-.map-footnote p {
-  margin-bottom: 0;
-}
-
-.map-footnote p:first-child {
-  max-width: 74ch;
-}
-
 .research-panel {
   min-height: 0;
   overflow-y: auto;
@@ -868,10 +850,6 @@ h1 {
 
   .leaflet-tooltip {
     display: none;
-  }
-
-  .map-footnote {
-    display: block;
   }
 
   .research-panel {

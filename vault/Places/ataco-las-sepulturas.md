@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.87
 longitude: -89.849
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Ataco-area marker; the cited source publishes no coordinate"
 coordinate_note: "The point does not represent a published archaeological coordinate."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024
 latest_study_label: "2024"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2011
 last_fieldwork_label: "Project reported active at the 2011 symposium"
 ---

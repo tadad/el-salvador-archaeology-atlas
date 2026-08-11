@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.558
 longitude: -89.548
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate summit marker on Loma El Caballito, west of the Río Mizata"
 coordinate_note: "The article locates the archaeological site on the ridge and maps it only at regional scale; it publishes no reproducible coordinate, so the marker is approximate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022
 latest_study_label: "2022"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2012
 last_fieldwork_label: "Site discovery reported for 2012; exact field dates and later visits not stated"
 ---

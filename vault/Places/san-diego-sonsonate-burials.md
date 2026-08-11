@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.718
 longitude: -89.72
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Unlocated; the published table leaves the San Diego location blank"
 coordinate_note: "The marker is only a display proxy. The source does not place this record in Sonsonate or connect it with Hacienda San Diego at Lake Güija."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1989
 last_fieldwork_label: "Registered sometime in the 1980s; the card also reports a 1960 excavation"
 ---

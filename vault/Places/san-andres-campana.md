@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8006
 longitude: -89.3891
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "San Andrés archaeological-site landmark; the cited sources publish no coordinate"
 coordinate_note: "The marker identifies the known archaeological site, not a coordinate published in the cited reports."
 location_visibility: "public"
@@ -27,7 +30,6 @@ papers:
   - "[[Papers/tzunpame_boggs_sanandres]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2012
 last_fieldwork_label: "Latest field season specifically named in the 2016 article"
 ---

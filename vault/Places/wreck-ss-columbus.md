@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.5515
 longitude: -89.828
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Punta Remedios reef at Los Cóbanos, estimated from Anales 53 Figure 1 between SS Colón and the published Cheribon position"
 coordinate_note: "The wreck lies on the Los Cóbanos reef at about 20 feet depth. No public GPS coordinate was recovered, so this marker represents the mapped reef sector rather than a surveyed point."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2016
 last_fieldwork_label: "Photographic field documentation, February 2016"
 ---

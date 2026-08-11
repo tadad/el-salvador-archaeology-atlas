@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.705055
 longitude: -90.00938
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Isla El Cajete landmark in the Barra de Santiago mangroves"
 coordinate_note: "The marker represents the island, not an archaeological coordinate; the 1983 reconnaissance covered only its western half."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/amaroli_elcajete]]"
 latest_study_year: 1983
 latest_study_label: "10 February 1983"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 1983
 last_fieldwork_label: "1983 reconnaissance and surface collection"
 ---

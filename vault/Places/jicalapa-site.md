@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.535
 longitude: -89.509
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Cerro La Nancera south of Jicalapa, shown only on a regional map"
 coordinate_note: "The marker approximates the described ridge-top area; the source does not publish a reproducible coordinate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022
 latest_study_label: "2022"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2010
 last_fieldwork_label: "Discovered by the Costa del Bálsamo project"
 ---

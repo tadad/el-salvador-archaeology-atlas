@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.861
 longitude: -88.347
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "South bank of the Torola in the dam-impact sector; no coordinate is published"
 coordinate_note: "The excavation plan maps the terraces and test pits internally but has no geodetic grid. The marker is an approximate reconstruction from the riverside setting."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-54]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2013
 last_fieldwork_label: "2013 rescue excavation"
 ---

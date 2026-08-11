@@ -4,13 +4,7 @@ import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { VaultMarkdown } from "@/components/vault-markdown";
-import {
-  precisionMeta,
-  studyKindLabels,
-  type AtlasData,
-  type AtlasPlace,
-  type Precision,
-} from "@/lib/atlas-types";
+import { type AtlasData, type AtlasPlace, type Precision } from "@/lib/atlas-types";
 
 const ExcavationMap = dynamic(() => import("./excavation-map"), {
   ssr: false,
@@ -50,6 +44,20 @@ function studyYearFor(place: AtlasPlace) {
 
 export function AtlasExplorer({ data }: { data: AtlasData }) {
   const digs = data.places;
+  const precisionMeta = Object.fromEntries(
+    precisionOrder.map((precision) => {
+      const place = digs.find((candidate) => candidate.precision === precision);
+      if (!place) throw new Error(`No Place defines ${precision} coordinate precision metadata`);
+      return [
+        precision,
+        {
+          label: place.precisionLabel,
+          shortLabel: place.precisionShortLabel,
+          description: place.precisionDescription,
+        },
+      ];
+    }),
+  ) as Record<Precision, { label: string; shortLabel: string; description: string }>;
   const periodOptions = [...data.periods.map((period) => period.name), unknownFacetValue];
   const cultureOptions = [...data.cultures.map((culture) => culture.name), unknownFacetValue];
   const periodDescriptions = Object.fromEntries(
@@ -201,7 +209,6 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
         <h1>Archaeology of El Salvador</h1>
         <nav className="masthead-nav" aria-label="Primary navigation">
           <span aria-current="page">Atlas</span>
-          <Link href="/unknown">Unknown</Link>
           <Link href="/sources/places">Wiki</Link>
         </nav>
       </header>
@@ -379,7 +386,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                         }))
                       }
                     />
-                    <p className="facet-note">Includes fieldwork, formal recording, collection analysis, and substantive reinterpretation. Unknown years are omitted when narrowed.</p>
+                    <p className="facet-note">Unknown years are omitted when narrowed.</p>
                   </div>
                 </details>
 
@@ -403,12 +410,6 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
             />
           </div>
 
-          <div className="map-footnote">
-            <p>
-              Marker positions describe archaeological locations, not guaranteed trench,
-              unit, or wreck-survey coordinates. Select a site to see how it was determined.
-            </p>
-          </div>
         </div>
 
         <aside
@@ -468,14 +469,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                   <dt>Latest study</dt>
                   <dd>
                     {selected.latestStudyLabel ? (
-                      <>
-                        {selected.latestStudyLabel}
-                        {selected.latestStudyKind ? (
-                          <span className="classification-qualifier">
-                            {studyKindLabels[selected.latestStudyKind] ?? selected.latestStudyKind}
-                          </span>
-                        ) : null}
-                      </>
+                      selected.latestStudyLabel
                     ) : (
                       selected.lastFieldworkLabel ??
                       "Not documented in the cited papers"

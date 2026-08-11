@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.512244
 longitude: -88.347967
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Chinameca, San Miguel; the cited report does not publish the findspot"
 coordinate_note: "The point marks modern Chinameca, not the burial's unknown location."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2015
 latest_study_label: "2015"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: null
 ---
 

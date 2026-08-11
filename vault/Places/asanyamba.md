@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.416
 longitude: -87.823
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Source map east of Los Jiotes beside Estero El Chapernalito"
 coordinate_note: "The point is georeferenced from the thesis map and named estuary; it is close enough for regional orientation, not site protection or navigation."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/beaudry_asanyamba]]"
 latest_study_year: 2015
 latest_study_label: "2015"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Condition visit during the 2006–2008 Atlas project; exact year unstated"
 ---

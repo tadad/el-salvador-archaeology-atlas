@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.043
 longitude: -89.03
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Hacienda El Morrito-area marker; the cited sources publish no archaeological coordinate"
 coordinate_note: "The point does not represent a documented site boundary or excavation location."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/frontier]]"
 latest_study_year: 1989
 latest_study_label: "1989"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1976
 last_fieldwork_label: "Mound 3 excavation documented by 1976; exact field year unstated"
 ---

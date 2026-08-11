@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9468
 longitude: -89.1694
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Published NAD27 UTM 16N coordinate for local Datum A, transformed to WGS84"
 coordinate_note: "The marker represents the local survey datum, not a structure center; the report estimates about 5 m GPS error, and reconnaissance did not establish the site's limits."
 location_visibility: "public"
@@ -22,7 +25,6 @@ papers:
   - "[[Papers/xipe3]]"
 latest_study_year: 2004
 latest_study_label: "By April 2004"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2004
 last_fieldwork_label: "Excavations reported as continuing in April 2004"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.297
 longitude: -88.532
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "La Rama was reported 4 km northeast of Puerto El Triunfo; the Río Gualacho profile was 2 km west of La Rama and 2 km north of the port"
 coordinate_note: "One approximate marker represents two profiles reported 2 km apart; the article does not publish coordinates."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/haberland_y_grebe]]"
 latest_study_year: 1960
 latest_study_label: "1960"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1955
 last_fieldwork_label: "1955 geological and archaeological reconnaissance"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.7792
 longitude: -90.0358
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Western coastal plain; the cited pages publish no reproducible coordinate"
 coordinate_note: "Approximate Cara Sucia-area marker; it does not represent a published archaeological coordinate."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/earliest_pipil]]"
 latest_study_year: 1989
 latest_study_label: "1989"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1983
 last_fieldwork_label: "1982–1983 archaeological project"
 ---

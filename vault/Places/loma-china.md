@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.674
 longitude: -88.503
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Lower Lempa River / San Lorenzo reservoir area; the published maps provide no reproducible coordinate"
 coordinate_note: "Approximate reservoir-area marker. A 1988 account says the site may not have been completely inundated."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/earliest_pipil]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 1983
 last_fieldwork_label: "1980–1983 rescue project; narrower excavation dates conflict"
 ---

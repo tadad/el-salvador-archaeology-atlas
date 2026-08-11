@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.484108
 longitude: -89.358117
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°29′02.79″ N, 89°21′29.22″ W, the GPS position of the largest engine section"
 coordinate_note: "The remains extend roughly 200 m east–west at the rocky eastern end of Playa San Blas, near the Río Comasagua mouth. The steamer grounded there in 1901."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2011
 ---
 

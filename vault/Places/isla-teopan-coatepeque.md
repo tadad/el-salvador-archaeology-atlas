@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.84417
 longitude: -89.56306
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Figure 1 maps the Teopán site near the island's southwest shore; the article publishes no geodetic coordinate"
 coordinate_note: "The marker represents Isla Teopán rather than the exact 1996 construction exposure."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/teopan]]"
 latest_study_year: 1996
 latest_study_label: "Early 1996"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1996
 last_fieldwork_label: "Construction exposure and surface-sherd inspection reported in early 1996"
 ---

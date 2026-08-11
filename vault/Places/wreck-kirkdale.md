@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.17
 longitude: -88.443889
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°10′12.0″ N, 88°26′38.0″ W reported as the GPS position"
 coordinate_note: "The wreck lies east of the Bocana El Bajón near Isla San Sebastián at roughly 60–65 feet depth. Local fishers called the site ‘El Guirdalia.’"
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2015
 last_fieldwork_label: "Five investigative dives completed by 2015"
 ---

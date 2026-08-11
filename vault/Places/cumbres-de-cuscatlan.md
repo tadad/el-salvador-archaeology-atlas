@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.66555
 longitude: -89.2438
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Modern Urbanización Cumbres de Cuscatlán across the five mapped project sectors"
 coordinate_note: "The point is a modern-development centroid for an approximately 850,000 m² rescue area, not a published coordinate for Sector IV, the palace, the adoratory, or an excavation unit."
 location_visibility: "public"
@@ -23,7 +26,6 @@ papers:
   - "[[Papers/2025-flores-manzano-despues-ilopango]]"
 latest_study_year: 2025
 latest_study_label: "2024–2025"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1994
 last_fieldwork_label: "1993–1994 rescue excavation"
 ---

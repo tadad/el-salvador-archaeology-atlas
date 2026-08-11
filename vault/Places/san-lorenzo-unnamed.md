@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.682
 longitude: -88.515
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "San Lorenzo rescue reservoir area"
 coordinate_note: "Eight sites were excavated in the 1981–1983 rescue. Loma China, El Astillero, and El Jocotal are now mapped separately; five remain grouped because their records are incomplete."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/earliest_pipil]]"
 latest_study_year: 1983
 latest_study_label: "1981–1983"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1983
 last_fieldwork_label: "1981–1983 rescue campaign"
 ---

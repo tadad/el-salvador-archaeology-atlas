@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9745
 longitude: -89.663
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Eastern Chalchuapa investigation area shown in the project plan"
 coordinate_note: "The article maps the project internally; this marker is a reconstructed site-area centroid."
 location_visibility: "public"
@@ -21,7 +24,6 @@ cultures:
 papers: []
 latest_study_year: 2015
 latest_study_label: "2015"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2014
 last_fieldwork_label: "Excavation begun 2 April 2014"
 ---

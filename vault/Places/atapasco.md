@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.855278
 longitude: -89.287444
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°51′19.0″ N, 89°17′14.8″ W published by PAHES"
 coordinate_note: "The published coordinate marks the surveyed Atapasco remains."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2007
 last_fieldwork_label: "Registered by PAHES on November 1, 2007"
 ---

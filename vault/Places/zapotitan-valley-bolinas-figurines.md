@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8
 longitude: -89.4
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Broad Zapotitán Valley centroid; the article names the valley but no site or coordinate"
 coordinate_note: "This regional marker does not imply that the cited fragments came from Joya de Cerén, San Andrés, or any other individually mapped valley site."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024
 latest_study_label: "2024"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: null
 ---
 

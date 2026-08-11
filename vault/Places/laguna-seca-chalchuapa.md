@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9781
 longitude: -89.668029
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Mapped Laguna Seca crater landmark"
 coordinate_note: "The marker identifies the former crater and surrounding residential area, not one excavation unit."
 location_visibility: "public"
@@ -22,7 +25,6 @@ papers:
   - "[[Papers/casasola_panorama]]"
 latest_study_year: 1970
 latest_study_label: "1968–1970"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1970
 last_fieldwork_label: "Investigated during the 1968–1970 Chalchuapa project"
 ---

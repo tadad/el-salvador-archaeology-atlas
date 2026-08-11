@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.33
 longitude: -88.535
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "A few kilometres northeast of Bahía de Jiquilisco"
 coordinate_note: "Twenty test pits were excavated. The report withholds a coordinate, so the point shows only the described coastal landscape."
 location_visibility: "public"
@@ -16,7 +19,6 @@ cultures: []
 papers: []
 latest_study_year: 2008
 latest_study_label: "2006–2008"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Tested during the 2006–2008 Atlas project; exact field season unstated"
 ---

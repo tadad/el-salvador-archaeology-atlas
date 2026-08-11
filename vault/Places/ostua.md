@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.316639
 longitude: -89.5625
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "14°18′59.9″ N, 89°33′45.0″ W published by PAHES"
 coordinate_note: "Published site coordinate; the report does not define a boundary."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
 latest_study_year: 2007
 latest_study_label: "August–December 2007"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2007
 ---
 

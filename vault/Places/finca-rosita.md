@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.970495
 longitude: -89.561662
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Mapped Finca Rosita locality in Santa Ana city"
 coordinate_note: "The marker represents the nuclear site area; development and subdivision altered the original finca boundaries."
 location_visibility: "public"
@@ -18,7 +21,6 @@ cultures:
 papers: []
 latest_study_year: 2006
 latest_study_label: "2006"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2003
 last_fieldwork_label: "Four test pits excavated in 2003"
 ---

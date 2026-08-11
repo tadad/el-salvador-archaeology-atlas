@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.7461
 longitude: -89.6749
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Mapped footprint of the Iglesia de la Asunción ruins"
 coordinate_note: "The point marks the documented church ruins; the report publishes no geographic coordinate."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/asuncion_izalco]]"
 latest_study_year: 1989
 latest_study_label: "August 1989"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1989
 last_fieldwork_label: "Two-week archaeological sounding in August 1989"
 ---

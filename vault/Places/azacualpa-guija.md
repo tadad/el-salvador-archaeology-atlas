@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.258
 longitude: -89.49
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Bluff on the northeast shore of Lake Güija, north of Igualtepeque"
 coordinate_note: "Approximate marker reconstructed from Longyear’s regional sketch map and shoreline description; the report gives no reproducible coordinate or site boundary."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/testimony1]]"
 latest_study_year: 2004
 latest_study_label: "By 2004"
-latest_study_kind: "condition-assessment"
 last_fieldwork_year: 2004
 last_fieldwork_label: "Condition photographed by November 2004; exact visit date not stated"
 ---

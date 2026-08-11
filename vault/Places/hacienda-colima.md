@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.0494
 longitude: -89.1388
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Hacienda Colima locality marker"
 coordinate_note: "The cited bibliography identifies a 1974 excavation at Hacienda Colima but does not publish the archaeological location; the marker is approximate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/drowned]]"
 latest_study_year: 1974
 latest_study_label: "1974"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1974
 last_fieldwork_label: "Documented rescue excavation: 1974"
 ---

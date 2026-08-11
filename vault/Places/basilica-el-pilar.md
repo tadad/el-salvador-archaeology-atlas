@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.643
 longitude: -88.7853
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Standing El Pilar church in San Vicente"
 coordinate_note: "A 2003 investigation documented catacombs, architectural features, and Colonial-period cultural materials; the published summary does not state the field method."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-57-58]]"
 latest_study_year: 2003
 latest_study_label: "2003"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2003
 last_fieldwork_label: "2003 investigation"
 ---

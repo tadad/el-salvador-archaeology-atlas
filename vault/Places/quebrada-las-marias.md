@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.918
 longitude: -88.152
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "About 1 km east of the main road along the path to Arambala, near Quebrada Las Marías"
 coordinate_note: "The marker reconstructs Haberland’s route description; the report publishes no coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1954
 latest_study_label: "29 June–2 July 1954"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1954
 last_fieldwork_label: "Haberland reconnaissance, June 29–July 2, 1954"
 ---

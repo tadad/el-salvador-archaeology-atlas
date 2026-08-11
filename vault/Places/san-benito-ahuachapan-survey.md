@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.800779
 longitude: -89.993571
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Mapped San Benito locality in San Francisco Menéndez"
 coordinate_note: "The locality is known, but the 2007 archaeological survey did not publish a site centroid."
 location_visibility: "public"
@@ -17,7 +20,6 @@ cultures: []
 papers: []
 latest_study_year: 2007
 latest_study_label: "2007"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2007
 ---
 

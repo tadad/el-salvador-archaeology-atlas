@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8589
 longitude: -89.804
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Apaneca town center; the sources do not locate the grave"
 coordinate_note: "Habel witnessed a grave being opened at Apaneca; controlled excavation is not documented."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/spinden1915]]"
 latest_study_year: null
 latest_study_label: "1860s"
-latest_study_kind: "discovery"
 last_fieldwork_year: null
 ---
 

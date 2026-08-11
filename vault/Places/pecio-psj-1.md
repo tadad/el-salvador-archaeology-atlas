@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.1738
 longitude: -88.4783
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°10′25.6″ N, 88°28′41.7″ W published for the wreck at the east end of the San Juan del Gozo peninsula"
 coordinate_note: "A 2012 visit confirmed a riveted iron mast fragment. Four 2 × 2 m pits later exposed the mast base; groundwater halted excavation at 1.10 m."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/anales-55]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2012
 last_fieldwork_label: "2012 visit and excavation"
 ---

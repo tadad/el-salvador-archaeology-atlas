@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.67222
 longitude: -89.24722
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Former Laguna de Cuscatlán crater and modern Plan de la Laguna landmark"
 coordinate_note: "The point marks the crater landscape around which survey finds were distributed, not a single collection location, structure, or excavation unit."
 location_visibility: "public"
@@ -22,7 +25,6 @@ papers:
   - "[[Papers/buscacuscatlan]]"
 latest_study_year: 2025
 latest_study_label: "2024–2025"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1985
 last_fieldwork_label: "December 1984–February 1985 intensive pedestrian survey"
 ---

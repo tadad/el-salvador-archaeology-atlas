@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.743699
 longitude: -89.42218
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Mapped Río Chuchucato corridor in the Zapotitán Valley"
 coordinate_note: "The river is the stable public landmark; the development parcel is generalized."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2009
 latest_study_label: "2009"
-latest_study_kind: "condition-assessment"
 last_fieldwork_year: 2009
 ---
 

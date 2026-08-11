@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.996391
 longitude: -89.657166
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate modern Amulunga locality east of Chalchuapa"
 coordinate_note: "The cited source names Amulunga but publishes no archaeological coordinate or site boundary; the marker is only a modern locality anchor."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: null
 latest_study_label: "Undated"
-latest_study_kind: "site-recording"
 last_fieldwork_year: null
 ---
 

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.919
 longitude: -89.848
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Mapped church landmark; the archaeological source gives no coordinate"
 coordinate_note: "The 1985 project excavated inside and immediately outside the church."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/asuncion_ahuachapan]]"
 latest_study_year: 2003
 latest_study_label: "2002–2003"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2003
 last_fieldwork_label: "2002–2003 rescue investigation"
 ---

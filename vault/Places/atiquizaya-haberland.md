@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9769
 longitude: -89.7521
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Haberland’s map places the locality only at town scale; a later review says the excavated site was near Atiquizaya"
 coordinate_note: "Approximate marker at modern Atiquizaya. Neither cited source preserves the excavation parcel or a reproducible archaeological coordinate."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/haberland_sequences]]"
 latest_study_year: 1958
 latest_study_label: "1958"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1958
 last_fieldwork_label: "Latest field season reported by Haberland"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.0667
 longitude: -89.1
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Hacienda Santa Bárbara locality; the cited archaeological sources publish no coordinate"
 coordinate_note: "The marker is approximate and does not represent a documented site boundary. A bibliography mentions La Ciénaga separately from Hacienda Santa Bárbara and nearby sites, so this record does not treat those names as aliases."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/frontier]]"
 latest_study_year: 1991
 latest_study_label: "1991"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1976
 last_fieldwork_label: "Santa Bárbara investigated by 1976; exact field year unstated"
 ---

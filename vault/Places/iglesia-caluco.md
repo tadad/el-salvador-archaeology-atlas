@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.725
 longitude: -89.6609
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Modern Caluco church landmark; the cited source publishes no archaeological coordinate"
 coordinate_note: "The point marks the modern parish church, not a published excavation coordinate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
 latest_study_year: 1995
 latest_study_label: "1995"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1995
 last_fieldwork_label: "Topographic survey and continued excavation"
 ---

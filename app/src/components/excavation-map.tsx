@@ -11,7 +11,7 @@ import {
   ZoomControl,
   useMap,
 } from "react-leaflet";
-import { precisionMeta, type AtlasPlace, type Precision } from "@/lib/atlas-types";
+import { type AtlasPlace, type Precision } from "@/lib/atlas-types";
 
 type ExcavationMapProps = {
   digs: AtlasPlace[];
@@ -87,7 +87,7 @@ export default function ExcavationMap({ digs, selected, onSelect }: ExcavationMa
             icon={isSelected ? icons.selected[dig.precision] : icons[dig.precision]}
             zIndexOffset={isSelected ? 1000 : dig.precision === "published" ? 200 : 0}
             eventHandlers={{ click: () => onSelect(dig) }}
-            title={`${dig.name} — ${precisionMeta[dig.precision].label}`}
+            title={`${dig.name} — ${dig.precisionLabel}`}
           >
             <Tooltip
               key={isSelected ? "selected" : "hover"}
@@ -97,7 +97,7 @@ export default function ExcavationMap({ digs, selected, onSelect }: ExcavationMa
               permanent={isSelected}
             >
               <strong>{dig.name}</strong>
-              <span>{precisionMeta[dig.precision].label}</span>
+              <span>{dig.precisionLabel}</span>
             </Tooltip>
           </Marker>
         );

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.7026
 longitude: -89.7216
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Nahulingo-area marker; the cited sources publish no coordinate"
 coordinate_note: "Research included mapping, surface collection, excavation, and later work on burial contexts; the point is not a published archaeological coordinate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2007
 latest_study_label: "2007"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2005
 last_fieldwork_label: "2004–2005 archaeological sounding"
 ---

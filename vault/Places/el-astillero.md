@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.685
 longitude: -88.523
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Pre-inundation project map in the San Ildefonso reservoir sector"
 coordinate_note: "Sixteen structures were investigated before inundation. The coordinate is reconstructed from the project map rather than a published GPS point."
 location_visibility: "public"
@@ -16,7 +19,6 @@ cultures: []
 papers: []
 latest_study_year: 2008
 latest_study_label: "2006–2008"
-latest_study_kind: "condition-assessment"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Inundated site area assessed during the 2006–2008 Atlas project; exact year unstated"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9806
 longitude: -89.1645
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Published WGS84 UTM coordinate for project Datum A-2001, converted to WGS84"
 coordinate_note: "The marker represents survey datum A-2001 southwest of P-7, not the pyramid center; the report estimates the GPS error at about 15 m."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/P7]]"
 latest_study_year: 2002
 latest_study_label: "2001–2002"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2002
 last_fieldwork_label: "2001–2002 project"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.946853
 longitude: -89.463165
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate modern El Potosí locality; the report locates finds only within Finca Potosí"
 coordinate_note: "The marker is a proxy; the report publishes no archaeological coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942
 latest_study_label: "1940–1942"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1942
 last_fieldwork_label: "Visited during Boggs’s 1940–1942 western survey; exact year not stated"
 ---

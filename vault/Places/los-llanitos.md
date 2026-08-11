@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.3318
 longitude: -88.1979
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate reconstruction: a pasture 500 m west of the road and about 1 km south of Los Llanitos village"
 coordinate_note: "Longyear published relative distances and a sketch map, not a geodetic coordinate."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2017
 latest_study_label: "2017"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Condition visit during the 2006–2008 Atlas project; exact year unstated"
 ---
