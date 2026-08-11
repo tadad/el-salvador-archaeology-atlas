@@ -16,7 +16,8 @@ coordinate_note: "The settlement landmark is used because the archaeological pla
 location_visibility: "public"
 periods: []
 cultures: []
-papers: []
+papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2008
 latest_study_label: "2006–2008"
 last_fieldwork_year: 2008
@@ -47,7 +48,7 @@ Researchers recorded an elevated plaza and associated mounds, evidence for plann
 
 Atlas reconnaissance confirmed an elevated plaza, monumental mounds, and a domestic area; the exact visit year is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 39
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 40|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 40]]
 
 ## Location and uncertainty
 
@@ -59,8 +60,10 @@ The settlement landmark is used because the archaeological plaza and mound group
 
 ## Sources
 
-### 2007-ichon-urbanismo-arquitectura-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
-**Citation:** PDF p. 39
+**Citation:** PDF p. 40 (printed p. 29), San Idelfonso site description
 
-[Open cited source](https://www.famsi.org/reports/07070es/07070esCapitulos1y4.pdf#page=39)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 40|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=40)
+
+The Atlas corrects the registry’s characterization as gypsum and lime mines, documenting an elevated plaza, pyramidal mounds, dispersed domestic structures, surface obsidian, and agricultural and mechanical damage. The report does not publish a site coordinate or a ceramic chronology.

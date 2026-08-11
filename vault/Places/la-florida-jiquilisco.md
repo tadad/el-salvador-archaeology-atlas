@@ -14,9 +14,12 @@ coordinate_precision_description: "A best-fit location reconstructed from the pa
 coordinate_basis: "Jiquilisco jurisdiction, south of the coastal highway"
 coordinate_note: "Thirty-six test pits sampled the site. Its marker is deliberately broad because the atlas does not publish the protected location."
 location_visibility: "public"
-periods: []
+periods:
+  - "[[Periods/preclassic|Preclassic]]"
+  - "[[Periods/classic|Classic]]"
 cultures: []
-papers: []
+papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2008
 latest_study_label: "2006–2008"
 last_fieldwork_year: 2008
@@ -31,7 +34,7 @@ A settlement south of the coastal highway in the Jiquilisco district, selected a
 
 ## Chronology
 
-Pre-Hispanic; tested in the 2006–2007 project. The accessible atlas section does not provide a securely narrowed occupation span.
+Late/Terminal Preclassic and Late Classic–Terminal, based on the ceramic groups tabulated by the Atlas. Tested during the 2006–2008 project.
 
 ## How it was investigated
 
@@ -47,7 +50,7 @@ The excavation documented buried occupation across the site and recovered cerami
 
 The Atlas project opened 36 test pits and analyzed recovered material; the exact field season is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF pp. 51–52
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 52|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 52]]
 
 ## Location and uncertainty
 
@@ -59,8 +62,10 @@ Thirty-six test pits sampled the site. Its marker is deliberately broad because 
 
 ## Sources
 
-### 2007-ichon-urbanismo-arquitectura-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
-**Citation:** PDF pp. 51–52
+**Citation:** PDF p. 52 (printed p. 41), site description and Table 4.4
 
-[Open cited source](https://www.famsi.org/reports/07070es/07070esCapitulos1y4.pdf#page=51)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 52|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=52)
+
+The Atlas combines two adjacent survey parcels south of the Pan-American highway in Jiquilisco, documents 36 test pits, and reports severe agricultural disturbance with no preserved architecture. Table 4.4 identifies Late/Terminal Preclassic and Late Classic–Terminal ceramic groups, supporting the two broad period links without an ethnic attribution.

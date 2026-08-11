@@ -2,17 +2,18 @@
 type: "place"
 place_id: "wreck-ss-douglas"
 name: "SS Douglas (Sakkarah)"
-aliases: []
-place_kind: "Maritime archaeology · steamship wreck"
+aliases:
+  - "Sakkarah"
+place_kind: "Registered maritime wreck · steamship"
 atlas: true
 latitude: 13.4983
 longitude: -89.81095
-coordinate_precision: "published"
-coordinate_precision_label: "Published coordinate"
-coordinate_precision_short_label: "Published"
-coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
-coordinate_basis: "13°29.898′ N, 89°48.657′ W reported for survey point ‘Douglas 1’"
-coordinate_note: "The wreck lies about 2.5 km southwest of Punta Remedios at roughly 15–35 feet depth. It sank with a cargo of coffee after striking the reef in 1890."
+coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
+coordinate_basis: "Los Cóbanos locality in the 2014 national wreck inventory"
+coordinate_note: "The source map and table place SS Douglas at Los Cóbanos, Sonsonate, but do not publish a reproducible wreck position."
 location_visibility: "public"
 periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
@@ -21,68 +22,72 @@ cultures:
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-53]]"
-latest_study_year: 2021
-latest_study_label: "2021"
+latest_study_year: 2014
+latest_study_label: "2014 registry synthesis"
 last_fieldwork_year: 2011
-last_fieldwork_label: "2005 registration; 2011 protection project"
+last_fieldwork_label: "2011 protection and buffer-area delimitation project"
 ---
 
 # SS Douglas (Sakkarah)
 
 ## Overview
 
-A coffee-carrying steamship lost southwest of Punta Remedios and long known under both Douglas and Sakkarah. It is one of El Salvador’s best-documented protected underwater sites.
+A registered steamship wreck at Los Cóbanos, Sonsonate, also identified in the inventory as Sakkarah.
 
 ## Chronology
 
-Struck the reef and sank in 1890. Surveyed in the 2000s and declared the country’s first protected submerged archaeological site in 2011.
+Built in 1872 and wrecked in 1890.
 
 ## How it was investigated
 
-Divers mapped and photographed machinery and hull remains across survey points at about fifteen to thirty-five feet depth, then connected them with shipping records.
+The wreck was registered in 2005. A 2011 project addressed its protection and buffer-area delimitation, but the local summaries do not describe the field method.
 
 ## What archaeologists found
 
-The wreck preserves boilers, engine and structural components together with the story of a coffee cargo lost on an international route. Its survey helped establish underwater-heritage practice in El Salvador.
+The inventory identifies a steamship wreck but does not describe its surviving remains or cargo.
 
 ## Research history
 
-### 2021 — Archival synthesis
+### 2014 — Registry synthesis
 
-A thesis synthesized the wreck's history, condition, and archaeological record; it reports no new 2021 dive.
+A national summary mapped SS Douglas broadly at Los Cóbanos and tabulated its construction, wreck, and registration years.
 
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 44–45
+**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
 
-### 2011 — Site recording
+### 2011 — Protection-area project
 
-A protection and delimitation project revisited the wreck.
+A project addressed protection and buffer-area delimitation for the wreck.
 
 **Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 8]]
 
-### 2005 — Site recording
+### 2005 — Site registration
 
-The wreck was registered in the national underwater-cultural-heritage program.
+The national inventory gives 2005 as the registration year.
 
 **Evidence:** [[Papers/anales-53#Page 17|anales-53.pdf, PDF p. 17]]
 
 ## Location and uncertainty
 
-The wreck lies about 2.5 km southwest of Punta Remedios at roughly 15–35 feet depth. It sank with a cargo of coffee after striking the reef in 1890.
+The marker represents the Los Cóbanos locality. The local sources do not support the former exact coordinate, distance, depth range, survey-point name, or coffee-cargo claim.
 
 - **Coordinates:** 13.4983, -89.8110
-- **Placed from:** 13°29.898′ N, 89°48.657′ W reported for survey point ‘Douglas 1’
-- **Precision:** published
+- **Placed from:** Los Cóbanos locality in the national inventory
+- **Precision:** approx
 
 ## Sources
 
 ### anales-53.pdf
 
-**Citation:** PDF pp. 16–17
+**Citation:** PDF pp. 16–17, Figures 1–2
+
+**Citation note:** Supports the Los Cóbanos location, steam propulsion, 1872 construction, 1890 wreck, alternate name Sakkarah, and 2005 registration. It does not publish a coordinate or describe the remains.
 
 [[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
 
-### patrimonio-cultural-subacuatico-el-salvador.pdf
+### 2012-escamilla-fowler-practica-arqueologia.pdf
 
-**Citation:** PDF p. 44
+**Citation:** PDF p. 8 (printed p. 434)
 
-[Open cited source](https://repositorio.ues.edu.sv/server/api/core/bitstreams/3bd54975-6616-482c-8241-411538a74cbc/content#page=44)
+**Citation note:** Supports a 2011 protection and buffer-area delimitation project and the statement that Douglas was the country's first submerged site with a protection declaration.
+
+[[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/03/036_Escamilla_y_Fowler.pdf#page=8)

@@ -16,10 +16,9 @@ coordinate_note: "The registry-derived point is used because it fits the mapped 
 location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
-  - "[[Periods/postclassic|Postclassic]]"
-cultures:
-  - "[[Cultures/eastern-salvadoran-lenca-related|Eastern Salvadoran / Lenca-related]]"
-papers: []
+cultures: []
+papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2017
 latest_study_label: "2017"
 last_fieldwork_year: 2008
@@ -34,7 +33,7 @@ A compact settlement near the San Lorenzo reservoir whose paired mounds form a b
 
 ## Chronology
 
-Late Classic to Early Postclassic, broadly 600–1200 CE. Investigated during the 2006–2007 eastern atlas field campaign.
+Late Classic–Terminal, about 625–1000 CE in the Atlas chronology. Investigated during the 2006–2008 eastern atlas project.
 
 ## How it was investigated
 
@@ -42,7 +41,7 @@ The atlas team mapped the site and used test excavations to sample deposits asso
 
 ## What archaeologists found
 
-Researchers documented an I-shaped ballcourt and associated mounds, with ceramic material used to place the community in the later first millennium and opening centuries of the second.
+Researchers documented a small ballcourt, a connected platform, a separate mound, and associated features. Four test pits and surface collection produced 1,883 ceramic sherds and 68 lithic fragments; the diagnostic ceramics were assigned to the Lepa phase.
 
 ## Research history
 
@@ -56,7 +55,7 @@ A ballcourt study reassessed the site's architecture and landscape; it reports n
 
 The Atlas project mapped the site, tested it, and analyzed its ceramics; the exact field season is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF pp. 48–49
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 49|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF pp. 49–50]]
 
 ## Location and uncertainty
 
@@ -68,11 +67,13 @@ The registry-derived point is used because it fits the mapped landscape; the the
 
 ## Sources
 
-### 2007-ichon-urbanismo-arquitectura-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
-**Citation:** PDF pp. 48–49
+**Citation:** PDF pp. 49–50 (printed pp. 38–39), site description, maps, methods, and ceramic chronology
 
-[Open cited source](https://www.famsi.org/reports/07070es/07070esCapitulos1y4.pdf#page=48)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 49|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=49)
+
+The Atlas maps the roughly two-hectare site and its ballcourt, records four test pits and surface collection, and reports 1,883 ceramic sherds plus 68 lithic fragments. Its ceramic table assigns the diagnostic groups to the Lepa phase (625–1000 CE) and characterizes the occupation as Late Classic–Terminal. This supports the Classic-period link; it does not establish an Early Postclassic occupation or a site-specific ethnic identity.
 
 ### 2017-canchas-juego-pelota-oriente.pdf
 

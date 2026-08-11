@@ -3,16 +3,16 @@ type: "place"
 place_id: "wreck-anden"
 name: "Anden"
 aliases: []
-place_kind: "Maritime archaeology · diesel freighter"
+place_kind: "Registered maritime wreck · diesel freighter"
 atlas: true
 latitude: 13.6852
 longitude: -90.0005
-coordinate_precision: "landmark"
-coordinate_precision_label: "Site or landmark"
-coordinate_precision_short_label: "Landmark"
-coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
-coordinate_basis: "OpenStreetMap wreck geometry, matching the paper’s location about 50 m southwest of the Barra de Santiago beach"
-coordinate_note: "The Peruvian freighter grounded during the September 1982 storm and broke into several large sections. The papers report that parts remain visible at low tide."
+coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
+coordinate_basis: "Barra de Santiago locality in the 2014 national wreck inventory"
+coordinate_note: "The source map and table place Anden at Barra de Santiago, Ahuachapán, but do not publish a reproducible wreck position."
 location_visibility: "public"
 periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
@@ -20,61 +20,52 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 papers:
   - "[[Papers/anales-53]]"
-latest_study_year: 2021
-latest_study_label: "2021"
+latest_study_year: 2014
+latest_study_label: "2014 registry synthesis"
 last_fieldwork_year: 2011
+last_fieldwork_label: "Registered in 2011; method and visit date unstated"
 ---
 
 # Anden
 
 ## Overview
 
-The remains of a Peruvian diesel freighter stranded just off Barra de Santiago. Large broken sections still connect a modern beach landscape to a destructive Pacific storm.
+A registered diesel-freighter wreck at Barra de Santiago, Ahuachapán.
 
 ## Chronology
 
-The ship grounded during the September 1982 storm; it represents late twentieth-century maritime history.
+The inventory gives 1982 as the wreck year and does not state a construction year.
 
 ## How it was investigated
 
-Maritime researchers inventoried the wreck from the shore and shallow water and matched the visible remains to documentary accounts.
+The wreck was entered in the national inventory in 2011. The cited source does not describe the field method or visit date.
 
 ## What archaeologists found
 
-The hull broke into several large sections, some reportedly visible at low tide. This is archaeological recording of a recent wreck, not a conventional soil excavation.
+The inventory identifies the site as a diesel-powered wreck but does not describe its surviving remains.
 
 ## Research history
 
-### 2021 — Archival synthesis
+### 2014 — Registry synthesis
 
-A thesis synthesized the wreck's identification, condition, and protection record; it reports no new 2021 dive.
+A national summary mapped Anden broadly at Barra de Santiago and tabulated its vessel type, wreck year, and 2011 registration.
 
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 32–33
-
-### 2011 — Site recording
-
-The wreck was registered in the national underwater-cultural-heritage program.
-
-**Evidence:** [[Papers/anales-53#Page 15|anales-53.pdf, PDF pp. 15–17]]
+**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
 
 ## Location and uncertainty
 
-The Peruvian freighter grounded during the September 1982 storm and broke into several large sections. The papers report that parts remain visible at low tide.
+The marker represents the Barra de Santiago locality. The local source does not support the former exact-wreck geometry, distance from shore, low-tide visibility, or storm account.
 
 - **Coordinates:** 13.6852, -90.0005
-- **Placed from:** OpenStreetMap wreck geometry, matching the paper’s location about 50 m southwest of the Barra de Santiago beach
-- **Precision:** landmark
+- **Placed from:** Barra de Santiago locality in the national inventory
+- **Precision:** approx
 
 ## Sources
 
 ### anales-53.pdf
 
-**Citation:** PDF pp. 16–17
+**Citation:** PDF pp. 16–17, Figures 1–2
+
+**Citation note:** Supports the broad Barra de Santiago location, diesel propulsion, 1982 wreck year, and 2011 registration. It does not publish a coordinate, field method, or description of remains.
 
 [[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
-
-### patrimonio-cultural-subacuatico-el-salvador.pdf
-
-**Citation:** PDF p. 32
-
-[Open cited source](https://repositorio.ues.edu.sv/server/api/core/bitstreams/3bd54975-6616-482c-8241-411538a74cbc/content#page=32)

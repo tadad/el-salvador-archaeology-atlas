@@ -14,9 +14,11 @@ coordinate_precision_description: "A best-fit location reconstructed from the pa
 coordinate_basis: "Hacienda San José area about 8 km west of Jucuarán"
 coordinate_note: "The marker represents the named estate area; the isolated mounds were not published with GPS coordinates."
 location_visibility: "public"
-periods: []
+periods:
+  - "[[Periods/classic|Classic]]"
 cultures: []
-papers: []
+papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2008
 latest_study_label: "2006–2008"
 last_fieldwork_year: 2008
@@ -31,7 +33,7 @@ A small group of isolated mounds in the coastal uplands west of Jucuarán, showi
 
 ## Chronology
 
-Pre-Hispanic; documented during the 2006–2007 eastern atlas project. No narrow phase is supported by the cited summary.
+Late Classic–Terminal ceramic participation is documented in the Atlas synthesis; the visible mounds were recorded during the 2006–2008 project.
 
 ## How it was investigated
 
@@ -47,7 +49,7 @@ The visible mounds establish a built pre-Hispanic presence in the estate landsca
 
 Atlas reconnaissance documented the site and collected surface material; the exact visit year is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 40
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 41|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 41]]
 
 ## Location and uncertainty
 
@@ -59,8 +61,10 @@ The marker represents the named estate area; the isolated mounds were not publis
 
 ## Sources
 
-### 2007-ichon-urbanismo-arquitectura-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
-**Citation:** PDF p. 40
+**Citation:** PDF pp. 41, 202, 205–206 (printed pp. 30, 191, 194–195), site class and Lepa-phase synthesis
 
-[Open cited source](https://www.famsi.org/reports/07070es/07070esCapitulos1y4.pdf#page=40)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 41|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=41)
+
+The Atlas classifies San José Jucuarán as a small group of isolated mounds and interprets it cautiously as a household-scale settlement using Bahía de Jiquilisco resources. The ceramic synthesis reports the Lepa-phase Sirama Rojo and Los Llanitos Polychrome groups there and includes the site in Late Classic–Terminal exchange networks, supporting a broad Classic-period link but not an ethnic assignment.

@@ -14,9 +14,11 @@ coordinate_precision_description: "A best-fit location reconstructed from the pa
 coordinate_basis: "South bank of the Torola in the dam-impact sector; no coordinate is published"
 coordinate_note: "The excavation plan maps the terraces and test pits internally but has no geodetic grid. The marker is an approximate reconstruction from the riverside setting."
 location_visibility: "public"
-periods: []
+periods:
+  - "[[Periods/classic|Classic]]"
 cultures: []
 papers:
+  - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/anales-54]]"
 latest_study_year: 2016
 latest_study_label: "2016"
@@ -48,7 +50,7 @@ Excavators documented poorly preserved walls and a semicircular feature. Ceramic
 
 A projectile-point thesis analyzed three artifacts from El Chaparral.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 80–91
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 54|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 54–56, 79–91]]
 
 ### 16 January–15 February 2013 — Fieldwork
 
@@ -71,6 +73,14 @@ The excavation plan maps the terraces and test pits internally but has no geodet
 - **Precision:** approx
 
 ## Sources
+
+### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
+
+**Citation:** PDF pp. 54–56, 79–91, site summary and three-point analysis
+
+[[Papers/2016-barrera-puntas-flecha-oriente#Page 54|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=54)
+
+The thesis analyzes three superficially recovered projectile points associated with the structural sector and assigns the studied material to the Late Classic. This supports a broad Classic link for the archaeological material, but it does not date the terrace walls themselves, which the excavation report treats as later and uncertain.
 
 ### anales-54.pdf
 

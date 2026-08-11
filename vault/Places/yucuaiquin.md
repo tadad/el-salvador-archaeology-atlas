@@ -17,6 +17,7 @@ location_visibility: "public"
 periods: []
 cultures: []
 papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/anales-55]]"
   - "[[Papers/longyear]]"
 latest_study_year: 2008
@@ -69,11 +70,11 @@ Approximate town-center marker. The location of the reported remains is unknown.
 
 The boldfaced entry says only: “Yucuayquin. The town rests on pre-Columbian remains.” The Appendix preamble on PDF p. 76 explains that boldface marks confirmed localities, while warning that most entries in the compiled list were otherwise unvisited possibilities. No objects, dates, or field method are reported here.
 
-### 2009-amador-atlas-arqueologico-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
 **Citation:** PDF p. 42 (printed p. 31), ‘Hallazgos’ classification
 
-[Open cited source](https://www.ancientamericas.org/sites/default/files/07070esAmador01.pdf#page=42)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 42|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=42)
 
 Yucuaiquín appears only in the list of field-verified hallazgos. The report defines this category as portable cultural material found fortuitously through modern digging, agriculture, or erosion. Such finds are often singular and lack associated architecture. The report does not identify the object found at Yucuaiquín.
 

@@ -18,6 +18,7 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/haberland_sequences]]"
   - "[[Papers/longyear]]"
 latest_study_year: 2017
@@ -56,7 +57,7 @@ A ballcourt thesis reassessed the site's architectural layout; it reports no new
 
 The Atlas team revisited the site and photographically documented the near-total destruction; the exact visit year is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF pp. 35–36
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 36|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 36]]
 
 ### 1960 — Reinterpretation
 
@@ -79,6 +80,14 @@ Longyear published relative distances and a sketch map, not a geodetic coordinat
 - **Precision:** approx
 
 ## Sources
+
+### Atlas Arqueológico de la Región de Oriente de El Salvador
+
+**Citation:** PDF p. 36 (printed p. 25), condition assessment
+
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 36|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=36)
+
+The Atlas revisits Longyear’s plan and reports that agricultural activity and looting had destroyed almost all visible structures, including most of the ballcourt. It documents condition, not a new excavation or a secure revision of Haberland’s tentative chronology.
 
 ### longyear.pdf
 

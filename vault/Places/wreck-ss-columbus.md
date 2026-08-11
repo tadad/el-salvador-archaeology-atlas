@@ -3,7 +3,7 @@ type: "place"
 place_id: "wreck-ss-columbus"
 name: "SS Columbus"
 aliases: []
-place_kind: "Maritime archaeology · steamship wreck"
+place_kind: "Registered maritime wreck · steamship"
 atlas: true
 latitude: 13.5515
 longitude: -89.828
@@ -11,8 +11,8 @@ coordinate_precision: "approx"
 coordinate_precision_label: "Approximate area"
 coordinate_precision_short_label: "Approximate"
 coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Punta Remedios reef at Los Cóbanos, estimated from Anales 53 Figure 1 between SS Colón and the published Cheribon position"
-coordinate_note: "The wreck lies on the Los Cóbanos reef at about 20 feet depth. No public GPS coordinate was recovered, so this marker represents the mapped reef sector rather than a surveyed point."
+coordinate_basis: "Los Cóbanos locality in the 2014 national wreck inventory"
+coordinate_note: "The source map and table place SS Columbus at Los Cóbanos, Sonsonate, but do not publish a reproducible wreck position."
 location_visibility: "public"
 periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
@@ -20,68 +20,52 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 papers:
   - "[[Papers/anales-53]]"
-latest_study_year: 2021
-latest_study_label: "2021"
-last_fieldwork_year: 2016
-last_fieldwork_label: "Photographic field documentation, February 2016"
+latest_study_year: 2014
+latest_study_label: "2014 registry synthesis"
+last_fieldwork_year: 2010
+last_fieldwork_label: "Registered in 2010; method and visit date unstated"
 ---
 
 # SS Columbus
 
 ## Overview
 
-A steamship wreck on the reef at Los Cóbanos, now part of a dense cluster of historic losses around Punta Remedios.
+A registered steamship wreck at Los Cóbanos, Sonsonate.
 
 ## Chronology
 
-Historic steamship era; the consulted public sources do not give a sufficiently secure loss year for this summary.
+Built in 1848 and wrecked in 1861.
 
 ## How it was investigated
 
-Maritime surveys recorded the wreck at roughly twenty feet depth, but no public GPS position was recovered for this atlas.
+The wreck was entered in the national inventory in 2010. The cited source does not describe the field method or visit date.
 
 ## What archaeologists found
 
-Submerged machinery and structural remains identify a sizeable steam vessel on the reef. The marker is deliberately placed in the reported reef sector rather than presented as a dive coordinate.
+The inventory identifies a steamship wreck but does not describe its surviving remains.
 
 ## Research history
 
-### 2021 — Archival synthesis
+### 2014 — Registry synthesis
 
-A thesis synthesized the wreck's documentary and archaeological record; it reports no new 2021 dive.
+A national summary mapped SS Columbus broadly at Los Cóbanos and tabulated its construction, wreck, and registration years.
 
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 40–41
-
-### February 2016 — Site recording
-
-Christopher Begley carried out photographic documentation of the wreck.
-
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 30–31, 40–41
-
-### 2010 — Site recording
-
-The wreck was registered in the national underwater-cultural-heritage program.
-
-**Evidence:** [[Papers/anales-53#Page 17|anales-53.pdf, PDF p. 17]]
+**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
 
 ## Location and uncertainty
 
-The wreck lies on the Los Cóbanos reef at about 20 feet depth. No public GPS coordinate was recovered, so this marker represents the mapped reef sector rather than a surveyed point.
+The marker represents the Los Cóbanos locality. The local source does not support the former depth, photographic-documentation date, machinery description, or inferred reef-sector placement.
 
 - **Coordinates:** 13.5515, -89.8280
-- **Placed from:** Punta Remedios reef at Los Cóbanos, estimated from Anales 53 Figure 1 between SS Colón and the published Cheribon position
+- **Placed from:** Los Cóbanos locality in the national inventory
 - **Precision:** approx
 
 ## Sources
 
 ### anales-53.pdf
 
-**Citation:** PDF pp. 16–17
+**Citation:** PDF pp. 16–17, Figures 1–2
+
+**Citation note:** Supports the Los Cóbanos location, steam propulsion, 1848 construction, 1861 wreck, and 2010 registration. It does not publish a coordinate, depth, field method, or description of remains.
 
 [[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
-
-### patrimonio-cultural-subacuatico-el-salvador.pdf
-
-**Citation:** PDF pp. 40–41
-
-[Open cited source](https://repositorio.ues.edu.sv/server/api/core/bitstreams/3bd54975-6616-482c-8241-411538a74cbc/content#page=40)

@@ -3,16 +3,16 @@ type: "place"
 place_id: "wreck-ss-colon"
 name: "SS Colón"
 aliases: []
-place_kind: "Maritime archaeology · steamship wreck"
+place_kind: "Registered maritime wreck · steamship"
 atlas: true
 latitude: 13.597969
 longitude: -89.83975
-coordinate_precision: "published"
-coordinate_precision_label: "Published coordinate"
-coordinate_precision_short_label: "Published"
-coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
-coordinate_basis: "13°35′52.69″ N, 89°50′23.10″ W printed in Gallardo’s dedicated site report"
-coordinate_note: "The surviving engine remains lie on Acajutla beach roughly 200 m southeast of the Río Sensunapán mouth. The ship struck Punta Remedios in 1904 before being driven onto the beach."
+coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
+coordinate_basis: "Acajutla locality in the 2014 national wreck inventory"
+coordinate_note: "The source map and table place SS Colón at Acajutla, Sonsonate, but do not publish a reproducible wreck position."
 location_visibility: "public"
 periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
@@ -20,68 +20,52 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 papers:
   - "[[Papers/anales-53]]"
-latest_study_year: 2021
-latest_study_label: "2021"
-last_fieldwork_year: 2013
-last_fieldwork_label: "Return inspection and documentation, January 10, 2013"
+latest_study_year: 2014
+latest_study_label: "2014 registry synthesis"
+last_fieldwork_year: 2011
+last_fieldwork_label: "Registered in 2011; method and visit date unstated"
 ---
 
 # SS Colón
 
 ## Overview
 
-A Pacific Mail steamship whose surviving machinery lies on the beach at Acajutla. The wreck records the era when steam traffic tied El Salvador’s coffee economy to international ports.
+A registered steamship wreck at Acajutla, Sonsonate.
 
 ## Chronology
 
-Built and operated in the nineteenth-century steamship era; struck Punta Remedios and was driven ashore in 1904.
+Built in 1872 and wrecked in 1904.
 
 ## How it was investigated
 
-Researchers combined archival vessel history, measured inspection of the exposed engine remains, photography, and GPS recording.
+The wreck was entered in the national inventory in 2011. The cited source does not describe the field method or visit date.
 
 ## What archaeologists found
 
-Heavy engine components survive about 200 metres southeast of the Río Sensunapán mouth. Their identity and position allow the documentary loss account to be anchored to a physical site.
+The inventory identifies a steamship wreck but does not describe its surviving remains.
 
 ## Research history
 
-### 2021 — Archival synthesis
+### 2014 — Registry synthesis
 
-A thesis synthesized the wreck's documentary history, condition, and archaeological record; it reports no new 2021 dive.
+A national summary mapped SS Colón broadly at Acajutla and tabulated its construction, wreck, and registration years.
 
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 34–39
-
-### 10 January 2013 — Condition assessment
-
-Investigators returned to inspect and document the wreck.
-
-**Evidence:** 2013-gallardo-ss-colon.pdf, PDF pp. 5–7
-
-### 26 December 2011 — Site recording
-
-The first documented inspection recorded the wreck.
-
-**Evidence:** 2013-gallardo-ss-colon.pdf, PDF pp. 5–7
+**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
 
 ## Location and uncertainty
 
-The surviving engine remains lie on Acajutla beach roughly 200 m southeast of the Río Sensunapán mouth. The ship struck Punta Remedios in 1904 before being driven onto the beach.
+The marker represents the Acajutla locality. The local source does not support the former published-coordinate claim, beach distance, inspection dates, or detailed machinery description.
 
 - **Coordinates:** 13.5980, -89.8397
-- **Placed from:** 13°35′52.69″ N, 89°50′23.10″ W printed in Gallardo’s dedicated site report
-- **Precision:** published
+- **Placed from:** Acajutla locality in the national inventory
+- **Precision:** approx
 
 ## Sources
 
 ### anales-53.pdf
 
-**Citation:** PDF pp. 16–17
+**Citation:** PDF pp. 16–17, Figures 1–2
+
+**Citation note:** Supports the Acajutla location, steam propulsion, 1872 construction, 1904 wreck, and 2011 registration. It does not publish a coordinate, field method, or description of remains.
 
 [[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
-
-### 2013-gallardo-ss-colon.pdf
-
-**Citation:** PDF p. 7
-
-[Open cited source](https://revistas.utec.edu.sv/index.php/koot/article/download/770/1350#page=7)

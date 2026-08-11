@@ -18,6 +18,7 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 papers:
+  - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/earliest_pipil]]"
 latest_study_year: 2016
 latest_study_label: "2016"
@@ -49,7 +50,7 @@ Structure B held a central flexed burial with four mosaic-covered sandstone plaq
 
 A site-specific thesis analyzed the morphology and function of 21 projectile points from Loma China.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 49–53, 80–91
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 49|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 49–53, 79–91]]
 
 ### 1986–1988 — Collection analysis
 
@@ -61,7 +62,7 @@ Amaroli examined the collection and reconstructed excavation contexts from field
 
 The San Lorenzo salvage program excavated Loma China; surviving accounts conflict on the narrower season, so the broader project span is retained.
 
-**Evidence:** [[Papers/earliest_pipil#Page 13|earliest_pipil.pdf, PDF pp. 13–15; 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 49–53]]
+**Evidence:** [[Papers/earliest_pipil#Page 13|earliest_pipil.pdf, PDF pp. 13–15]]; [[Papers/2016-barrera-puntas-flecha-oriente#Page 49|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 49–53]]
 
 ## Location and uncertainty
 
@@ -72,6 +73,14 @@ Approximate reservoir-area marker. A 1988 account says the site may not have bee
 - **Precision:** approx
 
 ## Sources
+
+### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
+
+**Citation:** PDF pp. 49–53, 79–91, 101, site history, projectile-point analysis, and regional map
+
+[[Papers/2016-barrera-puntas-flecha-oriente#Page 49|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=49)
+
+The thesis summarizes the San Lorenzo rescue history and analyzes 21 projectile points from Structures A–D, including burial contexts. It discusses Early Postclassic ceramic markers, green obsidian previously attributed to Pachuca, and probable exchange connections; its own point sample contained no green-obsidian point. Figure 3 on PDF p. 101 is regional and supports only an approximate reservoir-area location.
 
 ### earliest_pipil.pdf
 

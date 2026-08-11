@@ -16,9 +16,10 @@ coordinate_note: "The point is fitted to the Tecomatal locality and source map; 
 location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
-cultures:
-  - "[[Cultures/eastern-salvadoran-lenca-related|Eastern Salvadoran / Lenca-related]]"
-papers: []
+cultures: []
+papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
+  - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
 latest_study_year: 2017
 latest_study_label: "2017"
 last_fieldwork_year: 2008
@@ -55,25 +56,25 @@ A ballcourt thesis reassessed the site's architecture; it reports no new excavat
 
 A projectile-point thesis analyzed 13 artifacts from El Jocotal.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 80–91
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 79|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 79–91]]
 
 ### 2006–2008 — Condition assessment
 
 The Atlas team revisited the site, recorded additional structures, and assessed damage; the exact visit year is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF pp. 38–39
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 39|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 39]]
 
 ### February–June 1983 — Fieldwork
 
 The San Lorenzo project excavated six structures.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 53–59
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 53–54]]
 
 ### 1979 — Site recording
 
 The site was recognized and described before the rescue excavations.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 53–59
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 53–54]]
 
 ## Location and uncertainty
 
@@ -85,14 +86,18 @@ The point is fitted to the Tecomatal locality and source map; no archaeological 
 
 ## Sources
 
-### 2007-ichon-urbanismo-arquitectura-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
-**Citation:** PDF pp. 38–39
+**Citation:** PDF p. 39 (printed p. 28), site description and condition assessment
 
-[Open cited source](https://www.famsi.org/reports/07070es/07070esCapitulos1y4.pdf#page=38)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 39|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=39)
 
-### 2016-loma-china-proyecto-san-lorenzo.pdf
+Atlas reconnaissance expanded the registry’s four-mound count, documenting a laja-faced platform and stair, two additional structures, a modified natural elevation, ceramics, and damage from looting and stone extraction.
 
-**Citation:** PDF pp. 87, 91
+### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
 
-[Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=102)
+**Citation:** PDF pp. 53–54, 79–91, 102 (printed pp. 38–39, 64–76, 87)
+
+[[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=53)
+
+The thesis places the site in Cantón El Tecomatal, reports its 1979 description and February–June 1983 excavation of six structures, assigns the analyzed contexts to the Late Classic, and analyzes 13 projectile points. Figure 4 on PDF p. 102 maps El Jocotal among the non-inundated San Lorenzo sites but supplies no geodetic coordinate. Neither source establishes a site-specific ethnic identity.

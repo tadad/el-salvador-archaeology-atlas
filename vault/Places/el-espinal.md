@@ -16,7 +16,9 @@ coordinate_note: "The eastern atlas records architecture here but withholds a co
 location_visibility: "public"
 periods: []
 cultures: []
-papers: []
+papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
+  - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
 latest_study_year: 2008
 latest_study_label: "2006–2008"
 last_fieldwork_year: 2008
@@ -31,7 +33,7 @@ A mapped architectural site east of the Lempa within the wider San Lorenzo proje
 
 ## Chronology
 
-Pre-Hispanic; registered in the 1981–1983 rescue survey and revisited in the 2006–2007 eastern atlas study.
+Pre-Hispanic; an informant recalled archaeological reconnaissance in the 1980s, and the Atlas revisited it during the 2006–2008 project.
 
 ## How it was investigated
 
@@ -47,13 +49,13 @@ The principal evidence is the surviving arrangement of mounds and platforms. It 
 
 Atlas reconnaissance confirmed two surviving mounds and documented damage; the exact visit year is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 37
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 38|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 38]]
 
 ### 1980s, exact year unknown — Site recording
 
 An informant reported the first archaeological reconnaissance in the 1980s.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 37
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 38|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 38]]
 
 ## Location and uncertainty
 
@@ -65,14 +67,18 @@ The eastern atlas records architecture here but withholds a coordinate; this is 
 
 ## Sources
 
-### 2007-ichon-urbanismo-arquitectura-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
-**Citation:** PDF p. 37
+**Citation:** PDF p. 38 (printed p. 27), site description and photographs
 
-[Open cited source](https://www.famsi.org/reports/07070es/07070esCapitulos1y4.pdf#page=37)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 38|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=38)
 
-### 2016-loma-china-proyecto-san-lorenzo.pdf
+The Atlas verified two of four registered mounds, provides their dimensions and relative arrangement, reports more than 50% structural destruction, and records an informant’s recollection of earlier reconnaissance. It supplies no site chronology or coordinate.
 
-**Citation:** PDF p. 87
+### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
 
-[Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=102)
+**Citation:** PDF p. 102 (printed p. 87), Figure 4: San Lorenzo sites outside the inundation zone
+
+[[Papers/2016-barrera-puntas-flecha-oriente#Page 102|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=102)
+
+The regional 1:75,000 map labels El Espinal east of the Lempa among the non-inundated sites. It supports the coordinate basis only at approximate landscape scale.

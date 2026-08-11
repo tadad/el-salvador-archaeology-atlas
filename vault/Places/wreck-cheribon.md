@@ -2,17 +2,18 @@
 type: "place"
 place_id: "wreck-cheribon"
 name: "Cheribon"
-aliases: []
-place_kind: "Maritime archaeology · steamship wreck"
+aliases:
+  - "Chirigon"
+place_kind: "Investigated maritime wreck · steamship"
 atlas: true
 latitude: 13.532806
 longitude: -89.829194
-coordinate_precision: "published"
-coordinate_precision_label: "Published coordinate"
-coordinate_precision_short_label: "Published"
-coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
-coordinate_basis: "13°31′58.1″ N, 89°49′45.1″ W reported as the GPS position"
-coordinate_note: "The 1882 steamship wreck is catalogued at Punta Remedios in the Los Cóbanos protected area. Parts of its engine can emerge above the surface during very low tide."
+coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
+coordinate_basis: "Punta Remedios in the Los Cóbanos protected area"
+coordinate_note: "The field report locates the wreck at Punta Remedios in the Los Cóbanos protected area but does not print the coordinate formerly claimed by this record."
 location_visibility: "public"
 periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
@@ -22,67 +23,71 @@ papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021
-latest_study_label: "2021"
-last_fieldwork_year: 2015
-last_fieldwork_label: "2015 protected-area delimitation project"
+latest_study_label: "February–March 2021 field investigation"
+last_fieldwork_year: 2021
+last_fieldwork_label: "Two visits and three dives, February–March 2021"
 ---
 
 # Cheribon
 
 ## Overview
 
-The wreck of the steamship Cheribon at Punta Remedios in the Los Cóbanos protected area, one of several vessels lost on this hazardous reef.
+The wreck of the steamship Cheribon at Punta Remedios in the Los Cóbanos protected area.
 
 ## Chronology
 
-Wrecked in 1882. Surveyed as part of modern inventories of El Salvador’s submerged cultural heritage.
+Built in 1882 and wrecked at Punta Remedios on 12 April 1902.
 
 ## How it was investigated
 
-Researchers used diver observation, documentary identification, and GPS to register the surviving machinery and wreck scatter.
+The wreck was first registered in 2005. In February and March 2021, researchers made two visits and three dives, recording vessel structure and machinery despite poor visibility and currents.
 
 ## What archaeologists found
 
-Engine components remain in shallow water and can project above the surface during exceptionally low tide, making the industrial character of the wreck readily visible.
+The 2021 dives identified dispersed hull elements, machinery spaces, superstructure elements, and anchoring and mooring equipment. The top of the engine can be visible from the surface at low tide.
 
 ## Research history
 
-### 2021 — Reinterpretation
+### February–March 2021 — Field investigation
 
-A naval-technology and archival study reassessed the wreck; it reports no new 2021 dive.
+Two visits and three dives documented surviving vessel structure and machinery; sediment and currents limited visibility.
 
-**Evidence:** [[Papers/identidades-18-arqueologia#Page 195|identidades-18-arqueologia.pdf, PDF pp. 195–204; patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 42–43]]
+**Evidence:** [[Papers/identidades-18-arqueologia#Page 203|identidades-18-arqueologia.pdf, PDF p. 203]]
 
-### 2015 — Site recording
+### 2015 — Protection-area delimitation
 
-Roberto Gallardo conducted a project to delimit the wreck's protected area.
+A project delimited a protection area for the Douglas and Cheribon wrecks.
 
 **Evidence:** [[Papers/identidades-18-arqueologia#Page 202|identidades-18-arqueologia.pdf, PDF pp. 202–203]]
 
-### 2005 — Site recording
+### 2005 — Site registration
 
-The wreck was registered in the national underwater-cultural-heritage program.
+The first registration used the local name Chirigon and provided a brief description.
 
-**Evidence:** [[Papers/anales-53#Page 17|anales-53.pdf, PDF p. 17]]
+**Evidence:** [[Papers/identidades-18-arqueologia#Page 202|identidades-18-arqueologia.pdf, PDF p. 202]]
 
 ## Location and uncertainty
 
-The 1882 steamship wreck is catalogued at Punta Remedios in the Los Cóbanos protected area. Parts of its engine can emerge above the surface during very low tide.
+The local field source places the wreck at Punta Remedios in the Los Cóbanos protected area and gives a depth of about 6–8 m. It does not publish a reproducible coordinate, so the marker is approximate.
 
 - **Coordinates:** 13.5328, -89.8292
-- **Placed from:** 13°31′58.1″ N, 89°49′45.1″ W reported as the GPS position
-- **Precision:** published
+- **Placed from:** Punta Remedios locality in the Los Cóbanos protected area
+- **Precision:** approx
 
 ## Sources
 
+### identidades-18-arqueologia.pdf
+
+**Citation:** PDF pp. 201–203
+
+**Citation note:** Supports the 12 April 1902 loss at Punta Remedios, current protected-area setting, low-tide engine visibility, approximate depth, 2005 registration, 2015 delimitation, and 2021 dive program and observations. It does not publish the coordinate formerly claimed by this record.
+
+[[Papers/identidades-18-arqueologia#Page 201|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-identidades-18-2/?wpdmdl=89649#page=201)
+
 ### anales-53.pdf
 
-**Citation:** PDF pp. 16–17
+**Citation:** PDF pp. 16–17, Figures 1–2
+
+**Citation note:** Corroborates Los Cóbanos, steam propulsion, 1882 construction, 1902 wreck, and 2005 registration.
 
 [[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
-
-### patrimonio-cultural-subacuatico-el-salvador.pdf
-
-**Citation:** PDF p. 42
-
-[Open cited source](https://repositorio.ues.edu.sv/server/api/core/bitstreams/3bd54975-6616-482c-8241-411538a74cbc/content#page=42)

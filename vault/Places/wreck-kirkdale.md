@@ -3,16 +3,16 @@ type: "place"
 place_id: "wreck-kirkdale"
 name: "Kirkdale"
 aliases: []
-place_kind: "Maritime archaeology · sailing ship wreck"
+place_kind: "Registered maritime wreck · sailing ship"
 atlas: true
 latitude: 13.17
 longitude: -88.443889
-coordinate_precision: "published"
-coordinate_precision_label: "Published coordinate"
-coordinate_precision_short_label: "Published"
-coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
-coordinate_basis: "13°10′12.0″ N, 88°26′38.0″ W reported as the GPS position"
-coordinate_note: "The wreck lies east of the Bocana El Bajón near Isla San Sebastián at roughly 60–65 feet depth. Local fishers called the site ‘El Guirdalia.’"
+coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
+coordinate_basis: "Jiquilisco locality in the 2014 national wreck inventory"
+coordinate_note: "The source map and table place Kirkdale in Jiquilisco, Usulután, but do not publish a reproducible wreck position."
 location_visibility: "public"
 periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
@@ -20,62 +20,52 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 papers:
   - "[[Papers/anales-53]]"
-latest_study_year: 2021
-latest_study_label: "2021"
-last_fieldwork_year: 2015
-last_fieldwork_label: "Five investigative dives completed by 2015"
+latest_study_year: 2014
+latest_study_label: "2014 registry synthesis"
+last_fieldwork_year: 2012
+last_fieldwork_label: "Registered in 2012; method and visit date unstated"
 ---
 
 # Kirkdale
 
 ## Overview
 
-A sailing-ship wreck east of the Bocana El Bajón near Isla San Sebastián, known to local fishers as El Guirdalia before documentary research tied it to Kirkdale.
+A registered sailing-ship wreck in Jiquilisco, Usulután.
 
 ## Chronology
 
-Historic sailing-vessel era; documented archaeologically in modern maritime surveys.
+Built in 1877 and wrecked in 1908.
 
 ## How it was investigated
 
-Divers recorded the site at roughly sixty to sixty-five feet depth, took a GPS position, and compared its construction and local name with archival loss records.
+The wreck was entered in the national inventory in 2012. The cited source does not describe the field method or visit date.
 
 ## What archaeologists found
 
-The submerged hull and fittings preserve a sailing vessel rather than the steam machinery common at several other mapped wrecks. The local fishing name helped guide researchers to the site.
+The inventory identifies a sailing-ship wreck but does not describe its surviving remains.
 
 ## Research history
 
-### 2021 — Archival synthesis
+### 2014 — Registry synthesis
 
-A thesis synthesized the wreck's documentary and archaeological record; it reports no new 2021 dive.
+A national summary mapped Kirkdale broadly in Jiquilisco and tabulated its construction, wreck, and registration years.
 
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 50–52
-
-### 2012–2015 — Fieldwork
-
-The museum completed five dives by 2015 to continue investigating the wreck after its 2012 identification.
-
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 50–52
+**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
 
 ## Location and uncertainty
 
-The wreck lies east of the Bocana El Bajón near Isla San Sebastián at roughly 60–65 feet depth. Local fishers called the site ‘El Guirdalia.’
+The marker represents the Jiquilisco locality. The local source does not support the former exact coordinate, depth, local-name identification, or five-dive history.
 
 - **Coordinates:** 13.1700, -88.4439
-- **Placed from:** 13°10′12.0″ N, 88°26′38.0″ W reported as the GPS position
-- **Precision:** published
+- **Placed from:** Jiquilisco locality in the national inventory
+- **Precision:** approx
 
 ## Sources
 
 ### anales-53.pdf
 
-**Citation:** PDF pp. 16–17
+**Citation:** PDF pp. 16–17, Figures 1–2
+
+**Citation note:** Supports the Jiquilisco location, sailing propulsion, 1877 construction, 1908 wreck, and 2012 registration. It does not publish a coordinate, field method, or description of remains.
 
 [[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
-
-### patrimonio-cultural-subacuatico-el-salvador.pdf
-
-**Citation:** PDF p. 52
-
-[Open cited source](https://repositorio.ues.edu.sv/server/api/core/bitstreams/3bd54975-6616-482c-8241-411538a74cbc/content#page=52)

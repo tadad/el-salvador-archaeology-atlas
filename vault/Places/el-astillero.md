@@ -3,7 +3,7 @@ type: "place"
 place_id: "el-astillero"
 name: "El Astillero"
 aliases: []
-place_kind: "San Lorenzo rescue excavation"
+place_kind: "Inundated pre-Hispanic architectural site"
 atlas: true
 latitude: 13.685
 longitude: -88.523
@@ -12,52 +12,54 @@ coordinate_precision_label: "Approximate area"
 coordinate_precision_short_label: "Approximate"
 coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Pre-inundation project map in the San Ildefonso reservoir sector"
-coordinate_note: "Sixteen structures were investigated before inundation. The coordinate is reconstructed from the project map rather than a published GPS point."
+coordinate_note: "The registry listed 12 mounds before inundation. The coordinate is reconstructed from the San Lorenzo project map rather than a published GPS point."
 location_visibility: "public"
 periods: []
 cultures: []
-papers: []
-latest_study_year: 2008
-latest_study_label: "2006–2008"
-last_fieldwork_year: 2008
-last_fieldwork_label: "Inundated site area assessed during the 2006–2008 Atlas project; exact year unstated"
+papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
+  - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
+latest_study_year: 2016
+latest_study_label: "2016 map publication"
+last_fieldwork_year: null
+last_fieldwork_label: "No site-specific fieldwork date established by the available sources"
 ---
 
 # El Astillero
 
 ## Overview
 
-A multi-structure settlement in the San Lorenzo dam zone, investigated before the reservoir covered it. It was one of the project’s substantial rescue samples rather than a single isolated mound.
+A registered multi-mound site in the San Lorenzo project area, now submerged by the 15 de Septiembre reservoir.
 
 ## Chronology
 
-Pre-Hispanic, with rescue work carried out from 1981 to 1983 before inundation.
+Pre-Hispanic, otherwise undated. The available Atlas and thesis map do not establish a site-specific excavation date or ceramic phase.
 
 ## How it was investigated
 
-Archaeologists investigated most of the site’s sixteen registered structures as part of the San Lorenzo rescue project.
+The national registry listed 12 mounds. The Atlas could not verify that count after inundation, and the later thesis reproduces only a regional pre-inundation project map.
 
 ## What archaeologists found
 
-Excavation documented a planned settlement with architecture, ceramics, and activity deposits. The project map now preserves the site’s former relationship to the Lempa and reservoir tributaries.
+The sources establish a registered mound group and its former general position in the reservoir landscape. They do not document site-specific excavation results, ceramics, or activity deposits.
 
 ## Research history
 
-### 2006–2008 — Condition assessment
+### 2016 — Map publication
 
-The Atlas team documented the former site area and its inundated condition but could not verify the registered structures; the exact visit year is unstated.
+The arrowhead thesis reproduced Manuel Méndez’s San Lorenzo inundation-zone map, which locates El Astillero only at regional scale.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 38
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 101|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF p. 101]]
 
-### 1981–1983 — Fieldwork
+### 2006–2008 — Registry review
 
-The San Lorenzo rescue program investigated the site before inundation.
+The Atlas reported that the registry listed 12 mounds but could not confirm the entry because the area was submerged.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF p. 101 (printed p. 86)
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 39|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 39]]
 
 ## Location and uncertainty
 
-Sixteen structures were investigated before inundation. The coordinate is reconstructed from the project map rather than a published GPS point.
+The registry listed 12 mounds before inundation. The coordinate is reconstructed from the San Lorenzo project map rather than a published GPS point.
 
 - **Coordinates:** 13.6850, -88.5230
 - **Placed from:** Pre-inundation project map in the San Ildefonso reservoir sector
@@ -65,14 +67,18 @@ Sixteen structures were investigated before inundation. The coordinate is recons
 
 ## Sources
 
-### 2007-ichon-urbanismo-arquitectura-oriente.pdf
+### Atlas Arqueológico de la Región de Oriente de El Salvador
 
-**Citation:** PDF p. 38
+**Citation:** PDF p. 39 (printed p. 28), El Astillero registry review
 
-[Open cited source](https://www.famsi.org/reports/07070es/07070esCapitulos1y4.pdf#page=38)
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 39|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=39)
 
-### 2016-loma-china-proyecto-san-lorenzo.pdf
+The report says the national registry listed 12 mounds but that the count could not be confirmed because the area had been inundated by the 15 de Septiembre dam. It does not describe an excavation or a 16-structure plan.
 
-**Citation:** PDF p. 86
+### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
 
-[Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=101)
+**Citation:** PDF p. 101 (printed p. 86), Figure 3: San Lorenzo sites to be inundated
+
+[[Papers/2016-barrera-puntas-flecha-oriente#Page 101|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=101)
+
+The regional map labels El Astillero in the inundation zone. Its 1:125,000 scale supports only an approximate landscape marker, not a site coordinate or excavation history.

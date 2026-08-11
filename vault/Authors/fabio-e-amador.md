@@ -4,7 +4,8 @@ author_id: "fabio-e-amador"
 name: "Fabio E. Amador"
 sort_name: "Amador, Fabio E."
 author_kind: "person"
-aliases: []
+aliases:
+  - "Fabio Esteban Amador Berdugo"
 ---
 
 # Fabio E. Amador

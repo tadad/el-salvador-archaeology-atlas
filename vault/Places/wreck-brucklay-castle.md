@@ -3,7 +3,7 @@ type: "place"
 place_id: "wreck-brucklay-castle"
 name: "Brucklay Castle"
 aliases: []
-place_kind: "Maritime archaeology · sailing ship wreck"
+place_kind: "Historical or archival lead · sailing ship"
 atlas: true
 latitude: 13.155
 longitude: -88.444
@@ -11,8 +11,8 @@ coordinate_precision: "approx"
 coordinate_precision_label: "Approximate area"
 coordinate_precision_short_label: "Approximate"
 coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Offshore near the Bocana El Bajón bar, estimated from the loss account and Anales 53 Figure 1"
-coordinate_note: "The barque was abandoned on the Jiquilisco bar in 1896. The registry explicitly says the wreck had not been precisely visited or located, so this is a search-area marker, not a confirmed wreck position."
+coordinate_basis: "Jiquilisco Bay loss area and broad inventory map"
+coordinate_note: "The 2013 search encountered another wreck, later identified as SS Honduras. The source says Brucklay Castle had not been visited or located precisely and remained unvisited when the report was completed."
 location_visibility: "public"
 periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
@@ -20,62 +20,52 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 papers:
   - "[[Papers/anales-53]]"
-latest_study_year: 2021
-latest_study_label: "2021"
+latest_study_year: 2014
+latest_study_label: "2014 report on unsuccessful 2013 search"
 last_fieldwork_year: null
-last_fieldwork_label: "2013 search did not relocate the wreck; no confirmed site-investigation date"
+last_fieldwork_label: "No confirmed visit to the wreck"
 ---
 
 # Brucklay Castle
 
 ## Overview
 
-A barque reported lost on the Jiquilisco bar. It is mapped here as a documentary search area because researchers have not securely relocated the physical wreck.
+A sailing ship reported wrecked off Jiquilisco Bay whose physical remains have not been located securely.
 
 ## Chronology
 
-Abandoned on the bar in 1896; its exact modern archaeological location remains unconfirmed.
+Built in Scotland in 1867 and wrecked in 1896.
 
 ## How it was investigated
 
-The record comes from archival research and regional reconnaissance, not a verified dive on identified wreckage.
+A 2013 search used interviews and dives, but the wreck encountered was a steamship later identified as SS Honduras, not Brucklay Castle.
 
 ## What archaeologists found
 
-No confirmed remains can yet be assigned to Brucklay Castle. The useful result is a bounded historical lead near Bocana El Bajón, clearly distinguished from a surveyed coordinate.
+No confirmed archaeological remains can be assigned to Brucklay Castle in the local report.
 
 ## Research history
 
-### 2021 — Archival synthesis
+### 2013–2014 — Unsuccessful search and report
 
-A thesis reviewed the unresolved identification and incomplete registration; it reports no new 2021 dive.
+Researchers sought Brucklay Castle in 2013 but investigated another vessel. The 2014 report states that a visit to Brucklay Castle remained pending.
 
-**Evidence:** patrimonio-cultural-subacuatico-el-salvador.pdf, PDF pp. 54–55
-
-### 2013 — Fieldwork · Site attribution uncertain
-
-A search and delimitation proposal was pursued, but the wreck was not relocated or inspected at a confirmed position.
-
-**Evidence:** [[Papers/anales-53#Page 17|anales-53.pdf, PDF pp. 17–18]]
+**Evidence:** [[Papers/anales-53#Page 15|anales-53.pdf, PDF pp. 15, 17–18, and 39]]
 
 ## Location and uncertainty
 
-The barque was abandoned on the Jiquilisco bar in 1896. The registry explicitly says the wreck had not been precisely visited or located, so this is a search-area marker, not a confirmed wreck position.
+The marker represents the broad Jiquilisco Bay search area, not a confirmed wreck position.
 
 - **Coordinates:** 13.1550, -88.4440
-- **Placed from:** Offshore near the Bocana El Bajón bar, estimated from the loss account and Anales 53 Figure 1
+- **Placed from:** Jiquilisco Bay loss area and broad national inventory map
 - **Precision:** approx
 
 ## Sources
 
 ### anales-53.pdf
 
-**Citation:** PDF pp. 16–18
+**Citation:** PDF pp. 15, 17–18, and 39
 
-[[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
+**Citation note:** Supports the 1867 construction, 1896 loss off Jiquilisco Bay, lack of a precise location, unsuccessful 2013 search, and the report's statement that a visit remained pending. It does not delimit a confirmed wreck site.
 
-### patrimonio-cultural-subacuatico-el-salvador.pdf
-
-**Citation:** PDF p. 56
-
-[Open cited source](https://repositorio.ues.edu.sv/server/api/core/bitstreams/3bd54975-6616-482c-8241-411538a74cbc/content#page=56)
+[[Papers/anales-53#Page 15|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=15)

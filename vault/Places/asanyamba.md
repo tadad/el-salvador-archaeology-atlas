@@ -1,9 +1,11 @@
 ---
 type: "place"
 place_id: "asanyamba"
-name: "Asanyamba / El Chapernalito"
-aliases: []
-place_kind: "Gulf shell middens · excavation"
+name: "Asanyamba / Chapernalito"
+aliases:
+  - "Asayamba"
+  - "El Chapernalito"
+place_kind: "Shell-midden complex · salvaged collection"
 atlas: true
 latitude: 13.416
 longitude: -87.823
@@ -11,88 +13,96 @@ coordinate_precision: "approx"
 coordinate_precision_label: "Approximate area"
 coordinate_precision_short_label: "Approximate"
 coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Source map east of Los Jiotes beside Estero El Chapernalito"
-coordinate_note: "The point is georeferenced from the thesis map and named estuary; it is close enough for regional orientation, not site protection or navigation."
+coordinate_basis: "Regional map and description placing the site just off Estero El Chapernalito"
+coordinate_note: "The source publishes only a regional map, not a site coordinate. The marker is suitable for regional orientation only."
 location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
 papers:
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/beaudry_asanyamba]]"
-latest_study_year: 2015
-latest_study_label: "2015"
+  - "[[Papers/testimony1]]"
+latest_study_year: 2008
+latest_study_label: "2006–2008 Atlas condition assessment"
 last_fieldwork_year: 2008
-last_fieldwork_label: "Condition visit during the 2006–2008 Atlas project; exact year unstated"
+last_fieldwork_label: "Revisited and surface-collected during the 2006–2008 Atlas project; exact year unstated"
 ---
 
-# Asanyamba / El Chapernalito
+# Asanyamba / Chapernalito
 
 ## Overview
 
-A major shell-midden complex beside Estero El Chapernalito in the Gulf of Fonseca. Dense deposits record generations of fishing, shellfish gathering, cooking, and settlement in a mangrove-estuary environment.
+An approximately eight-acre shell-midden site just off Estero El Chapernalito, also documented as Chapernalito. Commercial extraction and later depredation disturbed the site.
 
 ## Chronology
 
-Principally Late Classic, with fieldwork from 1977 to 1981 and later study of the excavated collections.
+Ceramic comparison suggests that most of the salvaged collection is Late Classic; a very small amount may be earlier.
 
 ## How it was investigated
 
-Teams mapped and excavated midden deposits, sampled stratigraphy, and analyzed ceramics, shell, animal bone, and other remains from multiple operations.
+No controlled excavation is documented. In 1982, a six-week laboratory project sorted and classified salvaged ceramics that lacked detailed provenience.
 
 ## What archaeologists found
 
-Thick shell layers, pottery, tools, faunal remains, and domestic debris documented intensive coastal subsistence. The assemblage also showed exchange and cultural connections across the Gulf of Fonseca.
+The salvaged collection included ceramics, figurines, ear plugs, whistles, chipped and ground stone, shell and worked bone. The source warns that limited provenience and nonsystematic collection restrict conclusions about the site.
 
 ## Research history
 
-### 2015 — Collection analysis
+### 2006–2008 — Condition assessment and surface collection
 
-A site-specific archaeomusicology thesis documented, classified, and acoustically analyzed sound artifacts in the museum collection.
+The Atlas team revisited the site, mapped its ceremonial core, documented rectangular platforms and heavily damaged shell middens, and collected surface material; the exact visit year is unstated.
 
-**Evidence:** asanyamba-concheros-golfo-fonseca.pdf, PDF pp. 59–60, 84–95, 188–205
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 37|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF pp. 37, 45]]
 
-### 2006–2008 — Condition assessment
+### 2004 — Photographic condition report
 
-The Atlas project revisited the site, reviewed its ceramic record, and documented ongoing destruction; the exact visit year is unstated.
+Published photographs identify Chapernalito as Asayamba and document discarded ceramics and disturbed ground. One caption identifies the photographed ceramics as Late Classic; the photographs' exact date is unstated.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF pp. 36–37
-
-### 2002 — Site recording
-
-The Atlas team's first visit mapped the ceremonial center.
-
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 36
+**Evidence:** [[Papers/testimony1#Page 4|testimony1.pdf, PDF pp. 4–5]]
 
 ### 1982 — Collection analysis
 
-Beaudry classified roughly 60 sacks of salvaged ceramics during a six-week laboratory study.
+A six-week laboratory project sorted approximately sixty sacks of salvaged ceramics, classified a study collection and compared it with regional ceramic sequences. No quantitative analysis was attempted because provenience was limited and collection was nonsystematic.
 
-**Evidence:** [[Papers/beaudry_asanyamba#Page 1|beaudry_asanyamba.pdf, PDF pp. 1–8]]
+**Evidence:** [[Papers/beaudry_asanyamba#Page 4|beaudry_asanyamba.pdf, PDF pp. 4–5]]
 
-### By 1981 — Site recording
+### Before 1982, exact year unknown — Salvage
 
-Material was salvaged and the site recorded amid commercial stripping of the shell middens.
+Cultural material was salvaged while commercial extraction removed part of the shell-midden site. The source gives no salvage date and says controlled archaeological investigation had not occurred.
 
-**Evidence:** [[Papers/beaudry_asanyamba#Page 1|beaudry_asanyamba.pdf, PDF pp. 1–8]]
+**Evidence:** [[Papers/beaudry_asanyamba#Page 2|beaudry_asanyamba.pdf, PDF p. 2]]
 
 ## Location and uncertainty
 
-The point is georeferenced from the thesis map and named estuary; it is close enough for regional orientation, not site protection or navigation.
+The source map places Asanyamba near Estero El Chapernalito but does not publish a site-scale coordinate.
 
 - **Coordinates:** 13.4160, -87.8230
-- **Placed from:** Source map east of Los Jiotes beside Estero El Chapernalito
+- **Placed from:** Regional map and description placing the site just off Estero El Chapernalito
 - **Precision:** approx
 
 ## Sources
 
+### Atlas Arqueológico de la Región de Oriente de El Salvador
+
+**Citation:** PDF pp. 37, 45 (printed pp. 26, 34), condition assessment and field-program summary
+
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 37|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=37)
+
+The Atlas documents rectangular platforms and nearby shell middens, identifies heavy-machinery removal of shell deposits, and lists Asanyamba among sites receiving surface collection. It corroborates the Chapernalito setting and later condition history but does not provide a site coordinate.
+
 ### beaudry_asanyamba.pdf
 
-**Citation:** PDF pp. 1–8
+**Citation:** PDF pp. 2–7, site description, methodology and preliminary ceramic interpretation
+
+**Citation note:** Pages 2–3 support the approximate setting and lack of controlled investigation; pages 4–7 support the collection methods, materials and cautious Late Classic comparison. Detailed provenience and a site chronology remain unavailable.
 
 [[Papers/beaudry_asanyamba#Page 1|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/beaudry_asanyamba.pdf#page=1)
 
-### asanyamba-concheros-golfo-fonseca.pdf
+### testimony1.pdf
 
-**Citation:** PDF pp. 203, 218
+**Citation:** PDF pp. 4–5, "Chapernalito Site" photograph captions
 
-[Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/87502.pdf#page=203)
+**Citation note:** The captions support Chapernalito/Asayamba as alternate names, visible depredation and a Late Classic identification for the photographed ceramics. They do not date the damage or document a controlled excavation.
+
+[[Papers/testimony1#Page 4|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/testimony1.pdf#page=4)

@@ -19,6 +19,7 @@ periods:
 cultures:
   - "[[Cultures/eastern-salvadoran-lenca-related|Eastern Salvadoran / Lenca-related]]"
 papers:
+  - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/anales-53]]"
 latest_study_year: 2016
 latest_study_label: "2016"
@@ -50,7 +51,7 @@ Excavators documented stone-and-earth architecture, fragmentary ceramics, obsidi
 
 A projectile-point thesis analyzed 30 artifacts from Casa Quemada.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 80–91
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 56|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 56–58, 79–91]]
 
 ### 2013 — Fieldwork
 
@@ -73,6 +74,14 @@ The source publishes a Lambert position but does not name its datum; the convert
 - **Precision:** published
 
 ## Sources
+
+### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
+
+**Citation:** PDF pp. 56–58, 79–91, site history and 30-point analysis
+
+[[Papers/2016-barrera-puntas-flecha-oriente#Page 56|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=56)
+
+The thesis synthesizes earlier investigations and analyzes 30 projectile points from structures and Plaza 26. It treats the tools as predominantly Late Classic, discusses offering contexts and possible hunting or conflict damage, and includes Casa Quemada in a proposed eastern exchange network. Those functional and exchange readings are hypotheses based on morphology and visual raw-material assessment.
 
 ### anales-53.pdf
 

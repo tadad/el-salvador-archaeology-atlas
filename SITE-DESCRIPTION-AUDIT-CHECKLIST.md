@@ -1,14 +1,14 @@
 # Site Description Audit Checklist
 
 Use `SITE-DESCRIPTION-AUDIT.md` for every record. Every entry below received an
-individual delegated audit. Each checked item was edited, source-verified,
-validated, and independently reviewed. Unchecked items were audited but left
-unchanged because the required local source or citation mapping could not be
-resolved safely.
+individual delegated audit. On 2026-08-11, the 39 previously blocked records
+were re-audited against the current local corpus. Each checked item was edited,
+source-verified, and validated. Unchecked items were left unchanged because the
+required local source or citation mapping still could not be resolved safely.
 
 Delegated audits: 169 of 169 complete.
 
-Source-verified updates: 130 of 169 complete; 39 records remain blocked as
+Source-verified updates: 156 of 169 complete; 13 records remain blocked as
 described above.
 
 ## Main site records
@@ -55,40 +55,40 @@ described above.
 - [x] Cerrón Grande rescue project area (`cerron-grande-unnamed`)
 - [x] Paraíso Basin excavation evidence (`paraiso-basin`)
 - [x] Loma China (`loma-china`)
-- [ ] San Lorenzo rescue: 5 unnamed sites (`san-lorenzo-unnamed`)
+- [x] San Lorenzo rescue area (`san-lorenzo-unnamed`)
 - [x] Nueva Esperanza (`nueva-esperanza`)
-- [ ] Anden (`wreck-anden`)
-- [ ] SS Colón (`wreck-ss-colon`)
-- [ ] SS Columbus (`wreck-ss-columbus`)
-- [ ] Cheribon (`wreck-cheribon`)
-- [ ] SS Douglas (Sakkarah) (`wreck-ss-douglas`)
-- [ ] SS San Blas (`wreck-ss-san-blas`)
+- [x] Anden (`wreck-anden`)
+- [x] SS Colón (`wreck-ss-colon`)
+- [x] SS Columbus (`wreck-ss-columbus`)
+- [x] Cheribon (`wreck-cheribon`)
+- [x] SS Douglas (Sakkarah) (`wreck-ss-douglas`)
+- [x] SS San Blas (`wreck-ss-san-blas`)
 - [x] Pecio PSJ-1 (`pecio-psj-1`)
-- [ ] Kirkdale (`wreck-kirkdale`)
-- [ ] Brucklay Castle (`wreck-brucklay-castle`)
+- [x] Kirkdale (`wreck-kirkdale`)
+- [x] Brucklay Castle (`wreck-brucklay-castle`)
 - [x] SS Honduras (`wreck-ss-honduras`)
 - [x] Los Llanitos (`los-llanitos`)
 - [x] Quelepa (`quelepa`)
 - [x] Casa Quemada (`casa-quemada`)
 - [x] El Chaparral (`el-chaparral`)
 - [x] El Chiquirín (`el-chiquirin`)
-- [ ] La Laguneta (`la-laguneta`)
-- [ ] Salto El Coyote (`salto-el-coyote`)
+- [x] La Laguneta (`la-laguneta`)
+- [x] Salto El Coyote (`salto-el-coyote`)
 - [x] El Cacao (`el-cacao`)
-- [ ] Brisas de Jiquilisco (`brisas-de-jiquilisco`)
-- [ ] La Florida (Jiquilisco) (`la-florida-jiquilisco`)
-- [ ] El Astillero (`el-astillero`)
-- [ ] El Jocotal (`el-jocotal`)
+- [x] Brisas de Jiquilisco (`brisas-de-jiquilisco`)
+- [x] La Florida (Jiquilisco) (`la-florida-jiquilisco`)
+- [x] El Astillero (`el-astillero`)
+- [x] El Jocotal (`el-jocotal`)
 - [x] Sitio Carolina (`sitio-carolina`)
 - [x] Fumarolas / Agua Caliente (`fumarolas-agua-caliente`)
 - [x] Gruta del Espíritu Santo (`gruta-espiritu-santo`)
 - [x] Hacienda Valle San Juan / La Tronconera (`valle-san-juan-tronconera`)
-- [ ] Asanyamba / El Chapernalito (`asanyamba`)
+- [x] Asanyamba / El Chapernalito (`asanyamba`)
 - [x] La Rama / Río Gualacho (`la-rama-rio-gualacho`)
 - [x] Chinameca burial (`chinameca-burial`)
-- [ ] El Espinal (`el-espinal`)
-- [ ] San Ildefonso archaeological site (`san-ildefonso-site`)
-- [ ] San José Jucuarán (`san-jose-jucuaran`)
+- [x] El Espinal (`el-espinal`)
+- [x] San Ildefonso archaeological site (`san-ildefonso-site`)
+- [x] San José Jucuarán (`san-jose-jucuaran`)
 - [x] Pozo El Amate (`pozo-el-amate`)
 - [x] Pueblo Viejo (Perquín) (`pueblo-viejo-perquin`)
 - [x] Quebrada Las Marías (`quebrada-las-marias`)
@@ -117,9 +117,9 @@ described above.
 - [x] Atiquizaya locality (Haberland) (`atiquizaya-haberland`)
 - [x] Barra Ciega (`barra-ciega`)
 - [ ] Peñate (`penate`)
-- [ ] Laguna Cuzcachapa (`laguna-cuzcachapa`)
+- [x] Laguna Cuzcachapa (`laguna-cuzcachapa`)
 - [ ] Laguna Seca, Chalchuapa (`laguna-seca-chalchuapa`)
-- [ ] Las Victorias, Chalchuapa (`las-victorias-chalchuapa`)
+- [x] Las Victorias, Chalchuapa (`las-victorias-chalchuapa`)
 - [x] Cementerio Jardín (`cementerio-jardin`)
 - [x] Vergeles del Edén (`vergeles-del-eden`)
 - [ ] Finca Rosita (`finca-rosita`)
@@ -158,11 +158,11 @@ described above.
 - [x] Ostúa church and town remains (`ostua`)
 - [x] Santa María Magdalena de Tacuba (`santa-maria-magdalena-tacuba`)
 - [x] Beneficio Río Claro (`beneficio-rio-claro`)
-- [ ] Ingenio San Francisco de Paula / El Brujo (`ingenio-san-francisco-paula`)
-- [ ] Ingenio El Carmen, Metapán (`ingenio-el-carmen-metapan`)
-- [ ] Ingenio San Rafael, Metapán (`ingenio-san-rafael-metapan`)
-- [ ] Antigua Iglesia de Guaymango (`antigua-iglesia-guaymango`)
-- [ ] Antiguo Nejapa / La Fuente (`antiguo-nejapa-la-fuente`)
+- [x] Ingenio San Francisco de Paula / El Brujo (`ingenio-san-francisco-paula`)
+- [x] Ingenio El Carmen, Metapán (`ingenio-el-carmen-metapan`)
+- [x] Ingenio San Rafael, Metapán (`ingenio-san-rafael-metapan`)
+- [x] Antigua Iglesia de Guaymango (`antigua-iglesia-guaymango`)
+- [x] Antiguo Nejapa / La Fuente (`antiguo-nejapa-la-fuente`)
 - [ ] Chuchucato (`chuchucato`)
 - [ ] Shuteca (`shuteca`)
 - [ ] Finca San Jorge / Las Aradas (`finca-san-jorge-las-aradas`)

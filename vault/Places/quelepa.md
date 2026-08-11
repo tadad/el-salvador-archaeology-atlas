@@ -21,6 +21,8 @@ cultures: []
 papers:
   - "[[Papers/1994-braswell-et-al-obsidian-quelepa]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
+  - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
+  - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
   - "[[Papers/ruedas]]"
   - "[[Papers/wyllys_flautas]]"
@@ -60,13 +62,13 @@ The ballcourt was photographically and aerially documented for a new architectur
 
 A projectile-point thesis analyzed 13 artifacts from Quelepa.
 
-**Evidence:** 2016-loma-china-proyecto-san-lorenzo.pdf, PDF pp. 48–49, 80–91
+**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 48|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 48–49, 79–91]]
 
 ### 2006–2008 — Condition assessment
 
 The Atlas team inspected the site, interviewed custodians, and documented exposed and damaged architecture.
 
-**Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 35
+**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 35|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 35]]
 
 ### By 1973 — Artifact study
 
@@ -89,6 +91,22 @@ Excavation in 1967–1969 used ceramic and architectural evidence to establish a
 - **Precision:** approx
 
 ## Sources
+
+### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
+
+**Citation:** PDF pp. 48–49, 79–91, projectile-point contexts and comparative interpretation
+
+[[Papers/2016-barrera-puntas-flecha-oriente#Page 48|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=48)
+
+The thesis analyzes 13 Late Classic projectile points from Structure 29 and Cache 24. Its visual-source assessment attributes the five-site assemblage mainly to Ixtepeque and El Chayal, while treating Quelepa as a likely Late Classic collection and redistribution center; these exchange conclusions are interpretive rather than direct geochemical sourcing of every artifact.
+
+### Atlas Arqueológico de la Región de Oriente de El Salvador
+
+**Citation:** PDF p. 35 (printed p. 24), condition assessment
+
+[[Papers/2009-amador-atlas-arqueologico-oriente#Page 35|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=35)
+
+The Atlas documents exposed and collapsing masonry, agricultural damage, interviews with the Obrajuelo cooperative, and the project team’s unsuccessful 2007 conservation proposal. It supplies no coordinate and does not replace the excavation chronology.
 
 ### ruedas.pdf
 
