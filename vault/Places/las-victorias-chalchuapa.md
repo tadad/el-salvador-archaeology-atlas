@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.988251
 longitude: -89.665507
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Modern Las Victorias neighborhood over the documented site area"
 coordinate_note: "Urban growth has fragmented the original finca; the point marks the surviving neighborhood rather than a single platform."
 location_visibility: "public"
@@ -22,7 +25,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1970
 latest_study_label: "1968–1970"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1970
 last_fieldwork_label: "Investigated during the 1968–1970 Chalchuapa project"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.3307
 longitude: -88.688
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Nueva Esperanza community point, Bajo Lempa"
 coordinate_note: "The marker represents the modern community center; the publications place the archaeological site in Nueva Esperanza but provide no reproducible coordinate."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2015
 latest_study_label: "2014–2015"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2011
 last_fieldwork_label: "2011 excavation season"
 ---

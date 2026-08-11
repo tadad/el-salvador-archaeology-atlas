@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.331778
 longitude: -89.354056
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "14°19′54.4″ N, 89°21′14.6″ W published by PAHES"
 coordinate_note: "The published coordinate identifies the surveyed ironworks remains east of Metapán."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
 latest_study_year: 2007
 latest_study_label: "August–December 2007"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2007
 last_fieldwork_label: "Recorded during the August–December 2007 PAHES field phase"
 ---

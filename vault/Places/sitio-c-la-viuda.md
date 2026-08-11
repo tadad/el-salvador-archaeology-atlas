@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.648
 longitude: -89.268
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Ciudad Nuevo Cuscatlán; the cited source gives no parcel location or coordinate"
 coordinate_note: "A later review identifies a 1996 internal report on rescue excavations at Site C but does not reproduce the excavation results or locate the site."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 1996
 latest_study_label: "1996"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1996
 last_fieldwork_label: "1996 rescue excavation and osteological study"
 ---

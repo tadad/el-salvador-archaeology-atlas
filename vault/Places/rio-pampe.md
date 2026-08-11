@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.993515
 longitude: -89.678838
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Finca San Marcos area on the south bank of the Río Pampe"
 coordinate_note: "Longyear maps the group only at regional scale and gives no coordinate or site boundary; the marker is an approximate area anchor."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942
 latest_study_label: "1941–1942"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 1942
 last_fieldwork_label: "1941–1942 expedition; exact Pampe visit date not stated"
 ---

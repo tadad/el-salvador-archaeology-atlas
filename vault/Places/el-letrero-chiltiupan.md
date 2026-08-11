@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.552
 longitude: -89.468
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Finca Guadalupe Arriba near the confluence of the Río Pájaro León and Río El Zonte"
 coordinate_note: "The marker is an approximate finca-scale placement retained from the prior record; the source maps the site only at 1:100,000 scale and publishes no reproducible coordinate or boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022
 latest_study_label: "2022"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: null
 last_fieldwork_label: "Discovery and digital photographic recording documented, but not dated"
 ---

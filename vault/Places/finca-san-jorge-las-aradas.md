@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.18492
 longitude: -89.483285
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Published Finca San Jorge locality coordinate; Las Aradas lies in the same study corridor"
 coordinate_note: "One marker represents the paired comparative survey areas, not every recorded feature."
 location_visibility: "public"
@@ -18,7 +21,6 @@ cultures: []
 papers: []
 latest_study_year: 2013
 latest_study_label: "2013"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2011
 ---
 

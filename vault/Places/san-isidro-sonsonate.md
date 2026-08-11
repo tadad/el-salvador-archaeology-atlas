@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.7875
 longitude: -89.5589
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Modern San Isidro locality; the article maps the archaeological center regionally but publishes no reproducible coordinate"
 coordinate_note: "This landmark marker represents the community containing the multi-kilometre archaeological site, not Cerrito 1, Trapiche 3, an excavation unit, or a site boundary."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024
 latest_study_label: "2024"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2024
 last_fieldwork_label: "2018–2024 PASI fieldwork documented in the cited article"
 ---

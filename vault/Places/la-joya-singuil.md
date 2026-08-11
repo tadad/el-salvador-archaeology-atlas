@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.053288
 longitude: -89.631427
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Broad Santa Ana placement; the published table provides no reproducible archaeological location"
 coordinate_note: "The marker is a generalized proxy, not a documented site coordinate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: null
 ---
 

@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.1305
 longitude: -89.493
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "North side of Texistepeque, east of the Santa Ana–Metapán highway"
 coordinate_note: "Approximate marker reconstructed from the report’s town-and-highway directions; no geodetic coordinate or site boundary is published."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942
 latest_study_label: "1940–1942"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1942
 last_fieldwork_label: "Boggs’s western field surveys occurred in 1940–1942; the exact Texistepeque Group I visit year is not stated"
 ---

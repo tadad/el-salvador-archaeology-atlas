@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.309
 longitude: -87.766
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Isla Zacatillo; the source gives no site-specific location"
 coordinate_note: "The marker is an island-scale placement, not a published findspot or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2005
 latest_study_label: "2002, 2003, and 2005"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2005
 last_fieldwork_label: "Investigated within Gómez’s 2002–2005 Gulf-islands project; exact site season not stated"
 ---

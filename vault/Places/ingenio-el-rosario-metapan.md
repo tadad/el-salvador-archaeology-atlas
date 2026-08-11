@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.353722
 longitude: -89.377556
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "14°21′13.4″ N, 89°22′39.2″ W published by PAHES"
 coordinate_note: "The published coordinate marks the surveyed ironworks and hacienda complex."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
 latest_study_year: 2007
 latest_study_label: "August–December 2007"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2007
 last_fieldwork_label: "Recorded during the August–December 2007 PAHES field phase"
 ---

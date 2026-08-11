@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.613986
 longitude: -88.539544
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Registry digits printed as 13º61’3986”, 88º53’9544”; reconstructed as decimal degrees"
 coordinate_note: "The registry-derived point is used because it fits the mapped landscape; the thesis printed the decimal digits in a nonstandard degree-minute-second form."
 location_visibility: "public"
@@ -19,7 +22,6 @@ cultures:
 papers: []
 latest_study_year: 2017
 latest_study_label: "2017"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Investigated during the 2006–2008 Atlas project; exact field season unstated"
 ---

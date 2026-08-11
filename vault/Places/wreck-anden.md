@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.6852
 longitude: -90.0005
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "OpenStreetMap wreck geometry, matching the paper’s location about 50 m southwest of the Barra de Santiago beach"
 coordinate_note: "The Peruvian freighter grounded during the September 1982 storm and broke into several large sections. The papers report that parts remain visible at low tide."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2011
 ---
 

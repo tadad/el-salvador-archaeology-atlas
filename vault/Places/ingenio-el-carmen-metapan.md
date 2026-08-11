@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.377889
 longitude: -89.440333
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "14°22′40.4″ N, 89°26′25.2″ W published in the industrial-heritage study"
 coordinate_note: "Published site coordinate in Cantón El Panal."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Mapped and recorded by PAHES in August 2008"
 ---

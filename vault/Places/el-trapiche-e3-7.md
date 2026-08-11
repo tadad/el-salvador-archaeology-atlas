@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9958
 longitude: -89.6697
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate marker within the El Trapiche sector"
 coordinate_note: "The cited pages identify mound E3-7 at El Trapiche but do not publish a coordinate."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2015
 latest_study_label: "2015"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 1978
 last_fieldwork_label: "1977–1978 rescue excavation"
 ---

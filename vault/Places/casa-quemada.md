@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8561
 longitude: -88.3249
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Published Lambert E 572770 / N 304142, converted to WGS84"
 coordinate_note: "The source publishes a Lambert position but does not name its datum; the converted WGS84 marker should be treated as approximate within the site."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2013
 last_fieldwork_label: "2013 rescue excavation"
 ---

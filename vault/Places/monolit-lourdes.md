@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.728
 longitude: -89.37
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Lourdes–Hacienda El Tránsito corridor, 450 m west of the road at kilometre 26.5; the table gives no coordinate"
 coordinate_note: "The marker is an approximate reconstruction of the published route description, not a documented archaeological coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1991
 last_fieldwork_label: "Registration card dated 1991"
 ---

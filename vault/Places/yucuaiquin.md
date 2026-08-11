@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.548302
 longitude: -88.001825
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Modern Yucuaiquín town center; published sources do not locate the reported remains"
 coordinate_note: "Approximate town-center marker. The location of the reported remains is unknown."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2008
 latest_study_label: "May 2006–July 2008"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Field-verified during the 2006–2008 Atlas Oriente project"
 ---

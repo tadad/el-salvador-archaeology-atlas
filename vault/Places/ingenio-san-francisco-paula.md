@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.414
 longitude: -89.445
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximately 9.3 km north of Metapán"
 coordinate_note: "Distance-based placement from the second PAHES report."
 location_visibility: "public"
@@ -19,7 +22,6 @@ cultures:
 papers: []
 latest_study_year: 2008
 latest_study_label: "August 2008"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Mapped and recorded by PAHES in August 2008"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8504
 longitude: -89.797
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Apaneca-area marker; the cited source publishes no coordinate"
 coordinate_note: "A 1977 project included reconnaissance, excavation, and topographic mapping; the source does not locate individual units or publish a reproducible site coordinate."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024
 latest_study_label: "2024"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1977
 ---
 

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.6205
 longitude: -89.884
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Broad placement east of Acajutla, following Haberland"
 coordinate_note: "The archaeological source gives no reproducible coordinate or site boundary; the marker is an approximate coastal placement."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/haberland_sequences]]"
 latest_study_year: null
 latest_study_label: "Undated within the 1953–1954 and 1958 programs"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: null
 ---
 

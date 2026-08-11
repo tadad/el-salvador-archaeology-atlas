@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.821268
 longitude: -87.965133
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Named rock shelter near Corinto"
 coordinate_note: "The marker represents the shelter, not the 1977 test pits; the cited report says their exact locations and dimensions were not documented."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 1996
 latest_study_label: "April 1996"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1996
 last_fieldwork_label: "1996 rock-art survey and surface collection"
 ---

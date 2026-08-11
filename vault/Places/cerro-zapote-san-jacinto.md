@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.676
 longitude: -89.189
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Road across Cerro Zapote above the Río Acelhuate, opposite Finca Modelo"
 coordinate_note: "Approximate hill-area marker; the excavation report includes a section sketch but no coordinate, and the historical road location has not been tied to the modern street network."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/lothrop_pottery_types]]"
 latest_study_year: 1926
 latest_study_label: "January 1926"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1926
 last_fieldwork_label: "1926 excavation"
 ---

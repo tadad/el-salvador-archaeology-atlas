@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.0236
 longitude: -89.0241
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Published WGS84 UTM coordinate for the principal pyramid, converted to latitude and longitude"
 coordinate_note: "The marker represents the principal pyramid, not the full site boundary."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/drowned]]"
 latest_study_year: 2003
 latest_study_label: "May 2003"
-latest_study_kind: "condition-assessment"
 last_fieldwork_year: 2003
 last_fieldwork_label: "Latest documented field visit: May 2003"
 ---

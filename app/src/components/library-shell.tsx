@@ -22,7 +22,6 @@ export function LibraryShell({ collection: collectionSlug, activeSlug, children 
         </Link>
         <nav className={styles.primaryNav} aria-label="Primary navigation">
           <Link href="/">Atlas</Link>
-          <Link href="/unknown">Unknown</Link>
           <span aria-current="page">Wiki</span>
         </nav>
       </header>

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.3667
 longitude: -88.6167
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Hacienda Valle San Juan locality"
 coordinate_note: "The source names Hacienda Valle San Juan and La Tronconera ravine but publishes no archaeological coordinate or map. The marker is approximate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/boggs_hornos]]"
 latest_study_year: null
 latest_study_label: "After 1966, exact years unknown"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: null
 last_fieldwork_label: "Initial 1966 investigation; later observations and excavations are documented but undated"
 ---

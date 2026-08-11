@@ -38,14 +38,17 @@ citations used by the atlas.
 | `place_kind` | Evidence-sensitive label such as excavated site, surveyed site, or find locality |
 | `atlas` | Whether the record appears on the public atlas |
 | `latitude`, `longitude` | Public atlas marker; never store a restricted coordinate here |
-| `coordinate_precision` | `published`, `landmark`, or `approx` |
+| `coordinate_precision` | Stable atlas filter key: `published`, `landmark`, or `approx` |
+| `coordinate_precision_label` | Public meaning of the precision value, owned by the Place metadata |
+| `coordinate_precision_short_label` | Compact precision label used by the atlas filter |
+| `coordinate_precision_description` | Explanation shown for the precision value |
 | `coordinate_basis` | What the public marker represents |
 | `coordinate_note` | Important uncertainty or interpretation warning |
 | `location_visibility` | Public-release status, separate from evidential precision |
 | `periods` | Links to canonical Period records |
 | `cultures` | Links to cautious Culture or tradition records |
 | `papers` | Locally mirrored Paper records that directly support the Place; external-only citations remain in the Markdown Sources section |
-| `latest_study_*` | Summary of the newest documented research represented in the narrative |
+| `latest_study_year`, `latest_study_label` | Summary of the newest documented research represented in the narrative |
 | `last_fieldwork_*` | Newest documented field investigation, distinct from later publication or reinterpretation |
 
 Research events remain cited prose under `## Research history`; they are not a

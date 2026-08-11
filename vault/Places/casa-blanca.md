@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9889
 longitude: -89.6721
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Casa Blanca Archaeological Park"
 coordinate_note: "The marker identifies the archaeological park, not a source-published coordinate for an individual mound."
 location_visibility: "public"
@@ -24,7 +27,6 @@ papers:
   - "[[Papers/parks]]"
 latest_study_year: 2015
 latest_study_label: "1995–2015"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2008
 last_fieldwork_label: "2008 Structure 5 and Mound 6 restoration-investigation"
 ---

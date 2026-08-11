@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.524
 longitude: -89.548
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Regional map and published placement in Teotepeque at about 410 m above sea level"
 coordinate_note: "Approximate marker retained from the prior record. The cited map is at 1:100,000 scale and does not publish a reproducible site coordinate or boundary."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/testimony1]]"
 latest_study_year: 2022
 latest_study_label: "2022"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1988
 last_fieldwork_label: "Mapped by the Izalco Project"
 ---

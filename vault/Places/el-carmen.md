@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.72
 longitude: -90.068
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate marker reconstructed from the report’s Figure 1 and landscape description"
 coordinate_note: "The report places the mound on an arm of the Estero El Zapote, 3 km from the Pacific coast and about 20 km from Guatemala, but publishes no coordinate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/carmen]]"
 latest_study_year: 1988
 latest_study_label: "23 May–17 June 1988"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1988
 ---
 

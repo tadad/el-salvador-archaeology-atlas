@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.265
 longitude: -89.469
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Northeast side of Volcán San Diego along the Santa Ana–Metapán highway"
 coordinate_note: "Approximate marker reconstructed from Longyear’s route description and sketch map; the report gives no reproducible coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942
 latest_study_label: "1941–1942"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 1942
 last_fieldwork_label: "Documented during Longyear’s September 1941–April 1942 expedition"
 ---

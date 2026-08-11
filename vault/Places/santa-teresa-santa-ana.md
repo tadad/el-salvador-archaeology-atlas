@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.971627
 longitude: -89.545494
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate locality reconstructed from the historical finca and route description southeast of Santa Ana"
 coordinate_note: "The marker is a proxy for Finca Santa Teresa; the report gives no reproducible archaeological coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942
 latest_study_label: "1940–1942"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1942
 last_fieldwork_label: "Boggs’s western field surveys occurred in 1940–1942; the exact Santa Teresa visit year is not stated"
 ---

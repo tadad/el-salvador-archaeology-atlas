@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.775
 longitude: -89.405
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Broad Zapotitán Valley placement; the cited article publishes no site coordinate"
 coordinate_note: "The marker is a generalized valley placement, not a documented archaeological location."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2001
 latest_study_label: "2001"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: null
 ---
 

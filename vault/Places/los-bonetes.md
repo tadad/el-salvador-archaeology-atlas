@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.958
 longitude: -88.319
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Reported hill between two peaks near Quebrada Honda, 6 km northeast of Villa Carolina"
 coordinate_note: "The reports provide relative locations and a schematic map but no archaeological coordinate, so the marker is approximate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1972
 latest_study_label: "1972"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 1972
 last_fieldwork_label: "1954 survey; 1972 departmental site-card registration (field methods not stated)"
 ---

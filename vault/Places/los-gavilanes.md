@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9809
 longitude: -89.6674
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Mean of the published coordinates for Operations 2–5"
 coordinate_note: "Operation 1’s coordinates conflict with its stated Chalchuapa lot location, so the marker uses the coherent published coordinates for Operations 2–5."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: 2006
 latest_study_label: "2006"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2005
 last_fieldwork_label: "Survey and test excavation"
 ---

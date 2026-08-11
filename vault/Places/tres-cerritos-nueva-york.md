@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.73
 longitude: -90.04
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Nueva York cooperative area on the southern Ahuachapán coastal plain"
 coordinate_note: "Approximate cooperative-area marker; no mound-level coordinate is public in the cited article."
 location_visibility: "public"
@@ -17,7 +20,6 @@ cultures: []
 papers: []
 latest_study_year: 2007
 latest_study_label: "2007"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2007
 ---
 

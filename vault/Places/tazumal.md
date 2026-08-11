@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9796
 longitude: -89.6744
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Tazumal Archaeological Park"
 coordinate_note: "The marker represents the archaeological-park landmark; the cited archaeological sources do not publish this coordinate."
 location_visibility: "public"
@@ -23,7 +26,6 @@ papers:
   - "[[Papers/tzunpame_boggs_tazumal]]"
 latest_study_year: 2015
 latest_study_label: "2015"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2012
 last_fieldwork_label: "Project reported active through 2012"
 ---

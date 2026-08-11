@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.654
 longitude: -88.52
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Cantón El Tecomatal and the non-inundated San Lorenzo project map"
 coordinate_note: "The point is fitted to the Tecomatal locality and source map; no archaeological GPS coordinate is printed."
 location_visibility: "public"
@@ -18,7 +21,6 @@ cultures:
 papers: []
 latest_study_year: 2017
 latest_study_label: "2017"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Revisited during the 2006–2008 Atlas project; exact year unstated"
 ---

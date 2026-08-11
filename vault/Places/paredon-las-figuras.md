@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.872
 longitude: -87.97
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximately 7 km north of Corinto"
 coordinate_note: "The source gives distance and direction but no coordinate; the marker is an approximate search area."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
 latest_study_year: 1996
 latest_study_label: "April 1996"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 1996
 last_fieldwork_label: "April 1996 rapid regional rock-art visit"
 ---

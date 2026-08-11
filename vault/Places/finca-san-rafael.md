@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9815
 longitude: -89.6635
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate marker in Chalchuapa; the cited synthesis gives no coordinate or parcel location"
 coordinate_note: "A 2007 synthesis reports archaeological testing at Finca San Rafael in February 2006."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: 2006
 latest_study_label: "February 2006"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2006
 last_fieldwork_label: "February 2006 archaeological testing"
 ---

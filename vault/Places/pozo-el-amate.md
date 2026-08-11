@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8996
 longitude: -88.1648
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "About 1 km southwest of Jocoaitique"
 coordinate_note: "The source locates the site on a terrace beside a brook but publishes no coordinate; this marker reconstructs its approximate position from the stated distance and direction."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1954
 latest_study_label: "29 June–2 July 1954"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1954
 ---
 

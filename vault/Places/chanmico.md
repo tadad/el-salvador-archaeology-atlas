@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.795
 longitude: -89.344
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate marker north of Laguna Chanmico"
 coordinate_note: "The sources place the archaeological site north of the lake but publish no coordinate or boundary."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2006
 latest_study_label: "By 2006"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: null
 ---
 

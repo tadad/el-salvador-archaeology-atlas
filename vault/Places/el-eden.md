@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.725
 longitude: -90.058
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Cooperativa Nueva York; the report publishes no site boundary or coordinate"
 coordinate_note: "Approximate area marker; it does not represent a published archaeological coordinate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/carmen]]"
 latest_study_year: 1988
 latest_study_label: "May–June 1988"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1988
 ---
 

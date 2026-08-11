@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.571
 longitude: -89.432
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Upper, northern sector of Loma El Cabro in Cooperativa San Isidro, about 1.5 km north of Miramar"
 coordinate_note: "The article maps El Panteoncito only at 1:100,000 scale and publishes no reproducible coordinate, so the retained marker is approximate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022
 latest_study_label: "2022"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: null
 ---
 

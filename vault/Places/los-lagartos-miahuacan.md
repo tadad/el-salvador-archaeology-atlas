@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.735023
 longitude: -89.558453
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Hacienda Los Lagartos area about 10 km west of Armenia, south of the former Santa Tecla–Sonsonate highway"
 coordinate_note: "The report gives no reproducible coordinate or site boundary. It also calls the place Miahuacan, Mahuaclan, and Azacualpa, but its identification with conquest-era Miahuacan remains tentative."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942
 latest_study_label: "1940–1942"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1942
 last_fieldwork_label: "Boggs’s western surveys occurred in 1940–1942; the exact Los Lagartos visit year is not stated"
 ---

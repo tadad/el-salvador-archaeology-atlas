@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8077
 longitude: -89.3571
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "OpenStreetMap archaeological-site geometry; the cited publications identify only San Juan Opico in the Zapotitán valley"
 coordinate_note: "The point follows the mapped site geometry, but the cited archaeological publications do not provide a reproducible coordinate."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2007
 last_fieldwork_label: "2006–2007 excavation season"
 ---

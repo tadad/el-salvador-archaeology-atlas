@@ -8,6 +8,9 @@ atlas: false
 latitude:
 longitude:
 coordinate_precision:
+coordinate_precision_label:
+coordinate_precision_short_label:
+coordinate_precision_description:
 coordinate_basis:
 coordinate_note:
 location_visibility: "public"
@@ -16,7 +19,6 @@ cultures: []
 papers: []
 latest_study_year:
 latest_study_label:
-latest_study_kind:
 last_fieldwork_year:
 last_fieldwork_label:
 ---

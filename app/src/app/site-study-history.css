@@ -49,16 +49,6 @@
   font-style: italic;
 }
 
-.classification-qualifier {
-  display: block;
-  margin-top: 2px;
-  color: var(--rust);
-  font-size: 0.58rem;
-  font-weight: 600;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-}
-
 .study-history {
   margin: 4px 0 28px;
   padding-top: 14px;

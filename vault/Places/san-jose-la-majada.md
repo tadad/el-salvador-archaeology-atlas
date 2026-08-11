@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.849171
 longitude: -89.710931
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Modern San José La Majada locality; the archival entry gives only Sonsonate Department"
 coordinate_note: "The marker represents the modern named locality, not a published archaeological coordinate. The archival table does not identify a parcel or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: null
 ---
 

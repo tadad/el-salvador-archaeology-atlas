@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.705595
 longitude: -88.559277
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "San Ildefonso town/locality named in the atlas"
 coordinate_note: "The settlement landmark is used because the archaeological plaza and mound group lack a public coordinate."
 location_visibility: "public"
@@ -16,7 +19,6 @@ cultures: []
 papers: []
 latest_study_year: 2008
 latest_study_label: "2006–2008"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2008
 last_fieldwork_label: "Recorded during the 2006–2008 Atlas project; exact year unstated"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9889
 longitude: -89.6749
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "About 300 metres west of Casa Blanca, reconstructed from the Chalchuapa plan"
 coordinate_note: "The marker is a site-area centroid; Peñate’s low platforms are dispersed through the modern city."
 location_visibility: "public"
@@ -18,7 +21,6 @@ cultures:
 papers: []
 latest_study_year: 1970
 latest_study_label: "1968–1970"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1970
 last_fieldwork_label: "Partial excavation during the 1968–1970 Chalchuapa project"
 ---

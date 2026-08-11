@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.859167
 longitude: -89.032778
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Published site coordinate, converted from 13°51′33″ N / 89°01′58″ W in Fowler’s FAMSI project report"
 coordinate_note: "The 2002–2003 campaign combined geophysical survey and GIS with excavation checks; GPR was planned but not ultimately used because conductivity and magnetic-susceptibility results were already strong."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/parks]]"
 latest_study_year: 2011
 latest_study_label: "2011"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2005
 last_fieldwork_label: "Latest cited field season: 2005"
 ---

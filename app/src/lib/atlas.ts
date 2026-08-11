@@ -30,6 +30,13 @@ function optionalYear(value: unknown): number | null {
   return typeof value === "number" && Number.isFinite(value) ? value : null;
 }
 
+function requiredString(value: unknown, field: string, id: string): string {
+  if (typeof value !== "string" || !value.trim()) {
+    throw new Error(`Missing ${field} on ${id}`);
+  }
+  return value;
+}
+
 function wikiLabel(value: string): string {
   const match = value.match(/^\[\[([^|\]]+)(?:\|([^\]]+))?\]\]$/);
   if (!match) throw new Error(`Expected an Obsidian link, received ${value}`);
@@ -101,6 +108,17 @@ function placeRecord(filename: string): AtlasPlace | null {
     lat,
     lon,
     precision,
+    precisionLabel: requiredString(parsed.data.coordinate_precision_label, "coordinate_precision_label", id),
+    precisionShortLabel: requiredString(
+      parsed.data.coordinate_precision_short_label,
+      "coordinate_precision_short_label",
+      id,
+    ),
+    precisionDescription: requiredString(
+      parsed.data.coordinate_precision_description,
+      "coordinate_precision_description",
+      id,
+    ),
     kind: String(parsed.data.place_kind || "Place"),
     basis: String(parsed.data.coordinate_basis || "Not documented"),
     note: String(parsed.data.coordinate_note || ""),
@@ -108,7 +126,6 @@ function placeRecord(filename: string): AtlasPlace | null {
     cultures: strings(parsed.data.cultures).map(wikiLabel),
     latestStudyYear: optionalYear(parsed.data.latest_study_year),
     latestStudyLabel: parsed.data.latest_study_label ? String(parsed.data.latest_study_label) : null,
-    latestStudyKind: parsed.data.latest_study_kind ? String(parsed.data.latest_study_kind) : null,
     lastFieldworkYear: optionalYear(parsed.data.last_fieldwork_year),
     lastFieldworkLabel: parsed.data.last_fieldwork_label
       ? String(parsed.data.last_fieldwork_label)
@@ -119,11 +136,22 @@ function placeRecord(filename: string): AtlasPlace | null {
 
 function validateAtlas(data: AtlasData): void {
   const ids = new Set<string>();
+  const precisionDefinitions = new Map<Precision, string>();
   const periodNames = new Set(data.periods.map((entry) => entry.name));
   const cultureNames = new Set(data.cultures.map((entry) => entry.name));
   for (const place of data.places) {
     if (ids.has(place.id)) throw new Error(`Duplicate place_id: ${place.id}`);
     ids.add(place.id);
+    const precisionDefinition = JSON.stringify([
+      place.precisionLabel,
+      place.precisionShortLabel,
+      place.precisionDescription,
+    ]);
+    const existingDefinition = precisionDefinitions.get(place.precision);
+    if (existingDefinition && existingDefinition !== precisionDefinition) {
+      throw new Error(`Conflicting ${place.precision} coordinate precision metadata on ${place.id}`);
+    }
+    precisionDefinitions.set(place.precision, precisionDefinition);
     for (const period of place.periods) {
       if (!periodNames.has(period)) throw new Error(`Unknown period ${period} on ${place.id}`);
     }

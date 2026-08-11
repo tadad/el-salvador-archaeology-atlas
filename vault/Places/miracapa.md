@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.87
 longitude: -88.286
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate area east of Carolina; the cited source publishes no archaeological coordinate"
 coordinate_note: "The point is a broad locality marker, not a documented findspot or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: null
 latest_study_label: "Undated"
-latest_study_kind: "site-recording"
 last_fieldwork_year: null
 ---
 
