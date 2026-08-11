@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.79
 longitude: -89.955
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Southern Ahuachapán coastal-plain survey area"
 coordinate_note: "Broad placement only; the report names the site but does not publish its coordinate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ cultures: []
 papers: []
 latest_study_year: 2007
 latest_study_label: "2007"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2007
 ---
 

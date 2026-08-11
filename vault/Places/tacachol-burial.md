@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.715
 longitude: -89.985
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Jujutla municipality proxy; the card publishes no coordinate"
 coordinate_note: "The marker is a broad modern proxy, not a documented archaeological location."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1986
 ---
 

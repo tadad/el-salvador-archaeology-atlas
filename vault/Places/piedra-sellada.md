@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.827
 longitude: -89.949
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Río Guayapa canyon in El Imposible, approximately 13 km northeast of Cara Sucia"
 coordinate_note: "The marker represents the reported river valley; the source publishes no archaeological coordinate for the boulder."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/yaca]]"
 latest_study_year: 2007
 latest_study_label: "November 2007"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2007
 last_fieldwork_label: "November 2007 informal visit and photographic documentation"
 ---

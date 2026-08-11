@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.983769
 longitude: -89.671391
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Mapped Laguna Cuzcachapa crater-lake geometry"
 coordinate_note: "The lake centroid anchors archaeological deposits concentrated around its margins, especially the northern shore."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/casasola_panorama]]"
 latest_study_year: 2009
 latest_study_label: "2009"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 1970
 last_fieldwork_label: "Investigated during the 1968–1970 Chalchuapa project"
 ---

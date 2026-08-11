@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9259
 longitude: -89.2675
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Published WGS84 UTM 16N coordinate for the 2002 find and excavation"
 coordinate_note: "The marker is the reported find spot and excavation unit, about 80 m west of Las Marías’ principal pyramid."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/tlalocreport]]"
 latest_study_year: 2002
 latest_study_label: "12–20 July 2002"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2002
 last_fieldwork_label: "July 2002 rescue excavation"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.56
 longitude: -88.1
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Uluazapa area in San Miguel department; the report withholds the exact site location"
 coordinate_note: "Approximate regional marker. It does not represent an excavation-unit coordinate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ cultures: []
 papers: []
 latest_study_year: 2007
 latest_study_label: "1 June 2007 (within the 2006–2008 Atlas project)"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2007
 last_fieldwork_label: "2007 mapping and test excavation"
 ---

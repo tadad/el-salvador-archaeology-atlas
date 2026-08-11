@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.86587
 longitude: -88.210534
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "El Rosario village plaza"
 coordinate_note: "The report places the finds on the plaza but publishes no archaeological coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1954
 latest_study_label: "29 June–2 July 1954"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1954
 last_fieldwork_label: "Haberland reconnaissance, June 29–July 2, 1954"
 ---

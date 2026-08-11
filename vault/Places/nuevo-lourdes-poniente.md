@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.729
 longitude: -89.389
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate roadside marker; the source places the site west of Urbanización Nuevo Lourdes Extensión, Cantón Lourdes, Colón"
 coordinate_note: "A 2013 investigation documented three primary burials whose pits cut through the Ilopango TBJ deposit; the sources publish no coordinate or site boundary."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2014
 latest_study_label: "2014"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2013
 last_fieldwork_label: "2013 archaeological investigation"
 ---

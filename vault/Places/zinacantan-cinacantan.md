@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.547528
 longitude: -89.394806
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°32′51.1″ N, 89°23′41.3″ W published in the PAHES registration"
 coordinate_note: "The report does not state whether its coordinate marks a site center or one of the two named elevations."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022
 latest_study_label: "2022"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2007
 last_fieldwork_label: "PAHES first-phase field registration (August–December 2007)"
 ---

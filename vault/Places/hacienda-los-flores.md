@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.0306
 longitude: -89.0472
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Los Flores marker; the cited pages publish no reproducible site coordinate."
 coordinate_note: "The sources identify a Late Preclassic center with a circular Mound 10, but do not establish its present condition."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/roundreport]]"
 latest_study_year: 1988
 latest_study_label: "1988"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1976
 last_fieldwork_label: "Los Flores rescue subproject documented by 1976"
 ---

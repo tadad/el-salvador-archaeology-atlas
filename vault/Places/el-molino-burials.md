@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.985
 longitude: -89.546
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Reported 900 m southwest of Cerro Tecana and 300 m from Río El Molino"
 coordinate_note: "Approximate marker derived from distances in a 1985 registration card; no site coordinate is published."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1985
 ---
 

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.4983
 longitude: -89.81095
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°29.898′ N, 89°48.657′ W reported for survey point ‘Douglas 1’"
 coordinate_note: "The wreck lies about 2.5 km southwest of Punta Remedios at roughly 15–35 feet depth. It sank with a cargo of coffee after striking the reef in 1890."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2011
 last_fieldwork_label: "2005 registration; 2011 protection project"
 ---

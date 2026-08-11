@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.247
 longitude: -89.512
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Teotipa Island (Tipa Adentro), mapped west of Igualtepeque in fig. 9"
 coordinate_note: "The marker represents the mapped island, not a documented object findspot or archaeological site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942
 latest_study_label: "1940–1942"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1942
 last_fieldwork_label: "Visited during Boggs’s 1940–1942 western survey; exact year not stated"
 ---

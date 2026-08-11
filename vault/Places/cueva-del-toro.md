@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.821
 longitude: -87.97
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "West side of the same ignimbrite massif as Gruta del Espíritu Santo"
 coordinate_note: "The report gives only a relational location; the marker is approximate and does not represent a published coordinate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
 latest_study_year: 1996
 latest_study_label: "April 1996"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 1996
 last_fieldwork_label: "1996 regional rock-art inventory"
 ---

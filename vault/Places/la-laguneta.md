@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.662477
 longitude: -88.475889
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Registry digits printed as 13º66’2477”, 88º47’5889”; reconstructed as decimal degrees"
 coordinate_note: "The reconstructed registry point agrees with the Río Don Gaspar/Lempa setting shown on the San Lorenzo project map."
 location_visibility: "public"
@@ -19,7 +22,6 @@ cultures:
 papers: []
 latest_study_year: 2017
 latest_study_label: "2017"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2017
 last_fieldwork_label: "2017 aerial and ground documentation of the ballcourt"
 ---

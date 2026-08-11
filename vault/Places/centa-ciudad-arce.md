@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.805752
 longitude: -89.403798
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Modern CENTA facility at Ciudad Arce; the archival table does not identify the discovery spot within the grounds"
 coordinate_note: "The marker represents the named institution, not a published archaeological coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016
 latest_study_label: "2016"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1975
 last_fieldwork_label: "Registration card dated January 20, 1975"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.866
 longitude: -88.307
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Río Torola north bank, less than 200 m southwest of Sitio Carolina"
 coordinate_note: "Approximate marker reconstructed from the regional survey map and the stated relationship to Sitio Carolina; the sources publish no site coordinate."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-54]]"
 latest_study_year: 2009
 latest_study_label: "2008–2009"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2009
 last_fieldwork_label: "2008–2009 regional surface survey"
 ---

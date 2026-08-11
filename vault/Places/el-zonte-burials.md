@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.497788
 longitude: -89.440737
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "El Zonte community; the private surf-center parcel is not mapped in the source"
 coordinate_note: "The marker represents the community, not the exact burial location on private property."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2015
 latest_study_label: "2015"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 1998
 last_fieldwork_label: "Burial 2 archaeologically excavated"
 ---

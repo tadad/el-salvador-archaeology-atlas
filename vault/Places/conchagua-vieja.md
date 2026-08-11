@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.238
 longitude: -87.757
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Named ridge site about 1 km inland on northeastern Isla Conchagüita"
 coordinate_note: "The source maps the site schematically but publishes no coordinate; the marker is a landmark-level placement on the named ridge."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2005
 latest_study_label: "2002, 2003, and 2005"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2005
 last_fieldwork_label: "Investigated within Gómez’s 2002–2005 Conchagüita/Gulf-islands project; exact site season not stated"
 ---

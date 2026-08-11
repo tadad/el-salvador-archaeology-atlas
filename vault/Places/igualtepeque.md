@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.245095
 longitude: -89.484395
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Cerro de las Figuras peninsula mapped in the 2006 site report"
 coordinate_note: "The marker identifies the mapped peninsula, which the report describes as archaeological throughout; it becomes an island when the lake level rises."
 location_visibility: "public"
@@ -23,7 +26,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2021
 latest_study_label: "14 November 2020–February 2021"
-latest_study_kind: "condition-assessment"
 last_fieldwork_year: 2021
 last_fieldwork_label: "November 2020–February 2021 community survey and site reconnaissance"
 ---

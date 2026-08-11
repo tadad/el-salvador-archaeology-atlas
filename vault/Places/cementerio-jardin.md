@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9748
 longitude: -89.673
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate locality about 700 m southeast of the main Tazumal group"
 coordinate_note: "The source gives an approximate distance and direction but no site coordinate or boundary; the marker is generalized."
 location_visibility: "public"
@@ -21,7 +24,6 @@ papers:
   - "[[Papers/earliest_pipil]]"
 latest_study_year: 2009
 latest_study_label: "2009"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1985
 last_fieldwork_label: "1985 salvage excavation"
 ---

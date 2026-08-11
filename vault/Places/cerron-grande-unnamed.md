@@ -8,6 +8,9 @@ atlas: true
 latitude: 14.05
 longitude: -89.015
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate Cerrón Grande reservoir-area marker"
 coordinate_note: "The point represents the broad rescue-project area, not any one of the 22 identified sites or nine excavated sites."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/drowned]]"
 latest_study_year: 2003
 latest_study_label: "2003"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 1977
 last_fieldwork_label: "Rescue program reported as conducted in 1974–1977"
 ---

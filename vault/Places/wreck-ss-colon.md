@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.597969
 longitude: -89.83975
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°35′52.69″ N, 89°50′23.10″ W printed in Gallardo’s dedicated site report"
 coordinate_note: "The surviving engine remains lie on Acajutla beach roughly 200 m southeast of the Río Sensunapán mouth. The ship struck Punta Remedios in 1904 before being driven onto the beach."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2013
 last_fieldwork_label: "Return inspection and documentation, January 10, 2013"
 ---

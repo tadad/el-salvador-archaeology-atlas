@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.532806
 longitude: -89.829194
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "13°31′58.1″ N, 89°49′45.1″ W reported as the GPS position"
 coordinate_note: "The 1882 steamship wreck is catalogued at Punta Remedios in the Los Cóbanos protected area. Parts of its engine can emerge above the surface during very low tide."
 location_visibility: "public"
@@ -20,7 +23,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2015
 last_fieldwork_label: "2015 protected-area delimitation project"
 ---

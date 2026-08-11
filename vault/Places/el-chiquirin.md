@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.2917
 longitude: -87.7795
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Punta El Chiquirín coastal landmark"
 coordinate_note: "The report places the site about 150 m from the beach but does not publish a coordinate for the investigated lot."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2012
 latest_study_label: "2012"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: 2003
 last_fieldwork_label: "2002–2003 rescue"
 ---

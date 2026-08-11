@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.859
 longitude: -87.955
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Corinto regional rock-art study; no site-specific location published"
 coordinate_note: "The report describes the shelter but gives no coordinate, distance, or direction; the marker is an approximate regional placement."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
 latest_study_year: 1996
 latest_study_label: "April 1996"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 1996
 last_fieldwork_label: "April 1996 rapid regional rock-art visit"
 ---

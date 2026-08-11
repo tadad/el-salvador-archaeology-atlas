@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.609444
 longitude: -89.837081
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Haberland’s small-scale national map places Atalaya on the Sonsonate coast; no reproducible coordinate is published"
 coordinate_note: "Approximate regional marker retained from the prior record. It is not a documented site coordinate, and the cited local sources do not define the site’s boundaries."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/haberland_sequences]]"
 latest_study_year: 2009
 latest_study_label: "2009"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2009
 last_fieldwork_label: "Two technical inspections in 2009"
 ---

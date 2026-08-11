@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.67218
 longitude: -89.23927
 coordinate_precision: "published"
+coordinate_precision_label: "Published coordinate"
+coordinate_precision_short_label: "Published"
+coordinate_precision_description: "A coordinate printed in or calculated directly from the source."
 coordinate_basis: "Published site coordinate, corroborated by the report’s Avenida Navas / Pasaje 4 locality map"
 coordinate_note: "The coordinate is converted from N13°40.331′ / W89°14.356′, published in a later study of the same 1987 rescue."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/milpas]]"
 latest_study_year: 1998
 latest_study_label: "1998"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 1987
 last_fieldwork_label: "1987 rescue investigation"
 ---

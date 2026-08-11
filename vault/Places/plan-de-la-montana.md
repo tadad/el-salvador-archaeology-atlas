@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.375
 longitude: -87.905
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Mainland on the west side of the Gulf of Fonseca; the source publishes no coordinate"
 coordinate_note: "The marker is an approximate regional placement, not a published archaeological coordinate."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2003
 latest_study_label: "2003"
-latest_study_kind: "site-recording"
 last_fieldwork_year: 2003
 last_fieldwork_label: "2003 Department of Archaeology site registration"
 ---

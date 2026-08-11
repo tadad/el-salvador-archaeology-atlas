@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.505
 longitude: -89.507
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "East side of Quebrada Iscacuyo, also called El Cacao, shown only on a regional map"
 coordinate_note: "The marker is an approximate canyon location retained from the prior record; the source does not publish a reproducible coordinate or site boundary."
 location_visibility: "public"
@@ -17,7 +20,6 @@ papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022
 latest_study_label: "2022"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: null
 last_fieldwork_label: "Digital photographic recording documented, but not dated"
 ---

@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.142
 longitude: -88.472
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Approximate area 3.5–4 km offshore from the San Juan del Gozo peninsula, on the sandbank west of the El Bajón outlet channel"
 coordinate_note: "The article does not publish the recorded GPS coordinate; it says the coordinate is available from the Directorate of Archaeology. This marker is an approximate area based on the published description and Figure 4."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: 2014
 last_fieldwork_label: "2014 identification and dive recording"
 ---

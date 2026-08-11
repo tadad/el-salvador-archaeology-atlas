@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.155
 longitude: -88.444
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Offshore near the Bocana El Bajón bar, estimated from the loss account and Anales 53 Figure 1"
 coordinate_note: "The barque was abandoned on the Jiquilisco bar in 1896. The registry explicitly says the wreck had not been precisely visited or located, so this is a search-area marker, not a confirmed wreck position."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021
 latest_study_label: "2021"
-latest_study_kind: "archival-synthesis"
 last_fieldwork_year: null
 last_fieldwork_label: "2013 search did not relocate the wreck; no confirmed site-investigation date"
 ---

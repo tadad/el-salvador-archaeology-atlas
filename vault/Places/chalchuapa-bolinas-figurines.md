@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.9867
 longitude: -89.6814
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Greater Chalchuapa archaeological zone; the article does not assign the cited fragments to a specific component site"
 coordinate_note: "The marker intentionally represents greater Chalchuapa rather than Tazumal, Casa Blanca, Laguna Cuzcachapa, or a particular excavation unit."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024
 latest_study_label: "2024"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: null
 ---
 

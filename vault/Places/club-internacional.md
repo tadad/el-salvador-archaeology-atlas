@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.6979
 longitude: -89.1906
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Reported approximately 20 m north of 2a Calle Oriente and 35 m east of 2a Avenida Sur"
 coordinate_note: "The marker approximates the report’s street offsets; the source gives no coordinate or archaeological boundary."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/boggs_club]]"
 latest_study_year: 1945
 latest_study_label: "1945"
-latest_study_kind: "collection-analysis"
 last_fieldwork_year: null
 ---
 

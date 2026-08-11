@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.8275
 longitude: -89.3562
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Marker is tied to the named archaeological park; the cited sources do not publish a coordinate or site boundary"
 coordinate_note: "GPR surveys in 1979, 1992, and 1994 preceded and accompanied the excavation program; dry-season surveys in 1979 and 1994 produced the useful mapping results."
 location_visibility: "public"
@@ -22,7 +25,6 @@ papers:
   - "[[Papers/parks]]"
 latest_study_year: 2014
 latest_study_label: "2014"
-latest_study_kind: "reinterpretation"
 last_fieldwork_year: 2011
 last_fieldwork_label: "Project reported ongoing at the 2011 symposium"
 ---

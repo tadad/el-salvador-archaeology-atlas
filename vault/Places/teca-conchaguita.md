@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.247
 longitude: -87.777
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "North side of Isla Conchagüita, about 100 m inland and a 2 km trail west of the landing"
 coordinate_note: "The marker reconstructs Longyear’s shoreline description and schematic map; the source publishes no coordinate and states that its contours are approximate."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2005
 latest_study_label: "2002, 2003, and 2005"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2005
 last_fieldwork_label: "Investigated within Gómez’s 2002–2005 Conchagüita/Gulf-islands project; exact site season not stated"
 ---

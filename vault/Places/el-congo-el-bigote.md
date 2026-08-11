@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.905341
 longitude: -89.496389
 coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
 coordinate_basis: "Modern El Congo town area; the seven mounds extended west for 2.5 km from near the railroad station"
 coordinate_note: "Approximate town-area marker; the report gives no reproducible coordinate or site boundary, and the individual mounds are not georeferenced."
 location_visibility: "public"
@@ -18,7 +21,6 @@ papers:
   - "[[Papers/testimony1]]"
 latest_study_year: 2004
 latest_study_label: "After 1978, by 2004"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 2004
 last_fieldwork_label: "Excavated after 1978 and documented by 2004; exact season not stated"
 ---

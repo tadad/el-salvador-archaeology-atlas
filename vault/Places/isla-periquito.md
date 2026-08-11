@@ -8,6 +8,9 @@ atlas: true
 latitude: 13.389876
 longitude: -87.848851
 coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
 coordinate_basis: "Isla Periquito landmark; the sources publish no midden coordinate"
 coordinate_note: "The marker identifies the island, not the shell midden’s position or footprint."
 location_visibility: "public"
@@ -19,7 +22,6 @@ papers:
   - "[[Papers/boggs_cayuco]]"
 latest_study_year: 1978
 latest_study_label: "1978"
-latest_study_kind: "fieldwork"
 last_fieldwork_year: 1978
 last_fieldwork_label: "1978 Pacific-coast survey reported in a secondary synthesis"
 ---
