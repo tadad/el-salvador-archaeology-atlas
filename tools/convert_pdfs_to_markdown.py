@@ -22,14 +22,33 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCES = ROOT / "sources"
-OUTPUT = SOURCES / "markdown"
+VAULT = ROOT / "vault"
+PDF_ROOT = VAULT / "Attachments" / "PDFs"
+OUTPUT = VAULT / "Papers"
 DATA = ROOT / "_data"
 TEMP = ROOT / "tmp" / "pdfs"
 DEFAULT_TESSDATA = ROOT / "tools" / "tessdata"
 MANIFEST = DATA / "text-extraction-manifest.json"
 MIN_LETTERS = 80
 MIN_WORDS = 16
+OCR_START = "<!-- ocr:start -->"
+OCR_END = "<!-- ocr:end -->"
+MANAGED_PROPERTIES = {
+    "title",
+    "source_pdf",
+    "pdf",
+    "source_url",
+    "source_sha256",
+    "pages",
+    "extraction_status",
+    "embedded_pages",
+    "ocr_pages",
+    "unrecognized_pages",
+    "ocr_mode",
+    "ocr_language",
+    "ocr_dpi",
+    "generated",
+}
 
 
 def command(args: list[str], timeout: int = 600) -> subprocess.CompletedProcess[str]:
@@ -49,6 +68,14 @@ def sha256_file(path: Path) -> str:
         while chunk := handle.read(1024 * 1024):
             digest.update(chunk)
     return digest.hexdigest()
+
+
+def verify_catalog_hash(metadata: dict, source_hash: str) -> None:
+    catalog_hash = metadata.get("sha256")
+    if catalog_hash and catalog_hash != source_hash:
+        raise ValueError(
+            f"catalog SHA-256 does not match attachment: {catalog_hash} != {source_hash}"
+        )
 
 
 def clean_text(text: str) -> str:
@@ -74,7 +101,7 @@ def pdf_pages(path: Path) -> int:
 
 
 def embedded_pages(path: Path, page_count: int) -> tuple[list[str], str]:
-    result = command(["pdftotext", "-layout", "-enc", "UTF-8", str(path), "-"], timeout=900)
+    result = command(["pdftotext", "-enc", "UTF-8", str(path), "-"], timeout=900)
     if result.returncode:
         raise RuntimeError(result.stderr.strip() or "pdftotext failed")
     pages = result.stdout.split("\f")
@@ -132,36 +159,115 @@ def source_metadata() -> dict[str, dict]:
         for row in json.loads(manifest.read_text(encoding="utf-8")):
             local_path = row.get("local_path", "")
             if row.get("status") == "downloaded" and local_path.lower().endswith(".pdf"):
-                rows_by_path[local_path] = row
+                path = Path(local_path)
+                parts = path.parts
+                if parts[:3] == ("vault", "Attachments", "PDFs"):
+                    key = Path(*parts[3:]).as_posix()
+                elif parts and parts[0] == "sources":
+                    # Accept legacy manifests while the vault migration is in flight.
+                    key = Path(*parts[1:]).as_posix()
+                else:
+                    continue
+                rows_by_path[key] = row
     return rows_by_path
 
 
 def output_path(source: Path) -> Path:
-    return OUTPUT / source.stem / f"{source.stem}.md"
+    return OUTPUT / f"{source.stem}.md"
+
+
+def normalize_prior_record(row: dict) -> dict:
+    """Normalize pre-vault extraction rows before retention comparisons."""
+
+    normalized = dict(row)
+    source = Path(str(normalized.get("source_path", "")))
+    if source.parts and source.parts[0] == "sources":
+        source = Path("vault", "Attachments", "PDFs", *source.parts[1:])
+        normalized["source_path"] = source.as_posix()
+        normalized["output_path"] = f"vault/Papers/{source.stem}.md"
+        normalized["source_link"] = Path(
+            os.path.relpath(source, Path(normalized["output_path"]).parent)
+        ).as_posix()
+    return normalized
 
 
 def yaml_string(value: object) -> str:
     return json.dumps(str(value or ""), ensure_ascii=False)
 
 
-def render_markdown(record: dict, pages: list[str], methods: list[str]) -> str:
-    title = re.sub(r"\s+", " ", record["title"]).strip() or Path(record["source_path"]).stem
+def frontmatter_blocks(markdown: str) -> list[tuple[str | None, list[str]]]:
+    """Return top-level YAML property blocks from an existing note.
+
+    This deliberately avoids parsing YAML values: preserving their original text
+    keeps Obsidian links, lists, comments, and formatting intact without adding a
+    non-stdlib YAML dependency.
+    """
+    lines = markdown.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return []
+    try:
+        end = next(index for index, line in enumerate(lines[1:], 1) if line.strip() == "---")
+    except StopIteration:
+        return []
+
+    blocks: list[tuple[str | None, list[str]]] = []
+    key_pattern = re.compile(r"^([A-Za-z_][A-Za-z0-9_-]*):(?:\s|$)")
+    for line in lines[1:end]:
+        match = key_pattern.match(line)
+        if match:
+            blocks.append((match.group(1), [line]))
+        elif blocks:
+            blocks[-1][1].append(line)
+        else:
+            blocks.append((None, [line]))
+    return blocks
+
+
+def body_without_frontmatter(markdown: str) -> str:
+    lines = markdown.splitlines(keepends=True)
+    if not lines or lines[0].strip() != "---":
+        return markdown
+    for index, line in enumerate(lines[1:], 1):
+        if line.strip() == "---":
+            return "".join(lines[index + 1 :]).lstrip("\n")
+    return markdown
+
+
+def replace_generated_region(existing_body: str, title: str, generated: str) -> str:
+    """Replace generated OCR while retaining every user-authored body section."""
+
+    start_count = existing_body.count(OCR_START)
+    end_count = existing_body.count(OCR_END)
+    if start_count != end_count or start_count > 1:
+        raise ValueError("existing note has an invalid OCR marker pair")
+    if start_count == 1:
+        start = existing_body.index(OCR_START)
+        end = existing_body.index(OCR_END)
+        if start >= end:
+            raise ValueError("existing note has an invalid OCR marker pair")
+        before = existing_body[:start]
+        after = existing_body[end + len(OCR_END) :]
+        return (
+            before.rstrip()
+            + "\n\n"
+            + OCR_START
+            + "\n"
+            + generated
+            + "\n"
+            + OCR_END
+            + after
+        ).strip()
+
+    if existing_body.strip():
+        raise ValueError(
+            "existing note has no OCR markers; refusing to infer which body text is generated"
+        )
+    before = f"# {title}\n\n## Notes"
+    return f"{before}\n\n{OCR_START}\n{generated}\n{OCR_END}".strip()
+
+
+def render_generated_region(record: dict, pages: list[str], methods: list[str]) -> str:
     lines = [
-        "---",
-        f"title: {yaml_string(title)}",
-        f"source_pdf: {yaml_string(record['source_path'])}",
-        f"source_url: {yaml_string(record['source_url'])}",
-        f"source_sha256: {yaml_string(record['source_sha256'])}",
-        f"pages: {record['pages']}",
-        f"extraction_status: {yaml_string(record['status'])}",
-        f"ocr_mode: {yaml_string(record['ocr_mode'])}",
-        f"ocr_language: {yaml_string(record['ocr_language'])}",
-        f"ocr_dpi: {record['ocr_dpi']}",
-        f"generated: {yaml_string(record['generated'])}",
-        "---",
-        "",
-        f"# {title}",
-        "",
         "## Provenance",
         "",
         f"- Source PDF: [{Path(record['source_path']).name}](<{record['source_link']}>)",
@@ -176,22 +282,65 @@ def render_markdown(record: dict, pages: list[str], methods: list[str]) -> str:
     for page_number, (text, method) in enumerate(zip(pages, methods), 1):
         lines += [f"## Page {page_number}", "", f"_Extraction method: {method}._", ""]
         lines += [text if text else "_[No machine-readable text detected on this page.]_", ""]
-    return "\n".join(lines).rstrip() + "\n"
+    return "\n".join(lines).rstrip()
+
+
+def render_markdown(
+    record: dict,
+    pages: list[str],
+    methods: list[str],
+    existing: str = "",
+) -> str:
+    title = re.sub(r"\s+", " ", record["title"]).strip() or Path(record["source_path"]).stem
+    source_path = Path(record["source_path"])
+    try:
+        vault_path = source_path.relative_to("vault").as_posix()
+    except ValueError as exc:
+        raise ValueError(f"source path is outside vault: {source_path}") from exc
+    managed_lines = [
+        f"title: {yaml_string(title)}",
+        f"pdf: {yaml_string(f'[[{vault_path}]]')}",
+        f"source_url: {yaml_string(record['source_url'])}",
+        f"source_sha256: {yaml_string(record['source_sha256'])}",
+        f"pages: {record['pages']}",
+        f"extraction_status: {yaml_string(record['status'])}",
+        f"embedded_pages: {record['embedded_pages']}",
+        f"ocr_pages: {record['ocr_pages']}",
+        f"unrecognized_pages: {record['empty_pages']}",
+        f"ocr_mode: {yaml_string(record['ocr_mode'])}",
+        f"ocr_language: {yaml_string(record['ocr_language'])}",
+    ]
+    if record.get("ocr_dpi"):
+        managed_lines.append(f"ocr_dpi: {record['ocr_dpi']}")
+    managed_lines.append(f"generated: {record['generated']}")
+    preserved_blocks = [
+        lines
+        for key, lines in frontmatter_blocks(existing)
+        if key is None or key not in MANAGED_PROPERTIES
+    ]
+    frontmatter = ["---", *managed_lines]
+    for block in preserved_blocks:
+        frontmatter.extend(block)
+    frontmatter.extend(["---", ""])
+
+    generated = render_generated_region(record, pages, methods)
+    body = replace_generated_region(body_without_frontmatter(existing), title, generated)
+    return "\n".join(frontmatter) + "\n" + body.rstrip() + "\n"
 
 
 def convert_one(
     source: Path,
     metadata: dict,
+    source_hash: str,
     ocr_mode: str,
     tessdata: Path,
     language: str,
     dpi: int,
 ) -> dict:
-    relative = source.relative_to(SOURCES)
+    relative = source.relative_to(PDF_ROOT)
     destination = output_path(source)
-    source_hash = metadata.get("sha256") or sha256_file(source)
     record = {
-        "source_path": f"sources/{relative.as_posix()}",
+        "source_path": f"vault/Attachments/PDFs/{relative.as_posix()}",
         "output_path": destination.relative_to(ROOT).as_posix(),
         "source_sha256": source_hash,
         "source_bytes": source.stat().st_size,
@@ -206,6 +355,7 @@ def convert_one(
         "error": "",
     }
     try:
+        verify_catalog_hash(metadata, source_hash)
         count = pdf_pages(source)
         pages, extraction_warning = embedded_pages(source, count)
         methods = ["embedded text" if text else "none" for text in pages]
@@ -238,11 +388,12 @@ def convert_one(
                 "empty_pages": empty_count,
                 "status": "complete" if empty_count == 0 else "partial",
                 "warnings": [x for x in [extraction_warning, *ocr_errors] if x],
-        "source_link": Path(os.path.relpath(source, destination.parent)).as_posix(),
+                "source_link": Path(os.path.relpath(source, destination.parent)).as_posix(),
             }
         )
         destination.parent.mkdir(parents=True, exist_ok=True)
-        payload = render_markdown(record, pages, methods)
+        existing = destination.read_text(encoding="utf-8") if destination.exists() else ""
+        payload = render_markdown(record, pages, methods, existing)
         partial = destination.with_name(f"{destination.name}.part")
         try:
             partial.write_text(payload, encoding="utf-8")
@@ -250,37 +401,9 @@ def convert_one(
         finally:
             partial.unlink(missing_ok=True)
     except Exception as exc:
+        record["status"] = "error"
         record["error"] = str(exc)
     return record
-
-
-def write_index(records: list[dict]) -> None:
-    complete = sum(record["status"] == "complete" for record in records)
-    partial = sum(record["status"] == "partial" for record in records)
-    errors = sum(record["status"] == "error" for record in records)
-    total_pages = sum(record.get("pages", 0) for record in records)
-    ocr_pages = sum(record.get("ocr_pages", 0) for record in records)
-    empty_pages = sum(record.get("empty_pages", 0) for record in records)
-    lines = [
-        "# Searchable PDF Text Corpus", "",
-        "This directory mirrors every source PDF as page-addressable Markdown.",
-        "Embedded text is used when adequate; deficient pages are OCRed in `auto` mode.",
-        "Always check the source PDF before exact quotation or relying on tables and page layout.", "",
-        f"- Documents: {len(records)}",
-        f"- Pages: {total_pages}",
-        f"- Complete: {complete}",
-        f"- Partial: {partial}",
-        f"- Errors: {errors}",
-        f"- OCR-derived pages: {ocr_pages}",
-        f"- Unrecognized or non-text pages: {empty_pages}", "",
-        "## Documents", "",
-    ]
-    for record in sorted(records, key=lambda item: item["output_path"]):
-        destination = Path(record["output_path"]).relative_to("sources/markdown").as_posix()
-        details = f"{record.get('pages', 0)} pages; {record['status']}; {record.get('ocr_pages', 0)} OCR"
-        lines.append(f"- [{record['title']}](<{destination}>) - {details}")
-    OUTPUT.mkdir(parents=True, exist_ok=True)
-    (OUTPUT / "INDEX.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def parse_args() -> argparse.Namespace:
@@ -296,6 +419,23 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def retained_prior_records(
+    prior: dict[str, dict],
+    selected_keys: set[str],
+    all_source_keys: set[str],
+    targeted: bool,
+) -> list[dict]:
+    if not targeted:
+        return []
+    return [
+        row
+        for source_key, row in prior.items()
+        if source_key not in selected_keys
+        and source_key in all_source_keys
+        and (ROOT / row.get("output_path", "")).exists()
+    ]
+
+
 def main() -> int:
     args = parse_args()
     TEMP.mkdir(parents=True, exist_ok=True)
@@ -305,32 +445,60 @@ def main() -> int:
         raise SystemExit(f"OCR data directory does not exist: {args.tessdata}")
 
     metadata = source_metadata()
-    all_sources = sorted(SOURCES.rglob("*.pdf"))
+    all_sources = sorted(PDF_ROOT.rglob("*.pdf"))
+    stems: dict[str, list[Path]] = {}
+    for source in all_sources:
+        stems.setdefault(source.stem, []).append(source)
+    collisions = {stem: paths for stem, paths in stems.items() if len(paths) > 1}
+    if collisions:
+        details = "; ".join(
+            f"{stem}: {', '.join(str(path.relative_to(PDF_ROOT)) for path in paths)}"
+            for stem, paths in sorted(collisions.items())
+        )
+        raise SystemExit(f"PDF filename stems must be unique for flat paper notes: {details}")
     sources = all_sources
     if args.match:
         sources = [source for source in sources if args.match.lower() in str(source).lower()]
     if args.limit is not None:
         sources = sources[: args.limit]
+    actual_hashes = {source: sha256_file(source) for source in sources}
+    hash_mismatches = []
+    for source in sources:
+        relative = source.relative_to(PDF_ROOT).as_posix()
+        catalog_hash = metadata.get(relative, {}).get("sha256")
+        if catalog_hash and catalog_hash != actual_hashes[source]:
+            hash_mismatches.append(
+                f"{relative}: catalog {catalog_hash} != attachment {actual_hashes[source]}"
+            )
+    if hash_mismatches:
+        raise SystemExit("catalog SHA-256 mismatch:\n" + "\n".join(hash_mismatches))
 
     prior = {}
     if MANIFEST.exists():
-        prior = {
-            row["source_path"]: row
+        normalized_prior = [
+            normalize_prior_record(row)
             for row in json.loads(MANIFEST.read_text(encoding="utf-8"))
-        }
-    selected_keys = {f"sources/{source.relative_to(SOURCES).as_posix()}" for source in sources}
-    # A targeted rerun updates only the selected documents while retaining the
-    # rest of an existing full-corpus manifest and index.
-    results = [
-        row for source_key, row in prior.items()
-        if source_key not in selected_keys and (ROOT / row.get("output_path", "")).exists()
-    ]
+        ]
+        prior = {row["source_path"]: row for row in normalized_prior}
+    selected_keys = {
+        f"vault/Attachments/PDFs/{source.relative_to(PDF_ROOT).as_posix()}"
+        for source in sources
+    }
+    # A targeted rerun updates only selected documents. A full run reconciles
+    # the manifest exactly to the attachment inventory, pruning removed or
+    # renamed sources instead of retaining stale records.
+    targeted = args.match is not None or args.limit is not None
+    all_source_keys = {
+        f"vault/Attachments/PDFs/{source.relative_to(PDF_ROOT).as_posix()}"
+        for source in all_sources
+    }
+    results = retained_prior_records(prior, selected_keys, all_source_keys, targeted)
     pending = []
     for source in sources:
-        relative = source.relative_to(SOURCES).as_posix()
-        source_key = f"sources/{relative}"
+        relative = source.relative_to(PDF_ROOT).as_posix()
+        source_key = f"vault/Attachments/PDFs/{relative}"
         previous = prior.get(source_key)
-        expected_hash = metadata.get(relative, {}).get("sha256")
+        expected_hash = actual_hashes[source]
         if (
             not args.force
             and previous
@@ -349,7 +517,8 @@ def main() -> int:
             executor.submit(
                 convert_one,
                 source,
-                metadata.get(source.relative_to(SOURCES).as_posix(), {}),
+                metadata.get(source.relative_to(PDF_ROOT).as_posix(), {}),
+                actual_hashes[source],
                 args.ocr,
                 args.tessdata,
                 args.ocr_language,
@@ -369,7 +538,6 @@ def main() -> int:
 
     results.sort(key=lambda item: item["source_path"])
     MANIFEST.write_text(json.dumps(results, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    write_index(results)
     failures = [record for record in results if record["status"] == "error"]
     print(f"wrote {len(results)} records; errors: {len(failures)}", flush=True)
     return 1 if failures else 0

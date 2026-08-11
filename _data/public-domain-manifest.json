@@ -12,7 +12,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/documentosantigu00alva/documentosantigu00alva.pdf",
-    "local_path": "public-domain/documentosantigu00alva.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/documentosantigu00alva.pdf",
     "bytes": 2886657,
     "sha256": "93c830353b7d76cff543009ac22be0c4b3269fa63025181647d002e0ae4c38e0"
   },
@@ -29,7 +29,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/sansalvadorundh00beregoog/sansalvadorundh00beregoog.pdf",
-    "local_path": "public-domain/sansalvadorundh00beregoog.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/sansalvadorundh00beregoog.pdf",
     "bytes": 3612696,
     "sha256": "92a484fca4667a66adc405d69db33b1c6b638192f234944103aa5ac95d59c09c"
   },
@@ -46,7 +46,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador/Hartman%201901%20Etnografiska%20unders%C3%B6kningar%20%C3%B6fver%20aztekerna%20i%20Salvador.pdf",
-    "local_path": "public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf",
     "bytes": 1960683,
     "sha256": "a972c820de23f85eeb9b2cf2d2091b39b3ebcc67dac0946bd15bfe6d47f4f129"
   },
@@ -63,7 +63,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/BSG_DELTA700FA/BSG_DELTA700FA_.pdf",
-    "local_path": "public-domain/BSG_DELTA700FA.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/BSG_DELTA700FA.pdf",
     "bytes": 48183303,
     "sha256": "b75b8278f013d82d4c6f0c6264833866818483864914e02234bb54338617e5b8"
   },
@@ -80,7 +80,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/arqueologia-cuzcatleca-valle-de-san-salvador/Arqueolog%C3%ADa%20cuzcatleca%20valle%20de%20San%20Salvador%20-%20Jorge%20Lard%C3%A9%20y%20Lar%C3%ADn%201924.pdf",
-    "local_path": "public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf",
     "bytes": 695960,
     "sha256": "ba023a3cc2cc4848a22c8cd99ca11ce0234ab7063248cfe40c49a14e823963e0"
   },
@@ -97,7 +97,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/historiadeelsalv01barb/historiadeelsalv01barb.pdf",
-    "local_path": "public-domain/historiadeelsalv01barb.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/historiadeelsalv01barb.pdf",
     "bytes": 18198562,
     "sha256": "90d05032d6d349ea3b23f880322abda3a0eada3469e2580cb946b02a9222284b"
   },
@@ -114,7 +114,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/notesoncentralam00squi/notesoncentralam00squi.pdf",
-    "local_path": "public-domain/notesoncentralam00squi.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/notesoncentralam00squi.pdf",
     "bytes": 25927002,
     "sha256": "4814be427bf5fd419edb3743dec4a909ba38bf4711a6dc19d9c2440714cada96"
   },
@@ -131,7 +131,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/jstor-534659/534659.pdf",
-    "local_path": "public-domain/jstor-534659.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/jstor-534659.pdf",
     "bytes": 592229,
     "sha256": "68ed8e4d73ae2900224b8bec6e72fcd7708a01006eaf99c8aa9bb0ccd8af39a4"
   },
@@ -148,7 +148,7 @@
     "status": "downloaded",
     "error": "",
     "download_url": "https://archive.org/download/jstor-659933/659933.pdf",
-    "local_path": "public-domain/jstor-659933.pdf",
+    "local_path": "vault/Attachments/PDFs/public-domain/jstor-659933.pdf",
     "bytes": 754451,
     "sha256": "d6781927748ce32924b19e33fcf6e1c1b8c293c665ec2b984b0b6ab3071a635e"
   }

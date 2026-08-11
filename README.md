@@ -20,22 +20,25 @@ sources.
 
 ## Start here
 
-- [Interactive excavation atlas](app/) — a Next.js map of terrestrial and
-  maritime archaeological investigations with coordinates, narrative site
-  summaries, study-by-study timelines, and direct links to cited PDF pages
+- [Interactive excavation atlas](app/) — a Next.js map built directly from
+  vault-native Place documents, with coordinates, narrative descriptions,
+  research histories, and direct links to cited Paper or external source pages
+- Web wiki — automatically generated collection indexes, properties, documents,
+  links, and backlinks for every typed ontology folder in the vault
+- [Obsidian research vault](vault/Home.md) — linked Place, Period, Culture,
+  People, Paper, and Author records, page-addressable OCR text, and local PDF
+  attachments
 - [Field guide](FIELD-GUIDE.md) — curated orientation and high-value research
   leads
 - [Source-derived leads](SOURCE-DERIVED-LEADS.md) — sites, artifacts, historical
   problems, and traditions surfaced by the downloaded literature even when
   Wikipedia coverage is weak or absent
-- [Searchable PDF text](sources/markdown/INDEX.md) — page-addressable Markdown
+- [Searchable PDF text](vault/Views/Papers.base) — page-addressable Markdown
   for all 127 locally archived PDFs, using embedded text and targeted
   multilingual OCR
-- [Topic index](INDEX.md) — generated inventory of discovery records
-- [Sources](sources/INDEX.md) — downloaded and linked primary/strong secondary
+- [Sources](vault/Library.md) — downloaded and linked primary/strong secondary
   material
 - [Schema](SCHEMA.md) — record fields, evidence labels, and inclusion rules
-- [`topics/`](topics/) — one Markdown discovery record per subject
 
 ## Scope rule
 
@@ -63,16 +66,24 @@ Regional context without a concrete Salvadoran connection is excluded.
 
 ## Maintenance
 
-The downloadable PDF archive is not committed to Git. Every Markdown
-derivative records the original source URL, SHA-256 hash, and zero-based PDF
-page markers, while `_data/` retains the corpus manifests. This keeps the
+The downloadable PDF archive is not committed to Git. Every Paper record
+records the original source URL, SHA-256 hash, and one-based PDF page
+headings, while `_data/` retains the corpus manifests. This keeps the
 research provenance reproducible without making application deployments clone
 hundreds of megabytes of duplicate source files.
 
-The current searchable mirror covers all 6,306 PDF pages. Each derivative
+The searchable mirror covers all 6,306 PDF pages. Each Paper record
 records its source URL and hash, preserves PDF page boundaries, and labels each
 page as embedded text, OCR, or unrecognized. Treat the text as a discovery aid
 and check the PDF before exact quotation or interpreting tables and figures.
+
+Rebuild the Author and Paper properties after changing normalized ontology data
+or extraction metadata:
+
+```bash
+python3 tools/build_vault_ontology.py
+python3 tools/build_vault_ontology.py --check
+```
 
 Run the atlas locally with:
 

@@ -1,0 +1,18 @@
+filters:
+  and:
+    - 'type == "culture"'
+    - 'file.inFolder("Cultures")'
+properties:
+  name:
+    displayName: Culture or tradition
+  associated_peoples:
+    displayName: Associated peoples
+  aliases:
+    displayName: Aliases
+views:
+  - type: table
+    name: Cultures
+    order:
+      - name
+      - associated_peoples
+      - aliases

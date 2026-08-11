@@ -1,7 +1,7 @@
 [
   {
-    "source_path": "sources/fundar/2000Diagnostico.pdf",
-    "output_path": "sources/markdown/2000Diagnostico/2000Diagnostico.md",
+    "source_path": "vault/Attachments/PDFs/fundar/2000Diagnostico.pdf",
+    "output_path": "vault/Papers/2000Diagnostico.md",
     "source_sha256": "732f55ad13fa74fa7c920bfa7c3da3f6783271e70bc8c77bcb4980e5fa59e23c",
     "source_bytes": 4265696,
     "source_url": "https://fundar.org.sv/referencias/2000Diagnostico.pdf",
@@ -17,11 +17,11 @@
     "ocr_pages": 1,
     "empty_pages": 1,
     "warnings": [],
-    "source_link": "../../fundar/2000Diagnostico.pdf"
+    "source_link": "../Attachments/PDFs/fundar/2000Diagnostico.pdf"
   },
   {
-    "source_path": "sources/fundar/2012fundar.pdf",
-    "output_path": "sources/markdown/2012fundar/2012fundar.md",
+    "source_path": "vault/Attachments/PDFs/fundar/2012fundar.pdf",
+    "output_path": "vault/Papers/2012fundar.md",
     "source_sha256": "c3c0c1f8121c39cc1f1f1efda239e90d88046ab705f65948c6d122b336ed23b5",
     "source_bytes": 40351326,
     "source_url": "https://fundar.org.sv/referencias/2012fundar.pdf",
@@ -37,11 +37,11 @@
     "ocr_pages": 5,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/2012fundar.pdf"
+    "source_link": "../Attachments/PDFs/fundar/2012fundar.pdf"
   },
   {
-    "source_path": "sources/fundar/Gloria1975.pdf",
-    "output_path": "sources/markdown/Gloria1975/Gloria1975.md",
+    "source_path": "vault/Attachments/PDFs/fundar/Gloria1975.pdf",
+    "output_path": "vault/Papers/Gloria1975.md",
     "source_sha256": "bc32a3e940145dacfcd566a7d4da6475ca649bb10e97f99c73a464aed80dab7f",
     "source_bytes": 4527898,
     "source_url": "https://fundar.org.sv/referencias/Gloria1975.pdf",
@@ -63,11 +63,11 @@
       "page 14: Detected 35 diacritics",
       "page 16: Detected 38 diacritics"
     ],
-    "source_link": "../../fundar/Gloria1975.pdf"
+    "source_link": "../Attachments/PDFs/fundar/Gloria1975.pdf"
   },
   {
-    "source_path": "sources/fundar/P7.pdf",
-    "output_path": "sources/markdown/P7/P7.md",
+    "source_path": "vault/Attachments/PDFs/fundar/P7.pdf",
+    "output_path": "vault/Papers/P7.md",
     "source_sha256": "d1c302ecb46af162fd6e5c550db3d818a2863ff44e3d17400fd947f2788275dc",
     "source_bytes": 7735021,
     "source_url": "https://fundar.org.sv/referencias/P7.pdf",
@@ -83,11 +83,11 @@
     "ocr_pages": 3,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/P7.pdf"
+    "source_link": "../Attachments/PDFs/fundar/P7.pdf"
   },
   {
-    "source_path": "sources/fundar/Palacio 2004.pdf",
-    "output_path": "sources/markdown/Palacio 2004/Palacio 2004.md",
+    "source_path": "vault/Attachments/PDFs/fundar/Palacio 2004.pdf",
+    "output_path": "vault/Papers/Palacio 2004.md",
     "source_sha256": "b397810d4ec56645dd27988b225591c2d391edf1bc7653ad9a30e1b082560073",
     "source_bytes": 881165,
     "source_url": "https://fundar.org.sv/referencias/Palacio%202004.pdf",
@@ -95,7 +95,8 @@
     "creator": "Bruhns, Karen Olsen, Paul E. Amaroli y Vladimir Avila",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 1,
@@ -103,11 +104,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/Palacio 2004.pdf"
+    "source_link": "../Attachments/PDFs/fundar/Palacio 2004.pdf"
   },
   {
-    "source_path": "sources/fundar/acropolis1.pdf",
-    "output_path": "sources/markdown/acropolis1/acropolis1.md",
+    "source_path": "vault/Attachments/PDFs/fundar/acropolis1.pdf",
+    "output_path": "vault/Papers/acropolis1.md",
     "source_sha256": "b16aaae592a69e8e91bdc221e7fb37057ac030615cd53885c6864356a5e1c586",
     "source_bytes": 5875965,
     "source_url": "https://fundar.org.sv/referencias/acropolis1.pdf",
@@ -123,11 +124,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/acropolis1.pdf"
+    "source_link": "../Attachments/PDFs/fundar/acropolis1.pdf"
   },
   {
-    "source_path": "sources/fundar/acropolis2.pdf",
-    "output_path": "sources/markdown/acropolis2/acropolis2.md",
+    "source_path": "vault/Attachments/PDFs/fundar/acropolis2.pdf",
+    "output_path": "vault/Papers/acropolis2.md",
     "source_sha256": "4a33f11448e20b9bc287bcfcc2a4c89517564d08d7b39a78d512d726be585a8b",
     "source_bytes": 4382236,
     "source_url": "https://fundar.org.sv/referencias/acropolis2.pdf",
@@ -143,11 +144,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/acropolis2.pdf"
+    "source_link": "../Attachments/PDFs/fundar/acropolis2.pdf"
   },
   {
-    "source_path": "sources/fundar/amaroli_elcajete.pdf",
-    "output_path": "sources/markdown/amaroli_elcajete/amaroli_elcajete.md",
+    "source_path": "vault/Attachments/PDFs/fundar/amaroli_elcajete.pdf",
+    "output_path": "vault/Papers/amaroli_elcajete.md",
     "source_sha256": "ca3ca54a522f67cbb9b11fefd79ae057d78a25cabffa789e7ac1a2df18b82617",
     "source_bytes": 2720534,
     "source_url": "https://fundar.org.sv/referencias/amaroli_elcajete.pdf",
@@ -163,11 +164,11 @@
     "ocr_pages": 11,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/amaroli_elcajete.pdf"
+    "source_link": "../Attachments/PDFs/fundar/amaroli_elcajete.pdf"
   },
   {
-    "source_path": "sources/fundar/anil_guevara.pdf",
-    "output_path": "sources/markdown/anil_guevara/anil_guevara.md",
+    "source_path": "vault/Attachments/PDFs/fundar/anil_guevara.pdf",
+    "output_path": "vault/Papers/anil_guevara.md",
     "source_sha256": "40ff27a24d3829e1b7d7e48da5671b8c453a5f3d631d2c5183ba761bbcf34cf8",
     "source_bytes": 7334216,
     "source_url": "https://fundar.org.sv/referencias/anil_guevara.pdf",
@@ -183,11 +184,11 @@
     "ocr_pages": 4,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/anil_guevara.pdf"
+    "source_link": "../Attachments/PDFs/fundar/anil_guevara.pdf"
   },
   {
-    "source_path": "sources/fundar/anil_mozino.pdf",
-    "output_path": "sources/markdown/anil_mozino/anil_mozino.md",
+    "source_path": "vault/Attachments/PDFs/fundar/anil_mozino.pdf",
+    "output_path": "vault/Papers/anil_mozino.md",
     "source_sha256": "2f8b4f357032fbedc70d9d030410767f61feb62b5537328cf87d314423231efc",
     "source_bytes": 3077951,
     "source_url": "https://fundar.org.sv/referencias/anil_mozino.pdf",
@@ -206,11 +207,11 @@
       "page 31: Detected 165 diacritics",
       "page 39: Error in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box"
     ],
-    "source_link": "../../fundar/anil_mozino.pdf"
+    "source_link": "../Attachments/PDFs/fundar/anil_mozino.pdf"
   },
   {
-    "source_path": "sources/fundar/antiguo_preclasico.pdf",
-    "output_path": "sources/markdown/antiguo_preclasico/antiguo_preclasico.md",
+    "source_path": "vault/Attachments/PDFs/fundar/antiguo_preclasico.pdf",
+    "output_path": "vault/Papers/antiguo_preclasico.md",
     "source_sha256": "c72db16f8492eba5088295e30373a939049b4ebe1f6014ca2460872b1bb13089",
     "source_bytes": 7964401,
     "source_url": "https://fundar.org.sv/referencias/antiguo_preclasico.pdf",
@@ -226,11 +227,11 @@
     "ocr_pages": 14,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/antiguo_preclasico.pdf"
+    "source_link": "../Attachments/PDFs/fundar/antiguo_preclasico.pdf"
   },
   {
-    "source_path": "sources/fundar/asuncion_ahuachapan.pdf",
-    "output_path": "sources/markdown/asuncion_ahuachapan/asuncion_ahuachapan.md",
+    "source_path": "vault/Attachments/PDFs/fundar/asuncion_ahuachapan.pdf",
+    "output_path": "vault/Papers/asuncion_ahuachapan.md",
     "source_sha256": "21bd0e49a42d414343f382b84e2e2e67205a9a6543122ba14476e08b6e04b10a",
     "source_bytes": 2806442,
     "source_url": "https://fundar.org.sv/referencias/asuncion_ahuachapan.pdf",
@@ -246,11 +247,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/asuncion_ahuachapan.pdf"
+    "source_link": "../Attachments/PDFs/fundar/asuncion_ahuachapan.pdf"
   },
   {
-    "source_path": "sources/fundar/asuncion_izalco.pdf",
-    "output_path": "sources/markdown/asuncion_izalco/asuncion_izalco.md",
+    "source_path": "vault/Attachments/PDFs/fundar/asuncion_izalco.pdf",
+    "output_path": "vault/Papers/asuncion_izalco.md",
     "source_sha256": "f23a0e9935f4e1c0137c5fde7e87e083228673e4678e7e6ec9299b188d36ed35",
     "source_bytes": 6698595,
     "source_url": "https://fundar.org.sv/referencias/asuncion_izalco.pdf",
@@ -268,11 +269,11 @@
     "warnings": [
       "page 71: Error in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box"
     ],
-    "source_link": "../../fundar/asuncion_izalco.pdf"
+    "source_link": "../Attachments/PDFs/fundar/asuncion_izalco.pdf"
   },
   {
-    "source_path": "sources/fundar/beaudry_asanyamba.pdf",
-    "output_path": "sources/markdown/beaudry_asanyamba/beaudry_asanyamba.md",
+    "source_path": "vault/Attachments/PDFs/fundar/beaudry_asanyamba.pdf",
+    "output_path": "vault/Papers/beaudry_asanyamba.md",
     "source_sha256": "d6b4235408cbdbcbd8afb80abfac7aad539a77ab273659b0e02287da696dd070",
     "source_bytes": 2384339,
     "source_url": "https://fundar.org.sv/referencias/beaudry_asanyamba.pdf",
@@ -288,11 +289,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/beaudry_asanyamba.pdf"
+    "source_link": "../Attachments/PDFs/fundar/beaudry_asanyamba.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_baratta.pdf",
-    "output_path": "sources/markdown/boggs_baratta/boggs_baratta.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_baratta.pdf",
+    "output_path": "vault/Papers/boggs_baratta.md",
     "source_sha256": "6afeec4b1edb33df8ab24cedada1351537217e98fb49171f81a3ba6e3d6c9fe6",
     "source_bytes": 5157059,
     "source_url": "https://fundar.org.sv/referencias/boggs_baratta.pdf",
@@ -308,11 +309,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/boggs_baratta.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_baratta.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_cayuco.pdf",
-    "output_path": "sources/markdown/boggs_cayuco/boggs_cayuco.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_cayuco.pdf",
+    "output_path": "vault/Papers/boggs_cayuco.md",
     "source_sha256": "17d3f19a68b1d47432226c96bb57b9d16d12d7bd63cbb041e43b983f18de2425",
     "source_bytes": 914587,
     "source_url": "https://fundar.org.sv/referencias/boggs_cayuco.pdf",
@@ -330,11 +331,11 @@
     "warnings": [
       "page 5: Empty page!!\nEmpty page!!"
     ],
-    "source_link": "../../fundar/boggs_cayuco.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_cayuco.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_club.pdf",
-    "output_path": "sources/markdown/boggs_club/boggs_club.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_club.pdf",
+    "output_path": "vault/Papers/boggs_club.md",
     "source_sha256": "45185067c78f80f7e0474c44f3379f380350c381f752e01e8807cc8c8df6f694",
     "source_bytes": 3488754,
     "source_url": "https://fundar.org.sv/referencias/boggs_club.pdf",
@@ -353,11 +354,11 @@
       "page 8: Detected 74 diacritics",
       "page 10: Detected 471 diacritics"
     ],
-    "source_link": "../../fundar/boggs_club.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_club.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_figurillas.pdf",
-    "output_path": "sources/markdown/boggs_figurillas/boggs_figurillas.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_figurillas.pdf",
+    "output_path": "vault/Papers/boggs_figurillas.md",
     "source_sha256": "528b676d514bede1cd60c0f2e69e659efda9740ea5a627f65c858927d7fb8e7f",
     "source_bytes": 4759552,
     "source_url": "https://fundar.org.sv/referencias/boggs_figurillas.pdf",
@@ -373,11 +374,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/boggs_figurillas.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_figurillas.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_hornos.pdf",
-    "output_path": "sources/markdown/boggs_hornos/boggs_hornos.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_hornos.pdf",
+    "output_path": "vault/Papers/boggs_hornos.md",
     "source_sha256": "4d944561ac32c3582d0d0f845295e2e7fbf0b1ec22b5f4d236c75a483caccde7",
     "source_bytes": 1460109,
     "source_url": "https://fundar.org.sv/referencias/boggs_hornos.pdf",
@@ -385,7 +386,8 @@
     "creator": "Boggs, Stanley H.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 7,
@@ -393,11 +395,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/boggs_hornos.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_hornos.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_instrumentos.pdf",
-    "output_path": "sources/markdown/boggs_instrumentos/boggs_instrumentos.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_instrumentos.pdf",
+    "output_path": "vault/Papers/boggs_instrumentos.md",
     "source_sha256": "d547cb527691d661ae47f3e23e5e403d701f0deb78589ab9dfbff452cd455a38",
     "source_bytes": 19619959,
     "source_url": "https://fundar.org.sv/referencias/boggs_instrumentos.pdf",
@@ -415,11 +417,11 @@
     "warnings": [
       "page 58: Error in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box"
     ],
-    "source_link": "../../fundar/boggs_instrumentos.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_instrumentos.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_vestimentas.pdf",
-    "output_path": "sources/markdown/boggs_vestimentas/boggs_vestimentas.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_vestimentas.pdf",
+    "output_path": "vault/Papers/boggs_vestimentas.md",
     "source_sha256": "df0330bb1f6e631bbe54b675948991e2715af7fc618fbf0ab6caaffc90156637",
     "source_bytes": 6623846,
     "source_url": "https://fundar.org.sv/referencias/boggs_vestimentas.pdf",
@@ -435,11 +437,11 @@
     "ocr_pages": 1,
     "empty_pages": 1,
     "warnings": [],
-    "source_link": "../../fundar/boggs_vestimentas.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_vestimentas.pdf"
   },
   {
-    "source_path": "sources/fundar/boggs_xipes.pdf",
-    "output_path": "sources/markdown/boggs_xipes/boggs_xipes.md",
+    "source_path": "vault/Attachments/PDFs/fundar/boggs_xipes.pdf",
+    "output_path": "vault/Papers/boggs_xipes.md",
     "source_sha256": "7507a87f9de83faf6b63c990145afccf2ed7ccff9c7c4c02d14b0b54f5c3117c",
     "source_bytes": 4921301,
     "source_url": "https://fundar.org.sv/referencias/boggs_xipes.pdf",
@@ -455,11 +457,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/boggs_xipes.pdf"
+    "source_link": "../Attachments/PDFs/fundar/boggs_xipes.pdf"
   },
   {
-    "source_path": "sources/fundar/borhegyi_esquipulas_1953a.pdf",
-    "output_path": "sources/markdown/borhegyi_esquipulas_1953a/borhegyi_esquipulas_1953a.md",
+    "source_path": "vault/Attachments/PDFs/fundar/borhegyi_esquipulas_1953a.pdf",
+    "output_path": "vault/Papers/borhegyi_esquipulas_1953a.md",
     "source_sha256": "e08034a847af21434fe77a2b09752381f51fefd53e710b75bbb4d507c0a07218",
     "source_bytes": 13529841,
     "source_url": "https://fundar.org.sv/referencias/borhegyi_esquipulas_1953a.pdf",
@@ -477,11 +479,11 @@
     "warnings": [
       "page 13: Detected 68 diacritics"
     ],
-    "source_link": "../../fundar/borhegyi_esquipulas_1953a.pdf"
+    "source_link": "../Attachments/PDFs/fundar/borhegyi_esquipulas_1953a.pdf"
   },
   {
-    "source_path": "sources/fundar/borhegyi_esquipulas_1953b.pdf",
-    "output_path": "sources/markdown/borhegyi_esquipulas_1953b/borhegyi_esquipulas_1953b.md",
+    "source_path": "vault/Attachments/PDFs/fundar/borhegyi_esquipulas_1953b.pdf",
+    "output_path": "vault/Papers/borhegyi_esquipulas_1953b.md",
     "source_sha256": "3d4359431869941ffadc70e83ef6dd663e033bfdd6f94847bbc4d5b0b1315613",
     "source_bytes": 13947230,
     "source_url": "https://fundar.org.sv/referencias/borhegyi_esquipulas_1953b.pdf",
@@ -497,11 +499,11 @@
     "ocr_pages": 3,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/borhegyi_esquipulas_1953b.pdf"
+    "source_link": "../Attachments/PDFs/fundar/borhegyi_esquipulas_1953b.pdf"
   },
   {
-    "source_path": "sources/fundar/borhegyi_esquipulas_1954.pdf",
-    "output_path": "sources/markdown/borhegyi_esquipulas_1954/borhegyi_esquipulas_1954.md",
+    "source_path": "vault/Attachments/PDFs/fundar/borhegyi_esquipulas_1954.pdf",
+    "output_path": "vault/Papers/borhegyi_esquipulas_1954.md",
     "source_sha256": "047e6fceac86b46192e7fa3731f03853758cf0ee93ac2c5d0739cfab66b961ea",
     "source_bytes": 12871562,
     "source_url": "https://fundar.org.sv/referencias/borhegyi_esquipulas_1954.pdf",
@@ -517,11 +519,11 @@
     "ocr_pages": 2,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/borhegyi_esquipulas_1954.pdf"
+    "source_link": "../Attachments/PDFs/fundar/borhegyi_esquipulas_1954.pdf"
   },
   {
-    "source_path": "sources/fundar/botanical_final.pdf",
-    "output_path": "sources/markdown/botanical_final/botanical_final.md",
+    "source_path": "vault/Attachments/PDFs/fundar/botanical_final.pdf",
+    "output_path": "vault/Papers/botanical_final.md",
     "source_sha256": "6356c5223f4f843c44e6a6a6e205e1d709fb3ac637e9a39ef7c6eb6f1934d0b6",
     "source_bytes": 1685476,
     "source_url": "https://fundar.org.sv/referencias/botanical_final.pdf",
@@ -537,11 +539,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/botanical_final.pdf"
+    "source_link": "../Attachments/PDFs/fundar/botanical_final.pdf"
   },
   {
-    "source_path": "sources/fundar/botanical_prelim.pdf",
-    "output_path": "sources/markdown/botanical_prelim/botanical_prelim.md",
+    "source_path": "vault/Attachments/PDFs/fundar/botanical_prelim.pdf",
+    "output_path": "vault/Papers/botanical_prelim.md",
     "source_sha256": "ece86d47fc992cfb6f84201a7e3ca27b020ccbb9abeae114b610d81bbf255d34",
     "source_bytes": 504632,
     "source_url": "https://fundar.org.sv/referencias/botanical_prelim.pdf",
@@ -557,11 +559,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/botanical_prelim.pdf"
+    "source_link": "../Attachments/PDFs/fundar/botanical_prelim.pdf"
   },
   {
-    "source_path": "sources/fundar/bruhns.pdf",
-    "output_path": "sources/markdown/bruhns/bruhns.md",
+    "source_path": "vault/Attachments/PDFs/fundar/bruhns.pdf",
+    "output_path": "vault/Papers/bruhns.md",
     "source_sha256": "7a7095238e62c671315f58ebc7994aac25ef8aff1e2f22f363f0515f2846f033",
     "source_bytes": 12462553,
     "source_url": "https://fundar.org.sv/referencias/bruhns.pdf",
@@ -581,11 +583,11 @@
       "page 153: Empty page!!\nEmpty page!!",
       "page 177: Empty page!!\nEmpty page!!"
     ],
-    "source_link": "../../fundar/bruhns.pdf"
+    "source_link": "../Attachments/PDFs/fundar/bruhns.pdf"
   },
   {
-    "source_path": "sources/fundar/bruhns1976_mapa.pdf",
-    "output_path": "sources/markdown/bruhns1976_mapa/bruhns1976_mapa.md",
+    "source_path": "vault/Attachments/PDFs/fundar/bruhns1976_mapa.pdf",
+    "output_path": "vault/Papers/bruhns1976_mapa.md",
     "source_sha256": "58acb0964a891dbe02705a3c0ca0357d47bd88c4f06b133f191984ddf26639ce",
     "source_bytes": 320329,
     "source_url": "https://fundar.org.sv/referencias/bruhns1976_mapa.pdf",
@@ -601,11 +603,11 @@
     "ocr_pages": 0,
     "empty_pages": 1,
     "warnings": [],
-    "source_link": "../../fundar/bruhns1976_mapa.pdf"
+    "source_link": "../Attachments/PDFs/fundar/bruhns1976_mapa.pdf"
   },
   {
-    "source_path": "sources/fundar/bruhns1976_texto.pdf",
-    "output_path": "sources/markdown/bruhns1976_texto/bruhns1976_texto.md",
+    "source_path": "vault/Attachments/PDFs/fundar/bruhns1976_texto.pdf",
+    "output_path": "vault/Papers/bruhns1976_texto.md",
     "source_sha256": "8193b20c5d820c7cbe320114dfde99f63ac351ec71038d208e14e53cb0322b48",
     "source_bytes": 4055334,
     "source_url": "https://fundar.org.sv/referencias/bruhns1976_texto.pdf",
@@ -613,7 +615,8 @@
     "creator": "Bruhns, Karen Olsen",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 9,
@@ -621,11 +624,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/bruhns1976_texto.pdf"
+    "source_link": "../Attachments/PDFs/fundar/bruhns1976_texto.pdf"
   },
   {
-    "source_path": "sources/fundar/bruhns_1982.pdf",
-    "output_path": "sources/markdown/bruhns_1982/bruhns_1982.md",
+    "source_path": "vault/Attachments/PDFs/fundar/bruhns_1982.pdf",
+    "output_path": "vault/Papers/bruhns_1982.md",
     "source_sha256": "2b2d7e4a4f12303e25dcdbb93664885139c7bc39eecc6a1a4129bce37efaad10",
     "source_bytes": 3329677,
     "source_url": "https://fundar.org.sv/referencias/bruhns_1982.pdf",
@@ -641,11 +644,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/bruhns_1982.pdf"
+    "source_link": "../Attachments/PDFs/fundar/bruhns_1982.pdf"
   },
   {
-    "source_path": "sources/fundar/buscacuscatlan.pdf",
-    "output_path": "sources/markdown/buscacuscatlan/buscacuscatlan.md",
+    "source_path": "vault/Attachments/PDFs/fundar/buscacuscatlan.pdf",
+    "output_path": "vault/Papers/buscacuscatlan.md",
     "source_sha256": "7c0766126467fb11feb8f122b5d43dd38c2a1a7f6a0b57dd7dcab08cea73752e",
     "source_bytes": 39517010,
     "source_url": "https://fundar.org.sv/referencias/buscacuscatlan.pdf",
@@ -675,11 +678,11 @@
       "page 169: Detected 98 diacritics\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!",
       "page 182: Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
     ],
-    "source_link": "../../fundar/buscacuscatlan.pdf"
+    "source_link": "../Attachments/PDFs/fundar/buscacuscatlan.pdf"
   },
   {
-    "source_path": "sources/fundar/caches..pdf",
-    "output_path": "sources/markdown/caches./caches..md",
+    "source_path": "vault/Attachments/PDFs/fundar/caches..pdf",
+    "output_path": "vault/Papers/caches..md",
     "source_sha256": "12e10c959475e5e2db0fbd63ae1da9a32f8f43ee841cd762d8349e169d86068d",
     "source_bytes": 4841444,
     "source_url": "https://fundar.org.sv/referencias/caches..pdf",
@@ -695,11 +698,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/caches..pdf"
+    "source_link": "../Attachments/PDFs/fundar/caches..pdf"
   },
   {
-    "source_path": "sources/fundar/carmen.pdf",
-    "output_path": "sources/markdown/carmen/carmen.md",
+    "source_path": "vault/Attachments/PDFs/fundar/carmen.pdf",
+    "output_path": "vault/Papers/carmen.md",
     "source_sha256": "e7bcdd23c4411afadb29cf80b788cc25de52d8a17d46fbbb8dc911ae8d419bbc",
     "source_bytes": 1790844,
     "source_url": "https://fundar.org.sv/referencias/carmen.pdf",
@@ -715,11 +718,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/carmen.pdf"
+    "source_link": "../Attachments/PDFs/fundar/carmen.pdf"
   },
   {
-    "source_path": "sources/fundar/carranza1.pdf",
-    "output_path": "sources/markdown/carranza1/carranza1.md",
+    "source_path": "vault/Attachments/PDFs/fundar/carranza1.pdf",
+    "output_path": "vault/Papers/carranza1.md",
     "source_sha256": "4d23004341e6a13d98b9a77588052acfb61889a643b9cca01f13e20535b696f6",
     "source_bytes": 1816902,
     "source_url": "https://fundar.org.sv/referencias/carranza1.pdf",
@@ -735,11 +738,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/carranza1.pdf"
+    "source_link": "../Attachments/PDFs/fundar/carranza1.pdf"
   },
   {
-    "source_path": "sources/fundar/carranza2.pdf",
-    "output_path": "sources/markdown/carranza2/carranza2.md",
+    "source_path": "vault/Attachments/PDFs/fundar/carranza2.pdf",
+    "output_path": "vault/Papers/carranza2.md",
     "source_sha256": "ab5fb76e7ffb3c4e0050bc759d1285dc7c806e433ee1605ff19b7e3547eba748",
     "source_bytes": 2341731,
     "source_url": "https://fundar.org.sv/referencias/carranza2.pdf",
@@ -755,11 +758,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/carranza2.pdf"
+    "source_link": "../Attachments/PDFs/fundar/carranza2.pdf"
   },
   {
-    "source_path": "sources/fundar/casasola_panorama.pdf",
-    "output_path": "sources/markdown/casasola_panorama/casasola_panorama.md",
+    "source_path": "vault/Attachments/PDFs/fundar/casasola_panorama.pdf",
+    "output_path": "vault/Papers/casasola_panorama.md",
     "source_sha256": "134438499a5c250c136d4f29815998c2b834c43b3cee426b54439a0e0d6ad2c6",
     "source_bytes": 685226,
     "source_url": "https://fundar.org.sv/referencias/casasola_panorama.pdf",
@@ -767,7 +770,8 @@
     "creator": "Casasola, Luis",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 8,
@@ -775,11 +779,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/casasola_panorama.pdf"
+    "source_link": "../Attachments/PDFs/fundar/casasola_panorama.pdf"
   },
   {
-    "source_path": "sources/fundar/chontales_nicaragua.pdf",
-    "output_path": "sources/markdown/chontales_nicaragua/chontales_nicaragua.md",
+    "source_path": "vault/Attachments/PDFs/fundar/chontales_nicaragua.pdf",
+    "output_path": "vault/Papers/chontales_nicaragua.md",
     "source_sha256": "790bf66f953761ae1130715e102134f0f3e47497f6ebb076e334e634495d64be",
     "source_bytes": 30328931,
     "source_url": "https://fundar.org.sv/referencias/chontales_nicaragua.pdf",
@@ -801,11 +805,11 @@
       "page 96: Error in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box",
       "page 108: Error in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box"
     ],
-    "source_link": "../../fundar/chontales_nicaragua.pdf"
+    "source_link": "../Attachments/PDFs/fundar/chontales_nicaragua.pdf"
   },
   {
-    "source_path": "sources/fundar/coe_trapiche.pdf",
-    "output_path": "sources/markdown/coe_trapiche/coe_trapiche.md",
+    "source_path": "vault/Attachments/PDFs/fundar/coe_trapiche.pdf",
+    "output_path": "vault/Papers/coe_trapiche.md",
     "source_sha256": "f1dba2b58b2e8afc7503b1d41dd187768fb961b6bd2bce3f328347a12cbe06d7",
     "source_bytes": 774000,
     "source_url": "https://fundar.org.sv/referencias/coe_trapiche.pdf",
@@ -821,11 +825,11 @@
     "ocr_pages": 2,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/coe_trapiche.pdf"
+    "source_link": "../Attachments/PDFs/fundar/coe_trapiche.pdf"
   },
   {
-    "source_path": "sources/fundar/crucible.pdf",
-    "output_path": "sources/markdown/crucible/crucible.md",
+    "source_path": "vault/Attachments/PDFs/fundar/crucible.pdf",
+    "output_path": "vault/Papers/crucible.md",
     "source_sha256": "f22d7790ea3042c2da8f4a53252687ab37fb96c954331b6f878f2c11b87c9f84",
     "source_bytes": 4778355,
     "source_url": "https://fundar.org.sv/referencias/crucible.pdf",
@@ -833,7 +837,8 @@
     "creator": "Bruhns, Karen Olsen",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 7,
@@ -841,11 +846,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/crucible.pdf"
+    "source_link": "../Attachments/PDFs/fundar/crucible.pdf"
   },
   {
-    "source_path": "sources/fundar/cylinder.pdf",
-    "output_path": "sources/markdown/cylinder/cylinder.md",
+    "source_path": "vault/Attachments/PDFs/fundar/cylinder.pdf",
+    "output_path": "vault/Papers/cylinder.md",
     "source_sha256": "e1c6789a0acfdfd162d63f5379a40acc760555ad52087f8175718bbe8e9361df",
     "source_bytes": 937157,
     "source_url": "https://fundar.org.sv/referencias/cylinder.pdf",
@@ -853,7 +858,8 @@
     "creator": "Bruhns, Karen Olsen",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 1,
@@ -861,11 +867,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/cylinder.pdf"
+    "source_link": "../Attachments/PDFs/fundar/cylinder.pdf"
   },
   {
-    "source_path": "sources/fundar/dallyn_et_al_oxford.pdf",
-    "output_path": "sources/markdown/dallyn_et_al_oxford/dallyn_et_al_oxford.md",
+    "source_path": "vault/Attachments/PDFs/fundar/dallyn_et_al_oxford.pdf",
+    "output_path": "vault/Papers/dallyn_et_al_oxford.md",
     "source_sha256": "acbdeaba3f29d51fd30542f273ba06dffdc395b0145b6f51918a0a09f8faab30",
     "source_bytes": 1884397,
     "source_url": "https://fundar.org.sv/referencias/dallyn_et_al_oxford.pdf",
@@ -881,11 +887,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/dallyn_et_al_oxford.pdf"
+    "source_link": "../Attachments/PDFs/fundar/dallyn_et_al_oxford.pdf"
   },
   {
-    "source_path": "sources/fundar/decomiso2008.pdf",
-    "output_path": "sources/markdown/decomiso2008/decomiso2008.md",
+    "source_path": "vault/Attachments/PDFs/fundar/decomiso2008.pdf",
+    "output_path": "vault/Papers/decomiso2008.md",
     "source_sha256": "c4464d2aca048a03f57c0caa1bd0ebf410ef71e769e9a3fea57ade0ea760a7ec",
     "source_bytes": 1879064,
     "source_url": "https://fundar.org.sv/referencias/decomiso2008.pdf",
@@ -901,11 +907,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/decomiso2008.pdf"
+    "source_link": "../Attachments/PDFs/fundar/decomiso2008.pdf"
   },
   {
-    "source_path": "sources/fundar/dimick_1941.pdf",
-    "output_path": "sources/markdown/dimick_1941/dimick_1941.md",
+    "source_path": "vault/Attachments/PDFs/fundar/dimick_1941.pdf",
+    "output_path": "vault/Papers/dimick_1941.md",
     "source_sha256": "2dd6fc7b6ce0dc332b1ca5ea72094f68953cb417eefcf01cc6665c3fee1d51f7",
     "source_bytes": 867581,
     "source_url": "https://fundar.org.sv/referencias/dimick_1941.pdf",
@@ -923,11 +929,11 @@
     "warnings": [
       "page 2: Detected 51 diacritics"
     ],
-    "source_link": "../../fundar/dimick_1941.pdf"
+    "source_link": "../Attachments/PDFs/fundar/dimick_1941.pdf"
   },
   {
-    "source_path": "sources/fundar/drowned.pdf",
-    "output_path": "sources/markdown/drowned/drowned.md",
+    "source_path": "vault/Attachments/PDFs/fundar/drowned.pdf",
+    "output_path": "vault/Papers/drowned.md",
     "source_sha256": "4ee7b94ba0b06466f05bdd1d9d1a881493ef1fe4410ed2476fa0d7b6af723871",
     "source_bytes": 3841202,
     "source_url": "https://fundar.org.sv/referencias/drowned.pdf",
@@ -943,11 +949,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/drowned.pdf"
+    "source_link": "../Attachments/PDFs/fundar/drowned.pdf"
   },
   {
-    "source_path": "sources/fundar/dull_et_al_2010_AGU.pdf",
-    "output_path": "sources/markdown/dull_et_al_2010_AGU/dull_et_al_2010_AGU.md",
+    "source_path": "vault/Attachments/PDFs/fundar/dull_et_al_2010_AGU.pdf",
+    "output_path": "vault/Papers/dull_et_al_2010_AGU.md",
     "source_sha256": "7e3cfc8587d8f3162b0cb7607b16e609674b00a8e0495fe6e80c3f11df603268",
     "source_bytes": 2504911,
     "source_url": "https://fundar.org.sv/referencias/dull_et_al_2010_AGU.pdf",
@@ -955,7 +961,8 @@
     "creator": "Dull, Robert, John Southon, Steffen Kutterolf, Armin Freundt, David Wahl, Payson Sheets",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 1,
@@ -963,11 +970,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/dull_et_al_2010_AGU.pdf"
+    "source_link": "../Attachments/PDFs/fundar/dull_et_al_2010_AGU.pdf"
   },
   {
-    "source_path": "sources/fundar/earl.pdf",
-    "output_path": "sources/markdown/earl/earl.md",
+    "source_path": "vault/Attachments/PDFs/fundar/earl.pdf",
+    "output_path": "vault/Papers/earl.md",
     "source_sha256": "65a21aa05c3fc33ec5f1402c1fd417a140ce238c81cc83e6cfdaf27a4499bb59",
     "source_bytes": 9678067,
     "source_url": "https://fundar.org.sv/referencias/earl.pdf",
@@ -975,7 +982,8 @@
     "creator": "Lubensky, Earl H.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 64,
@@ -983,11 +991,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/earl.pdf"
+    "source_link": "../Attachments/PDFs/fundar/earl.pdf"
   },
   {
-    "source_path": "sources/fundar/earliest_pipil.pdf",
-    "output_path": "sources/markdown/earliest_pipil/earliest_pipil.md",
+    "source_path": "vault/Attachments/PDFs/fundar/earliest_pipil.pdf",
+    "output_path": "vault/Papers/earliest_pipil.md",
     "source_sha256": "f026a98c50f4f37c999e34c6653bbf1185f2e993d92ed768948b54202b5b8b68",
     "source_bytes": 3710615,
     "source_url": "https://fundar.org.sv/referencias/earliest_pipil.pdf",
@@ -1005,11 +1013,11 @@
     "warnings": [
       "page 51: Detected 36 diacritics"
     ],
-    "source_link": "../../fundar/earliest_pipil.pdf"
+    "source_link": "../Attachments/PDFs/fundar/earliest_pipil.pdf"
   },
   {
-    "source_path": "sources/fundar/figs.pdf",
-    "output_path": "sources/markdown/figs/figs.md",
+    "source_path": "vault/Attachments/PDFs/fundar/figs.pdf",
+    "output_path": "vault/Papers/figs.md",
     "source_sha256": "a1fe92070bf72539c8ce39babfb0a477760dd8b880d144a6c494d7b10411c693",
     "source_bytes": 4289929,
     "source_url": "https://fundar.org.sv/referencias/figs.pdf",
@@ -1017,7 +1025,8 @@
     "creator": "Bruhns, Karen Olsen y Paul Amaroli",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 7,
@@ -1025,11 +1034,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/figs.pdf"
+    "source_link": "../Attachments/PDFs/fundar/figs.pdf"
   },
   {
-    "source_path": "sources/fundar/foropatrimonio_fundar.pdf",
-    "output_path": "sources/markdown/foropatrimonio_fundar/foropatrimonio_fundar.md",
+    "source_path": "vault/Attachments/PDFs/fundar/foropatrimonio_fundar.pdf",
+    "output_path": "vault/Papers/foropatrimonio_fundar.md",
     "source_sha256": "1490969d053bd6b718aed7913c996299ed9c6741bf9e6edf99b68041b81fdd6e",
     "source_bytes": 2873055,
     "source_url": "https://fundar.org.sv/referencias/foropatrimonio_fundar.pdf",
@@ -1045,11 +1054,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/foropatrimonio_fundar.pdf"
+    "source_link": "../Attachments/PDFs/fundar/foropatrimonio_fundar.pdf"
   },
   {
-    "source_path": "sources/fundar/frontier.pdf",
-    "output_path": "sources/markdown/frontier/frontier.md",
+    "source_path": "vault/Attachments/PDFs/fundar/frontier.pdf",
+    "output_path": "vault/Papers/frontier.md",
     "source_sha256": "2f94894a29b2e851265c1a8d58e1de1e09ccfc8a0d53af7b03b68b69a9134066",
     "source_bytes": 8270804,
     "source_url": "https://fundar.org.sv/referencias/frontier.pdf",
@@ -1057,7 +1066,8 @@
     "creator": "Bruhns, Karen Olsen",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 12,
@@ -1065,11 +1075,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/frontier.pdf"
+    "source_link": "../Attachments/PDFs/fundar/frontier.pdf"
   },
   {
-    "source_path": "sources/fundar/guijaplaque.pdf",
-    "output_path": "sources/markdown/guijaplaque/guijaplaque.md",
+    "source_path": "vault/Attachments/PDFs/fundar/guijaplaque.pdf",
+    "output_path": "vault/Papers/guijaplaque.md",
     "source_sha256": "35296b984ba97f65b5c04a5b88e8a551b84908fd94ad80d87af846385812d6ef",
     "source_bytes": 1843794,
     "source_url": "https://fundar.org.sv/referencias/guijaplaque.pdf",
@@ -1085,11 +1095,11 @@
     "ocr_pages": 16,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/guijaplaque.pdf"
+    "source_link": "../Attachments/PDFs/fundar/guijaplaque.pdf"
   },
   {
-    "source_path": "sources/fundar/haberland_corinto.pdf",
-    "output_path": "sources/markdown/haberland_corinto/haberland_corinto.md",
+    "source_path": "vault/Attachments/PDFs/fundar/haberland_corinto.pdf",
+    "output_path": "vault/Papers/haberland_corinto.md",
     "source_sha256": "6d154898a61c96b20d9f531744347c40c886f5b23d9bfcb249c595eb1eae192d",
     "source_bytes": 1213728,
     "source_url": "https://fundar.org.sv/referencias/haberland_corinto.pdf",
@@ -1107,11 +1117,11 @@
     "warnings": [
       "page 10: Detected 25 diacritics"
     ],
-    "source_link": "../../fundar/haberland_corinto.pdf"
+    "source_link": "../Attachments/PDFs/fundar/haberland_corinto.pdf"
   },
   {
-    "source_path": "sources/fundar/haberland_marihua.pdf",
-    "output_path": "sources/markdown/haberland_marihua/haberland_marihua.md",
+    "source_path": "vault/Attachments/PDFs/fundar/haberland_marihua.pdf",
+    "output_path": "vault/Papers/haberland_marihua.md",
     "source_sha256": "321f8b385da80aa1885b371a28ff7d81856c1a422c5cb324ff41f8fde29f737e",
     "source_bytes": 5971874,
     "source_url": "https://fundar.org.sv/referencias/haberland_marihua.pdf",
@@ -1127,11 +1137,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/haberland_marihua.pdf"
+    "source_link": "../Attachments/PDFs/fundar/haberland_marihua.pdf"
   },
   {
-    "source_path": "sources/fundar/haberland_mazapan.pdf",
-    "output_path": "sources/markdown/haberland_mazapan/haberland_mazapan.md",
+    "source_path": "vault/Attachments/PDFs/fundar/haberland_mazapan.pdf",
+    "output_path": "vault/Papers/haberland_mazapan.md",
     "source_sha256": "8561c388579f70af78f4517dbaa77f8905fb57f7fb374c56ef5dd66d57093cad",
     "source_bytes": 2845699,
     "source_url": "https://fundar.org.sv/referencias/haberland_mazapan.pdf",
@@ -1147,11 +1157,11 @@
     "ocr_pages": 10,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/haberland_mazapan.pdf"
+    "source_link": "../Attachments/PDFs/fundar/haberland_mazapan.pdf"
   },
   {
-    "source_path": "sources/fundar/haberland_morazan.pdf",
-    "output_path": "sources/markdown/haberland_morazan/haberland_morazan.md",
+    "source_path": "vault/Attachments/PDFs/fundar/haberland_morazan.pdf",
+    "output_path": "vault/Papers/haberland_morazan.md",
     "source_sha256": "0f99d1e12fe3fd317ae91dad7d3d46f79c71f0da2a169875865fbf083ef1c10b",
     "source_bytes": 1783271,
     "source_url": "https://fundar.org.sv/referencias/haberland_morazan.pdf",
@@ -1167,11 +1177,11 @@
     "ocr_pages": 4,
     "empty_pages": 4,
     "warnings": [],
-    "source_link": "../../fundar/haberland_morazan.pdf"
+    "source_link": "../Attachments/PDFs/fundar/haberland_morazan.pdf"
   },
   {
-    "source_path": "sources/fundar/haberland_sequences.pdf",
-    "output_path": "sources/markdown/haberland_sequences/haberland_sequences.md",
+    "source_path": "vault/Attachments/PDFs/fundar/haberland_sequences.pdf",
+    "output_path": "vault/Papers/haberland_sequences.md",
     "source_sha256": "a1488ae28f875ed6afe037d53f48713fbc51e400dfa1a6b49ea0be32ce8fee12",
     "source_bytes": 2793093,
     "source_url": "https://fundar.org.sv/referencias/haberland_sequences.pdf",
@@ -1187,11 +1197,11 @@
     "ocr_pages": 9,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/haberland_sequences.pdf"
+    "source_link": "../Attachments/PDFs/fundar/haberland_sequences.pdf"
   },
   {
-    "source_path": "sources/fundar/haberland_y_grebe.pdf",
-    "output_path": "sources/markdown/haberland_y_grebe/haberland_y_grebe.md",
+    "source_path": "vault/Attachments/PDFs/fundar/haberland_y_grebe.pdf",
+    "output_path": "vault/Papers/haberland_y_grebe.md",
     "source_sha256": "8aef45164b5fcc96308dd2197bae5fe472cc64e1fe00665c26c5a9c557673a19",
     "source_bytes": 1056028,
     "source_url": "https://fundar.org.sv/referencias/haberland_y_grebe.pdf",
@@ -1207,11 +1217,11 @@
     "ocr_pages": 4,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/haberland_y_grebe.pdf"
+    "source_link": "../Attachments/PDFs/fundar/haberland_y_grebe.pdf"
   },
   {
-    "source_path": "sources/fundar/housework.pdf",
-    "output_path": "sources/markdown/housework/housework.md",
+    "source_path": "vault/Attachments/PDFs/fundar/housework.pdf",
+    "output_path": "vault/Papers/housework.md",
     "source_sha256": "7783c1d9749e5184b8b8f394fe56975cf2dd4ac259913a3f562e7a4c248df90b",
     "source_bytes": 9230755,
     "source_url": "https://fundar.org.sv/referencias/housework.pdf",
@@ -1219,7 +1229,8 @@
     "creator": "Bruhns, Karen Olsen",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 16,
@@ -1227,11 +1238,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/housework.pdf"
+    "source_link": "../Attachments/PDFs/fundar/housework.pdf"
   },
   {
-    "source_path": "sources/fundar/igualtepeque.pdf",
-    "output_path": "sources/markdown/igualtepeque/igualtepeque.md",
+    "source_path": "vault/Attachments/PDFs/fundar/igualtepeque.pdf",
+    "output_path": "vault/Papers/igualtepeque.md",
     "source_sha256": "ebb3f55a8687189201e5ecc19d1a146befab909a76895146d6d2c67eabd7f714",
     "source_bytes": 4567350,
     "source_url": "https://fundar.org.sv/referencias/igualtepeque.pdf",
@@ -1247,11 +1258,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/igualtepeque.pdf"
+    "source_link": "../Attachments/PDFs/fundar/igualtepeque.pdf"
   },
   {
-    "source_path": "sources/fundar/jaguar.pdf",
-    "output_path": "sources/markdown/jaguar/jaguar.md",
+    "source_path": "vault/Attachments/PDFs/fundar/jaguar.pdf",
+    "output_path": "vault/Papers/jaguar.md",
     "source_sha256": "cf36ec419a19e8546eb9c8d35bbf34bf33342d15b944a6657be512d095660218",
     "source_bytes": 766080,
     "source_url": "https://fundar.org.sv/referencias/jaguar.pdf",
@@ -1259,7 +1270,8 @@
     "creator": "Amaroli, Paul E. y Karen Olsen Bruhns",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 1,
@@ -1267,11 +1279,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/jaguar.pdf"
+    "source_link": "../Attachments/PDFs/fundar/jaguar.pdf"
   },
   {
-    "source_path": "sources/fundar/kelley_1988.pdf",
-    "output_path": "sources/markdown/kelley_1988/kelley_1988.md",
+    "source_path": "vault/Attachments/PDFs/fundar/kelley_1988.pdf",
+    "output_path": "vault/Papers/kelley_1988.md",
     "source_sha256": "9fd06026d152ea7e4d7edcffd4ff539a175342fcbea49ea77c2a98f7e95b51ad",
     "source_bytes": 27819699,
     "source_url": "https://fundar.org.sv/referencias/kelley_1988.pdf",
@@ -1279,21 +1291,20 @@
     "creator": "Kelley, Jane H.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 243,
-    "embedded_pages": 241,
-    "ocr_pages": 2,
+    "embedded_pages": 239,
+    "ocr_pages": 4,
     "empty_pages": 0,
-    "warnings": [
-      "page 36: Detected 56 diacritics"
-    ],
-    "source_link": "../../fundar/kelley_1988.pdf"
+    "warnings": [],
+    "source_link": "../Attachments/PDFs/fundar/kelley_1988.pdf"
   },
   {
-    "source_path": "sources/fundar/lasmariasurgencia.pdf",
-    "output_path": "sources/markdown/lasmariasurgencia/lasmariasurgencia.md",
+    "source_path": "vault/Attachments/PDFs/fundar/lasmariasurgencia.pdf",
+    "output_path": "vault/Papers/lasmariasurgencia.md",
     "source_sha256": "8e0396c35b67bd2353b8b13d2c3526d7cc05809b675cb10c222ff99c2ae77d43",
     "source_bytes": 3086368,
     "source_url": "https://fundar.org.sv/referencias/lasmariasurgencia.pdf",
@@ -1309,11 +1320,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/lasmariasurgencia.pdf"
+    "source_link": "../Attachments/PDFs/fundar/lasmariasurgencia.pdf"
   },
   {
-    "source_path": "sources/fundar/limits.pdf",
-    "output_path": "sources/markdown/limits/limits.md",
+    "source_path": "vault/Attachments/PDFs/fundar/limits.pdf",
+    "output_path": "vault/Papers/limits.md",
     "source_sha256": "cbf33dfb39a3e420c0eaff988c71079ea845b019c8cc67d54d2627f08e548ae9",
     "source_bytes": 7032879,
     "source_url": "https://fundar.org.sv/referencias/limits.pdf",
@@ -1329,11 +1340,11 @@
     "ocr_pages": 3,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/limits.pdf"
+    "source_link": "../Attachments/PDFs/fundar/limits.pdf"
   },
   {
-    "source_path": "sources/fundar/longyear.pdf",
-    "output_path": "sources/markdown/longyear/longyear.md",
+    "source_path": "vault/Attachments/PDFs/fundar/longyear.pdf",
+    "output_path": "vault/Papers/longyear.md",
     "source_sha256": "38725ea02aaad7c7e07f28a630831c2a686bc3dd8c1029d4c3dce559d7b1e591",
     "source_bytes": 31846808,
     "source_url": "https://fundar.org.sv/referencias/longyear.pdf",
@@ -1360,11 +1371,11 @@
       "page 106: Detected 12 diacritics",
       "page 111: Detected 25 diacritics"
     ],
-    "source_link": "../../fundar/longyear.pdf"
+    "source_link": "../Attachments/PDFs/fundar/longyear.pdf"
   },
   {
-    "source_path": "sources/fundar/lothrop_expedition.pdf",
-    "output_path": "sources/markdown/lothrop_expedition/lothrop_expedition.md",
+    "source_path": "vault/Attachments/PDFs/fundar/lothrop_expedition.pdf",
+    "output_path": "vault/Papers/lothrop_expedition.md",
     "source_sha256": "c8c290166417de83bce1d76b3069223870a0f2c51b5de3a60074af61c0bd4d2a",
     "source_bytes": 3652023,
     "source_url": "https://fundar.org.sv/referencias/lothrop_expedition.pdf",
@@ -1372,19 +1383,22 @@
     "creator": "Lothrop, Samuel K.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 15,
-    "embedded_pages": 13,
-    "ocr_pages": 2,
+    "embedded_pages": 12,
+    "ocr_pages": 3,
     "empty_pages": 0,
-    "warnings": [],
-    "source_link": "../../fundar/lothrop_expedition.pdf"
+    "warnings": [
+      "page 7: Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+    ],
+    "source_link": "../Attachments/PDFs/fundar/lothrop_expedition.pdf"
   },
   {
-    "source_path": "sources/fundar/lothrop_guatajiagua.pdf",
-    "output_path": "sources/markdown/lothrop_guatajiagua/lothrop_guatajiagua.md",
+    "source_path": "vault/Attachments/PDFs/fundar/lothrop_guatajiagua.pdf",
+    "output_path": "vault/Papers/lothrop_guatajiagua.md",
     "source_sha256": "ff8715be59c3c744237eb5005a0dd31a80cba05b0e977534bc56e3a605fa0932",
     "source_bytes": 1475578,
     "source_url": "https://fundar.org.sv/referencias/lothrop_guatajiagua.pdf",
@@ -1392,7 +1406,8 @@
     "creator": "Lothrop, Samuel K.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 6,
@@ -1400,11 +1415,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/lothrop_guatajiagua.pdf"
+    "source_link": "../Attachments/PDFs/fundar/lothrop_guatajiagua.pdf"
   },
   {
-    "source_path": "sources/fundar/lothrop_pottery_types.pdf",
-    "output_path": "sources/markdown/lothrop_pottery_types/lothrop_pottery_types.md",
+    "source_path": "vault/Attachments/PDFs/fundar/lothrop_pottery_types.pdf",
+    "output_path": "vault/Papers/lothrop_pottery_types.md",
     "source_sha256": "6f08eae80fb0c6f29348f513d1f994abda03c835af180ea9118ce469a46865eb",
     "source_bytes": 4829822,
     "source_url": "https://fundar.org.sv/referencias/lothrop_pottery_types.pdf",
@@ -1420,11 +1435,11 @@
     "ocr_pages": 8,
     "empty_pages": 7,
     "warnings": [],
-    "source_link": "../../fundar/lothrop_pottery_types.pdf"
+    "source_link": "../Attachments/PDFs/fundar/lothrop_pottery_types.pdf"
   },
   {
-    "source_path": "sources/fundar/lothrop_se_frontier_maya.pdf",
-    "output_path": "sources/markdown/lothrop_se_frontier_maya/lothrop_se_frontier_maya.md",
+    "source_path": "vault/Attachments/PDFs/fundar/lothrop_se_frontier_maya.pdf",
+    "output_path": "vault/Papers/lothrop_se_frontier_maya.md",
     "source_sha256": "a658667682793ef7e8acaecf1ff38bdfcce72b3457930b5d0cea61fb46aa3f69",
     "source_bytes": 3862445,
     "source_url": "https://fundar.org.sv/referencias/lothrop_se_frontier_maya.pdf",
@@ -1432,7 +1447,8 @@
     "creator": "Lothrop, Samuel K.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 13,
@@ -1440,11 +1456,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/lothrop_se_frontier_maya.pdf"
+    "source_link": "../Attachments/PDFs/fundar/lothrop_se_frontier_maya.pdf"
   },
   {
-    "source_path": "sources/fundar/marroquin_indigena.pdf",
-    "output_path": "sources/markdown/marroquin_indigena/marroquin_indigena.md",
+    "source_path": "vault/Attachments/PDFs/fundar/marroquin_indigena.pdf",
+    "output_path": "vault/Papers/marroquin_indigena.md",
     "source_sha256": "6632d0402097c43359ef8f7d034fb267d438934c5ffed0575cb1d9f6fb204de1",
     "source_bytes": 1381366,
     "source_url": "https://fundar.org.sv/referencias/marroquin_indigena.pdf",
@@ -1452,7 +1468,8 @@
     "creator": "Marroquín, Alejandro D.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 14,
@@ -1460,11 +1477,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/marroquin_indigena.pdf"
+    "source_link": "../Attachments/PDFs/fundar/marroquin_indigena.pdf"
   },
   {
-    "source_path": "sources/fundar/mazapan.pdf",
-    "output_path": "sources/markdown/mazapan/mazapan.md",
+    "source_path": "vault/Attachments/PDFs/fundar/mazapan.pdf",
+    "output_path": "vault/Papers/mazapan.md",
     "source_sha256": "883e740f445a745d8fca31392bada3bc58de7fff6056fc8b0c47ee6fe24d3ad0",
     "source_bytes": 3152330,
     "source_url": "https://fundar.org.sv/referencias/mazapan.pdf",
@@ -1472,7 +1489,8 @@
     "creator": "Bruhns, Karen Olsen y Paul Amaroli",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 5,
@@ -1480,11 +1498,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/mazapan.pdf"
+    "source_link": "../Attachments/PDFs/fundar/mazapan.pdf"
   },
   {
-    "source_path": "sources/fundar/milpas.pdf",
-    "output_path": "sources/markdown/milpas/milpas.md",
+    "source_path": "vault/Attachments/PDFs/fundar/milpas.pdf",
+    "output_path": "vault/Papers/milpas.md",
     "source_sha256": "51acbf3497980d2fdf6628d5eab9f8d03407ce6981471e3da60246f5e186375b",
     "source_bytes": 2853416,
     "source_url": "https://fundar.org.sv/referencias/milpas.pdf",
@@ -1500,11 +1518,11 @@
     "ocr_pages": 3,
     "empty_pages": 1,
     "warnings": [],
-    "source_link": "../../fundar/milpas.pdf"
+    "source_link": "../Attachments/PDFs/fundar/milpas.pdf"
   },
   {
-    "source_path": "sources/fundar/mirror.pdf",
-    "output_path": "sources/markdown/mirror/mirror.md",
+    "source_path": "vault/Attachments/PDFs/fundar/mirror.pdf",
+    "output_path": "vault/Papers/mirror.md",
     "source_sha256": "03e7fb9f354133b374e6918d2a8eb7cf5ca4203d719f3ba46770616d246655c7",
     "source_bytes": 1857425,
     "source_url": "https://fundar.org.sv/referencias/mirror.pdf",
@@ -1512,7 +1530,8 @@
     "creator": "Bruhns, Karen Olsen y Paul Amaroli",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 3,
@@ -1520,11 +1539,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/mirror.pdf"
+    "source_link": "../Attachments/PDFs/fundar/mirror.pdf"
   },
   {
-    "source_path": "sources/fundar/muralla_norte.pdf",
-    "output_path": "sources/markdown/muralla_norte/muralla_norte.md",
+    "source_path": "vault/Attachments/PDFs/fundar/muralla_norte.pdf",
+    "output_path": "vault/Papers/muralla_norte.md",
     "source_sha256": "79687011efdb2079a632fef60acb4417f7e8818e03e1a2a8f9d6fc679f3205c5",
     "source_bytes": 14697167,
     "source_url": "https://fundar.org.sv/referencias/muralla_norte.pdf",
@@ -1540,11 +1559,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/muralla_norte.pdf"
+    "source_link": "../Attachments/PDFs/fundar/muralla_norte.pdf"
   },
   {
-    "source_path": "sources/fundar/nicoya.pdf",
-    "output_path": "sources/markdown/nicoya/nicoya.md",
+    "source_path": "vault/Attachments/PDFs/fundar/nicoya.pdf",
+    "output_path": "vault/Papers/nicoya.md",
     "source_sha256": "a2fae1818f7204d35e6905af05fb428ed4b3beff23ffd38097c7fee406dc1f87",
     "source_bytes": 1711803,
     "source_url": "https://fundar.org.sv/referencias/nicoya.pdf",
@@ -1552,7 +1571,8 @@
     "creator": "Revene, Zachery y Karen Olsen Bruhns",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 2,
@@ -1560,11 +1580,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/nicoya.pdf"
+    "source_link": "../Attachments/PDFs/fundar/nicoya.pdf"
   },
   {
-    "source_path": "sources/fundar/nuevas.pdf",
-    "output_path": "sources/markdown/nuevas/nuevas.md",
+    "source_path": "vault/Attachments/PDFs/fundar/nuevas.pdf",
+    "output_path": "vault/Papers/nuevas.md",
     "source_sha256": "6f3ed71222ae6724011af371ba40ca5df3cf8b42deb59912701cb80df901e743",
     "source_bytes": 4011306,
     "source_url": "https://fundar.org.sv/referencias/nuevas.pdf",
@@ -1580,11 +1600,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/nuevas.pdf"
+    "source_link": "../Attachments/PDFs/fundar/nuevas.pdf"
   },
   {
-    "source_path": "sources/fundar/p28.pdf",
-    "output_path": "sources/markdown/p28/p28.md",
+    "source_path": "vault/Attachments/PDFs/fundar/p28.pdf",
+    "output_path": "vault/Papers/p28.md",
     "source_sha256": "857c462097613b2c5b23a792fa3cc3475ebc4f48d020e7ded8196ab9d32a4a98",
     "source_bytes": 1084197,
     "source_url": "https://fundar.org.sv/referencias/p28.pdf",
@@ -1592,7 +1612,8 @@
     "creator": "Bruhns, Karen Olsen y Paul Amaroli",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 11,
@@ -1600,11 +1621,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/p28.pdf"
+    "source_link": "../Attachments/PDFs/fundar/p28.pdf"
   },
   {
-    "source_path": "sources/fundar/parks.pdf",
-    "output_path": "sources/markdown/parks/parks.md",
+    "source_path": "vault/Attachments/PDFs/fundar/parks.pdf",
+    "output_path": "vault/Papers/parks.md",
     "source_sha256": "86ee1547bfc2dd005c991071bfc96122a1b10b6c81e79d687ffc1735c302a886",
     "source_bytes": 1795158,
     "source_url": "https://fundar.org.sv/referencias/parks.pdf",
@@ -1620,11 +1641,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/parks.pdf"
+    "source_link": "../Attachments/PDFs/fundar/parks.pdf"
   },
   {
-    "source_path": "sources/fundar/parqueo.pdf",
-    "output_path": "sources/markdown/parqueo/parqueo.md",
+    "source_path": "vault/Attachments/PDFs/fundar/parqueo.pdf",
+    "output_path": "vault/Papers/parqueo.md",
     "source_sha256": "017f60fb247dc58158e63334bccbc1021c8a7cf9ec12287f0f549b5fb5a713c6",
     "source_bytes": 399816,
     "source_url": "https://fundar.org.sv/referencias/parqueo.pdf",
@@ -1640,11 +1661,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/parqueo.pdf"
+    "source_link": "../Attachments/PDFs/fundar/parqueo.pdf"
   },
   {
-    "source_path": "sources/fundar/pipilpots.pdf",
-    "output_path": "sources/markdown/pipilpots/pipilpots.md",
+    "source_path": "vault/Attachments/PDFs/fundar/pipilpots.pdf",
+    "output_path": "vault/Papers/pipilpots.md",
     "source_sha256": "cfb5a7db7083f200b1e62ace221f091bd2b3e15789ae15dfe150b62c591f217b",
     "source_bytes": 3385841,
     "source_url": "https://fundar.org.sv/referencias/pipilpots.pdf",
@@ -1662,11 +1683,11 @@
     "warnings": [
       "page 23: Detected 96 diacritics"
     ],
-    "source_link": "../../fundar/pipilpots.pdf"
+    "source_link": "../Attachments/PDFs/fundar/pipilpots.pdf"
   },
   {
-    "source_path": "sources/fundar/plumbate.pdf",
-    "output_path": "sources/markdown/plumbate/plumbate.md",
+    "source_path": "vault/Attachments/PDFs/fundar/plumbate.pdf",
+    "output_path": "vault/Papers/plumbate.md",
     "source_sha256": "134b2b27ab84fdfedfe9773f368833cadd52c7f73152fe35a7196638d4c3f077",
     "source_bytes": 2858761,
     "source_url": "https://fundar.org.sv/referencias/plumbate.pdf",
@@ -1674,7 +1695,8 @@
     "creator": "Bruhns, Karen Olsen",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 4,
@@ -1682,11 +1704,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/plumbate.pdf"
+    "source_link": "../Attachments/PDFs/fundar/plumbate.pdf"
   },
   {
-    "source_path": "sources/fundar/ries_1940.pdf",
-    "output_path": "sources/markdown/ries_1940/ries_1940.md",
+    "source_path": "vault/Attachments/PDFs/fundar/ries_1940.pdf",
+    "output_path": "vault/Papers/ries_1940.md",
     "source_sha256": "38811b60506696c79aca145de0cef1f628752e53a4cb4478578c55eeccd37a64",
     "source_bytes": 971432,
     "source_url": "https://fundar.org.sv/referencias/ries_1940.pdf",
@@ -1702,11 +1724,11 @@
     "ocr_pages": 3,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/ries_1940.pdf"
+    "source_link": "../Attachments/PDFs/fundar/ries_1940.pdf"
   },
   {
-    "source_path": "sources/fundar/roundreport.pdf",
-    "output_path": "sources/markdown/roundreport/roundreport.md",
+    "source_path": "vault/Attachments/PDFs/fundar/roundreport.pdf",
+    "output_path": "vault/Papers/roundreport.md",
     "source_sha256": "0f9fe160801544039c9b41fd21792ff2610a272aee3e38ef0dd70676c73f11ba",
     "source_bytes": 8576730,
     "source_url": "https://fundar.org.sv/referencias/roundreport.pdf",
@@ -1722,11 +1744,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/roundreport.pdf"
+    "source_link": "../Attachments/PDFs/fundar/roundreport.pdf"
   },
   {
-    "source_path": "sources/fundar/ruedas.pdf",
-    "output_path": "sources/markdown/ruedas/ruedas.md",
+    "source_path": "vault/Attachments/PDFs/fundar/ruedas.pdf",
+    "output_path": "vault/Papers/ruedas.md",
     "source_sha256": "f04c9009a73c06241e904e9cacb6f06cc6ead45517329d7c7a3a9976589dd55b",
     "source_bytes": 5976915,
     "source_url": "https://fundar.org.sv/referencias/ruedas.pdf",
@@ -1746,11 +1768,11 @@
       "page 40: Error in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box",
       "page 67: Empty page!!\nEmpty page!!"
     ],
-    "source_link": "../../fundar/ruedas.pdf"
+    "source_link": "../Attachments/PDFs/fundar/ruedas.pdf"
   },
   {
-    "source_path": "sources/fundar/spinden1915.pdf",
-    "output_path": "sources/markdown/spinden1915/spinden1915.md",
+    "source_path": "vault/Attachments/PDFs/fundar/spinden1915.pdf",
+    "output_path": "vault/Papers/spinden1915.md",
     "source_sha256": "e7e8bcb259b24acfdf657ba319d341c2f6716271a3e85d98bb595d850d791065",
     "source_bytes": 4908755,
     "source_url": "https://fundar.org.sv/referencias/spinden1915.pdf",
@@ -1766,11 +1788,11 @@
     "ocr_pages": 45,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/spinden1915.pdf"
+    "source_link": "../Attachments/PDFs/fundar/spinden1915.pdf"
   },
   {
-    "source_path": "sources/fundar/temascal.pdf",
-    "output_path": "sources/markdown/temascal/temascal.md",
+    "source_path": "vault/Attachments/PDFs/fundar/temascal.pdf",
+    "output_path": "vault/Papers/temascal.md",
     "source_sha256": "b8397fcf8ea664d21b57638ace392266ed74098c63c053b6f164df527aa177c9",
     "source_bytes": 12176458,
     "source_url": "https://fundar.org.sv/referencias/temascal.pdf",
@@ -1786,11 +1808,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/temascal.pdf"
+    "source_link": "../Attachments/PDFs/fundar/temascal.pdf"
   },
   {
-    "source_path": "sources/fundar/teopan.pdf",
-    "output_path": "sources/markdown/teopan/teopan.md",
+    "source_path": "vault/Attachments/PDFs/fundar/teopan.pdf",
+    "output_path": "vault/Papers/teopan.md",
     "source_sha256": "67064fc8dfcb00b19fefc4c5d0cbc62519cfb219629c2033823689a3322e05fa",
     "source_bytes": 2269247,
     "source_url": "https://fundar.org.sv/referencias/teopan.pdf",
@@ -1798,7 +1820,8 @@
     "creator": "Amaroli, Paul E.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 3,
@@ -1806,11 +1829,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/teopan.pdf"
+    "source_link": "../Attachments/PDFs/fundar/teopan.pdf"
   },
   {
-    "source_path": "sources/fundar/testimony1.pdf",
-    "output_path": "sources/markdown/testimony1/testimony1.md",
+    "source_path": "vault/Attachments/PDFs/fundar/testimony1.pdf",
+    "output_path": "vault/Papers/testimony1.md",
     "source_sha256": "fd1440907fd47a4c66de48034428af3520f0563c2bfe47461676681620d7793f",
     "source_bytes": 1300394,
     "source_url": "https://fundar.org.sv/referencias/testimony1.pdf",
@@ -1826,11 +1849,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/testimony1.pdf"
+    "source_link": "../Attachments/PDFs/fundar/testimony1.pdf"
   },
   {
-    "source_path": "sources/fundar/testimony2.pdf",
-    "output_path": "sources/markdown/testimony2/testimony2.md",
+    "source_path": "vault/Attachments/PDFs/fundar/testimony2.pdf",
+    "output_path": "vault/Papers/testimony2.md",
     "source_sha256": "6b8280d3901a53f672958702d6ab621d73c847b966d187c3b9e3d2c37bc8c686",
     "source_bytes": 45040,
     "source_url": "https://fundar.org.sv/referencias/testimony2.pdf",
@@ -1846,11 +1869,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/testimony2.pdf"
+    "source_link": "../Attachments/PDFs/fundar/testimony2.pdf"
   },
   {
-    "source_path": "sources/fundar/tlalocreport.pdf",
-    "output_path": "sources/markdown/tlalocreport/tlalocreport.md",
+    "source_path": "vault/Attachments/PDFs/fundar/tlalocreport.pdf",
+    "output_path": "vault/Papers/tlalocreport.md",
     "source_sha256": "d865fabcbb2d926a4151674462137cc6d57c60bc0717a35136e8f5104496e957",
     "source_bytes": 902732,
     "source_url": "https://fundar.org.sv/referencias/tlalocreport.pdf",
@@ -1866,11 +1889,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/tlalocreport.pdf"
+    "source_link": "../Attachments/PDFs/fundar/tlalocreport.pdf"
   },
   {
-    "source_path": "sources/fundar/tzunpame_boggs_sanandres.pdf",
-    "output_path": "sources/markdown/tzunpame_boggs_sanandres/tzunpame_boggs_sanandres.md",
+    "source_path": "vault/Attachments/PDFs/fundar/tzunpame_boggs_sanandres.pdf",
+    "output_path": "vault/Papers/tzunpame_boggs_sanandres.md",
     "source_sha256": "b450dcac3288898107f8baa1f5992c3615d1586c29e35555ba9b4a401b415a92",
     "source_bytes": 2377104,
     "source_url": "https://fundar.org.sv/referencias/tzunpame_boggs_sanandres.pdf",
@@ -1878,19 +1901,20 @@
     "creator": "Boggs, Stanley H.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 17,
-    "embedded_pages": 17,
-    "ocr_pages": 0,
+    "embedded_pages": 15,
+    "ocr_pages": 2,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/tzunpame_boggs_sanandres.pdf"
+    "source_link": "../Attachments/PDFs/fundar/tzunpame_boggs_sanandres.pdf"
   },
   {
-    "source_path": "sources/fundar/tzunpame_boggs_tazumal.pdf",
-    "output_path": "sources/markdown/tzunpame_boggs_tazumal/tzunpame_boggs_tazumal.md",
+    "source_path": "vault/Attachments/PDFs/fundar/tzunpame_boggs_tazumal.pdf",
+    "output_path": "vault/Papers/tzunpame_boggs_tazumal.md",
     "source_sha256": "8dacffd8af4b04fb762d77df4718e7440ee8570c922ecdfea0a4af809c8bb3f8",
     "source_bytes": 1064702,
     "source_url": "https://fundar.org.sv/referencias/tzunpame_boggs_tazumal.pdf",
@@ -1898,7 +1922,8 @@
     "creator": "Boggs, Stanley H.",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 6,
@@ -1906,11 +1931,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/tzunpame_boggs_tazumal.pdf"
+    "source_link": "../Attachments/PDFs/fundar/tzunpame_boggs_tazumal.pdf"
   },
   {
-    "source_path": "sources/fundar/vivo_escoto_poblamiento.pdf",
-    "output_path": "sources/markdown/vivo_escoto_poblamiento/vivo_escoto_poblamiento.md",
+    "source_path": "vault/Attachments/PDFs/fundar/vivo_escoto_poblamiento.pdf",
+    "output_path": "vault/Papers/vivo_escoto_poblamiento.md",
     "source_sha256": "94675abf5d9b6b9d1675c1e643f9f930225f72f38e692db61503a5058e6fbc9d",
     "source_bytes": 1868616,
     "source_url": "https://fundar.org.sv/referencias/vivo_escoto_poblamiento.pdf",
@@ -1933,11 +1958,11 @@
       "page 29: Detected 152 diacritics",
       "page 30: Detected 48 diacritics"
     ],
-    "source_link": "../../fundar/vivo_escoto_poblamiento.pdf"
+    "source_link": "../Attachments/PDFs/fundar/vivo_escoto_poblamiento.pdf"
   },
   {
-    "source_path": "sources/fundar/wyllys_flautas.pdf",
-    "output_path": "sources/markdown/wyllys_flautas/wyllys_flautas.md",
+    "source_path": "vault/Attachments/PDFs/fundar/wyllys_flautas.pdf",
+    "output_path": "vault/Papers/wyllys_flautas.md",
     "source_sha256": "25b34d1314e598baf2755460377677873e44ccfcee658b20ad1bc794d4db977c",
     "source_bytes": 1571377,
     "source_url": "https://fundar.org.sv/referencias/wyllys_flautas.pdf",
@@ -1953,11 +1978,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/wyllys_flautas.pdf"
+    "source_link": "../Attachments/PDFs/fundar/wyllys_flautas.pdf"
   },
   {
-    "source_path": "sources/fundar/xipe1.pdf",
-    "output_path": "sources/markdown/xipe1/xipe1.md",
+    "source_path": "vault/Attachments/PDFs/fundar/xipe1.pdf",
+    "output_path": "vault/Papers/xipe1.md",
     "source_sha256": "9b7dc8ef23cf93dd920716127702e750979269e22380236686c684220ad96ef3",
     "source_bytes": 1582586,
     "source_url": "https://fundar.org.sv/referencias/xipe1.pdf",
@@ -1965,7 +1990,8 @@
     "creator": "Amaroli, Paul E. y Karen Olsen Bruhns",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 2,
@@ -1973,11 +1999,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/xipe1.pdf"
+    "source_link": "../Attachments/PDFs/fundar/xipe1.pdf"
   },
   {
-    "source_path": "sources/fundar/xipe2.pdf",
-    "output_path": "sources/markdown/xipe2/xipe2.md",
+    "source_path": "vault/Attachments/PDFs/fundar/xipe2.pdf",
+    "output_path": "vault/Papers/xipe2.md",
     "source_sha256": "aff4ba6a1ed49b80bf1a1eb99c6f3f938fcc05d1b6abe27b81d4edcb70d21875",
     "source_bytes": 1277265,
     "source_url": "https://fundar.org.sv/referencias/xipe2.pdf",
@@ -1995,11 +2021,11 @@
     "warnings": [
       "page 10: Detected 46 diacritics"
     ],
-    "source_link": "../../fundar/xipe2.pdf"
+    "source_link": "../Attachments/PDFs/fundar/xipe2.pdf"
   },
   {
-    "source_path": "sources/fundar/xipe3.pdf",
-    "output_path": "sources/markdown/xipe3/xipe3.md",
+    "source_path": "vault/Attachments/PDFs/fundar/xipe3.pdf",
+    "output_path": "vault/Papers/xipe3.md",
     "source_sha256": "2f9e628e5a1be219cb532c5d161c64fdcbe84886e58f6c5e88326fb187d6d304",
     "source_bytes": 761880,
     "source_url": "https://fundar.org.sv/referencias/xipe3.pdf",
@@ -2007,7 +2033,8 @@
     "creator": "Bruhns, Karen Olsen y Paul Amaroli",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 1,
@@ -2015,11 +2042,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/xipe3.pdf"
+    "source_link": "../Attachments/PDFs/fundar/xipe3.pdf"
   },
   {
-    "source_path": "sources/fundar/yaca.pdf",
-    "output_path": "sources/markdown/yaca/yaca.md",
+    "source_path": "vault/Attachments/PDFs/fundar/yaca.pdf",
+    "output_path": "vault/Papers/yaca.md",
     "source_sha256": "aa44f36d9bb95bc0e71f2c8392d0656a028856555e3ae48a9382fac48eeee180",
     "source_bytes": 1999815,
     "source_url": "https://fundar.org.sv/referencias/yaca.pdf",
@@ -2027,7 +2054,8 @@
     "creator": "Bruhns, Karen Olsen y Paul Amaroli",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 3,
@@ -2035,11 +2063,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../fundar/yaca.pdf"
+    "source_link": "../Attachments/PDFs/fundar/yaca.pdf"
   },
   {
-    "source_path": "sources/institutional/1954-haberland-apuntes-petrograbados.pdf",
-    "output_path": "sources/markdown/1954-haberland-apuntes-petrograbados/1954-haberland-apuntes-petrograbados.md",
+    "source_path": "vault/Attachments/PDFs/institutional/1954-haberland-apuntes-petrograbados.pdf",
+    "output_path": "vault/Papers/1954-haberland-apuntes-petrograbados.md",
     "source_sha256": "a12947dfbb1a45892b7a0a807ad9738b88bd84e16228ad3f166deb30afc15e1c",
     "source_bytes": 463874,
     "source_url": "https://repositorio.ues.edu.sv/server/api/core/bitstreams/de424bdd-bd79-4c7c-8c14-53b117eafcc9/content",
@@ -2047,19 +2075,22 @@
     "creator": "Wolfgang Haberland",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 7,
-    "embedded_pages": 7,
-    "ocr_pages": 0,
+    "embedded_pages": 6,
+    "ocr_pages": 1,
     "empty_pages": 0,
-    "warnings": [],
-    "source_link": "../../institutional/1954-haberland-apuntes-petrograbados.pdf"
+    "warnings": [
+      "page 7: Error in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box\nError in boxClipToRectangle: box outside rectangle\nError in pixScanForForeground: invalid box"
+    ],
+    "source_link": "../Attachments/PDFs/institutional/1954-haberland-apuntes-petrograbados.pdf"
   },
   {
-    "source_path": "sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf",
-    "output_path": "sources/markdown/1994-amaroli-hermes-velasquez-antiguo-cuscatlan/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.md",
+    "source_path": "vault/Attachments/PDFs/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf",
+    "output_path": "vault/Papers/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.md",
     "source_sha256": "363a0bbe3bb263f89ede203d957f475eef1558a770b9ece12eb94476791b9d12",
     "source_bytes": 1369763,
     "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2016/11/46.93-Amaroli-et-al..pdf",
@@ -2078,11 +2109,11 @@
       "Syntax Error: Expected the default config, but wasn't able to find it, or it isn't a Dictionary",
       "page 9: Detected 68 diacritics"
     ],
-    "source_link": "../../institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf"
+    "source_link": "../Attachments/PDFs/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf"
   },
   {
-    "source_path": "sources/institutional/1995-conyers-gpr-ceren.pdf",
-    "output_path": "sources/markdown/1995-conyers-gpr-ceren/1995-conyers-gpr-ceren.md",
+    "source_path": "vault/Attachments/PDFs/institutional/1995-conyers-gpr-ceren.pdf",
+    "output_path": "vault/Papers/1995-conyers-gpr-ceren.md",
     "source_sha256": "895480f23a16aae643b690c65db76f678c2951572f70746b66102833977e81e0",
     "source_bytes": 2472549,
     "source_url": "https://antharky.ucalgary.ca/caadb/sites/antharky.ucalgary.ca.caadb/files/Conyers_1995_The_Use_of_Ground-Penetrating_Radar_To_Map_the_Buried_Structures_and_Landscape_of_the_Ceren_Site.pdf",
@@ -2099,11 +2130,11 @@
     "ocr_pages": 3,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/1995-conyers-gpr-ceren.pdf"
+    "source_link": "../Attachments/PDFs/institutional/1995-conyers-gpr-ceren.pdf"
   },
   {
-    "source_path": "sources/institutional/1998-coladan-pinturas-rupestres-oriente.pdf",
-    "output_path": "sources/markdown/1998-coladan-pinturas-rupestres-oriente/1998-coladan-pinturas-rupestres-oriente.md",
+    "source_path": "vault/Attachments/PDFs/institutional/1998-coladan-pinturas-rupestres-oriente.pdf",
+    "output_path": "vault/Papers/1998-coladan-pinturas-rupestres-oriente.md",
     "source_sha256": "e1b02496139eb9abc54e5a5ae0a543c11e9c5bc5264ee62fcd6eb595fd75d410",
     "source_bytes": 517034,
     "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2016/11/43.97_-_Elisenda.pdf",
@@ -2119,11 +2150,11 @@
     "ocr_pages": 1,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/1998-coladan-pinturas-rupestres-oriente.pdf"
+    "source_link": "../Attachments/PDFs/institutional/1998-coladan-pinturas-rupestres-oriente.pdf"
   },
   {
-    "source_path": "sources/institutional/2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
-    "output_path": "sources/markdown/2004-fowler-et-al-ciudad-vieja-teledeteccion/2004-fowler-et-al-ciudad-vieja-teledeteccion.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf",
+    "output_path": "vault/Papers/2004-fowler-et-al-ciudad-vieja-teledeteccion.md",
     "source_sha256": "a8cd10225bc65c2e7c81744e7b79ea06a68c2b4d211972b8c0fe4e04d00c2196",
     "source_bytes": 1780300,
     "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2017/01/61.03-Fowler-en-PDF.pdf",
@@ -2142,11 +2173,11 @@
     "warnings": [
       "Syntax Error: Expected the default config, but wasn't able to find it, or it isn't a Dictionary"
     ],
-    "source_link": "../../institutional/2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2004-fowler-et-al-ciudad-vieja-teledeteccion.pdf"
   },
   {
-    "source_path": "sources/institutional/2007-erquicia-los-gavilanes.pdf",
-    "output_path": "sources/markdown/2007-erquicia-los-gavilanes/2007-erquicia-los-gavilanes.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2007-erquicia-los-gavilanes.pdf",
+    "output_path": "vault/Papers/2007-erquicia-los-gavilanes.md",
     "source_sha256": "ddd393b7b522d834f91e440da9560bfc126077dfb7ab0984741df40147e6f2e1",
     "source_bytes": 1191560,
     "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf",
@@ -2164,11 +2195,11 @@
     "warnings": [
       "Syntax Error: Expected the default config, but wasn't able to find it, or it isn't a Dictionary"
     ],
-    "source_link": "../../institutional/2007-erquicia-los-gavilanes.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2007-erquicia-los-gavilanes.pdf"
   },
   {
-    "source_path": "sources/institutional/2009-erquicia-sitios-arqueologicos-historicos.pdf",
-    "output_path": "sources/markdown/2009-erquicia-sitios-arqueologicos-historicos/2009-erquicia-sitios-arqueologicos-historicos.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2009-erquicia-sitios-arqueologicos-historicos.pdf",
+    "output_path": "vault/Papers/2009-erquicia-sitios-arqueologicos-historicos.md",
     "source_sha256": "23a1d53738f56d2b405aeb7cc43ece4de8e799bf007bca8a5b2ac91af0193a2b",
     "source_bytes": 708616,
     "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2017/01/011_-_Erquicia-2.08.pdf",
@@ -2184,11 +2215,11 @@
     "ocr_pages": 2,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/2009-erquicia-sitios-arqueologicos-historicos.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2009-erquicia-sitios-arqueologicos-historicos.pdf"
   },
   {
-    "source_path": "sources/institutional/2012-escamilla-fowler-practica-arqueologia.pdf",
-    "output_path": "sources/markdown/2012-escamilla-fowler-practica-arqueologia/2012-escamilla-fowler-practica-arqueologia.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2012-escamilla-fowler-practica-arqueologia.pdf",
+    "output_path": "vault/Papers/2012-escamilla-fowler-practica-arqueologia.md",
     "source_sha256": "c6c055bc6ee806018ba0dbff93c9fa5950e38e7a0531e0bb2400d13d3f0cb773",
     "source_bytes": 153565,
     "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2017/03/036_Escamilla_y_Fowler.pdf",
@@ -2204,11 +2235,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/2012-escamilla-fowler-practica-arqueologia.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2012-escamilla-fowler-practica-arqueologia.pdf"
   },
   {
-    "source_path": "sources/institutional/2013-erquicia-obrajes-anil.pdf",
-    "output_path": "sources/markdown/2013-erquicia-obrajes-anil/2013-erquicia-obrajes-anil.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2013-erquicia-obrajes-anil.pdf",
+    "output_path": "vault/Papers/2013-erquicia-obrajes-anil.md",
     "source_sha256": "47f8690e3d54bde5117352b7639e29e6b9f3e1180ecdeed1b77807273caa5582",
     "source_bytes": 1026508,
     "source_url": "https://repositorio.ues.edu.sv/server/api/core/bitstreams/55ddb975-5a67-47e7-9094-b426c17f9374/content",
@@ -2216,7 +2247,8 @@
     "creator": "Heriberto Erquicia",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 16,
@@ -2224,11 +2256,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/2013-erquicia-obrajes-anil.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2013-erquicia-obrajes-anil.pdf"
   },
   {
-    "source_path": "sources/institutional/2014-erquicia-estadistica-1854-arqueologia.pdf",
-    "output_path": "sources/markdown/2014-erquicia-estadistica-1854-arqueologia/2014-erquicia-estadistica-1854-arqueologia.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2014-erquicia-estadistica-1854-arqueologia.pdf",
+    "output_path": "vault/Papers/2014-erquicia-estadistica-1854-arqueologia.md",
     "source_sha256": "834938d0ac1cb4bd7bb9df2d58ec8dbb41bd75645be730fe13ba586397be5802",
     "source_bytes": 330805,
     "source_url": "https://www.asociaciontikal.com/wp-content/uploads/2017/07/Simp27-18-Erquicia.pdf",
@@ -2236,7 +2268,8 @@
     "creator": "José Heriberto Erquicia Cruz",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 9,
@@ -2244,11 +2277,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/2014-erquicia-estadistica-1854-arqueologia.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2014-erquicia-estadistica-1854-arqueologia.pdf"
   },
   {
-    "source_path": "sources/institutional/2025-flores-manzano-despues-ilopango.pdf",
-    "output_path": "sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2025-flores-manzano-despues-ilopango.pdf",
+    "output_path": "vault/Papers/2025-flores-manzano-despues-ilopango.md",
     "source_sha256": "0c5e6915c0a7e7e2f736ddcbbbaf63e297aa31e57907ab5e602a4aa686a8e13e",
     "source_bytes": 3474511,
     "source_url": "https://repositorio.utec.edu.sv/server/api/core/bitstreams/bde7c19d-6250-4ce7-9709-6e4cc3342b21/content",
@@ -2265,11 +2298,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/2025-flores-manzano-despues-ilopango.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2025-flores-manzano-despues-ilopango.pdf"
   },
   {
-    "source_path": "sources/institutional/2025-szymanski-prejs-san-isidro-figurines.pdf",
-    "output_path": "sources/markdown/2025-szymanski-prejs-san-isidro-figurines/2025-szymanski-prejs-san-isidro-figurines.md",
+    "source_path": "vault/Attachments/PDFs/institutional/2025-szymanski-prejs-san-isidro-figurines.pdf",
+    "output_path": "vault/Papers/2025-szymanski-prejs-san-isidro-figurines.md",
     "source_sha256": "17b264e3d59077c7f2e75cde1cb76bb20efaf71cde9b0b05841cd634652ce79c",
     "source_bytes": 1652850,
     "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A6E2C8408DEAB88D1EBE4BCFDC1FCBAA/S0003598X25000377a.pdf/of_puppets_and_puppeteers_preclassic_clay_figurines_from_san_isidro_el_salvador.pdf",
@@ -2286,11 +2319,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../institutional/2025-szymanski-prejs-san-isidro-figurines.pdf"
+    "source_link": "../Attachments/PDFs/institutional/2025-szymanski-prejs-san-isidro-figurines.pdf"
   },
   {
-    "source_path": "sources/institutional/anales-53.pdf",
-    "output_path": "sources/markdown/anales-53/anales-53.md",
+    "source_path": "vault/Attachments/PDFs/institutional/anales-53.pdf",
+    "output_path": "vault/Papers/anales-53.md",
     "source_sha256": "a777ef11d07aadac7274492c86160f8783418a7ba397eb957792c80e1abe7de6",
     "source_bytes": 41608031,
     "source_url": "https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359&refresh=6a74d5cbd4c911786041803",
@@ -2298,7 +2331,8 @@
     "creator": "MUNA / Ministerio de Cultura",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "partial",
     "error": "",
     "pages": 260,
@@ -2307,14 +2341,14 @@
     "empty_pages": 4,
     "warnings": [
       "Syntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight",
-      "page 1: Detected 6 diacritics",
-      "page 3: Detected 10 diacritics"
+      "page 1: Detected 9 diacritics",
+      "page 3: Detected 5 diacritics"
     ],
-    "source_link": "../../institutional/anales-53.pdf"
+    "source_link": "../Attachments/PDFs/institutional/anales-53.pdf"
   },
   {
-    "source_path": "sources/institutional/anales-54.pdf",
-    "output_path": "sources/markdown/anales-54/anales-54.md",
+    "source_path": "vault/Attachments/PDFs/institutional/anales-54.pdf",
+    "output_path": "vault/Papers/anales-54.md",
     "source_sha256": "7589747b0a52754325cb6a152f2dc611f03650196f80cdb3dd909eeaf5d91af0",
     "source_bytes": 21222431,
     "source_url": "https://www.cultura.gob.sv/download/revista-anales-54/?wpdmdl=3364&refresh=6a74d70fdfdca1786042127",
@@ -2322,7 +2356,8 @@
     "creator": "MUNA / Ministerio de Cultura",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "partial",
     "error": "",
     "pages": 186,
@@ -2332,11 +2367,11 @@
     "warnings": [
       "Syntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight"
     ],
-    "source_link": "../../institutional/anales-54.pdf"
+    "source_link": "../Attachments/PDFs/institutional/anales-54.pdf"
   },
   {
-    "source_path": "sources/institutional/anales-55.pdf",
-    "output_path": "sources/markdown/anales-55/anales-55.md",
+    "source_path": "vault/Attachments/PDFs/institutional/anales-55.pdf",
+    "output_path": "vault/Papers/anales-55.md",
     "source_sha256": "f8e42dc1e61925bf7c66d45e87e48a7ad17ae8cc5c339bc60f99d6529258372a",
     "source_bytes": 34763662,
     "source_url": "https://www.cultura.gob.sv/download/revista-anales-55/?wpdmdl=3454&refresh=6a74d714372131786042132",
@@ -2357,11 +2392,11 @@
       "page 92: Detected 342 diacritics",
       "page 101: Detected 6 diacritics"
     ],
-    "source_link": "../../institutional/anales-55.pdf"
+    "source_link": "../Attachments/PDFs/institutional/anales-55.pdf"
   },
   {
-    "source_path": "sources/institutional/anales-56.pdf",
-    "output_path": "sources/markdown/anales-56/anales-56.md",
+    "source_path": "vault/Attachments/PDFs/institutional/anales-56.pdf",
+    "output_path": "vault/Papers/anales-56.md",
     "source_sha256": "1d2b7a81f67a22b4060603c0f8a6f1b1b1c70648713b5d3c66dc5df6fcf7a171",
     "source_bytes": 54166451,
     "source_url": "https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459&refresh=6a74d718dc9461786042136",
@@ -2380,11 +2415,11 @@
       "Syntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight",
       "page 33: Image too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!\nImage too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!"
     ],
-    "source_link": "../../institutional/anales-56.pdf"
+    "source_link": "../Attachments/PDFs/institutional/anales-56.pdf"
   },
   {
-    "source_path": "sources/institutional/anales-57-58.pdf",
-    "output_path": "sources/markdown/anales-57-58/anales-57-58.md",
+    "source_path": "vault/Attachments/PDFs/institutional/anales-57-58.pdf",
+    "output_path": "vault/Papers/anales-57-58.md",
     "source_sha256": "6150f378e3419d6add03b19272d6a67e7b3f658233e113021f0608a74d06b714",
     "source_bytes": 43956339,
     "source_url": "https://www.cultura.gob.sv/download/revista-anales-57-y-58/?wpdmdl=3464&refresh=6a74d71d3754b1786042141",
@@ -2392,7 +2427,8 @@
     "creator": "MUNA / Ministerio de Cultura",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "partial",
     "error": "",
     "pages": 388,
@@ -2402,11 +2438,11 @@
     "warnings": [
       "Syntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight"
     ],
-    "source_link": "../../institutional/anales-57-58.pdf"
+    "source_link": "../Attachments/PDFs/institutional/anales-57-58.pdf"
   },
   {
-    "source_path": "sources/institutional/anales-59-60.pdf",
-    "output_path": "sources/markdown/anales-59-60/anales-59-60.md",
+    "source_path": "vault/Attachments/PDFs/institutional/anales-59-60.pdf",
+    "output_path": "vault/Papers/anales-59-60.md",
     "source_sha256": "4f9e0895927f79af4955b9d392757b45fc98c1328c60bcc169bf5867880179c8",
     "source_bytes": 8348622,
     "source_url": "https://www.cultura.gob.sv/download/revista-anales-59-y-60/?wpdmdl=3239&refresh=6a74d72175d7d1786042145",
@@ -2414,23 +2450,23 @@
     "creator": "MUNA / Ministerio de Cultura",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "partial",
     "error": "",
     "pages": 282,
-    "embedded_pages": 275,
-    "ocr_pages": 4,
+    "embedded_pages": 274,
+    "ocr_pages": 5,
     "empty_pages": 3,
     "warnings": [
       "Syntax Warning: Invalid Font Weight\nSyntax Warning: Invalid Font Weight",
-      "page 1: Detected 12 diacritics",
       "page 72: Detected 2 diacritics"
     ],
-    "source_link": "../../institutional/anales-59-60.pdf"
+    "source_link": "../Attachments/PDFs/institutional/anales-59-60.pdf"
   },
   {
-    "source_path": "sources/institutional/identidades-18-arqueologia.pdf",
-    "output_path": "sources/markdown/identidades-18-arqueologia/identidades-18-arqueologia.md",
+    "source_path": "vault/Attachments/PDFs/institutional/identidades-18-arqueologia.pdf",
+    "output_path": "vault/Papers/identidades-18-arqueologia.md",
     "source_sha256": "ca99dab67e4b8cd97bba1b8a576530672f672d57c54f34fa3b2e62dad87c5ff5",
     "source_bytes": 5154045,
     "source_url": "https://www.cultura.gob.sv/download/revista-identidades-18-2/?wpdmdl=89649&refresh=6a74d72610aa01786042150",
@@ -2438,7 +2474,8 @@
     "creator": "Ministerio de Cultura",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "partial",
     "error": "",
     "pages": 319,
@@ -2446,13 +2483,13 @@
     "ocr_pages": 5,
     "empty_pages": 5,
     "warnings": [
-      "page 1: Detected 97 diacritics"
+      "page 1: Detected 57 diacritics"
     ],
-    "source_link": "../../institutional/identidades-18-arqueologia.pdf"
+    "source_link": "../Attachments/PDFs/institutional/identidades-18-arqueologia.pdf"
   },
   {
-    "source_path": "sources/institutional/identidades-19.pdf",
-    "output_path": "sources/markdown/identidades-19/identidades-19.md",
+    "source_path": "vault/Attachments/PDFs/institutional/identidades-19.pdf",
+    "output_path": "vault/Papers/identidades-19.md",
     "source_sha256": "628d499496d6e4d0ca877cb147ac3387f7924cbbca27ab28c54d7ce75344ab19",
     "source_bytes": 3188087,
     "source_url": "https://www.cultura.gob.sv/download/revista-identidades-19/?wpdmdl=89655&refresh=6a74d72a9b15f1786042154",
@@ -2460,7 +2497,8 @@
     "creator": "Ministerio de Cultura",
     "ocr_mode": "auto",
     "ocr_language": "spa+eng",
-    "generated": "2026-08-06",
+    "ocr_dpi": 250,
+    "generated": "2026-08-10",
     "status": "complete",
     "error": "",
     "pages": 204,
@@ -2468,13 +2506,14 @@
     "ocr_pages": 6,
     "empty_pages": 0,
     "warnings": [
-      "page 88: Detected 22 diacritics"
+      "page 76: Detected 4 diacritics",
+      "page 88: Detected 31 diacritics"
     ],
-    "source_link": "../../institutional/identidades-19.pdf"
+    "source_link": "../Attachments/PDFs/institutional/identidades-19.pdf"
   },
   {
-    "source_path": "sources/public-domain/BSG_DELTA700FA.pdf",
-    "output_path": "sources/markdown/BSG_DELTA700FA/BSG_DELTA700FA.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/BSG_DELTA700FA.pdf",
+    "output_path": "vault/Papers/BSG_DELTA700FA.md",
     "source_sha256": "b75b8278f013d82d4c6f0c6264833866818483864914e02234bb54338617e5b8",
     "source_bytes": 48183303,
     "source_url": "https://archive.org/download/BSG_DELTA700FA/BSG_DELTA700FA_.pdf",
@@ -2496,11 +2535,11 @@
       "page 47: Detected 24 diacritics",
       "page 72: Empty page!!\nEmpty page!!"
     ],
-    "source_link": "../../public-domain/BSG_DELTA700FA.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/BSG_DELTA700FA.pdf"
   },
   {
-    "source_path": "sources/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf",
-    "output_path": "sources/markdown/arqueologia-cuzcatleca-valle-de-san-salvador/arqueologia-cuzcatleca-valle-de-san-salvador.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf",
+    "output_path": "vault/Papers/arqueologia-cuzcatleca-valle-de-san-salvador.md",
     "source_sha256": "ba023a3cc2cc4848a22c8cd99ca11ce0234ab7063248cfe40c49a14e823963e0",
     "source_bytes": 695960,
     "source_url": "https://archive.org/download/arqueologia-cuzcatleca-valle-de-san-salvador/Arqueolog%C3%ADa%20cuzcatleca%20valle%20de%20San%20Salvador%20-%20Jorge%20Lard%C3%A9%20y%20Lar%C3%ADn%201924.pdf",
@@ -2516,11 +2555,11 @@
     "ocr_pages": 5,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf"
   },
   {
-    "source_path": "sources/public-domain/documentosantigu00alva.pdf",
-    "output_path": "sources/markdown/documentosantigu00alva/documentosantigu00alva.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/documentosantigu00alva.pdf",
+    "output_path": "vault/Papers/documentosantigu00alva.md",
     "source_sha256": "93c830353b7d76cff543009ac22be0c4b3269fa63025181647d002e0ae4c38e0",
     "source_bytes": 2886657,
     "source_url": "https://archive.org/download/documentosantigu00alva/documentosantigu00alva.pdf",
@@ -2536,11 +2575,11 @@
     "ocr_pages": 0,
     "empty_pages": 6,
     "warnings": [],
-    "source_link": "../../public-domain/documentosantigu00alva.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/documentosantigu00alva.pdf"
   },
   {
-    "source_path": "sources/public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf",
-    "output_path": "sources/markdown/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf",
+    "output_path": "vault/Papers/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.md",
     "source_sha256": "a972c820de23f85eeb9b2cf2d2091b39b3ebcc67dac0946bd15bfe6d47f4f129",
     "source_bytes": 1960683,
     "source_url": "https://archive.org/download/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador/Hartman%201901%20Etnografiska%20unders%C3%B6kningar%20%C3%B6fver%20aztekerna%20i%20Salvador.pdf",
@@ -2560,11 +2599,11 @@
       "page 16: Detected 21 diacritics",
       "page 26: Detected 34 diacritics"
     ],
-    "source_link": "../../public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf"
   },
   {
-    "source_path": "sources/public-domain/historiadeelsalv01barb.pdf",
-    "output_path": "sources/markdown/historiadeelsalv01barb/historiadeelsalv01barb.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/historiadeelsalv01barb.pdf",
+    "output_path": "vault/Papers/historiadeelsalv01barb.md",
     "source_sha256": "90d05032d6d349ea3b23f880322abda3a0eada3469e2580cb946b02a9222284b",
     "source_bytes": 18198562,
     "source_url": "https://archive.org/download/historiadeelsalv01barb/historiadeelsalv01barb.pdf",
@@ -2582,11 +2621,11 @@
     "warnings": [
       "page 1: Detected 135 diacritics"
     ],
-    "source_link": "../../public-domain/historiadeelsalv01barb.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/historiadeelsalv01barb.pdf"
   },
   {
-    "source_path": "sources/public-domain/jstor-534659.pdf",
-    "output_path": "sources/markdown/jstor-534659/jstor-534659.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/jstor-534659.pdf",
+    "output_path": "vault/Papers/jstor-534659.md",
     "source_sha256": "68ed8e4d73ae2900224b8bec6e72fcd7708a01006eaf99c8aa9bb0ccd8af39a4",
     "source_bytes": 592229,
     "source_url": "https://archive.org/download/jstor-534659/534659.pdf",
@@ -2602,11 +2641,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../public-domain/jstor-534659.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/jstor-534659.pdf"
   },
   {
-    "source_path": "sources/public-domain/jstor-659933.pdf",
-    "output_path": "sources/markdown/jstor-659933/jstor-659933.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/jstor-659933.pdf",
+    "output_path": "vault/Papers/jstor-659933.md",
     "source_sha256": "d6781927748ce32924b19e33fcf6e1c1b8c293c665ec2b984b0b6ab3071a635e",
     "source_bytes": 754451,
     "source_url": "https://archive.org/download/jstor-659933/659933.pdf",
@@ -2622,11 +2661,11 @@
     "ocr_pages": 0,
     "empty_pages": 0,
     "warnings": [],
-    "source_link": "../../public-domain/jstor-659933.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/jstor-659933.pdf"
   },
   {
-    "source_path": "sources/public-domain/notesoncentralam00squi.pdf",
-    "output_path": "sources/markdown/notesoncentralam00squi/notesoncentralam00squi.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/notesoncentralam00squi.pdf",
+    "output_path": "vault/Papers/notesoncentralam00squi.md",
     "source_sha256": "4814be427bf5fd419edb3743dec4a909ba38bf4711a6dc19d9c2440714cada96",
     "source_bytes": 25927002,
     "source_url": "https://archive.org/download/notesoncentralam00squi/notesoncentralam00squi.pdf",
@@ -2648,11 +2687,11 @@
       "page 269: Detected 38 diacritics",
       "page 438: Detected 289 diacritics"
     ],
-    "source_link": "../../public-domain/notesoncentralam00squi.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/notesoncentralam00squi.pdf"
   },
   {
-    "source_path": "sources/public-domain/sansalvadorundh00beregoog.pdf",
-    "output_path": "sources/markdown/sansalvadorundh00beregoog/sansalvadorundh00beregoog.md",
+    "source_path": "vault/Attachments/PDFs/public-domain/sansalvadorundh00beregoog.pdf",
+    "output_path": "vault/Papers/sansalvadorundh00beregoog.md",
     "source_sha256": "92a484fca4667a66adc405d69db33b1c6b638192f234944103aa5ac95d59c09c",
     "source_bytes": 3612696,
     "source_url": "https://archive.org/download/sansalvadorundh00beregoog/sansalvadorundh00beregoog.pdf",
@@ -2693,6 +2732,6 @@
       "page 94: Empty page!!\nEmpty page!!",
       "page 95: Empty page!!\nEmpty page!!"
     ],
-    "source_link": "../../public-domain/sansalvadorundh00beregoog.pdf"
+    "source_link": "../Attachments/PDFs/public-domain/sansalvadorundh00beregoog.pdf"
   }
 ]

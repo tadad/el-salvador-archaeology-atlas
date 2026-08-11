@@ -31,9 +31,9 @@ linked but distinct subjects:
 - **Cerro El Trapiche/El Trapiche mound group chronology** — a major anchor for
   regional ceramic and architectural sequences.
 
-Start with the local FUNDAR copies of [Coe's El Trapiche excavations](sources/fundar/coe_trapiche.pdf),
-[Boggs on Tazumal](sources/fundar/tzunpame_boggs_tazumal.pdf), and
-[Erquicia on Los Gavilanes](sources/institutional/2007-erquicia-los-gavilanes.pdf).
+Start with the local FUNDAR copies of [Coe's El Trapiche excavations](vault/Attachments/PDFs/fundar/coe_trapiche.pdf),
+[Boggs on Tazumal](vault/Attachments/PDFs/fundar/tzunpame_boggs_tazumal.pdf), and
+[Erquicia on Los Gavilanes](vault/Attachments/PDFs/institutional/2007-erquicia-los-gavilanes.pdf).
 
 ### Cara Sucia and the Cotzumalhuapa connection
 
@@ -61,9 +61,9 @@ centers, agriculture, and colonial reuse:
   active research subjects; older dates and catastrophic narratives must be
   checked against newer volcanological work.
 
-Useful local starting points include [Dimick's 1941 San Andrés notes](sources/fundar/dimick_1941.pdf),
-[Boggs's San Andrés report](sources/fundar/tzunpame_boggs_sanandres.pdf),
-[Amaroli and Dull on preserved milpas](sources/fundar/milpas.pdf), and the
+Useful local starting points include [Dimick's 1941 San Andrés notes](vault/Attachments/PDFs/fundar/dimick_1941.pdf),
+[Boggs's San Andrés report](vault/Attachments/PDFs/fundar/tzunpame_boggs_sanandres.pdf),
+[Amaroli and Dull on preserved milpas](vault/Attachments/PDFs/fundar/milpas.pdf), and the
 [UNESCO/ICOMOS evaluation of Joya de Cerén](https://whc.unesco.org/document/154008).
 
 ### Cihuatán, Las Marías, and the Early Postclassic
@@ -79,10 +79,10 @@ important but require reassessment. Similar objects or iconography do not by
 themselves establish ethnicity, conquest, or political control.
 
 The FUNDAR collection contains the primary research sequence, including the
-[1977–78 monograph](sources/fundar/bruhns.pdf), [P-7 excavation report](sources/fundar/P7.pdf),
-[burned palace notice](<sources/fundar/Palacio 2004.pdf>), [site-boundary survey](sources/fundar/limits.pdf),
-[archaeobotanical final report](sources/fundar/botanical_final.pdf), and
-[Las Marías Tláloc rescue report](sources/fundar/tlalocreport.pdf).
+[1977–78 monograph](vault/Attachments/PDFs/fundar/bruhns.pdf), [P-7 excavation report](vault/Attachments/PDFs/fundar/P7.pdf),
+[burned palace notice](<vault/Attachments/PDFs/fundar/Palacio 2004.pdf>), [site-boundary survey](vault/Attachments/PDFs/fundar/limits.pdf),
+[archaeobotanical final report](vault/Attachments/PDFs/fundar/botanical_final.pdf), and
+[Las Marías Tláloc rescue report](vault/Attachments/PDFs/fundar/tlalocreport.pdf).
 
 ### Lake Güija and underwater/island archaeology
 
@@ -98,9 +98,9 @@ rock art, islands, inundated contexts, and modern heritage threats.
 - **Güija Xipe Tótec sculptures** — artifact histories, looting/provenance, and
   Nahua religious interpretation.
 
-See the [Igualtepeque threat report](sources/fundar/igualtepeque.pdf),
-[Lake Güija plaque study](sources/fundar/guijaplaque.pdf), [Teopán sculpture study](sources/fundar/teopan.pdf),
-and [Boggs on the Güija Xipe sculptures](sources/fundar/boggs_xipes.pdf).
+See the [Igualtepeque threat report](vault/Attachments/PDFs/fundar/igualtepeque.pdf),
+[Lake Güija plaque study](vault/Attachments/PDFs/fundar/guijaplaque.pdf), [Teopán sculpture study](vault/Attachments/PDFs/fundar/teopan.pdf),
+and [Boggs on the Güija Xipe sculptures](vault/Attachments/PDFs/fundar/boggs_xipes.pdf).
 
 ### Eastern El Salvador and the Gulf of Fonseca
 
@@ -120,11 +120,11 @@ classification:
 - **Usulután ovens and eastern ceramics** — production and exchange rather than
   just typological labels.
 
-Begin with [Andrews on Quelepa flutes](sources/fundar/wyllys_flautas.pdf),
-[Beaudry on Asanyamba ceramics](sources/fundar/beaudry_asanyamba.pdf),
-[Haberland on Corinto](sources/fundar/haberland_corinto.pdf),
-[Coladan's rock-art synthesis](sources/institutional/1998-coladan-pinturas-rupestres-oriente.pdf),
-and [Lothrop on Guatajiagua potters](sources/fundar/lothrop_guatajiagua.pdf).
+Begin with [Andrews on Quelepa flutes](vault/Attachments/PDFs/fundar/wyllys_flautas.pdf),
+[Beaudry on Asanyamba ceramics](vault/Attachments/PDFs/fundar/beaudry_asanyamba.pdf),
+[Haberland on Corinto](vault/Attachments/PDFs/fundar/haberland_corinto.pdf),
+[Coladan's rock-art synthesis](vault/Attachments/PDFs/institutional/1998-coladan-pinturas-rupestres-oriente.pdf),
+and [Lothrop on Guatajiagua potters](vault/Attachments/PDFs/fundar/lothrop_guatajiagua.pdf).
 
 ### Cuscatlán, Tacuzcalco, and conquest landscapes
 
@@ -140,11 +140,11 @@ de Cuzcatlán should be treated as a research problem, not a fixed map. Separate
 - the historical geography of Izalco, Nahulingo, Caluco, Nahuizalco, and the
   cacao-producing Pacific towns.
 
-The indispensable local source trail is [Alvarado's 1524 letters](sources/public-domain/documentosantigu00alva.pdf),
-[García de Palacio's 1576 report](sources/public-domain/sansalvadorundh00beregoog.pdf),
-[Amaroli's *En la búsqueda de Cuscatlán*](sources/fundar/buscacuscatlan.pdf),
-[the Antiguo Cuscatlán investigations](sources/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf),
-and Flores Manzano's [2025 synthesis and preservation-zone revisit](sources/markdown/2025-flores-manzano-despues-ilopango/2025-flores-manzano-despues-ilopango.md).
+The indispensable local source trail is [Alvarado's 1524 letters](vault/Attachments/PDFs/public-domain/documentosantigu00alva.pdf),
+[García de Palacio's 1576 report](vault/Attachments/PDFs/public-domain/sansalvadorundh00beregoog.pdf),
+[Amaroli's *En la búsqueda de Cuscatlán*](vault/Attachments/PDFs/fundar/buscacuscatlan.pdf),
+[the Antiguo Cuscatlán investigations](vault/Attachments/PDFs/institutional/1994-amaroli-hermes-velasquez-antiguo-cuscatlan.pdf),
+and Flores Manzano's [2025 synthesis and preservation-zone revisit](vault/Papers/2025-flores-manzano-despues-ilopango.md).
 The 2025 paper is especially useful for tracing unpublished 1992–95 rescue
 records, but distinguish the earlier excavators' evidence from Flores Manzano's
 2024 observations and from his explicitly hypothetical reconstruction.
@@ -162,10 +162,10 @@ Do not stop at 1524. Strong Salvadoran projects cover:
 - **Rail, industrial, military, funerary, and republican archaeology** — present
   in newer Salvadoran work and worth indexing separately from pre-Hispanic sites.
 
-The [PAHES first-phase report](sources/institutional/2009-erquicia-sitios-arqueologicos-historicos.pdf),
-[San Vicente/La Paz indigo survey](sources/institutional/2013-erquicia-obrajes-anil.pdf),
-[Ahuachapán church investigation](sources/fundar/asuncion_ahuachapan.pdf), and
-[Izalco church report and photographs](sources/fundar/asuncion_izalco.pdf)
+The [PAHES first-phase report](vault/Attachments/PDFs/institutional/2009-erquicia-sitios-arqueologicos-historicos.pdf),
+[San Vicente/La Paz indigo survey](vault/Attachments/PDFs/institutional/2013-erquicia-obrajes-anil.pdf),
+[Ahuachapán church investigation](vault/Attachments/PDFs/fundar/asuncion_ahuachapan.pdf), and
+[Izalco church report and photographs](vault/Attachments/PDFs/fundar/asuncion_izalco.pdf)
 provide a strong entry.
 
 ## Peoples, languages, and cultural labels
@@ -186,10 +186,10 @@ modern labels onto artifacts:
 - **Xinca, Chorotega, Ulua, and other southeastern frontier labels** — potential
   comparative or documentary leads, not blanket explanations.
 
-For the history of the “Pipil question,” compare [Amaroli's early Pipil manuscript](sources/fundar/earliest_pipil.pdf),
-[Haberland on Marihua red-on-buff](sources/fundar/haberland_marihua.pdf),
-[Vivó Escoto on Nahuat settlement](sources/fundar/vivo_escoto_poblamiento.pdf),
-and [Bruhns on the southeastern frontier](sources/fundar/frontier.pdf).
+For the history of the “Pipil question,” compare [Amaroli's early Pipil manuscript](vault/Attachments/PDFs/fundar/earliest_pipil.pdf),
+[Haberland on Marihua red-on-buff](vault/Attachments/PDFs/fundar/haberland_marihua.pdf),
+[Vivó Escoto on Nahuat settlement](vault/Attachments/PDFs/fundar/vivo_escoto_poblamiento.pdf),
+and [Bruhns on the southeastern frontier](vault/Attachments/PDFs/fundar/frontier.pdf).
 
 ## Artifact and technology trails
 
@@ -210,7 +210,7 @@ Each of these can become its own source-linked cluster:
 - Ancient fields, plant casts, botanical remains, cacao, maize, agave, and
   household storage.
 
-The FUNDAR index is especially valuable here: [downloaded reference catalogue](sources/fundar/INDEX.md).
+The FUNDAR index is especially valuable here: [downloaded reference catalogue](vault/Collections/FUNDAR.md).
 
 ## Legends, oral traditions, and mythic complexes
 
@@ -240,11 +240,11 @@ a nationalist framework—all at once.
 | Cangrejito de oro / enchanted treasure | Water, buried wealth, and sacred-place narratives | Often hybrid colonial and Indigenous motifs |
 
 The best citation path begins with Carl Hartman's early Nahua/Pipil fieldwork
-([1901 ethnographic study](sources/public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf)
-and [1907 mythology article](sources/public-domain/jstor-534659.pdf)), then
+([1901 ethnographic study](vault/Attachments/PDFs/public-domain/hartman-1901-etnografiska-undersokningar-ofver-aztekerna-i-salvador.pdf)
+and [1907 mythology article](vault/Attachments/PDFs/public-domain/jstor-534659.pdf)), then
 Leonhard Schultze-Jena's 1930 Izalco recordings, and María de Baratta's later
 folklore and ethnomusicological collection. The last two are linked in the
-[source index](sources/INDEX.md) because the readily available editions require
+[source index](vault/Library.md) because the readily available editions require
 more careful rights handling.
 
 ## Legendary and disputed historical figures
@@ -289,10 +289,10 @@ Preserve these claims because they influenced research, but label them:
 - “Pompeii of the Americas” as a useful publicity metaphor but a poor analytical
   model for Joya de Cerén.
 
-The historiography itself is a subject. See [Escamilla and Fowler](sources/institutional/2012-escamilla-fowler-practica-arqueologia.pdf),
-[Erquicia on the 1854 state antiquities inventory](sources/institutional/2014-erquicia-estadistica-1854-arqueologia.pdf),
-[Montessus's 1891 study](sources/public-domain/BSG_DELTA700FA.pdf), and
-[Lardé's 1924 survey](sources/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf).
+The historiography itself is a subject. See [Escamilla and Fowler](vault/Attachments/PDFs/institutional/2012-escamilla-fowler-practica-arqueologia.pdf),
+[Erquicia on the 1854 state antiquities inventory](vault/Attachments/PDFs/institutional/2014-erquicia-estadistica-1854-arqueologia.pdf),
+[Montessus's 1891 study](vault/Attachments/PDFs/public-domain/BSG_DELTA700FA.pdf), and
+[Lardé's 1924 survey](vault/Attachments/PDFs/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf).
 
 ## Primary-source ladder
 
@@ -307,13 +307,13 @@ The historiography itself is a subject. See [Escamilla and Fowler](sources/insti
 5. **Seventeenth-century chronicles:** Remesal and Fuentes y Guzmán; later than
    conquest and frequently derivative, but crucial for the transmitted record.
 6. **1797 — José Mariano Moziño on xiquilite/indigo:** production knowledge and
-   colonial economy ([local facsimile](sources/fundar/anil_mozino.pdf)).
+   colonial economy ([local facsimile](vault/Attachments/PDFs/fundar/anil_mozino.pdf)).
 7. **1807 — Antonio Gutiérrez y Ulloa:** province-wide administrative description;
    linked for retrieval in the source index.
 8. **1854 state statistics and 1859 municipal/Gaceta reports:** early state
    antiquities inventory and reports of ruins including the Cihuatán area.
 9. **1855 — E. G. Squier:** direct observations and compiled geography of
-   Honduras and San Salvador ([local copy](sources/public-domain/notesoncentralam00squi.pdf)).
+   Honduras and San Salvador ([local copy](vault/Attachments/PDFs/public-domain/notesoncentralam00squi.pdf)).
 10. **Late nineteenth/early twentieth century surveys:** Barberena, Montessus,
     Hartman, Peccorini, Spinden, Lardé, and early museum records.
 11. **1930 onward Indigenous-language and folklore recordings:** Schultze-Jena,

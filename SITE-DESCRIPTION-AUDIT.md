@@ -17,17 +17,13 @@ Review and correct existing records. Do not add speculative details, reconstruct
 
 ## Files to inspect
 
-Each site may have information in several files:
+Each atlas subject has one canonical `vault/Places/<place_id>.md` document.
+Properties hold identity, location, filter, and latest-date summaries. The
+Markdown body holds the public overview, chronology, investigation summary,
+discoveries, research history, location warning, and exact citations.
 
-- `app/src/data/digs.ts`: name, coordinates, precision, type, marker explanation, and sources.
-- `app/src/data/site-stories.ts`: summary, date, investigation method, and discoveries.
-- `app/src/data/site-classifications.ts`: period, culture, and latest documented field-investigation year.
-- `app/src/data/site-study-history.ts`: chronological fieldwork, recording, analysis, synthesis, and reinterpretation events.
-
-All regions, including the western expansion, use these same three canonical
-datasets. Do not create a region-specific data module.
-
-Search for the stable site ID in every data file before editing it.
+All regions use the same Place ontology. Do not create region-specific data
+modules or a parallel application registry.
 
 ### Protect the edit scope
 
@@ -46,14 +42,15 @@ or generating a new text extraction.
 Resolve a cited source in this order:
 
 1. Read the source `file` value in the site record and search for that basename
-   under `sources/` and `sources/markdown/`.
-2. If the basename does not match, search `sources/**/INDEX.md` and other local
-   source indexes by title, author, and year.
+   under `vault/Attachments/PDFs/` and `vault/Papers/`.
+2. If the basename does not match, search `vault/Collections/*.md` and other
+   local source indexes by title, author, and year.
 3. Search filename variants and related parts of the same publication. When a
    report is divided into chapters, volumes, appendices, or parts, identify and
    search every local derivative in that source family.
 4. Use the Markdown derivative for discovery and reading. Trace useful passages
-   to the corresponding PDF under `sources/` before relying on the claim.
+   to the corresponding PDF under `vault/Attachments/PDFs/` before relying on
+   the claim.
 5. Use the PDF only for final verification of consequential claims,
    quotations, names, dates, diacritics, tables, captions, maps, or other
    layout that Markdown may not preserve.
@@ -186,7 +183,7 @@ Label historical background as context. Do not present it as evidence for a pre-
 
 - Leave period and culture arrays empty when the sources do not support an assignment.
 - Use the latest documented field visit, survey, excavation, site recording, or condition assessment for `lastInvestigatedYear`.
-- Record every substantiated study in `site-study-history.ts`, distinguishing fieldwork, formal recording, collection analysis, archival synthesis, condition assessment, and reinterpretation.
+- Record every substantiated study in the Place document's `## Research history`, distinguishing fieldwork, formal recording, collection analysis, archival synthesis, condition assessment, and reinterpretation.
 - A later analysis or reinterpretation belongs in the study history and may become the atlas's “Latest study,” but it does not replace the separate last-field-investigation value.
 - Do not use a publication year as an investigation or study year merely because it appears in a title or citation. Count it only when the source itself constitutes a substantive new analysis, synthesis, or reinterpretation, and label that activity explicitly.
 - Preserve ranges, “by” dates, decades, and uncertainty in the display label. Use the endpoint only for ordering and filtering; do not present it as an exact field season.

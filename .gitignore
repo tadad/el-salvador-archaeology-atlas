@@ -4,10 +4,14 @@ __pycache__/
 
 # Local source archive. The repository retains source URLs, hashes, and
 # page-addressable Markdown derivatives instead of duplicating the PDFs.
-sources/fundar/
-sources/institutional/
-sources/public-domain/
+vault/Attachments/PDFs/fundar/
+vault/Attachments/PDFs/institutional/
+vault/Attachments/PDFs/public-domain/
 app/public/pdfs/
+
+# Per-user Obsidian window state
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
 
 # Next.js and local browser output
 app/node_modules/

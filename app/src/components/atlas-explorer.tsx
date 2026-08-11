@@ -3,22 +3,14 @@
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { digs, precisionMeta, type Dig, type Precision } from "@/data/digs";
+import { VaultMarkdown } from "@/components/vault-markdown";
 import {
-  cultureDescriptions,
-  cultureOrder,
-  periodDescriptions,
-  periodOrder,
-  siteClassifications,
-  type Culture,
-  type Period,
-} from "@/data/site-classifications";
-import {
-  latestStudyEvent,
-  siteStudyHistory,
+  precisionMeta,
   studyKindLabels,
-} from "@/data/site-study-history";
-import { siteStories } from "@/data/site-stories";
+  type AtlasData,
+  type AtlasPlace,
+  type Precision,
+} from "@/lib/atlas-types";
 
 const ExcavationMap = dynamic(() => import("./excavation-map"), {
   ssr: false,
@@ -34,19 +26,13 @@ const precisionOrder: Precision[] = ["published", "landmark", "approx"];
 const siteQueryParam = "site";
 const unknownFacetValue = "Unknown" as const;
 
-type PeriodFilter = Period | typeof unknownFacetValue;
-type CultureFilter = Culture | typeof unknownFacetValue;
-
-const periodOptions: readonly PeriodFilter[] = [...periodOrder, unknownFacetValue];
-const cultureOptions: readonly CultureFilter[] = [...cultureOrder, unknownFacetValue];
-
 function matchesFacet(values: readonly string[], filter: string) {
   return filter === unknownFacetValue ? values.length === 0 : values.includes(filter);
 }
 
-function siteIdFromUrl() {
+function siteIdFromUrl(places: AtlasPlace[]) {
   const siteId = new URL(window.location.href).searchParams.get(siteQueryParam);
-  return siteId && digs.some((dig) => dig.id === siteId) ? siteId : null;
+  return siteId && places.some((place) => place.id === siteId) ? siteId : null;
 }
 
 function updateSiteInUrl(siteId: string | null, mode: "push" | "replace" = "push") {
@@ -58,38 +44,39 @@ function updateSiteInUrl(siteId: string | null, mode: "push" | "replace" = "push
   window.history[`${mode}State`](null, "", url);
 }
 
-const periodCounts = Object.fromEntries(
-  periodOptions.map((period) => [
-    period,
-    digs.filter((dig) => matchesFacet(siteClassifications[dig.id].periods, period)).length,
-  ]),
-) as Record<PeriodFilter, number>;
-
-const cultureCounts = Object.fromEntries(
-  cultureOptions.map((culture) => [
-    culture,
-    digs.filter((dig) => matchesFacet(siteClassifications[dig.id].cultures, culture))
-      .length,
-  ]),
-) as Record<CultureFilter, number>;
-
-function studyYearFor(siteId: string) {
-  return (
-    latestStudyEvent(siteId)?.sortYear ??
-    siteClassifications[siteId].lastInvestigatedYear
-  );
+function studyYearFor(place: AtlasPlace) {
+  return place.latestStudyYear ?? place.lastFieldworkYear;
 }
 
-const knownStudyYears = digs
-  .map((dig) => studyYearFor(dig.id))
-  .filter((year): year is number => year !== null);
-
-const studyYearBounds = {
-  min: Math.min(...knownStudyYears),
-  max: Math.max(...knownStudyYears),
-};
-
-export function AtlasExplorer() {
+export function AtlasExplorer({ data }: { data: AtlasData }) {
+  const digs = data.places;
+  const periodOptions = [...data.periods.map((period) => period.name), unknownFacetValue];
+  const cultureOptions = [...data.cultures.map((culture) => culture.name), unknownFacetValue];
+  const periodDescriptions = Object.fromEntries(
+    data.periods.map((period) => [period.name, period.description]),
+  );
+  const cultureDescriptions = Object.fromEntries(
+    data.cultures.map((culture) => [culture.name, culture.description]),
+  );
+  const periodCounts = Object.fromEntries(
+    periodOptions.map((period) => [
+      period,
+      digs.filter((dig) => matchesFacet(dig.periods, period)).length,
+    ]),
+  );
+  const cultureCounts = Object.fromEntries(
+    cultureOptions.map((culture) => [
+      culture,
+      digs.filter((dig) => matchesFacet(dig.cultures, culture)).length,
+    ]),
+  );
+  const knownStudyYears = digs
+    .map(studyYearFor)
+    .filter((year): year is number => year !== null);
+  const studyYearBounds = {
+    min: Math.min(...knownStudyYears),
+    max: Math.max(...knownStudyYears),
+  };
   const panelRef = useRef<HTMLElement>(null);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [query, setQuery] = useState("");
@@ -98,8 +85,8 @@ export function AtlasExplorer() {
     landmark: true,
     approx: true,
   });
-  const [activePeriods, setActivePeriods] = useState<PeriodFilter[]>([]);
-  const [activeCultures, setActiveCultures] = useState<CultureFilter[]>([]);
+  const [activePeriods, setActivePeriods] = useState<string[]>([]);
+  const [activeCultures, setActiveCultures] = useState<string[]>([]);
   const [yearRange, setYearRange] = useState(studyYearBounds);
   const [openFacet, setOpenFacet] = useState<"period" | "culture" | "year" | null>(null);
 
@@ -110,23 +97,19 @@ export function AtlasExplorer() {
   const visibleDigs = useMemo(
     () =>
       digs.filter((dig) => {
-        const classification = siteClassifications[dig.id];
-        const studyYear = studyYearFor(dig.id);
+        const studyYear = studyYearFor(dig);
         const matchesPeriod =
           activePeriods.length === 0 ||
-          activePeriods.some((period) => matchesFacet(classification.periods, period));
+          activePeriods.some((period) => matchesFacet(dig.periods, period));
         const matchesCulture =
           activeCultures.length === 0 ||
-          activeCultures.some((culture) => matchesFacet(classification.cultures, culture));
+          activeCultures.some((culture) => matchesFacet(dig.cultures, culture));
         const matchesYear =
           !isYearFiltered ||
           (studyYear !== null &&
             studyYear >= yearRange.min &&
             studyYear <= yearRange.max);
-        const studyText = (siteStudyHistory[dig.id] ?? [])
-          .map((event) => `${event.date} ${event.description} ${event.evidence}`)
-          .join(" ");
-        const searchableText = `${dig.name} ${dig.kind} ${dig.basis} ${classification.periods.join(" ")} ${classification.cultures.join(" ")} ${classification.lastInvestigatedLabel ?? classification.lastInvestigatedYear ?? ""} ${studyText} ${Object.values(siteStories[dig.id] ?? {}).join(" ")}`;
+        const searchableText = `${dig.name} ${dig.kind} ${dig.basis} ${dig.periods.join(" ")} ${dig.cultures.join(" ")} ${dig.lastFieldworkLabel ?? ""} ${dig.body}`;
 
         return (
           activePrecision[dig.precision] &&
@@ -155,16 +138,10 @@ export function AtlasExplorer() {
   const selected = selectedId
     ? visibleDigs.find((dig) => dig.id === selectedId) ?? null
     : null;
-  const selectedStudies = selected
-    ? [...(siteStudyHistory[selected.id] ?? [])].sort(
-        (left, right) => (right.sortYear ?? -Infinity) - (left.sortYear ?? -Infinity),
-      )
-    : [];
-  const selectedLatestStudy = selected ? latestStudyEvent(selected.id) : null;
 
   useEffect(() => {
     function restoreSelectionFromUrl() {
-      setSelectedId(siteIdFromUrl());
+      setSelectedId(siteIdFromUrl(digs));
     }
 
     restoreSelectionFromUrl();
@@ -188,7 +165,7 @@ export function AtlasExplorer() {
     });
   }
 
-  function togglePeriod(period: PeriodFilter) {
+  function togglePeriod(period: string) {
     setActivePeriods((current) =>
       current.includes(period)
         ? current.filter((candidate) => candidate !== period)
@@ -196,7 +173,7 @@ export function AtlasExplorer() {
     );
   }
 
-  function toggleCulture(culture: CultureFilter) {
+  function toggleCulture(culture: string) {
     setActiveCultures((current) =>
       current.includes(culture)
         ? current.filter((candidate) => candidate !== culture)
@@ -212,9 +189,9 @@ export function AtlasExplorer() {
     setOpenFacet(null);
   }
 
-  function selectDig(dig: Dig) {
+  function selectDig(dig: AtlasPlace) {
     setSelectedId(dig.id);
-    if (siteIdFromUrl() !== dig.id) updateSiteInUrl(dig.id);
+    if (siteIdFromUrl(digs) !== dig.id) updateSiteInUrl(dig.id);
     panelRef.current?.scrollTo({ top: 0, behavior: "smooth" });
   }
 
@@ -225,7 +202,7 @@ export function AtlasExplorer() {
         <nav className="masthead-nav" aria-label="Primary navigation">
           <span aria-current="page">Atlas</span>
           <Link href="/unknown">Unknown</Link>
-          <Link href="/sources.md">Sources</Link>
+          <Link href="/sources/places">Wiki</Link>
         </nav>
       </header>
 
@@ -466,8 +443,8 @@ export function AtlasExplorer() {
                 <div>
                   <dt>Period</dt>
                   <dd>
-                    {siteClassifications[selected.id].periods.length ? (
-                      siteClassifications[selected.id].periods.map((period) => (
+                    {selected.periods.length ? (
+                      selected.periods.map((period) => (
                         <span className="classification-tag" key={period}>{period}</span>
                       ))
                     ) : (
@@ -478,8 +455,8 @@ export function AtlasExplorer() {
                 <div>
                   <dt>Culture</dt>
                   <dd>
-                    {siteClassifications[selected.id].cultures.length ? (
-                      siteClassifications[selected.id].cultures.map((culture) => (
+                    {selected.cultures.length ? (
+                      selected.cultures.map((culture) => (
                         <span className="classification-tag" key={culture}>{culture}</span>
                       ))
                     ) : (
@@ -490,16 +467,17 @@ export function AtlasExplorer() {
                 <div>
                   <dt>Latest study</dt>
                   <dd>
-                    {selectedLatestStudy ? (
+                    {selected.latestStudyLabel ? (
                       <>
-                        {selectedLatestStudy.date}
-                        <span className="classification-qualifier">
-                          {studyKindLabels[selectedLatestStudy.kind]}
-                        </span>
+                        {selected.latestStudyLabel}
+                        {selected.latestStudyKind ? (
+                          <span className="classification-qualifier">
+                            {studyKindLabels[selected.latestStudyKind] ?? selected.latestStudyKind}
+                          </span>
+                        ) : null}
                       </>
                     ) : (
-                      siteClassifications[selected.id].lastInvestigatedLabel ??
-                      siteClassifications[selected.id].lastInvestigatedYear ??
+                      selected.lastFieldworkLabel ??
                       "Not documented in the cited papers"
                     )}
                   </dd>
@@ -507,110 +485,18 @@ export function AtlasExplorer() {
                 <div>
                   <dt>Last field investigation</dt>
                   <dd>
-                    {siteClassifications[selected.id].lastInvestigatedLabel ??
-                      siteClassifications[selected.id].lastInvestigatedYear ??
+                    {selected.lastFieldworkLabel ??
                       "Not documented in the cited papers"}
                   </dd>
                 </div>
               </dl>
 
-              <p className="record-lede">{siteStories[selected.id].overview}</p>
-
-              <div className="story-sections" aria-label={`${selected.name} archaeological story`}>
-                <section className="story-section story-when">
-                  <p className="story-label">When</p>
-                  <p>{siteStories[selected.id].dates}</p>
-                </section>
-                <section className="story-section">
-                  <p className="story-label">How it was investigated</p>
-                  <p>{siteStories[selected.id].fieldwork}</p>
-                </section>
-                <section className="story-section story-discoveries">
-                  <p className="story-label">What archaeologists found</p>
-                  <p>{siteStories[selected.id].discoveries}</p>
-                </section>
+              <div className="place-document">
+                <VaultMarkdown>{selected.body}</VaultMarkdown>
               </div>
-
-              {selectedStudies.length ? (
-                <section className="study-history" aria-labelledby="study-history-heading">
-                  <div className="study-history-heading">
-                    <p className="story-label" id="study-history-heading">Study history</p>
-                    <p>Fieldwork and later scholarship are listed separately.</p>
-                  </div>
-                  <ol className="study-timeline">
-                    {selectedStudies.map((event, index) => (
-                      <li key={`${event.date}-${event.kind}-${index}`}>
-                        <div className="study-date">{event.date}</div>
-                        <div className="study-event">
-                          <span className={`study-kind study-kind-${event.kind}`}>
-                            {studyKindLabels[event.kind]}
-                            {event.siteAttribution === "uncertain" ? " · Site attribution uncertain" : ""}
-                          </span>
-                          <p>{event.description}</p>
-                          <cite>{event.evidence}</cite>
-                        </div>
-                      </li>
-                    ))}
-                  </ol>
-                </section>
-              ) : null}
-
-              <div className="map-evidence">
-                <p className="map-evidence-heading">About this marker</p>
-                <p className="record-note">{selected.note}</p>
-
-                <dl className="record-facts">
-                  <div>
-                    <dt>Coordinates</dt>
-                    <dd>
-                      {selected.lat.toFixed(4)}, {selected.lon.toFixed(4)}
-                    </dd>
-                  </div>
-                  <div>
-                    <dt>Placed from</dt>
-                    <dd>{selected.basis}</dd>
-                  </div>
-                </dl>
-              </div>
-
-              <div className="source-section">
-                <p className="source-heading">
-                  Evidence &amp; exact citation{selected.sources.length > 1 ? "s" : ""}
-                </p>
-                {selected.sources.map((source) => (
-                  <div className="source-card" key={`${source.file}-${source.pages}`}>
-                    <div>
-                      <span className="source-file">{source.file}</span>
-                      <span className="source-pages">{source.pages}</span>
-                    </div>
-                    <div className="source-actions">
-                      <a
-                        href={source.href}
-                        target="_blank"
-                        rel="noreferrer"
-                        aria-label={`Open ${source.file}, ${source.pages}`}
-                      >
-                        {source.format === "web" ? "Open source" : "Open cited PDF"}{" "}
-                        <span aria-hidden="true">↗</span>
-                      </a>
-                      {source.originalUrl ? (
-                        <a
-                          className="publisher-link"
-                          href={source.originalUrl}
-                          target="_blank"
-                          rel="noreferrer"
-                          aria-label={`Open publisher copy of ${source.file}`}
-                        >
-                          Publisher copy
-                        </a>
-                      ) : null}
-                    </div>
-                    {source.citationNote ? (
-                      <p className="source-citation-note">{source.citationNote}</p>
-                    ) : null}
-                  </div>
-                ))}
-              </div>
+              <p className="place-record-link">
+                <Link href={`/sources/places/${encodeURIComponent(selected.id)}`}>Open wiki record →</Link>
+              </p>
             </article>
           ) : (
             <div className="no-site-selected">

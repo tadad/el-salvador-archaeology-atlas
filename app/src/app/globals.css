@@ -437,6 +437,52 @@ h1 {
   text-transform: uppercase;
 }
 
+.place-document > div {
+  padding-top: 8px;
+  color: var(--ink);
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.84rem;
+  line-height: 1.58;
+}
+
+.place-document > div h2 {
+  margin: 26px 0 10px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.place-document > div h3 {
+  margin: 20px 0 7px;
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.place-document > div p,
+.place-document > div li {
+  max-width: none;
+}
+
+.place-document > div a {
+  color: var(--mustard);
+  text-underline-offset: 3px;
+}
+
+.place-record-link {
+  margin: 26px 0 0;
+}
+
+.place-record-link a {
+  color: inherit;
+  font-weight: 600;
+  text-underline-offset: 3px;
+}
+
 .record-lede {
   margin: 20px 0;
   color: var(--ink);
