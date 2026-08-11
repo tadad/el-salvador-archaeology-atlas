@@ -91,6 +91,9 @@ under one-based `## Page N` headings.
 | `embedded_pages` | Pages populated from embedded PDF text |
 | `ocr_pages` | Pages populated through OCR |
 | `unrecognized_pages` | Pages with no detected machine-readable text |
+| `ocr_mode` | `auto` for OCR on unreadable pages, `always` to replace every embedded text page, or `never` |
+| `ocr_language` | Tesseract language combination used when OCR is enabled |
+| `ocr_dpi` | Raster resolution used when OCR is enabled |
 | `review_status` | Human review state; defaults to `unreviewed` |
 
 `tools/convert_pdfs_to_markdown.py` generates extraction properties, the

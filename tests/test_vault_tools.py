@@ -9,9 +9,12 @@ from tools.convert_pdfs_to_markdown import (
     OCR_END,
     OCR_START,
     embedded_pages,
+    main,
     normalize_prior_record,
+    ocr_enabled,
     replace_generated_region,
     retained_prior_records,
+    should_replace_page,
     verify_catalog_hash,
 )
 
@@ -20,6 +23,20 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class ConverterSafetyTests(unittest.TestCase):
+    def test_ocr_mode_can_force_replacement_of_usable_embedded_text(self) -> None:
+        self.assertTrue(ocr_enabled("always"))
+        self.assertTrue(ocr_enabled("auto"))
+        self.assertFalse(ocr_enabled("never"))
+        self.assertTrue(should_replace_page("always", "long embedded text", "OCR"))
+        self.assertFalse(should_replace_page("auto", "long embedded text", "OCR"))
+        self.assertFalse(should_replace_page("always", "embedded", ""))
+
+    def test_forced_ocr_requires_tessdata(self) -> None:
+        args = Mock(ocr="always", tessdata=Path("/definitely/missing/tessdata"))
+        with patch("tools.convert_pdfs_to_markdown.parse_args", return_value=args):
+            with self.assertRaisesRegex(SystemExit, "OCR data directory does not exist"):
+                main()
+
     def test_embedded_text_uses_reading_order_instead_of_physical_layout(self) -> None:
         completed = Mock(returncode=0, stdout="left\nright\f", stderr="")
         with patch("tools.convert_pdfs_to_markdown.command", return_value=completed) as run:

@@ -344,7 +344,7 @@ def validate(
             errors.append(f"{pid}: extraction page counts do not sum to pages")
         if record.get("status") not in {"complete", "partial"}:
             errors.append(f"{pid}: invalid extraction status")
-        if record.get("ocr_mode") not in {"auto", "never"}:
+        if record.get("ocr_mode") not in {"auto", "always", "never"}:
             errors.append(f"{pid}: invalid ocr_mode")
     return errors
 
