@@ -1,6 +1,7 @@
 @import "./site-study-history.css";
 
 :root {
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
   --ink: #111111;
   --ink-soft: #666666;
   --paper: #ffffff;
@@ -27,7 +28,7 @@ body {
   margin: 0;
   color: var(--ink);
   background: var(--paper);
-  font-family: var(--font-sans), sans-serif;
+  font-family: var(--font-sans);
 }
 
 button,
