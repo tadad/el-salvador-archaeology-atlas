@@ -48,12 +48,22 @@ function PropertyValue({ value }: { value: unknown }) {
 
 export function VaultRecordDocument({ record }: { record: VaultRecord }) {
   const properties = Object.entries(record.properties).filter(([key]) => !["name", "title"].includes(key));
+  const placeId = record.properties.place_id;
+  const atlasHref =
+    record.collectionSlug === "places" && typeof placeId === "string"
+      ? `/?site=${encodeURIComponent(placeId)}`
+      : null;
 
   return (
     <article className={styles.document}>
       <header className={styles.documentHeader}>
         <p className={styles.eyebrow}>{propertyLabel(record.type)} record</p>
         <h2>{record.title}</h2>
+        {atlasHref ? (
+          <p className={styles.atlasLink}>
+            <Link href={atlasHref}>View in atlas →</Link>
+          </p>
+        ) : null}
         <dl className={styles.propertyGrid}>
           {properties.map(([key, value]) => (
             <div key={key}>

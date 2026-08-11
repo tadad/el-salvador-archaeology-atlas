@@ -200,6 +200,15 @@
   border-bottom: 1px solid #ccc;
 }
 
+.atlasLink {
+  margin: -0.75rem 0 0;
+  font-size: 0.9rem;
+}
+
+.atlasLink a {
+  color: inherit;
+}
+
 .byline {
   margin: 0 0 1.5rem;
   font-size: 1.05rem;
