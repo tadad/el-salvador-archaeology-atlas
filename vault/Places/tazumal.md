@@ -20,6 +20,7 @@ papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-54]]"
   - "[[Papers/longyear]]"
+  - "[[Papers/tzunpame_boggs_tazumal]]"
 latest_study_year: 2015
 latest_study_label: "2015"
 latest_study_kind: "reinterpretation"
@@ -81,7 +82,7 @@ The University of Pennsylvania Chalchuapa Project included Tazumal in regional a
 
 Boggs conducted repeated excavation and restoration seasons in 1943–1945, 1948–1950, and 1951–1953.
 
-**Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 2|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 2 (printed p. 428)]]
+**Evidence:** [[Papers/tzunpame_boggs_tazumal#Page 2|tzunpame_boggs_tazumal.pdf, PDF pp. 2–5]]; [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 2|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 2 (printed p. 428)]]
 
 ### 1942 — Fieldwork
 
@@ -98,6 +99,14 @@ The marker represents the archaeological-park landmark; the cited archaeological
 - **Precision:** landmark
 
 ## Sources
+
+### tzunpame_boggs_tazumal.pdf
+
+**Citation:** PDF pp. 2–5 (printed pp. 116–122), early excavation results and interpretation
+
+[[Papers/tzunpame_boggs_tazumal#Page 2|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/tzunpame_boggs_tazumal.pdf#page=2)
+
+Boggs summarizes two excavation seasons at Tazumal, reports architecture, burials, pottery, stone objects, and conservation work, and offers an early chronology and regional comparison. Its cultural and migration interpretations are historically important but require reassessment against later excavation and dating.
 
 ### longyear.pdf
 

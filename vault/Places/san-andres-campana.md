@@ -24,6 +24,7 @@ papers:
   - "[[Papers/dimick_1941]]"
   - "[[Papers/identidades-18-arqueologia]]"
   - "[[Papers/ries_1940]]"
+  - "[[Papers/tzunpame_boggs_sanandres]]"
 latest_study_year: 2021
 latest_study_label: "2021"
 latest_study_kind: "collection-analysis"
@@ -95,9 +96,9 @@ Museo Nacional excavation investigated Structure 7.
 
 ### 1940–1941 — Fieldwork
 
-The Carnegie project conducted the first intensive excavation campaign.
+The Dimick and Carnegie projects conducted the first intensive excavation campaigns.
 
-**Evidence:** [[Papers/dimick_1941#Page 2|dimick_1941.pdf, PDF pp. 2–3]]
+**Evidence:** [[Papers/ries_1940#Page 1|ries_1940.pdf, PDF pp. 1–3]]; [[Papers/dimick_1941#Page 2|dimick_1941.pdf, PDF pp. 2–3]]; [[Papers/tzunpame_boggs_sanandres#Page 2|tzunpame_boggs_sanandres.pdf, PDF pp. 2–16]]
 
 ## Location and uncertainty
 
@@ -109,6 +110,14 @@ The marker identifies the known archaeological site, not a coordinate published 
 
 ## Sources
 
+### ries_1940.pdf
+
+**Citation:** PDF pp. 1–3 (printed pp. 712–713 and plate 3), first field season
+
+[[Papers/ries_1940#Page 1|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/ries_1940.pdf#page=1)
+
+Ries reports the first 1940 season at Campana San Andrés, places the site beside the Río Sucio and International Highway, and describes work in Dueñas Plaza, Mounds A–D, and several smaller mounds. The report documents adobe-and-mortero construction, successive architectural levels, carved jadeite, serpent heads, figurines, obsidian, and survey work.
+
 ### dimick_1941.pdf
 
 **Citation:** PDF pp. 2–3 (printed pp. 298–299), Carnegie fieldwork summary
@@ -116,6 +125,14 @@ The marker identifies the known archaeological site, not a coordinate published 
 [[Papers/dimick_1941#Page 2|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/dimick_1941.pdf#page=2)
 
 The contemporary summary places Campana San Andrés in the Río Sucio valley and documents small excavations across the principal group, deeper work in Structures 1–4 and 8, a test pit, and a trench. It describes adobe-and-plaster monumental construction, successive building episodes, pottery, stone sculpture, a stone yoke, and plumbate sherds. It gives no coordinate and treats the duration of occupation as undetermined.
+
+### tzunpame_boggs_sanandres.pdf
+
+**Citation:** PDF pp. 2–16 (printed pp. 104–130), excavation history, site setting, methods, architecture, and material
+
+[[Papers/tzunpame_boggs_sanandres#Page 2|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/tzunpame_boggs_sanandres.pdf#page=2)
+
+Boggs combines the first two excavation seasons, describes the principal mound group between the Sucio and Agua Caliente rivers, and documents the project grid, excavated structures, architectural sequence, ceramics, and other finds. The article preserves historical interpretations that require comparison with later chronology and cultural analysis.
 
 ### anales-56.pdf
 

@@ -17,6 +17,8 @@ cultures: []
 papers:
   - "[[Papers/carranza1]]"
   - "[[Papers/carranza2]]"
+  - "[[Papers/xipe1]]"
+  - "[[Papers/xipe2]]"
   - "[[Papers/xipe3]]"
 latest_study_year: 2004
 latest_study_label: "By April 2004"
@@ -55,7 +57,7 @@ Continuing excavation at Structure 2 recovered a second Xipe Tótec figure and a
 
 Rescue work began in March and continued with survey, collections, and six weeks of excavation exposing Structure 1.
 
-**Evidence:** [[Papers/carranza1#Page 1|carranza1.pdf, PDF pp. 1, 5; carranza2.pdf, PDF pp. 2, 4, 8–11]]
+**Evidence:** [[Papers/carranza1#Page 1|carranza1.pdf, PDF pp. 1, 5]]; [[Papers/carranza2#Page 2|carranza2.pdf, PDF pp. 2, 4, 8–11]]; [[Papers/xipe1#Page 1|xipe1.pdf, PDF pp. 1–2]]; [[Papers/xipe2#Page 2|xipe2.pdf, PDF pp. 2–7]]
 
 ## Location and uncertainty
 
@@ -90,6 +92,22 @@ Places Carranza near the southern end of Cihuatán, reports two low structures a
 [[Papers/carranza2#Page 8|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/carranza2.pdf#page=8)
 
 Documents six weeks of work in 39 units totaling 182 square meters, the complete exposure of Structure 1, its stair and three chambers, nearly 100 fragments of a large ceramic figure identified as Xipe Tótec, and pottery dating to 900–1200 CE, possibly 950–1100 CE.
+
+### xipe1.pdf
+
+**Citation:** PDF pp. 1–2 (printed pp. 10–11), Structure 1 and Xipe Tótec figure
+
+[[Papers/xipe1#Page 1|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/xipe1.pdf#page=1)
+
+The article places Carranza about one kilometre south of Cihuatán and summarizes the 2002 rescue excavation of Structure 1. It reports the figure fragments in the central chamber, construction details, burning, associated weapons, and an Early Postclassic ceramic date.
+
+### xipe2.pdf
+
+**Citation:** PDF pp. 2–7, site description, excavation, and interpretation
+
+[[Papers/xipe2#Page 2|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/xipe2.pdf#page=2)
+
+The conference paper describes Carranza's setting, damaged platforms, rescue strategy, Structure 1 architecture, and recovery of the fragmented ceramic figure. It interprets the building as a small temple but labels the ceramic dating and wider cultural associations preliminary.
 
 ### xipe3.pdf
 
