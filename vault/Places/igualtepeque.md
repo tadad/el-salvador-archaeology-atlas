@@ -17,6 +17,7 @@ cultures:
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
 papers:
   - "[[Papers/anales-56]]"
+  - "[[Papers/guijaplaque]]"
   - "[[Papers/identidades-18-arqueologia]]"
   - "[[Papers/igualtepeque]]"
   - "[[Papers/longyear]]"
@@ -77,6 +78,12 @@ Paul Amaroli visited Igualtepeque.
 
 **Evidence:** [[Papers/igualtepeque#Page 1|igualtepeque.pdf, PDF p. 1]]
 
+### 1983 — Artifact recovery
+
+A diver recovered a carved greenstone plaque from lake sediments off the tip of the peninsula. The precise findspot was not reported, and attribution to the Igualtepeque site remains probable rather than certain.
+
+**Evidence:** [[Papers/guijaplaque#Page 3|guijaplaque.pdf, PDF pp. 3–4]]
+
 ### 1959–1960 — Site recording
 
 Fidias Jiménez reported and described the island and its carved stones.
@@ -98,6 +105,14 @@ The marker identifies the mapped peninsula, which the report describes as archae
 - **Precision:** landmark
 
 ## Sources
+
+### guijaplaque.pdf
+
+**Citation:** PDF pp. 3–4 (printed pp. 1–2), discovery location and provenance caution
+
+[[Papers/guijaplaque#Page 3|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/guijaplaque.pdf#page=3)
+
+The report says the plaque was recovered in 1983 from lake sediments off the tip of Igualtepeque Peninsula. It considers origin at the peninsula site probable, but records no precise findspot and also allows an inundated or deeply buried Classic-period source; the link therefore does not establish a secure site context.
 
 ### longyear.pdf
 

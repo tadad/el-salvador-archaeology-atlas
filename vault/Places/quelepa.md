@@ -18,6 +18,7 @@ cultures: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
+  - "[[Papers/ruedas]]"
   - "[[Papers/wyllys_flautas]]"
 latest_study_year: 2017
 latest_study_label: "2017"
@@ -64,6 +65,12 @@ The Atlas team inspected the site, interviewed custodians, and documented expose
 
 **Evidence:** 2007-ichon-urbanismo-arquitectura-oriente.pdf, PDF p. 35
 
+### By 1973 — Artifact study
+
+Boggs documented wheeled figurines and related artifacts reported from near Quelepa, including material from a field south of the western group. Some contexts depended on collector reports, so their associations are not uniformly secure.
+
+**Evidence:** [[Papers/ruedas#Page 6|ruedas.pdf, PDF pp. 6–16]]
+
 ### 1967–1969 — Fieldwork
 
 Andrews conducted the major excavation project at Quelepa.
@@ -79,6 +86,14 @@ Excavation in 1967–1969 used ceramic and architectural evidence to establish a
 - **Precision:** approx
 
 ## Sources
+
+### ruedas.pdf
+
+**Citation:** PDF pp. 6–16 (printed pp. 35–47), eastern wheeled figurines and Quelepa contexts
+
+[[Papers/ruedas#Page 6|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/ruedas.pdf#page=6)
+
+Boggs describes examples reported near Quelepa and one recovered with related artifacts from a field south of the western group. The paper explicitly notes weaknesses in reported provenience and dating, so it supports the artifact history without establishing a secure site-wide chronology.
 
 ### wyllys_flautas.pdf
 
