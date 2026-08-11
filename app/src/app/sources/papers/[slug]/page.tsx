@@ -10,6 +10,8 @@ type PaperPageProps = {
   params: Promise<{ slug: string }>;
 };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getPapers().map((paper) => ({ slug: paper.slug }));
 }

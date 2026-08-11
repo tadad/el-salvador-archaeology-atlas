@@ -9,6 +9,8 @@ type AuthorPageProps = {
   params: Promise<{ slug: string }>;
 };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAuthors().map((author) => ({ slug: author.slug }));
 }

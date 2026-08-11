@@ -8,6 +8,8 @@ type RecordPageProps = {
   params: Promise<{ collection: string; slug: string }>;
 };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getVaultCollections()
     .filter((collection) => !["papers", "authors"].includes(collection.slug))

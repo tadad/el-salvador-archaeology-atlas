@@ -8,6 +8,8 @@ type CollectionPageProps = {
   params: Promise<{ collection: string }>;
 };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getVaultCollections()
     .filter((collection) => !["papers", "authors"].includes(collection.slug))
