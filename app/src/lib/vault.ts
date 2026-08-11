@@ -3,6 +3,7 @@ import "server-only";
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
+import { vaultMarkdownForWeb } from "@/lib/vault-catalogue";
 
 export type LibraryKind = "papers" | "authors";
 
@@ -34,6 +35,7 @@ export type AuthorRecord = {
   sortName: string;
   kind: string;
   aliases: string[];
+  body: string;
 };
 
 export type AuthorPaper = {
@@ -78,6 +80,17 @@ function stripLeadingTitle(markdown: string): string {
   return markdown.replace(/^\s*# [^\n]+\n+/, "").trimStart();
 }
 
+function authorMarkdownForWeb(markdown: string, authorSlugs: Set<string>): string {
+  const linkedAuthors = markdown.replace(
+    /\[\[([^/|#\]]+)(?:\|([^\]]+))?\]\]/g,
+    (match, slug: string, label: string | undefined) =>
+      authorSlugs.has(slug)
+        ? `[${label || slug}](/sources/authors/${encodeURIComponent(slug)})`
+        : match,
+  );
+  return vaultMarkdownForWeb(linkedAuthors);
+}
+
 function wikiContributor(value: string): ContributorLink | null {
   const match = value.match(/^\[\[Authors\/([^|\]]+)(?:\|([^\]]+))?\]\]$/);
   if (!match) return null;
@@ -94,7 +107,9 @@ function loadIndex(): VaultIndex {
   if (indexCache) return indexCache;
 
   const root = vaultRoot();
-  const authors = markdownFiles(path.join(root, "Authors"))
+  const authorFiles = markdownFiles(path.join(root, "Authors"));
+  const authorSlugs = new Set(authorFiles.map((filename) => path.basename(filename, ".md")));
+  const authors = authorFiles
     .map((filename): AuthorRecord => {
       const parsed = matter(fs.readFileSync(filename, "utf8"));
       return {
@@ -103,6 +118,7 @@ function loadIndex(): VaultIndex {
         sortName: String(parsed.data.sort_name || parsed.data.name || ""),
         kind: String(parsed.data.author_kind || "person"),
         aliases: strings(parsed.data.aliases),
+        body: authorMarkdownForWeb(stripLeadingTitle(parsed.content), authorSlugs),
       };
     })
     .sort((left, right) => collator.compare(left.sortName, right.sortName));

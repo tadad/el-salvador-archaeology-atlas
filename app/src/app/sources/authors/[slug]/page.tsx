@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { LibraryShell } from "@/components/library-shell";
+import { VaultMarkdown } from "@/components/vault-markdown";
 import { getAuthor, getAuthorPapers, getAuthors } from "@/lib/vault";
 import styles from "../../library.module.css";
 
@@ -42,6 +43,8 @@ export default async function AuthorPage({ params }: AuthorPageProps) {
             </p>
           )}
         </header>
+
+        {author.body ? <VaultMarkdown>{author.body}</VaultMarkdown> : null}
 
         <section className={styles.linkedPapers}>
           <div className={styles.sectionHeading}>
