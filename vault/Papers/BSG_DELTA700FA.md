@@ -21,13 +21,15 @@ unrecognized_pages: 45
 ocr_mode: "auto"
 ocr_language: "fra+spa+eng"
 ocr_dpi: 250
-generated: 2026-08-06
+generated: 2026-08-11
 review_status: "unreviewed"
 ---
 
 # Le Salvador précolombien : études archéologiques
 
 ## Notes
+
+- **OCR audit (2026-08-11):** A forced French/Spanish/English pass at 400 DPI still failed on most dense prose pages (for example PDF p. 12). Treat the extracted text below as a plate-and-heading index only and consult the scan for substantive claims.
 
 <!-- ocr:start -->
 ## Provenance

@@ -22,6 +22,7 @@ papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-54]]"
+  - "[[Papers/chalchuapa-architecture]]"
   - "[[Papers/longyear]]"
   - "[[Papers/tzunpame_boggs_tazumal]]"
 latest_study_year: 2015

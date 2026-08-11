@@ -19,6 +19,7 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 papers:
+  - "[[Papers/arqueologia-cuzcatleca-valle-de-san-salvador]]"
   - "[[Papers/casasola_panorama]]"
   - "[[Papers/lothrop_pottery_types]]"
 latest_study_year: 1926
@@ -59,6 +60,12 @@ Lothrop observed the stratigraphy and acquired comparative collections before un
 
 **Evidence:** [[Papers/lothrop_pottery_types#Page 16|lothrop_pottery_types.pdf, PDF pp. 16–17, 22]]
 
+### 1917 — Regional stratigraphic study
+
+Lardé traced archaeological material beneath the Tierra Blanca around southern San Salvador, including San Jacinto and Los Planes. The publication supplies regional discovery context but does not document the later Cerro Zapote excavation parcel.
+
+**Evidence:** [[Papers/arqueologia-cuzcatleca-valle-de-san-salvador#Page 11|Lardé y Arthés, PDF pp. 11–15]]
+
 ## Location and uncertainty
 
 Approximate hill-area marker; the excavation report includes a section sketch but no coordinate, and the historical road location has not been tied to the modern street network.
@@ -68,6 +75,14 @@ Approximate hill-area marker; the excavation report includes a section sketch bu
 - **Precision:** approx
 
 ## Sources
+
+### Arqueología Cuzcatleca Valle de San Salvador
+
+**Citation:** PDF pp. 11–15, buried archaeological layer south of San Salvador
+
+[[Papers/arqueologia-cuzcatleca-valle-de-san-salvador#Page 11|Open vault paper]]
+
+Lardé reports pottery, charcoal, and obsidian beneath Tierra Blanca in cuts south of San Salvador, on the roads toward Huizúcar and Panchimalco, and at Los Planes. He also associated surface remains between San Jacinto and Santa Tecla with later Cuscatlán. These observations are early regional stratigraphic evidence; they do not establish that every locality was one site or that the Cerro Zapote assemblage has a single age or identity.
 
 ### lothrop_pottery_types.pdf
 

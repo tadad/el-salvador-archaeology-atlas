@@ -26,6 +26,7 @@ papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
   - "[[Papers/2008-ichikawa-et-al-casa-blanca]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
+  - "[[Papers/chalchuapa-architecture]]"
   - "[[Papers/anales-56]]"
   - "[[Papers/longyear]]"
   - "[[Papers/parks]]"

@@ -75,6 +75,10 @@ Approximate marker reconstructed from Longyear’s regional sketch map and shore
 
 ## Sources
 
+### Identification caution
+
+An [1855 notice](https://archive.org/download/notesoncentralam00squi/notesoncentralam00squi.pdf#page=331) repeats Juarros’s report of ruins called Zacualpa on a large island in Lake Güija. Because Longyear instead maps Azacualpa on a northeast-shore bluff, the historical island should not be assumed to be this site.
+
 ### longyear.pdf
 
 **Citation:** PDF p. 11 (printed p. 1) and PDF pp. 26–28 (printed pp. 19–21), expedition dates, Lake Güija map, Azacualpa entry, and figs. 9–12

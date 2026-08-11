@@ -3,8 +3,8 @@ type: "paper"
 paper_id: "arqueologia-cuzcatleca-valle-de-san-salvador"
 title: "Arqueología Cuzcatleca Valle de San Salvador"
 authors:
-  - "[[Authors/jorge-larde-y-larin|Jorge Lardé y Larín]]"
-creator_raw: "Jorge Lardé y Larín"
+  - "[[Authors/jorge-larde-y-arthes|Jorge Lardé y Arthés]]"
+creator_raw: "Jorge Lardé y Arthés"
 publication_year: 1924
 work_type: "conference-paper"
 languages:

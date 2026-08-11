@@ -3,7 +3,7 @@ type: "place"
 place_id: "san-luis-chalchuapa"
 name: "San Luis, Chalchuapa"
 aliases: []
-place_kind: "Multi-period settlement · large test-pit program"
+place_kind: "Multi-period settlement · controlled excavation"
 atlas: true
 latitude: 13.9745
 longitude: -89.663
@@ -15,15 +15,16 @@ coordinate_basis: "Eastern Chalchuapa investigation area shown in the project pl
 coordinate_note: "The article maps the project internally; this marker is a reconstructed site-area centroid."
 location_visibility: "public"
 periods:
-  - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
   - "[[Periods/postclassic|Postclassic]]"
+  - "[[Periods/colonial|Colonial]]"
+  - "[[Periods/modern-maritime|Modern / Maritime]]"
 cultures:
-  - "[[Cultures/maya-related|Maya-related]]"
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
-papers: []
-latest_study_year: 2015
-latest_study_label: "2015"
+papers:
+  - "[[Papers/2015-chalchuapa-san-luis]]"
+latest_study_year: 2016
+latest_study_label: "2015 symposium paper, published 2016"
 last_fieldwork_year: 2014
 last_fieldwork_label: "Excavation begun 2 April 2014"
 ---
@@ -32,33 +33,33 @@ last_fieldwork_label: "Excavation begun 2 April 2014"
 
 ## Overview
 
-A newly defined component of the Chalchuapa archaeological zone, investigated where modern development threatened buried occupation.
+A component of the Chalchuapa archaeological zone investigated before subdivision. Excavation documented pre-Hispanic structures together with Colonial and Republican-period occupation.
 
 ## Chronology
 
-Materials represent more than one period in Chalchuapa’s three-thousand-year sequence; the reported project was conducted by 2015.
+Structure 1 was assigned tentatively to the Late Classic–Early Postclassic transition and Structure 2 to the Postclassic. Colonial ceramics and Republican-period domestic remains document later reuse.
 
 ## How it was investigated
 
-The project divided the tract into four sectors and opened at least 67 planned 2 × 1 metre pits, with additional extensions around cultural features.
+The project divided the tract into four sectors and opened 67 initial 2 × 1 metre test pits, normally to 0.75 metres, with additional extensions around archaeological features.
 
 ## What archaeologists found
 
-Buried deposits and features expanded the recognized Chalchuapa zone beyond the ten better-known areas and demonstrated archaeological survival under undeveloped parcels.
+Excavators recorded two stone-founded structures, floors, burned daub, ceramics, projectile points, obsidian blades, a metate fragment, and a near-complete pedestal-base vessel.
 
 ## Research history
 
-### 2015 — Collection analysis
+### 2015–2016 — Analysis and publication
 
-Project finds were analyzed and interpreted for presentation at the July 2015 archaeology symposium.
+The project presented preliminary results at the July 2015 symposium; the paper was published in 2016.
 
-**Evidence:** 2015-chalchuapa-san-luis.pdf, PDF pp. 1–2
+**Evidence:** [[Papers/2015-chalchuapa-san-luis#Page 1|PDF pp. 1–2, printed pp. 537–538]]; [[Papers/2015-chalchuapa-san-luis#Page 5|PDF p. 5, printed p. 540]]
 
 ### From 2 April 2014 — Fieldwork
 
-Excavation began and opened more than 67 test pits.
+Excavation began on 2 April 2014 and opened 67 initial test pits plus feature-driven extensions.
 
-**Evidence:** 2015-chalchuapa-san-luis.pdf, PDF p. 2
+**Evidence:** [[Papers/2015-chalchuapa-san-luis#Page 2|PDF pp. 2–3, printed pp. 537–538]]
 
 ## Location and uncertainty
 
@@ -72,6 +73,6 @@ The article maps the project internally; this marker is a reconstructed site-are
 
 ### 2015-chalchuapa-san-luis.pdf
 
-**Citation:** Excavation methodology and results
+**Citation:** PDF pp. 2–5 (printed pp. 537–540), field methods, finds, chronology, and preliminary conclusions
 
-[Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2020/09/43-Lopez-et-al.pdf#page=1)
+[[Papers/2015-chalchuapa-san-luis#Page 2|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2020/09/43-Lopez-et-al.pdf#page=2)

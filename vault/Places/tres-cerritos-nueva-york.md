@@ -3,7 +3,7 @@ type: "place"
 place_id: "tres-cerritos-nueva-york"
 name: "Tres Cerritos de Nueva York"
 aliases: []
-place_kind: "Preclassic survey site"
+place_kind: "Preclassic survey locality · summary reference"
 atlas: true
 latitude: 13.73
 longitude: -90.04
@@ -17,7 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
-papers: []
+papers:
+  - "[[Papers/atalaya-acajutla]]"
 latest_study_year: 2007
 latest_study_label: "2007"
 last_fieldwork_year: 2007
@@ -27,19 +28,19 @@ last_fieldwork_year: 2007
 
 ## Overview
 
-A three-mound locality registered in the Nueva York cooperative landscape west of Atalaya.
+A previously unknown locality called Tres Cerritos de Nueva York, registered during the 2007 reconnaissance of southern Ahuachapán.
 
 ## Chronology
 
-Preclassic survey context; recorded in 2007.
+The source identifies this as part of a reconnaissance of Preclassic sites but gives no separate phase or date for Tres Cerritos de Nueva York.
 
 ## How it was investigated
 
-The reconnaissance program identified the mound cluster and registered its surface material.
+The regional summary records a survey visit and new registration. It does not state the site-specific methods.
 
 ## What archaeologists found
 
-Three low elevations and associated artifacts supplied a settlement-form comparison with the larger coastal centers.
+The article supplies no site-specific artifact, architecture, or excavation inventory; the name alone does not establish mound dimensions.
 
 ## Research history
 
@@ -47,7 +48,7 @@ Three low elevations and associated artifacts supplied a settlement-form compari
 
 The southern Ahuachapán reconnaissance newly registered Tres Cerritos de Nueva York.
 
-**Evidence:** atalaya-acajutla.pdf, article p. 143
+**Evidence:** [[Papers/atalaya-acajutla#Page 11|PDF p. 11, printed p. 143]]
 
 ## Location and uncertainty
 
@@ -61,6 +62,6 @@ Approximate cooperative-area marker; no mound-level coordinate is public in the 
 
 ### atalaya-acajutla.pdf
 
-**Citation:** Article pp. 133–184
+**Citation:** PDF p. 11 (printed p. 143), regional survey summary
 
-[Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=1)
+[[Papers/atalaya-acajutla#Page 11|Open vault paper]] · [Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=11)

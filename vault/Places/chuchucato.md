@@ -3,23 +3,21 @@ type: "place"
 place_id: "chuchucato"
 name: "Chuchucato"
 aliases: []
-place_kind: "Pre-Hispanic platform-and-pyramid site · threat documentation"
+place_kind: "Pre-Hispanic platform-and-pyramid site · condition report"
 atlas: true
 latitude: 13.743699
 longitude: -89.42218
-coordinate_precision: "landmark"
-coordinate_precision_label: "Site or landmark"
-coordinate_precision_short_label: "Landmark"
-coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
-coordinate_basis: "Mapped Río Chuchucato corridor in the Zapotitán Valley"
-coordinate_note: "The river is the stable public landmark; the development parcel is generalized."
+coordinate_precision: "approx"
+coordinate_precision_label: "Approximate area"
+coordinate_precision_short_label: "Approximate"
+coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
+coordinate_basis: "Generalized public marker in La Libertad Department"
+coordinate_note: "FUNDAR names the department but publishes no locality, parcel boundary, or coordinate for Chuchucato."
 location_visibility: "public"
-periods:
-  - "[[Periods/classic|Classic]]"
-  - "[[Periods/postclassic|Postclassic]]"
+periods: []
 cultures: []
 papers:
-  - "[[Papers/anales-56]]"
+  - "[[Papers/fundar-saqueo]]"
 latest_study_year: 2009
 latest_study_label: "2009"
 last_fieldwork_year: 2009
@@ -29,46 +27,40 @@ last_fieldwork_year: 2009
 
 ## Overview
 
-A large Zapotitán Valley site threatened by subdivision, centered on a broad platform supporting a pyramid.
+A reported site in La Libertad Department where a broad platform supports a pyramid. Subdivision activity had begun by 2009.
 
 ## Chronology
 
-Pre-Hispanic; the available corpus does not securely narrow the occupation beyond the valley’s Classic–Postclassic sequence.
+Pre-Hispanic, otherwise undated in the available source.
 
 ## How it was investigated
 
-FUNDAR documented and denounced development impacts in 2009; the accessible sources do not describe a broad controlled excavation.
+FUNDAR photographed the site and reported the subdivision to the national archaeology department in 2009. No controlled excavation is described.
 
 ## What archaeologists found
 
-A monumental platform, pyramid and additional mound demonstrate a substantial center outside the protected San Andrés park.
+The report describes one broad platform supporting a pyramid. It does not inventory other structures or artifacts.
 
 ## Research history
 
 ### 2009 — Condition assessment
 
-FUNDAR documented and reported development damage; the public report does not describe controlled excavation.
+FUNDAR photographed Chuchucato and reported the beginning of subdivision activity; the report does not describe controlled excavation.
 
-**Evidence:** FUNDAR site-threat report (web source)
+**Evidence:** [[Papers/fundar-saqueo#Page 25|PDF p. 25, Chuchucato entry]]
 
 ## Location and uncertainty
 
-The river is the stable public landmark; the development parcel is generalized.
+FUNDAR names the department but publishes no locality, parcel boundary, or coordinate for Chuchucato.
 
 - **Coordinates:** 13.7437, -89.4222
-- **Placed from:** Mapped Río Chuchucato corridor in the Zapotitán Valley
-- **Precision:** landmark
+- **Placed from:** Generalized public marker in La Libertad Department
+- **Precision:** approx
 
 ## Sources
 
-### anales-56.pdf
+### fundar-saqueo.pdf
 
-**Citation:** PDF p. 27
+**Citation:** PDF p. 25, Chuchucato entry; local snapshot of the public web report
 
-[[Papers/anales-56#Page 27|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=27)
-
-### FUNDAR site-threat report
-
-**Citation:** Web source
-
-[Open cited source](https://fundar.org.sv/saqueo.html)
+[[Papers/fundar-saqueo#Page 25|Open vault paper]] · [Open cited source](https://fundar.org.sv/saqueo.html#chuchucato)

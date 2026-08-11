@@ -3,7 +3,7 @@ type: "place"
 place_id: "el-mapache-ahuachapan"
 name: "El Mapache"
 aliases: []
-place_kind: "Preclassic survey site"
+place_kind: "Preclassic survey locality · summary reference"
 atlas: true
 latitude: 13.79
 longitude: -89.955
@@ -17,7 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
-papers: []
+papers:
+  - "[[Papers/atalaya-acajutla]]"
 latest_study_year: 2007
 latest_study_label: "2007"
 last_fieldwork_year: 2007
@@ -27,19 +28,19 @@ last_fieldwork_year: 2007
 
 ## Overview
 
-A newly registered site from the 2007 reconnaissance of the southern Ahuachapán coastal plain.
+A previously unknown archaeological locality registered during the 2007 reconnaissance of southern Ahuachapán.
 
 ## Chronology
 
-Preclassic survey context; recorded in 2007.
+The source identifies this as part of a reconnaissance of Preclassic sites but gives no separate phase or date for El Mapache.
 
 ## How it was investigated
 
-Surveyors identified surface cultural material and registered the locality by GPS.
+The regional summary records a survey visit and new registration. It does not state the site-specific methods.
 
 ## What archaeologists found
 
-The site added another point to the dense early-settlement network surrounding Atalaya, although no controlled excavation is summarized.
+The article supplies no site-specific artifact, architecture, or excavation inventory.
 
 ## Research history
 
@@ -47,7 +48,7 @@ The site added another point to the dense early-settlement network surrounding A
 
 The southern Ahuachapán reconnaissance newly registered El Mapache.
 
-**Evidence:** atalaya-acajutla.pdf, article p. 143
+**Evidence:** [[Papers/atalaya-acajutla#Page 11|PDF p. 11, printed p. 143]]
 
 ## Location and uncertainty
 
@@ -61,6 +62,6 @@ Broad placement only; the report names the site but does not publish its coordin
 
 ### atalaya-acajutla.pdf
 
-**Citation:** Article pp. 133–184
+**Citation:** PDF p. 11 (printed p. 143), regional survey summary
 
-[Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=1)
+[[Papers/atalaya-acajutla#Page 11|Open vault paper]] · [Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=11)

@@ -3,7 +3,7 @@ type: "place"
 place_id: "finca-rosita"
 name: "Finca Rosita"
 aliases: []
-place_kind: "Preclassic civic-ceremonial center · salvage investigations"
+place_kind: "Preclassic civic-ceremonial center · excavations and ceramic analysis"
 atlas: true
 latitude: 13.970495
 longitude: -89.561662
@@ -16,9 +16,9 @@ coordinate_note: "The marker represents the nuclear site area; development and s
 location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
-cultures:
-  - "[[Cultures/maya-related|Maya-related]]"
-papers: []
+cultures: []
+papers:
+  - "[[Papers/finca-rosita-santa-ana]]"
 latest_study_year: 2006
 latest_study_label: "2006"
 last_fieldwork_year: 2003
@@ -29,69 +29,69 @@ last_fieldwork_label: "Four test pits excavated in 2003"
 
 ## Overview
 
-A major Preclassic center beneath modern Santa Ana, organized around two plazas and large earthen pyramids.
+A Preclassic center extending across several modern properties in Santa Ana. Its protected 5.22-manzana nucleus contains six monumental structures around two plazas.
 
 ## Chronology
 
-Middle–Late Preclassic, abandoned before or around the early centuries CE; first registered in 1983.
+The thesis proposes an initial occupation in 1200–900 BCE, greatest activity from 900 BCE to the beginning of the Common Era, and decline during 0–200 CE.
 
 ## How it was investigated
 
-Salvage and systematic field projects in the late 1990s and early 2000s mapped the ceremonial core and recovered controlled ceramic samples.
+Excavations and inspections between 1983 and 2003 documented the protected nucleus and nearby properties. The 2006 thesis analyzed 7,400 sherds from the 1997–1998 Finca Sinaí and 1998 Finca Rosita projects.
 
 ## What archaeologists found
 
-Six principal structures include a roughly thirteen-metre-high pyramid and another about ten metres high, demonstrating a substantial center independent of nearby Chalchuapa.
+The protected area contains six monumental mounds between about one and thirteen metres high. Ceramics from the sampled areas support domestic activity as well as the thesis’s proposed administrative and religious functions.
 
 ## Research history
 
-### 2006 — Collection analysis
+### 2005–2006 — Ceramic analysis and thesis
 
-A site-specific thesis analyzed the 7,400-sherd ceramic assemblage.
+Méndez Arévalo analyzed 7,400 sherds between March and September 2005 and submitted the site-specific thesis in 2006.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF pp. 1, 63–76
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 48|PDF p. 48, printed p. 40]]; [[Papers/finca-rosita-santa-ana#Page 110|PDF pp. 110–111, printed pp. 102–103]]
 
 ### 2003 — Fieldwork
 
-Transportes Pesados excavated four test pits.
+An investigation on Transportes Pesados property excavated four test pits.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF p. 47
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 47|PDF p. 47, printed p. 39]]
 
 ### 2001 — Fieldwork
 
-HOTESA and Transportes conducted archaeological tests.
+Separate projects excavated five test pits on HOTESA property and twenty-five on a Transportes Pesados property.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF p. 47
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 47|PDF p. 47, printed p. 39]]
 
 ### 1999 — Fieldwork
 
-A documented archaeological investigation continued work at the site.
+An investigation covered the southern part of Finca Arizona; the thesis gives no field-method details.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF p. 47
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 47|PDF p. 47, printed p. 39]]
 
 ### 1997–1998 — Fieldwork
 
-Inspections and test excavations documented the site over multiple interventions.
+Projects included inspection, controlled test pits at Finca Rosita and Finca Sinaí, and work on adjacent development parcels.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF pp. 46–47
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 46|PDF pp. 46–47, printed pp. 38–39]]
 
 ### 1995 — Fieldwork
 
-Inspections and archaeological tests were conducted at the property.
+Two inspections, a single-mound registration, and six test pits were reported in different parts of the site area.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF p. 46
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 46|PDF p. 46, printed p. 38]]
 
 ### 1992 — Condition assessment
 
 An archaeological inspection documented the site.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF p. 46
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 46|PDF p. 46, printed p. 38]]
 
 ### 1983 — Site recording
 
 The site was entered in the national archaeological record.
 
-**Evidence:** finca-rosita-santa-ana.pdf, PDF p. 46
+**Evidence:** [[Papers/finca-rosita-santa-ana#Page 42|PDF pp. 42–43, printed pp. 34–35]]
 
 ## Location and uncertainty
 
@@ -105,6 +105,6 @@ The marker represents the nuclear site area; development and subdivision altered
 
 ### finca-rosita-santa-ana.pdf
 
-**Citation:** Introduction and fieldwork chapters
+**Citation:** PDF pp. 42–48 (printed pp. 34–40), site history and fieldwork; PDF pp. 110–111 (printed pp. 102–103), chronology and conclusions
 
-[Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000713.pdf#page=1)
+[[Papers/finca-rosita-santa-ana#Page 42|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000713.pdf#page=42)

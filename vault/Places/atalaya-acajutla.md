@@ -18,10 +18,12 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
 papers:
+  - "[[Papers/2025-valdivieso-martinez-educacion-prehispanica]]"
+  - "[[Papers/atalaya-acajutla]]"
   - "[[Papers/casasola_panorama]]"
   - "[[Papers/haberland_sequences]]"
-latest_study_year: 2009
-latest_study_label: "2009"
+latest_study_year: 2025
+latest_study_label: "2025 synthesis of 2009 field results"
 last_fieldwork_year: 2009
 last_fieldwork_label: "Two technical inspections in 2009"
 ---
@@ -45,6 +47,12 @@ Haberland’s 1953–1954 and 1958 surveys collected surface material at about 1
 Atalaya shared some material and decorative traits with the Atiquizaya complex but lacked others, including extensive grooving. The article provides no Atalaya-specific artifact inventory.
 
 ## Research history
+
+### 2025 — Reinterpretation
+
+A regional synthesis reported that the late-2009 work recovered early polychrome sherds in Preclassic contexts and compared them with Chalchuapa complexes.
+
+**Evidence:** [[Papers/2025-valdivieso-martinez-educacion-prehispanica#Page 49|2025 synthesis, PDF pp. 49–50]]
 
 ### 2009 — Fieldwork
 
@@ -79,6 +87,14 @@ Approximate regional marker retained from the prior record. It is not a document
 - **Precision:** approx
 
 ## Sources
+
+### Educación prehispánica en El Salvador
+
+**Citation:** PDF pp. 49–50 (printed pp. 60–61), Atalaya and Chalchuapa ceramic comparison
+
+[[Papers/2025-valdivieso-martinez-educacion-prehispanica#Page 49|Open vault paper]] · [Open cited source](https://revistas.utec.edu.sv/index.php/koot/article/download/1080/1697#page=49)
+
+The 2025 synthesis says work in the final months of 2009 recovered early polychrome sherds in Preclassic contexts at Atalaya and compares them with Colos, Kal, Chul, and Caynac material at Chalchuapa. This is a later synthesis rather than a substitute for the unpublished field report, and it does not provide a site coordinate or boundary.
 
 ### haberland_sequences.pdf
 

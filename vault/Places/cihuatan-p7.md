@@ -29,7 +29,7 @@ last_fieldwork_label: "2001–2002 project"
 
 ## Overview
 
-Structure P-7 is Cihuatán’s principal pyramid, within the city’s western ceremonial center. Limited excavation documented its construction and a burned terminal deposit.
+Structure P-7 is Cihuatán’s principal pyramid, within the city’s western ceremonial center. Limited excavation documented its construction and a burned terminal deposit. For site-wide investigations, see [[Places/cihuatan|Cihuatán]].
 
 ## Chronology
 

@@ -3,7 +3,7 @@ type: "place"
 place_id: "la-palma-ahuachapan-survey"
 name: "La Palma, southern Ahuachapán"
 aliases: []
-place_kind: "Preclassic survey site"
+place_kind: "Preclassic survey locality · summary reference"
 atlas: true
 latitude: 13.815
 longitude: -89.925
@@ -17,7 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
-papers: []
+papers:
+  - "[[Papers/atalaya-acajutla]]"
 latest_study_year: 2007
 latest_study_label: "2007"
 last_fieldwork_year: 2007
@@ -27,19 +28,19 @@ last_fieldwork_year: 2007
 
 ## Overview
 
-A previously known site revisited during the 2007 survey between the Pacific plain and the Apaneca foothills.
+A little-known locality, reported in 2006 and revisited during the 2007 survey of southern Ahuachapán.
 
 ## Chronology
 
-Preclassic survey context; revisited in 2007.
+The source identifies this as part of a reconnaissance of Preclassic sites but gives no separate phase or date for La Palma.
 
 ## How it was investigated
 
-Pedestrian survey and surface recording linked the locality to the new coastal-site inventory.
+The regional summary states only that a survey visit collected additional information at the previously reported locality.
 
 ## What archaeologists found
 
-Surface artifacts helped bridge early settlements on the plain with those on the first highland slopes.
+The article supplies no site-specific artifact, architecture, or excavation inventory.
 
 ## Research history
 
@@ -47,13 +48,13 @@ Surface artifacts helped bridge early settlements on the plain with those on the
 
 The southern Ahuachapán reconnaissance revisited the little-known site and collected additional data.
 
-**Evidence:** atalaya-acajutla.pdf, article p. 143
+**Evidence:** [[Papers/atalaya-acajutla#Page 11|PDF p. 11, printed p. 143]]
 
 ### 2006 — Site recording
 
 The site was initially reported by Perrot-Minnot.
 
-**Evidence:** atalaya-acajutla.pdf, article p. 143
+**Evidence:** [[Papers/atalaya-acajutla#Page 11|PDF p. 11, printed p. 143]]
 
 ## Location and uncertainty
 
@@ -67,6 +68,6 @@ This is not La Palma in Chalatenango; the survey report gives only a regional pl
 
 ### atalaya-acajutla.pdf
 
-**Citation:** Article pp. 133–184
+**Citation:** PDF p. 11 (printed p. 143), regional survey summary
 
-[Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=1)
+[[Papers/atalaya-acajutla#Page 11|Open vault paper]] · [Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=11)

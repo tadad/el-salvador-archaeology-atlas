@@ -67,6 +67,14 @@ Obsidian links provide reverse relationships through backlinks, so each edge
 is stored once. Research events remain cited prose in Place records rather than
 a separate record type.
 
+Audit connected components and print any partitions with ten or fewer nodes:
+
+```bash
+python3 tools/audit_vault_graph.py --max-size 10
+```
+
+Use `--json` for the complete component and unresolved-link inventory.
+
 ## PDF processing
 
 The PDF archive under `vault/Attachments/PDFs/` is intentionally ignored by

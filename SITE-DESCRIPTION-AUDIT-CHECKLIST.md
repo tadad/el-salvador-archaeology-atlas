@@ -2,14 +2,13 @@
 
 Use `SITE-DESCRIPTION-AUDIT.md` for every record. Every entry below received an
 individual delegated audit. On 2026-08-11, the 39 previously blocked records
-were re-audited against the current local corpus. Each checked item was edited,
-source-verified, and validated. Unchecked items were left unchanged because the
-required local source or citation mapping still could not be resolved safely.
+were re-audited against the current local corpus. The final six missing source
+families were then archived, extracted, and connected to the ontology. Each
+checked item was edited, source-verified, and validated.
 
 Delegated audits: 169 of 169 complete.
 
-Source-verified updates: 156 of 169 complete; 13 records remain blocked as
-described above.
+Source-verified updates: 169 of 169 complete; no records remain blocked.
 
 ## Main site records
 
@@ -116,18 +115,18 @@ described above.
 - [x] Atalaya, Acajutla (`atalaya-acajutla`)
 - [x] Atiquizaya locality (Haberland) (`atiquizaya-haberland`)
 - [x] Barra Ciega (`barra-ciega`)
-- [ ] Peñate (`penate`)
+- [x] Peñate (`penate`)
 - [x] Laguna Cuzcachapa (`laguna-cuzcachapa`)
-- [ ] Laguna Seca, Chalchuapa (`laguna-seca-chalchuapa`)
+- [x] Laguna Seca, Chalchuapa (`laguna-seca-chalchuapa`)
 - [x] Las Victorias, Chalchuapa (`las-victorias-chalchuapa`)
 - [x] Cementerio Jardín (`cementerio-jardin`)
 - [x] Vergeles del Edén (`vergeles-del-eden`)
-- [ ] Finca Rosita (`finca-rosita`)
+- [x] Finca Rosita (`finca-rosita`)
 - [x] Hacienda San Diego, Lake Güija (`san-diego-guija`)
 - [x] Igualtepeque / Cerro de las Figuras (`igualtepeque`)
 - [x] El Zonte burials (`el-zonte-burials`)
 - [x] El Chahuite (`el-chahuite`)
-- [ ] San Luis, Chalchuapa (`san-luis-chalchuapa`)
+- [x] San Luis, Chalchuapa (`san-luis-chalchuapa`)
 - [x] Amulunga (`amulunga`)
 - [x] Pampe Group (`rio-pampe`)
 - [x] El Caballito (`el-caballito`)
@@ -163,15 +162,15 @@ described above.
 - [x] Ingenio San Rafael, Metapán (`ingenio-san-rafael-metapan`)
 - [x] Antigua Iglesia de Guaymango (`antigua-iglesia-guaymango`)
 - [x] Antiguo Nejapa / La Fuente (`antiguo-nejapa-la-fuente`)
-- [ ] Chuchucato (`chuchucato`)
-- [ ] Shuteca (`shuteca`)
-- [ ] Finca San Jorge / Las Aradas (`finca-san-jorge-las-aradas`)
-- [ ] San Benito, southern Ahuachapán survey (`san-benito-ahuachapan-survey`)
-- [ ] El Mapache (`el-mapache-ahuachapan`)
-- [ ] El Escondido (`el-escondido-ahuachapan`)
-- [ ] El Poeta Campesino (`el-poeta-campesino`)
-- [ ] Tres Cerritos de Nueva York (`tres-cerritos-nueva-york`)
-- [ ] La Palma, southern Ahuachapán (`la-palma-ahuachapan-survey`)
+- [x] Chuchucato (`chuchucato`)
+- [x] Shuteca (`shuteca`)
+- [x] Finca San Jorge / Las Aradas (`finca-san-jorge-las-aradas`)
+- [x] San Benito, southern Ahuachapán survey (`san-benito-ahuachapan-survey`)
+- [x] El Mapache (`el-mapache-ahuachapan`)
+- [x] El Escondido (`el-escondido-ahuachapan`)
+- [x] El Poeta Campesino (`el-poeta-campesino`)
+- [x] Tres Cerritos de Nueva York (`tres-cerritos-nueva-york`)
+- [x] La Palma, southern Ahuachapán (`la-palma-ahuachapan-survey`)
 - [x] El Molino burial record (`el-molino-burials`)
 - [x] Aguachapio burial record (`aguachapio-burial`)
 - [x] Nueva York burial record (`nueva-york-burial`)

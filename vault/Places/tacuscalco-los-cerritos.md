@@ -19,6 +19,8 @@ cultures: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-56]]"
+  - "[[Papers/documentosantigu00alva]]"
+  - "[[Papers/historiadeelsalv01barb]]"
 latest_study_year: 2007
 latest_study_label: "2007"
 last_fieldwork_year: 2005
@@ -69,6 +71,18 @@ The project conducted mapping, surface collection, and excavation.
 
 **Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 6|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 6 (printed p. 432)]]
 
+### 1914 — Historical and archaeological synthesis
+
+Barberena identified ruins south of Sonsonate with the Tacuxcalco described in conquest narratives. That identification is historical interpretation, not a modern archaeological boundary.
+
+**Evidence:** [[Papers/historiadeelsalv01barb#Page 328|Barberena, PDF pp. 328–329]]
+
+### 1524 — Colonial account
+
+Alvarado’s second letter narrates the coastal campaign that later histories associate with Acaxual and Tacuxcalco. The letter is evidence for the invader’s account, not a neutral description or a precise archaeological location.
+
+**Evidence:** [[Papers/documentosantigu00alva#Page 24|Alvarado letter, PDF pp. 24–30]]
+
 ## Location and uncertainty
 
 Research included mapping, surface collection, excavation, and later work on burial contexts; the point is not a published archaeological coordinate.
@@ -78,6 +92,22 @@ Research included mapping, surface collection, excavation, and later work on bur
 - **Precision:** approx
 
 ## Sources
+
+### Documentos antiguos: Alvarado’s 1524 letters
+
+**Citation:** PDF pp. 24–30, second letter and coastal campaign
+
+[[Papers/documentosantigu00alva#Page 24|Open vault paper]] · [Open cited source](https://archive.org/download/documentosantigu00alva/documentosantigu00alva.pdf#page=24)
+
+The edition reproduces Alvarado’s account of the 1524 invasion. It records the conqueror’s actions and claims but does not provide a modern site coordinate, boundary, or archaeological identification; its self-justifying colonial perspective requires critical reading.
+
+### Historia de El Salvador
+
+**Citation:** PDF pp. 328–329, Tacuxcalco discussion
+
+[[Papers/historiadeelsalv01barb#Page 328|Open vault paper]] · [Open cited source](https://archive.org/download/historiadeelsalv01barb/historiadeelsalv01barb.pdf#page=328)
+
+Barberena places the ruins he identified as Tacuxcalco south of Sonsonate while reconstructing Alvarado’s route. This is valuable historiographic evidence, but it predates modern mapping and does not by itself prove that every later Tacuscalco–Los Cerritos context belongs to the conquest-period settlement.
 
 ### 2012-escamilla-fowler-practica-arqueologia.pdf
 
