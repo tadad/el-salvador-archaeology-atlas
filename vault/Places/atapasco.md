@@ -21,6 +21,7 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
+  - "[[Papers/2015-estudio-alfareria-quezaltepeque]]"
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021
 latest_study_label: "2021"
@@ -69,6 +70,14 @@ The published coordinate marks the surveyed Atapasco remains.
 - **Precision:** published
 
 ## Sources
+
+### 2005 Quezaltepeque pottery study
+
+**Citation:** PDF p. 17, municipal context only
+
+[[Papers/2015-estudio-alfareria-quezaltepeque#Page 17|Open vault paper]]
+
+The report lists Hacienda Atapasco among the named haciendas in Quezaltepeque's jurisdiction. It neither investigates the archaeological site nor supplies evidence for the ironworks, so it is retained only as modern municipal context.
 
 ### 2009-erquicia-sitios-arqueologicos-historicos.pdf
 

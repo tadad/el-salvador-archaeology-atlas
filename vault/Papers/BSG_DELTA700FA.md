@@ -30,6 +30,7 @@ review_status: "unreviewed"
 ## Notes
 
 - **OCR audit (2026-08-11):** A forced French/Spanish/English pass at 400 DPI still failed on most dense prose pages (for example PDF p. 12). Treat the extracted text below as a plate-and-heading index only and consult the scan for substantive claims.
+- **Ontology summary:** [[Authors/fernand-de-montessus-de-ballore|Fernand de Montessus de Ballore]] published this archaeological study in 1891. The scan's PDF pp. 13–14 discusses archaeological remains in El Salvador and uses contemporary racial and cultural classifications for the people it calls Pipil, linking the work to [[Peoples/nahua-pipil-peoples|Nahua-Pipil peoples]] only as a historical source. The damaged scan and nineteenth-century framework do not support assigning its generalized claims to a specific modern site record.
 
 <!-- ocr:start -->
 ## Provenance

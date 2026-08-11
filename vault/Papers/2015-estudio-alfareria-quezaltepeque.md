@@ -1,11 +1,14 @@
 ---
 type: "paper"
 paper_id: "2015-estudio-alfareria-quezaltepeque"
-title: "Estudio sobre la elaboración de alfarería en Quezaltepeque"
+title: "Breve estudio del proceso de elaboración y distribución de la alfarería utilitaria de Quezaltepeque"
 authors:
-  - "[[Authors/universidad-tecnologica-de-el-salvador|Universidad Tecnológica de El Salvador]]"
-creator_raw: "Universidad Tecnológica de El Salvador"
-publication_year: 2015
+  - "[[Authors/aracely-de-gutierrez|Aracely de Gutiérrez]]"
+  - "[[Authors/mario-mata|Mario Mata]]"
+  - "[[Authors/carlos-osegueda|Carlos Osegueda]]"
+  - "[[Authors/alvaro-sermeno|Álvaro Sermeño]]"
+creator_raw: "Aracely de Gutiérrez, Mario Mata, Carlos Osegueda y Álvaro Sermeño"
+publication_year: 2005
 work_type: "report"
 languages:
   - "es"
@@ -25,11 +28,17 @@ generated: 2026-08-11
 review_status: "unreviewed"
 ---
 
-# Estudio sobre la elaboración de alfarería en Quezaltepeque
+# Breve estudio del proceso de elaboración y distribución de la alfarería utilitaria de Quezaltepeque
 
 ## Notes
 
 PDF pages 45 and 46 are photographic plates without legible captions. They account for the two pages reported as having no machine-readable text.
+
+### Ontology summary
+
+- **Authorship and date:** The cover and catalog page credit [[Authors/aracely-de-gutierrez|Aracely de Gutiérrez]], [[Authors/mario-mata|Mario Mata]], [[Authors/carlos-osegueda|Carlos Osegueda]], and [[Authors/alvaro-sermeno|Álvaro Sermeño]]. The Universidad Tecnológica de El Salvador published the work in July 2005 (PDF pp. 1–3).
+- **Scope and method:** The report documents [[Periods/modern-maritime|modern]] utilitarian pottery production through visits to three Quezaltepeque workshops and interviews with owners and workers (PDF p. 10).
+- **Contextual links:** Its municipal history names [[Places/atapasco|Atapasco]] only as a hacienda within Quezaltepeque's jurisdiction (PDF p. 17), not as an archaeological investigation. PDF p. 15 repeats historical Nahuatl etymology and Pipil-population claims relevant to [[Peoples/nahua-pipil-peoples|Nahua-Pipil peoples]], but those contextual claims do not establish continuity between pre-Hispanic communities and the modern workshops.
 
 <!-- ocr:start -->
 ## Provenance

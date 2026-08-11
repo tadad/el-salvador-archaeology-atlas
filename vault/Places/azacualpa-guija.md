@@ -20,6 +20,7 @@ papers:
   - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
   - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"
   - "[[Papers/longyear]]"
+  - "[[Papers/notesoncentralam00squi]]"
   - "[[Papers/testimony1]]"
 latest_study_year: 2004
 latest_study_label: "By 2004"
@@ -77,7 +78,7 @@ Approximate marker reconstructed from Longyear’s regional sketch map and shore
 
 ### Identification caution
 
-An [1855 notice](https://archive.org/download/notesoncentralam00squi/notesoncentralam00squi.pdf#page=331) repeats Juarros’s report of ruins called Zacualpa on a large island in Lake Güija. Because Longyear instead maps Azacualpa on a northeast-shore bluff, the historical island should not be assumed to be this site.
+An [[Papers/notesoncentralam00squi#Page 332|1855 notice, PDF p. 332]] repeats Juarros’s report of ruins called Zacualpa on a large island in Lake Güija. Because Longyear instead maps Azacualpa on a northeast-shore bluff, the historical island should not be assumed to be this site.
 
 ### longyear.pdf
 
