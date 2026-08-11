@@ -112,9 +112,9 @@ Author notes live under `vault/Authors/`.
 | `author_kind` | `person` or `organization` |
 | `aliases` | Attested catalogue variants that resolve to this identity |
 
-The normalized registries live in `_data/authors.json`,
-`_data/paper-authors.json`, and `_data/paper-metadata.json`. Generated notes do
-not replace those registries as the reproducible source of identity decisions.
+Local normalized registries may be kept under ignored `tmp/data/` for the
+Python maintenance tools. They are disposable working data; the committed
+Author and Paper notes are the durable records.
 
 ## Topic discovery records
 

@@ -92,10 +92,17 @@ class ConverterSafetyTests(unittest.TestCase):
 class OntologySafetyTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
-        cls.records = json.loads((ROOT / "_data/text-extraction-manifest.json").read_text())
-        cls.authors = json.loads((ROOT / "_data/authors.json").read_text())
-        cls.relations = json.loads((ROOT / "_data/paper-authors.json").read_text())
-        cls.metadata = json.loads((ROOT / "_data/paper-metadata.json").read_text())
+        data = ROOT / "tmp" / "data"
+        required = {
+            "records": data / "text-extraction-manifest.json",
+            "authors": data / "authors.json",
+            "relations": data / "paper-authors.json",
+            "metadata": data / "paper-metadata.json",
+        }
+        if missing := [path for path in required.values() if not path.exists()]:
+            raise unittest.SkipTest(f"local tmp/data registries unavailable: {missing}")
+        for name, path in required.items():
+            setattr(cls, name, json.loads(path.read_text()))
 
     def test_current_registries_validate(self) -> None:
         self.assertEqual(validate(self.records, self.authors, self.relations, self.metadata), [])

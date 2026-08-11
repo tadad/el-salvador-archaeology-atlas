@@ -68,9 +68,9 @@ Regional context without a concrete Salvadoran connection is excluded.
 
 The downloadable PDF archive is not committed to Git. Every Paper record
 records the original source URL, SHA-256 hash, and one-based PDF page
-headings, while `_data/` retains the corpus manifests. This keeps the
-research provenance reproducible without making application deployments clone
-hundreds of megabytes of duplicate source files.
+headings. Local processing manifests live under ignored `tmp/data/`. This keeps
+the research provenance in the Paper records without making application
+deployments clone hundreds of megabytes of duplicate source files.
 
 The searchable mirror covers all 6,306 PDF pages. Each Paper record
 records its source URL and hash, preserves PDF page boundaries, and labels each

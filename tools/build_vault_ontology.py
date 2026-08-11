@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Build and validate the Author/Paper ontology in the Obsidian vault.
 
-The JSON files under ``_data`` retain normalized identities and bibliographic
-classification. This tool renders those records as Obsidian properties while
-preserving user-managed properties and note bodies.
+The local JSON files under ``tmp/data`` retain normalized identities and
+bibliographic classification. This tool renders those records as Obsidian
+properties while preserving user-managed properties and note bodies.
 """
 
 from __future__ import annotations
@@ -17,7 +17,7 @@ from typing import Iterable
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "_data"
+DATA = ROOT / "tmp" / "data"
 VAULT = ROOT / "vault"
 PAPERS = VAULT / "Papers"
 AUTHORS = VAULT / "Authors"
