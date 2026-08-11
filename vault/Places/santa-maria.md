@@ -18,6 +18,7 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 papers:
+  - "[[Papers/1987-fowler-et-al-chipped-stone-cihuatan]]"
   - "[[Papers/drowned]]"
 latest_study_year: 2003
 latest_study_label: "May 2003"

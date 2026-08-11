@@ -17,6 +17,8 @@ location_visibility: "public"
 periods: []
 cultures: []
 papers:
+  - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
+  - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"
   - "[[Papers/longyear]]"
   - "[[Papers/testimony1]]"
 latest_study_year: 2004

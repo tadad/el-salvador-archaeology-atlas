@@ -206,7 +206,7 @@ def render_paper_note(
         ("title", yaml_scalar("title", record["title"])),
         ("authors", yaml_list("authors", links("authors"))),
     ]
-    for role in ("editors", "translators"):
+    for role in ("contributors", "editors", "translators"):
         values = links(role)
         # Empty blocks still mark canonical properties as managed, allowing a
         # later registry edit to remove obsolete role links from an old note.
@@ -289,7 +289,7 @@ def validate(
     for pid, relation in paper_authors.items():
         related = {
             str(author_id)
-            for role in ("authors", "editors", "translators")
+            for role in ("authors", "contributors", "editors", "translators")
             for author_id in relation.get(role, [])
         }
         if not relation.get("authors"):

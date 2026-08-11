@@ -20,7 +20,11 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 papers:
+  - "[[Papers/2001-shibata-et-al-casa-blanca]]"
+  - "[[Papers/2002-ito-casa-blanca]]"
+  - "[[Papers/2003-ito-kamijo-casa-blanca]]"
   - "[[Papers/2007-erquicia-los-gavilanes]]"
+  - "[[Papers/2008-ichikawa-et-al-casa-blanca]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-56]]"
   - "[[Papers/longyear]]"

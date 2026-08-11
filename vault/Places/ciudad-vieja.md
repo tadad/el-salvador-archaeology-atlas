@@ -19,8 +19,10 @@ periods:
 cultures:
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
 papers:
+  - "[[Papers/2002-fowler-ciudad-vieja]]"
   - "[[Papers/2004-fowler-et-al-ciudad-vieja-teledeteccion]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
+  - "[[Papers/2025-erquicia-conquista-cuscatlan]]"
   - "[[Papers/parks]]"
 latest_study_year: 2011
 latest_study_label: "2011"

@@ -22,6 +22,9 @@ cultures:
   - "[[Cultures/maya-related|Maya-related]]"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
+  - "[[Papers/2018-ito-produccion-alfareria-san-andres]]"
+  - "[[Papers/2021-ichikawa-et-al-campana-san-andres]]"
+  - "[[Papers/2021-ichikawa-et-al-ilopango-san-andres]]"
   - "[[Papers/anales-54]]"
   - "[[Papers/anales-56]]"
   - "[[Papers/dimick_1941]]"

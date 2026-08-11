@@ -19,6 +19,9 @@ periods:
 cultures: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
+  - "[[Papers/2020-flores-investigaciones-el-trapiche-1953-2019]]"
+  - "[[Papers/2022-ito-altares-lisos-mesoamerica-sureste]]"
+  - "[[Papers/2025-ito-dos-entidades-costa-sur]]"
   - "[[Papers/anales-56]]"
   - "[[Papers/coe_trapiche]]"
   - "[[Papers/longyear]]"

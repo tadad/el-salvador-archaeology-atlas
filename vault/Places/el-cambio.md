@@ -19,6 +19,7 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 papers:
+  - "[[Papers/2004-el-cambio-arqueologia]]"
   - "[[Papers/anales-56]]"
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021

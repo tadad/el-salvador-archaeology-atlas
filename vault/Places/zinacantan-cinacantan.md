@@ -20,6 +20,7 @@ periods:
 cultures: []
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
+  - "[[Papers/2025-erquicia-conquista-cuscatlan]]"
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022
 latest_study_label: "2022"

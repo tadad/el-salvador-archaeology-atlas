@@ -18,6 +18,7 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 papers:
+  - "[[Papers/2017-mendez-arqueologia-publica-tamanique]]"
   - "[[Papers/anales-54]]"
 latest_study_year: 2013
 latest_study_label: "2013"

@@ -18,11 +18,12 @@ source_sha256: "1d2b7a81f67a22b4060603c0f8a6f1b1b1c70648713b5d3c66dc5df6fcf7a171
 pages: 140
 extraction_status: "partial"
 embedded_pages: 14
-ocr_pages: 124
-unrecognized_pages: 2
+ocr_pages: 123
+unrecognized_pages: 3
 ocr_mode: "auto"
 ocr_language: "spa+eng"
-generated: 2026-08-06
+ocr_dpi: 250
+generated: 2026-08-11
 review_status: "unreviewed"
 ---
 
@@ -36,27 +37,16 @@ review_status: "unreviewed"
 - Source PDF: [anales-56.pdf](<../Attachments/PDFs/institutional/anales-56.pdf>)
 - Original URL: https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459&refresh=6a74d718dc9461786042136
 - Source SHA-256: `1d2b7a81f67a22b4060603c0f8a6f1b1b1c70648713b5d3c66dc5df6fcf7a171`
-- Extraction: 14 embedded-text pages; 124 OCR pages; 2 pages with no detected text
+- Extraction: 14 embedded-text pages; 123 OCR pages; 3 pages with no detected text
 - Caution: This is machine-extracted text. Consult the PDF for layout, images, tables, spelling, and exact quotation.
 
 ## Extracted text
 
 ## Page 1
 
-_Extraction method: OCR._
+_Extraction method: none._
 
-bh
-YN
-ww
-=
-lu
-P
-<x
-E
-2
-=
-lu
-e
+_[No machine-readable text detected on this page.]_
 
 ## Page 2
 
@@ -68,26 +58,32 @@ _[No machine-readable text detected on this page.]_
 
 _Extraction method: OCR._
 
+96
+
+Cuarta Época
+
+ANA
+
 MUSEO NACIONAL DE ANTROPOLOGÍA DR. DAVID J. GUZMÁN
 
 eREVISTA SEMESTRALe
 
-JULIO e DICIEMBRE DE 2016
+JULIO €e DICIEMBRE DE 2016
 
 ## Page 4
 
 _Extraction method: OCR._
 
-ANALES®
+A
 
-MUSEO NACIONAL DE ANTROPOLOGIA DR. DAVID J. GUZMAN
+MUSEO NACIONAL DE ANTROPOLOGÍA DR. DAVID J. GUZMÁN
 
-JULIO © DICIEMBRE DE 2016
+JULIO e DICIEMBRE DE 2016
 
 Silvia Elena Regalado Blanco
 Secretaria de Cultura de la Presidencia
 
-COMITE EDITORIAL PARA ESTE NUMERO
+COMITÉ EDITORIAL PARA ESTE NÚMERO
 
 Marlon Vladimir Escamilla
 Director Nacional de Patrimonio Cultural y Natural
@@ -96,7 +92,7 @@ Carlos Pérez Pineda
 Director Nacional de Investigaciones en Cultura y Arte
 
 José Heriberto Erquicia
-Director del Museo Nacional de Antropologia Dr. David J. Guzman
+Director del Museo Nacional de Antropología Dr. David J. Guzmán
 Director de la revista
 
 Nataly González, Nohemy Navas y Heriberto Erquicia
@@ -156,7 +152,7 @@ Rocío Herrera
 
 Evidencias rupestres del “monstruo acuático” en el sitio arqueológico
 Igualtepeque, El Salvador
-Hugo Ivan Chávez
+Hugo lvan Chavez
 
 22
 
@@ -170,10 +166,10 @@ _Extraction method: OCR._
 
 APORTES DIVERSOS
 
-Conservación y estructuras de protección de los sitios arqueológicos                 90
-María Laurenti
+Conservación y estructuras de protección de los sitios arqueológicos                  90
+María Laurent
 
-El criollo: su participación en la administración de Santiago de                       103
+El criollo: su participación en la administración de Santiago de                      103
 Guatemala siglo XVIII
 René Johnston Aguilar
 
@@ -217,13 +213,11 @@ en restos esqueléticos y de tejidos blandos de poblaciones antiguas, haciendo
 un recuento de los estudios de este tipo y los resultados que se han desa-
 rrollado en El Salvador. Terminando esta sección, tenemos la contribución de
 Hugo Iván Chávez, con el titulo Evidencias rupestres del “monstruo acuático”
-en el sitio arqueológico Igualtepeque, en 2013, se documentó una figura muy
+en el sitio arqueológico Igualtepeque; en 2013, se documentó una figura muy
 particular nunca antes reportada, la cual por su complejidad no se pudo de-
 terminar en campo; sin embargo, en la fase de laboratorio se encontró que
 
-ANALES 56 - JUNIO - DICIEMBR
-
-6 / Museo Nacional de Antro
+ANALES 56 - JUNIO - DICIEMBRE - 2016 / Museo Nacional de Antropología Dr. David J. Guzman
 
 ## Page 8
 
@@ -242,7 +236,7 @@ cetta Laurenti, sobre la Conservación y estructuras de protección de los sitio
 arqueológicos, en donde nos brinda una descripción de varias intervenciones
 de edificios históricos y la importancia de la conservación in situ en las zonas
 arqueológicas. Por su parte, René Johnston Aguilar, nos presenta El criollo: su
-participación en la administración de Santiago de Guatemala, siglo XVII nos
+participación en la administración de Santiago de Guatemala, siglo XVII; nos
 muestra como durante el siglo XVIII, la participación del criollo Guatemalteco
 en la administración Real fue muy reducida, en cambio, en el Ayuntamiento
 fue muy activa, por no decir total, con ello, un reducido grupo de familias
@@ -255,13 +249,14 @@ han permitido acercar cada vez más la arqueología a la población y hacerla
 partícipe de ella.
 
 Finalmente, esperamos que este número de la revista Anales, sea del agrado
+
 de la comunidad académica, científica y del público general interesado en las
 temáticas desarrolladas en este ejemplar.
 
 José Heriberto Erquicia Cruz
 Director de la revista Anales del Museo Nacional de Antropología.
 
-ANALES 56 - JUNIO - DICIEMBRE - 2016 / M                                Guzmár
+ANALES 56 - JUNIO - DICIEMBRE - 2016 / Museo Nacional de Antropología Dr. David J. Guzman
 
 ## Page 9
 
@@ -282,9 +277,9 @@ _Extraction method: OCR._
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
-ARQUEOLOGÍA PARA EL DESARROLLO:
-EL APORTE SOCIAL DE LA            ,
-ARQUEOLOGÍA PARA LA SUPERACIÓN
+ARQUEOLOGIA PARA EL DESARROLLO:
+EL APORTE SOCIAL DE LA            .
+ARQUEOLOGIA PARA LA SUPERACIÓN
 
 DE LA MARGINALIDAD
 Y LA POBREZA ECONOMICA
@@ -293,7 +288,7 @@ Karen Trinidad Consuegra Premper
 Universidad de La República (UdelaR-Uruguay)
 karenconsuegra@gmail.com
 
-pp.9- 19
+pp. 9 - 19
 
 Recibido: 26-04-2016; aceptado: 5-06-2016
 
@@ -303,7 +298,7 @@ _Extraction method: OCR._
 
 12
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Resumen
 
@@ -335,7 +330,8 @@ face today.
 Keywords
 Social archeology, social development, Latin America.
 
-desarrollo: El aporte social de la a        ara la superación de la
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología para la superación de la
+marginalidad y la pobreza económica. pp. 9-19
 
 ## Page 13
 
@@ -380,9 +376,9 @@ y muchísimos más se pueden estudiar,
 comprender y solucionar a través de una
 práctica arqueológica socialmente com-
 
-Karen Consuegra
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología pa
 
-esarrollo: El aporte
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 prometida. ¿Qué otra disciplina científica
 puede aportar más elementos comproba-
@@ -416,12 +412,15 @@ el desarrollo de ciencias sociales
 “socialmente comprometidas”.
 
 Uno de los principales inconvenientes
-es, a su juicio, que “en el campo científi-
+es, a su juicio, que “en el campo cientifi-
 co existe una lucha competitiva que tie-
 ne por desafío específico el monopolio
 de la autoridad científica, definida como
 capacidad técnica y como poder social”
 (Bourdieu, 1997).
+
+a la superación de la
+marginalidad y la pobreza económica. pp. 9-19
 
 13
 
@@ -431,7 +430,7 @@ _Extraction method: OCR._
 
 14
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Es decir, dentro de las llamadas “acade-
 mias científicas” existen entre sus miem-
@@ -446,7 +445,7 @@ asimismo, que las prácticas científicas
 van enfocadas a adquirir autoridad cien-
 tífica, reconocimiento, etc., llegando al
 punto de afectar los intereses intrínsecos
-y extrinsecos del investigador.
+y extrínsecos del investigador.
 
 La competencia y lo que Bourdieu llama
 “lucha política por la dominación científi-
@@ -471,8 +470,6 @@ puedan aportar las investigaciones an-
 tropológicas, arqueológicas o históricas.
 En algunas ocasiones, el investigador se
 establece en un lugar, ya sea un sitio ar-
-
-lo: El aporte
 
 queológico, comunidad, etc., y una vez
 realizado su trabajo investigativo no deja
@@ -512,6 +509,10 @@ Sin ningún lugar a dudas, la arqueología,
 practicada desde una convicción de com-
 promiso social, puede aportar a la supe-
 ración de la pobreza económica y la mar-
+
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología para la superación de la
+
+marginalidad y la pobreza económica. pp. 9-19
 
 ## Page 15
 
@@ -555,9 +556,9 @@ novedosas sobre cómo debían abordarse
 las investigaciones desde una perspectiva
 social y más política.
 
-Karen Consuegra
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología pa
 
-esarrollo: El aporte
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Eran épocas de efervescencia social y po-
 lítica en muchos países de Latinoamérica.
@@ -597,6 +598,9 @@ pensar que los medios de producción y
 quien los posee lo son todo, ya que hay
 muchos factores que influyen en las diná-
 
+a la superación de la
+marginalidad y la pobreza económica. pp. 9-19
+
 15
 
 ## Page 16
@@ -605,17 +609,17 @@ _Extraction method: OCR._
 
 16
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 micas sociales, que son multicausales y
 no necesariamente unidireccionales.
 
 Investigadores como Randall McGuire
-incluso van más allá, afirmando que la
-práctica de la arqueología es realmente
-una acción política. En 1974 se publica La
-arqueología como ciencia social, de Luis
-G. Lumbreras, y en 1975, Hacía una ar-
+incluso van mas alla, afirmando que la
+practica de la arqueologia es realmente
+una acción politica. En 1974 se publica La
+arqueologia como ciencia social, de Luis
+G. Lumbreras, y en 1975, Hacia una ar-
 queología social, de Jose Luis Lorenzo.
 
 Los principales postulados de esta nueva
@@ -645,8 +649,6 @@ ministrativa en la cual se gastaba más
 tiempo en aspectos de administración que
 de producción científica con su redundan-
 
-lo: El aporte
-
 te beneficio social: el aparato e investiga-
 ción convertido en un ente burocrático.
 
@@ -657,7 +659,7 @@ tos semejantes...” (Lorenzo, 1975). Los
 sitios arqueológicos y el material obtenido
 eran trabajados con “severidad”, pero no
 se relacionan en los procesos históricos
-nacionales (/bid.).
+nacionales (Ibíd.).
 
 Se hacía una crítica a las publicaciones
 que servían solamente a determinados
@@ -684,6 +686,10 @@ comunitario, que debe ayudar a comprender
 los procesos culturales del pasado, aprender
 de ellos y, si han sido exitosos en sociedades
 pasadas, traerlos al presente.
+
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología para la superación de la
+
+marginalidad y la pobreza económica. pp. 9-19
 
 ## Page 17
 
@@ -728,9 +734,9 @@ de los arqueólogos alcance a ser parte in-
 tegrada del pensamiento de nuestros pue-
 blos” (Lorenzo, 1975).
 
-Karen Consuegra
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología pa
 
-esarrollo: El aporte
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 El proyecto “Puna y arquitectura. Las formas
 locales de construcción” es un ejemplo de
@@ -771,6 +777,9 @@ aprendió de las comunidades sus técni-
 cas constructivas basadas en el uso de la
 tierra, conocidas e implementadas por los
 
+a la superación de la
+marginalidad y la pobreza económica. pp. 9-19
+
 17
 
 ## Page 18
@@ -779,7 +788,7 @@ _Extraction method: OCR._
 
 18
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 constructores locales. Se buscó poner en
 conocimiento y valor estas técnicas poco
@@ -820,8 +829,6 @@ rial y de las formas del pastoreo con sus
 desplazamientos estacionales. Se realizó
 una importante verificación de los sis-
 
-lo: El aporte
-
 temas de producción y de los equilibrios
 ecológicos en el espacio doméstico, mo-
 dalidades de unidades dispersas y disemi-
@@ -855,11 +862,15 @@ tual construido a partir de la práctica con-
 creta y compartida. Esta dinámica expresa
 no solo un replanteo del rol de la comuni-
 dad, del valor de su voz y del modo de uso
-de sus recursos y conocimientos específi-
+de sus recursos y conocimientos especifi-
 cos, sino una forma alternativa de producir
 conocimiento respetuoso de lo social, ri-
 guroso metodológicamente y transforma-
 dor, debido a su alta potencialidad de apli-
+
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología para la superación de la
+
+marginalidad y la pobreza económica. pp. 9-19
 
 ## Page 19
 
@@ -903,9 +914,9 @@ espacios domésticos, en los que finalmen-
 te confluyen variables simbólicas, ecológi-
 cas y sociales.
 
-Karen Consuegra
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología pa
 
-esarrollo: El aporte
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Es interesante cómo, para este proyec-
 to, el desempeño del pastoreo conlleva
@@ -945,6 +956,9 @@ Es importante llevar a la práctica una ar-
 queología que sirva para los intereses so-
 ciales de cada uno de nuestros países, con
 
+a la superación de la
+marginalidad y la pobreza económica. pp. 9-19
+
 19
 
 ## Page 20
@@ -953,7 +967,7 @@ _Extraction method: OCR._
 
 20
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 un fuerte componente de beneficio social,
 puntual, real y tangible para las comunida-
@@ -975,8 +989,6 @@ social, se deben evaluar y actualizar los
 postulados principales surgidos desde
 hace varias décadas; estos postulados
 
-lo: El aporte
-
 fueron novedosos en su momento histó-
 rico, pero se debe de hacer una revisión
 actualizada de los mismos.
@@ -996,9 +1008,15 @@ los cuales debe servir, para que tomen
 conciencia de su valor real y sean defen-
 sores del patrimonio cultural.
 
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología para la superación de la
+
+marginalidad y la pobreza económica. pp. 9-19
+
 ## Page 21
 
 _Extraction method: OCR._
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
@@ -1013,7 +1031,7 @@ social. Nueva Antropología. Asociación Nueva Antropología A. C. 3 (12), pp. 6
 Lumbreras, L. (1981) La arqueología como ciencia social. Lima: Editorial Inca.
 
 Martínez H. G. (2000) Arqueología y medio ambiente: Algunas características del impacto
-socio-ambiental en el remanente arqueológico. Xi Simposio de Investigaciones Ar-
+socio-ambiental en el remanente arqueológico. XI! Simposio de Investigaciones Ar-
 queológicas en Guatemala, 1999. J. P. Laporte, H. Escobedo, B. Arroyo y A. C. de
 Suasnávar (Eds.), pp. 394-399. Museo Nacional de Arqueología y Etnología, Guatema-
 la (versión digital).
@@ -1021,7 +1039,8 @@ la (versión digital).
 Tomasi, J. & Rivet, C. (2011) Puna y arquitectura, las formas locales de la construcción.
 Buenos Aires: Marcelo Kohan.
 
-Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte socia
+Karen Consuegra Pemper / Arqueología para el desarrollo: El aporte social de la arqueología para la superación de la
+marginalidad y la pobreza económica. pp. 9-19
 
 21
 
@@ -1045,8 +1064,6 @@ Clásico tardío (600 - 900 d. C.).
 
 _Extraction method: OCR._
 
-Revista ANALES 56, 2016, ISSN 0374-5546
-
 NUEVO APORTE SOBRE EL TEMA DE LA
 ERUPCIÓN DEL VOLCAN ILOPANGO
 DESDE EL SITIO SAN ANDRES,
@@ -1063,7 +1080,7 @@ Juan Manuel Guerra Clará
 
 Arqueólogo, consultor
 
-Correo electrónico: juan1912.c@gmail.com
+Correo electrónico: juan1912.c0Ogmail.com
 
 pp. 22 - 41
 
@@ -1094,7 +1111,7 @@ Volcán llopango, valle de Zapotitán, San Andrés, estudio cerámico, estratigr
 
 Abstract
 
-Itis unquestionable that the discussion regarding the eruption of llopango Volcano, dated around
+[tis unquestionable that the discussion regarding the eruption of llopangoVolcano, dated around
 A.D. 400-550, is of great importance to Salvadoran archeology, as well as Mesoamerican
 archeology because of the incredible magnitude of the eruption. From an archeological point
 of view, however, very few sites related to this gigantic volcanic event have been studied.
@@ -1108,6 +1125,9 @@ rather rapidly toward its apogee in the Late Classic period.
 Keywords
 llopango Volcano, Zapotitan Valley, San Andrés, Ceramic Study, Stratigraphy.
 
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo aporte sobre el tema de la erupción del Volcan llopango desde el
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
+
 25
 
 ## Page 26
@@ -1116,6 +1136,7 @@ _Extraction method: OCR._
 
 26
 
+Revista ANALES 56, 2016, ISSN 0374-5546
 INTRODUCCIÓN
 
 El sitio arqueológico San Andrés fungió
@@ -1143,20 +1164,23 @@ salvadoreña, pero también es muy polé-
 mico en cuanto a su datación e impacto
 sobre las sociedades prehispánicas que
 habitaron en el actual territorio salvadore-
-ño (e. g. Dull et al., 2001; Dull et al., 2010;
+ño (e. g. Dull et al., 2001; Dull et a/., 2010;
 Earnest, 1999; Ichikawa, 2016; Kitamura,
 2010a; Paredes Umaña, 2013; Sheets,
-1979, 1983; Shibata et al., 2010). Asi-
+1979, 1983; Shibata ef al., 2010). Asi-
 mismo, en décadas recientes se han de-
 sarrollado aceleradamente estudios sobre
-desastres naturales y cambios climáticos
+desastres naturales y cambios climaticos
 desde el punto de vista de las ciencias
 no solo naturales, sino también sociales,
 incluso arqueología y antropología (e. g.
 Cooper & Sheets, 2012; Grattan € Torren-
 
-ce, 2007; Rose etal., 2004). Lo menciona-
-do ayudará a entender de mejor manera
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo a
+sitio San Andrés, departamento de La Libertad, El Salv
+
+ce, 2007; Rose et al., 2004). Lo menciona-
+do ayudara a entender de mejor manera
 cómo los pobladores antiguos enfrentaron
 dichos fenómenos naturales. En el caso
 de la arqueología, comparada con otras
@@ -1194,7 +1218,8 @@ arqueológico, el área de San Andrés se
 estimó en por lo menos 3 km?, y si se in-
 cluyen otros sitios menores ubicados alre-
 
-olcán llopango desde e
+orte sobre el tema de la erupción del Volcán llopango desde e
+dor. pp. 22-41
 
 ## Page 27
 
@@ -1217,7 +1242,7 @@ Sheets, 2013), El Cambio (Chávez, 2009),
 El Chahuite (Escamilla, 2001), Chanmico
 (Valdivieso, 2006) y Nuevo Lourdes Po-
 nientes (comunicación personal con Díaz
-, H. y Toledo, M.), entre otros.
+,H. y Toledo, M.), entre otros.
 
 Estructura-7
 
@@ -1225,6 +1250,8 @@ Estructura-5
 (La Campana)
 
 Acropolis
+
+Nx     0,
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -1251,8 +1278,6 @@ Plaza Norte
 
 Monticulo B
 
-Tr.2
-
 Tr.1
 
 N
@@ -1270,6 +1295,8 @@ _Extraction method: OCR._
 
 28
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 Hasta la fecha, se han reportado varios des-
 cubrimientos significativos en San Andrés,
 por ejemplo, restos óseos con deforma-
@@ -1286,17 +1313,23 @@ riodo clásico tardío. Por lo anterior, gene-
 ralmente San Andrés es considerado como
 un centro regional, político, económico y
 religioso del periodo clásico tardío en el va-
-lle de Zapotitan (e. g. Amaroli,1996; Black,
-1983; Boggs, 1943; Mejia, 1984).
+lle de Zapotitán (e. g. Amaroli,1996; Black,
+1983; Boggs, 1943; Mejía, 1984).
+
+TA (My
+
+12 (i) +
+T3 (11)
+
+Ta (ll)          SY
+TS (ill)   o   NS          Vee  =   a
+7             SE: ill
+              :
 
 PERFIL COMPUESTO
 de
 MONTICULO 1-ESTE
 MONTICULO 2-OESTE
-
-Humus con tiestos
-
-Suelo esteril —
 
 San Andrés y la erupción del
 volcán llopango
@@ -1317,16 +1350,27 @@ vestigaciones y estudios relacionados
 con la erupción del volcán llopango en
 San Andrés.
 
+® Elevación de tumba 1b
+O Elevación de escondrijo 2
+1.2 Terraza 2
+16(1) Fasel                            y
+
+y
+
+¡E
+
 PERFIL COMPUESTO
 de
 PLAZA SUR-Parte Sur
 y
 MONTICULO 1-Parte Norte
 
+Humus con tiestos —                                                  o      10     20m
+Suelo esteril. —t=                                               a]
 Figura 2: Perfiles de la Acrópolis (dibujo digitalizado de Boggs, 1943).
+Akira Ichikawa - Juan Manuel Guerra Clará / Nue     orte sobre el tema de la erupción del Volcán llopango desde e
 
-ción del Volcán llopango desde el
-41
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 ## Page 29
 
@@ -1344,7 +1388,7 @@ como la capa de ceniza volcánica prove-
 niente de llopango, posteriormente asigna-
 do como tierra blanca joven (=TBJ). Además,
 Stanley Boggs (1943, p. 113) menciona el
-aparecimiento de misma ceniza volcanica
+aparecimiento de misma ceniza volcánica
 debajo de la Estructura -8 (actualmente
 conocida como Estructura -7). En otras
 palabras, cabe recalcar que la Acrópolis y
@@ -1371,7 +1415,11 @@ en el valle en mención y se presentaron di-
 versos datos relacionados con la erupción
 del volcán llopango, como distribución
 
-chikawa - Juan Manuel Guerra Clará / Nu
+Akira Ichikawa - Juan Manuel Guerra Clará / Nue
+si
+
+aporte sobre el tema de la erupción
+San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -1422,6 +1470,8 @@ _Extraction method: OCR._
 
 30
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 toclásico (75-420 d. C.), justo antes de la
 erupción (McKee, 2007, p. 276).
 
@@ -1433,7 +1483,7 @@ potitán, ciertos años o siglos después,
 es decir, en el clásico tardío comenzó
 la reocupación. Sin embargo, a pesar
 de que varios investigadores han repor-
-tado T8J en San Andrés, parece ser que
+tado TBJ en San Andrés, parece ser que
 debido a la magnitud de ocupación del
 clásico tardío y la densidad de artefactos
 correspondientes al período en mención,
@@ -1447,7 +1497,7 @@ años d. C. Aunque todavía está en discu-
 sión, la presente teoría del fechamiento
 de la erupción del volcán llopango es en-
 tre 400-550 años d. C. (e. g. Dull et al.,
-2001; Dull et al., 2010; Kitamura, 20104).
+2001; Dull et a/., 2010; Kitamura, 2010a).
 Por lo tanto, es necesario reconsiderar el
 desarrollo social de San Andrés con los
 datos mas robustos y multiples, poniendo
@@ -1455,10 +1505,14 @@ más atención al tema relacionado con la
 erupción del volcán llopango.
 
 DATOS ARQUEOLÓGICOS OBTENIDOS
+
 ALREDEDOR DE LA ESTRUCTURA-5 Y
 EL MONTÍCULO B
 
 Datos estratigráficos
+
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo a
+sitio San Andrés, departamento de La Libertad, El Salv
 
 Al lado oeste de la Estructura-5
 (Trinchera-1)
@@ -1499,7 +1553,8 @@ rias intervenciones de construcción. Den-
 tro de dichos pisos se registraron materia-
 les cerámicos como los grupos Gualpola
 
-olcán llopango desde e
+orte sobre el tema de la erupción del Volcán llopango desde e
+dor. pp. 22-41
 
 ## Page 31
 
@@ -1597,22 +1652,19 @@ de la Trinchera-1, el piso que se presenta
 en la Trinchera-2 fue construido poco des-
 pués de la Estructura-5. Solamente por la
 similitud de materia prima de piso (barro y
-piedrín) y materiales registrados, el rasgo
+piedrin) y materiales registrados, el rasgo
 arriba mencionado podría haber funciona-
 do casi como contemporáneo.
 
-En el contexto debajo de T8J de la Trin-
+En el contexto debajo de TBJ de la Trin-
 chera-2 se registraron las mismas capas
 y materiales arqueológicos de la Trinche-
 ra-1, aunque la cantidad de materiales fue
 bien reducida.
 
-Figura 4: Estratigrafía de la Trinchera 2 ¿ubicada al lado este del Monticulo B.
+Figura 4: Estratigrafía de la Trinchera 2 ¡ubicada al lado este del Montículo B,
 
-Akira Ichikawa - Juan Manuel Guerra Clará / Nuev
-
-aporte sobre el tema de la erupción del Volcán llopango desde el
-
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo aporte sobre el tema de la erupción del Volcán llopango desde el
 sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 ## Page 33
@@ -1634,7 +1686,7 @@ encontrarse muy erosionada o fragmenta-
 da. No obstante, de acuerdo con la clasi-
 ficación tipológica realizada principalmente
 en Chalchuapa (Sharer, 1978, vol. Ill), valle
-de Zapotitán (Beaudry, 1983) y San Andrés
+de Zapotitan (Beaudry, 1983) y San Andrés
 (Wilson, 2013) y una última revisión crono-
 lógica interregional (Inomata et al., 2014),
 se logró clasificar 487 fragmentos (aproxi-
@@ -1645,7 +1697,7 @@ JICALAPA
 LOLOTIQUE
 HUASCAHA
 GUAYMANGO
-IZALOO
+IZALCO
 
 EL CONGO
 CUITAPAN
@@ -1656,10 +1708,8 @@ LAMATEPEQUE
 COQUIAMA
 SANTA TECLA
 NOHUALCO
-MIZATA
-OLOCUITLA
 
-2016, ISSN O
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 En las capas debajo de TBJ, los grupos
 cerámicos Mizata, Jicalapa, Lolotique,
@@ -1682,33 +1732,41 @@ forma de botón, incisión esgrafiada (línea
 fina), combinación de franja roja y decora-
 ción del estilo Usulután, y base anular. Es
 
-GUALPOPA
+ES
+3
+0
 
-5
+MIZATA a A +
 
-GUAZAPA HRRRRRRRARR a SERERRRRRAD                          EZ
+OLOCUITLA MI +
 
-Za
+GUALPOPA §
+
+GUAZAPA E
 
 TAZULA
 
 MACHACAL
 
-COPADOR                  E
+SNS OS
+
+COPADOR                         E
 
 EL PITO
 
 JEGEN
 
-SSSUOSS
+MM Entre TBJ y Talpetate 4 Pisos
 
-WM Entre TBJ y Talpetate $4 Pisos
+Entre TSA y Pisos # Arriba de TSA
 
-Entre TSA y Pisos #% Arriba de TSA
+Figura 5: Frecuencia de los grupos cerámicos registrados por capa en la Trinchera-1.
 
-Figura 5: Frecuencia de los grupos cerámicos registrados por capa en la Trinchera-1
+Akira Ichikawa - Juan Manuel Guerra Clará / Nue
+si
 
-33
+aporte sobre el tema de la erupción
+San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 ## Page 34
 
@@ -1716,7 +1774,7 @@ _Extraction method: OCR._
 
 34
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 decir, los materiales correspondientes a
 los periodos preclásico terminal (100 a. C.-
@@ -1756,6 +1814,8 @@ materiales de la Trinchera-1, solo se lo-
 graron clasificar 114 fragmentos (aproxi-
 madamente el 7 % de todas las muestras).
 
+Akira Ichikawa - Juan Manuel Guerra Clará / Nue
+
 En las capas debajo de TBJ se presenta
 la misma tendencia de la Trinchera-1,
 es decir, los grupos Mizata, Jicalapa,
@@ -1792,6 +1852,10 @@ a afirmar que hay un cambio significativo
 de tradición cerámica antes y después de
 la erupción del volcán llopango.
 
+orte sobre el tema de la erupción del Volcán llopango desde e
+
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
+
 ## Page 35
 
 _Extraction method: OCR._
@@ -1808,27 +1872,34 @@ MIZATA
 
 NOHUALCO
 
-2
-2
+Revista ANALES 56, 2016, ISSN 0374-5546
 
-HUASCAHA                                                                               7                                                                            EZ > THA
+e
 
-cuazara PEN                                                           Y           2           ZA
-OLOCUITLA                                                                    ]
-CAMPANA                                                                    ]
-CHANCALA                                                                                         ]
-GUARMAL                                                                                         ]
-BALAM                                                                              LZ LEB,
-COPADOR                                    Y                       Zo                        ZA
-EL PITO     EZ                                        20                                        ZA
-GUALPOPA                                             1                                          ZA
-MACHACAL                                         1                                      ZA
+-1- Moo
 
-meEntre TBJ y Talpetate Entre TBJ y Pisos
+GUALPOPA
 
-Entre TSA y Pisos Arriba de TSA
+GUAZAPA                                                 E         29         E)
+OLOCUITLA                                                                          ]
+CAMPANA                                                                          ]
+CHANCALA                                                                          ]
+GUARMAL                                                                          ]
+BALAM                                                                 Ez   A
+COPADOR                              E                     6                     al
+EL PITO     E                                       20                                       al
 
-Figura 6: Frecuencia de los grupos cerámicos registrados por capa en la Trinchera-2
+4
+
+A
+
+MACHACAL
+
+M Entre TBJ y Talpetate meEntre TBJ y Pisos
+
+Entre TSA y Pisos  Z% Arriba de TSA
+
+Figura 6: Frecuencia de los grupos cerámicos registrados por capa en la Trinchera-2.
 
 DISCUSIONES
 
@@ -1849,6 +1920,12 @@ sico temprano inicial. En otras palabras,
 la erupción del volcán llopango no causó
 directamente la reducción de la dinámica
 social de San Andrés.
+
+Akira Ichikawa - Juan Manuel Guerra Clará / Nue
+si
+
+aporte sobre el tema de la erupción
+San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 Es notorio mencionar que dicho argumen-
 to casualmente coincide con el caso de la
@@ -1878,7 +1955,7 @@ _Extraction method: OCR._
 
 36
 
-Revista ANALES 56, 2016
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 ¿Existió una rápida intervención
 humana después de la erupción
@@ -1919,6 +1996,9 @@ en los pozos ubicados en las afueras de
 las estructuras principales (McKee, 2007);
 y los de C. Begley en el pozo maestro lo-
 
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo apor
+sitio San Andrés, departamento de La Libertad, El Salv
+
 calizado en la Estructura-5 (Begley et al.,
 1997). De esta manera, aunque todavía no
 se puede descartar completamente otra
@@ -1955,11 +2035,11 @@ tudios anteriores (Dull et a/., 2001; Dull et
 al., 2010).
 
 Hipótesis 1 550-600 d. C.: Esta hipótesis
-
-respalda a la propuesta del último fecha-
+respalda a la propuesta del ultimo fecha-
 miento de la erupción de llopango, 535 d. C.
 
-Volcán llopango desde el
+e sobre el tema de la erupción del Volcán llopango desde el
+dor. pp. 22-41
 
 ## Page 37
 
@@ -1969,7 +2049,7 @@ _Extraction method: OCR._
 presentados, dentro de los pisos, y en la
 capa entre los pisos y TBJ se encontraron
 los grupos cerámicos Guazapa y Gualpopa.
-De acuerdo a la cronologia propuesta por
+De acuerdo a la cronología propuesta por
 Sharer (1979), el grupo Guazapa abarca
 desde la fase Vec hasta la fase Payu (200-
 800 d. C.) y el grupo Gualpopa abarca des-
@@ -1991,11 +2071,11 @@ muestras de restos óseos que se encontra-
 ron en las fosas excavadas sobre TBJ. En
 consecuencia, se considera que el inicio de
 la repoblación en el sitio por lo menos fue
-antes de 650 d. C. (Ichikawa et al., 2015,
+antes de 650 d. C. (Ichikawa et al, 2015,
 p. 170). El dato de radiocarbono de restos
 óseos representa el momento de su falleci-
 miento, por lo cual el inicio de repoblación
-en NLP se remontaría a poco antes de 650 d. C.,
+en NLP se remontaria a poco antes de 650 d. C.,
 es decir, alrededor 600 d. C. Parece ser,
 también, que la reocupación del sitio Joya
 de Cerén después de la erupción fue alre-
@@ -2004,11 +2084,7 @@ dedor de 600 d. C, según el grupo cerámico
 erupción de Loma Caldera calibrado por el
 programa Oxcal (McKee, 2002, p. 7).
 
-a - Juan Manuel (
-
-46
-
-NALES 56, 2016, ISSN 0374-55
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Hipótesis 2 450-500 d. C.: Esta hipótesis
 sustenta el fechamiento presentado en el
@@ -2017,7 +2093,7 @@ ralmente es manejado por arqueólogos al-
 rededor de 420 d. C. Esta propuesta también
 coincide con los estudios sobre la erupción
 de llopango en el caso de Chalchuapa (e. g.
-Ichikawa, 2016; Ito, 2009; Shibata et al,
+Ichikawa, 2016; Ito, 2009; Shibata et al.,
 2010). Los registros arqueológicos arriba
 presentados para soportar esta hipótesis
 son las presencias de los grupos cerámicos
@@ -2049,6 +2125,9 @@ COMENTARIOS FINALES
 Este artículo presenta nuevos datos e hipó-
 tesis en cuanto al tema de la erupción del
 
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo aporte sobre el tema de la erupción del Volcán llopango desde el
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
+
 37
 
 ## Page 38
@@ -2057,7 +2136,7 @@ _Extraction method: OCR._
 
 38
 
-Revista ANALES 56, 2016
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 volcán llopango desde el punto de vista de
 San Andrés, valle de Zapotitán, El Salvador.
@@ -2086,6 +2165,8 @@ embargo, podría ser también la evolución
 local después de la erupción, como lo ar-
 gumentó A. Demarest (1988, p. 365). Para
 
+Akira Ichikawa - Juan Manuel Guerra Clará / Nue
+
 discutir más profundamente este tema, se
 necesita obtener más datos múltiples.
 
@@ -2110,20 +2191,24 @@ sidad Tecnológica de El Salvador por su
 colaboración. Para finalizar, agradece-
 mos sobremanera a la Sociedad Japone-
 sa para la Promoción de Ciencia, Japón
-(#26101003), y a la Fundación Daiko
+(426101003), y a la Fundación Daiko
 (#11029), por sus apoyos financieros.
 
-Volcán llopango desde el
+orte sobre el tema de la erupción del Volcán llopango desde e
+
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 ## Page 39
 
 _Extraction method: OCR._
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 REFERENCIAS BIBLIOGRÁFICAS
 
 Amaroli, P. (1996) Investigaciones arqueológicas en el área de nuevas instalaciones en el
 Parque Arqueológico San Andrés. Informe preparado para el Patronato Pro- Patrimonio
-Cultural, El Salvador.
+Cultural, El Salvador,
 
 Beaudry, M. P. (1983) The Ceramics of the Zapotitan Valley. En Sheets, P. (Ed.) Archeology and
 Volcanism in Central America: The Zapotitán Valley of El Salvador, pp. 159-190. Austin:
@@ -2131,7 +2216,7 @@ University of Texas Press.
 
 Begley, C., Sullivan, T., Brown, L., Wilson, A. & Sampeck, K. (1996) Proyecto Arqueológico San
 Andrés: Informe 1996, Tomo |. Informe preparado para el Patronato Pro-Patrimonio
-Cultural, El Salvador.
+Cultural, El Salvador,
 
 Begley, C., Gallardo, R., Card, J., Wilson, A., Brown, L. & Herrmann, N. (1997) Proyecto Ar-
 queológico San Andrés: Informe 1997. Informe preparado para el Patronato Pro-Patri-
@@ -2142,21 +2227,25 @@ and Volcanism in Central America: The Zapotitán Valley of El Salvador, pp. 62-9
 tin: University of Texas Press.
 
 Boggs, S. H. (1943) Notas sobre las excavaciones en la Hacienda San Andrés, Departamento
-de la Libertad. 7zunpame ll! (1), pp. 104-126.
+de la Libertad. Tzunpame III (1), pp. 104-126.
 
-Camacho, O. 8 Díaz, H. (2014) Proyecto Arqueológico San Andrés, Temporada 2012. En Bár-
+Camacho, 0. & Díaz, H. (2014) Proyecto Arqueológico San Andrés, Temporada 2012. En Bár-
 bara, A. et al. (Eds.) XXVI! Simposio de Investigaciones Arqueológicas en Guatemala
 2013, pp. 571-580. Guatemala: Ministerio de Cultura y Deportes, Instituto de Antropo-
 logía e Historia, Asociación Tikal.
 
-Chávez, H. (2009) El entierro preclásico EC | “8* Extensión-a” Temporada 2006/07 del sitio
+Chávez, H. (2009) El entierro preclásico EC | “8? Extensión-a” Temporada 2006/07 del sitio
 arqueológico El Cambio valle de Zapotitán, San Juan Opico, La Libertad. Tesis de licen-
 ciatura entregada a la Universidad Tecnológica de El Salvador.
 
 Cobos, R. (1994) Síntesis de la arqueología de El Salvador, 1850-1991. Colección Antropolo-
 gía e Historia, No. 21. El Salvador, CONCULTURA.
 
-a Ichikawa - Juan Manuel Guerra Clará / N
+Akira Ichikawa - Juan Manuel Guerra Clará / Nueve
+sitio Sar
+
+orte sobre el tema de la erupción del Volcán llopango desde el
+Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 39
 
@@ -2165,6 +2254,8 @@ a Ichikawa - Juan Manuel Guerra Clará / N
 _Extraction method: OCR._
 
 40
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Cooper, J. & Sheets, P. D. (2012) Surviving Sudden Environmental Change: Understanding Ha-
 zards, Mitigating Impacts, Avoiding Disasters. Colorado: University of Colorado Press.
@@ -2192,7 +2283,7 @@ Escamilla, M. (2001) Fechamiento de la Toba San Andrés a través del análisis 
 post erupción de El Boquerón, Sitio El Chahuite, valle de Zapotitán. Tesis de licenciatura
 entregada a la Universidad Tecnológica de El Salvador.
 
-Ferrés, D., Delgado, H., Hernandez, W., Pullinger, C., Chavez, H., Castillo, R. & Cañas-Dinarte,
+Ferrés, D., Delgado, H., Hernández, W., Pullinger, C., Chávez, H., Castillo, R. & Cañas-Dinarte,
 C. (2011) Three Thousand Years of Flank and Central Vent Eruptions of the San Salva-
 dor Volcanic Complex (El Salvador) and Their Effects on El Cambio Archeological Site:
 A Review based on Tephrostratigraphy. Bulletin of Volcanology 73 (7), pp. 833-850.
@@ -2200,26 +2291,25 @@ A Review based on Tephrostratigraphy. Bulletin of Volcanology 73 (7), pp. 833-85
 Grattan, J. & Torrence, R. (Eds.) (2007) Living under the Shadow: The Cultural Impacts of
 Volcanic Eruptions. California: Left Coast Press.
 
-Hernández, W. (2004) Características Geomecanicas y Vulcanológicas de las Tefras Tierra
-
+Hernandez, W. (2004) Características Geomecanicas y Vulcanológicas de las Tefras Tierra
 Blanca Joven, Caldera de llopango, El Salvador. Tesis de Maestría presentado a la
 Universidad Politécnica de Madrid, Madrid.
 
-ción del Volcán llopango desde e
-
-bre el tema de la e
-sitio San An       ento de La Liberta        p. 22-41
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo aporte sobre el tema de la erupción del Volcán llopango desde e
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 ## Page 41
 
 _Extraction method: OCR._
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Ichikawa, A. (2016) Cuándo y cómo fue la erupción del volcán llopango, El Salvador: Síntesis
 desde la óptica arqueológica. Journal of the School of Letters, Nagoya University, 12,
 pp. 23-43.
 
 Ichikawa, A., Gallardo, R., Diaz, H. & Alvarado, J. (2015) Nuevos Datos de Radiocarbono Rela-
-cionados con la Erupción del volcán llopango. Anales del Museo Nacional de Antropo-
+cionados con la Erupción del volcan llopango. Anales del Museo Nacional de Antropo-
 logía Dr. David J. Guzmán 53 (4), pp. 160-175.
 
 Inomata, T., Ortiz, R., Arroyo, B. & Robinson, E. J. (2014) Chronological Revision of Preclassic
@@ -2237,7 +2327,7 @@ Kitamura, S. (2010b) Revaluation of Impacts of the Gigantic Eruption of llopango
 Ancient Mesoamerican Societies in the 4th to the 6th Century. Poster presented at
 International Focus Group on Tephrochronology and Volcanism.
 
-Mason, J. A. (1941a) Notes and News. American Antiquity 6, p. 287.
+Mason, J. A. (1941 a) Notes and News. American Antiquity 6, p. 287.
 
 Mason, J. A. (1941b) Notes and News. American Antiquity 7, p. 81.
 
@@ -2245,7 +2335,7 @@ Mckee, B. (2002) Appendix 1A. Radiocarbon Dating and Chronology. En Sheets, P. (
 re the Volcano Erupted: The Ancient Cerén Village in Central America, pp. 7-8. Austin:
 University of Texas Press.
 
-Mckee, B. (2007) Volcanism, Household Archaeology, and Formation Processes in the Zapo-
+McKee, B. (2007) Volcanism, Household Archaeology, and Formation Processes in the Zapo-
 titan Valley, El Salvador. Ph.D. Dissertation presented for the University of Arizona. Ann
 
 Arbor: University Microfilms.
@@ -2253,7 +2343,11 @@ Arbor: University Microfilms.
 Mejia, J. (1977) Excavaciones en las Ruinas de San Andrés. Tomado del manuscrito original
 entregado como informe al Departamento de Arqueología. El Salvador.
 
-a Ichikawa - Juan Manuel Guerra Clará / N
+Akira Ichikawa - Juan Manuel Guerra Clará / Nueve
+sitio Sar
+
+orte sobre el tema de la erupción del Volcán llopango desde el
+Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 41
 
@@ -2263,6 +2357,7 @@ _Extraction method: OCR._
 
 42
 
+Revista ANALES 56, 2016, ISSN 0374-5546
 Mejía, J. (1984) Las “Ruinas de San Andrés” Excavaciones en la Estructura-7. Flama 14, pp. 33-48.
 
 Murano, M. (2008) Informe Final: Proyecto de Restauración e Investigación en la Estructu-
@@ -2270,11 +2365,11 @@ ra-5 y el Montículo-6 del Parque Arqueológico Casa Blanca, Chalchuapa, El Salv
 El Salvador: Comite de Restauracion del Templo Santiago Apostol, Departamento de
 Arqueologia de CONCULTURA y JICA.
 
-Paredes, F. (2013) Nuevas investigaciones en la Cordillera de Apaneca: una revisión de la tesis
-del despoblamiento Posllopango. /dentidades: Revista de Ciencias Sociales y Humani-
+Paredes, F (2013) Nuevas investigaciones en la Cordillera de Apaneca: una revisión de la tesis
+del despoblamiento Posllopango. Identidades: Revista de Ciencias Sociales y Humani-
 dades, 4 (6), pp. 112-130.
 
-Ries, M. (1940) First season's archaeological work at Campana San Andrés. American Anthro-
+Ries, M. (1940) First season 's archaeological work at Campana San Andrés. American Anthro-
 pologist, New Series 42 (4), pp. 712-713.
 
 Rose, W. |., Bommer, J. J., López, D. L., Carr, M. J & Major, J. J. (2004) Natural Hazards in El
@@ -2295,23 +2390,24 @@ Sheets, P. (2013) Joya de Cerén: Patrimonio Cultural de la Humanidad 1993-2013.
 vador: Universidad de El Salvador.
 
 Shibata, S., Kitamura, S. & Ichikawa, A. (2010) Reconsideración del fechamiento de TBJ desde
-el punto de vista estratigráfico. En B. Arroyo et al. (Eds.), XXI! Simposio de Investiga-
+el punto de vista estratigráfico. En B. Arroyo ef al. (Eds.), XXI Simposio de Investiga-
 ciones Arqueológicas en Guatemala, 2009, pp. 826-838. Guatemala: Museo Nacional
 de Arqueología y Etnología.
 
 Valdivieso, F. (2006) Chanmico: Reseña de una investigación arqueológica. El Salvador Inves-
+
 tiga, Año 2, Edición No.4, pp. 42-52.
 
-bre el tema de la e
-sitio San An       ento de La Liberta        p. 22-41
-
-ción del Volcán llopango desde e
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo aporte sobre el tema de la erupción del Volcán llopango desde e
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 ## Page 43
 
 _Extraction method: OCR._
 
-Verhagen, I. (1997) Proyecto San Andrés: Investigaciones arqueológicas en el obraje de añil,
+Revista ANALES 56, 2016, ISSN 0374-5546
+
+Verhagen, |. (1997) Proyecto San Andrés: Investigaciones arqueológicas en el obraje de añil,
 Octubre 1996 a enero 1997. Informe preparado para el Patronato Pro-Patrimonio Cul-
 tural, El Salvador.
 
@@ -2321,16 +2417,17 @@ ceramics.com/.
 NOTAS
 
 1. Con base en el criterio de Hernández (2004), la unidad “B” es pómez de caida, la unidad “E”
-depósito indica de caida pómez fino y depósito de caída húmedo y seco, “G” indica depósito de
+depósito indica de caída pómez fino y depósito de caída húmedo y seco, “G” indica depósito de
 caída ceniza más fino.
+
+Akira Ichikawa - Juan Manuel Guerra Clará / Nuevo aporte sobre el tema de la erupción del Volcán llopango desde el
+sitio San Andrés, departamento de La Libertad, El Salvador. pp. 22-41
 
 43
 
 ## Page 44
 
 _Extraction method: OCR._
-
-Revista ANALES 56, 2016, ISSN 0374-5546
 
 OSTEOBIOGRAFÍAS:
 PALEOPATOLOGÍAS PREHISPÁNICAS
@@ -2341,7 +2438,7 @@ Rocío María Lourdes Herrera Reyes
 Departamento de Arqueología
 
 Secretaría de Cultura de la Presidencia de El Salvador
-ruby5000.50@gmail.com
+ruby5000.500 gmail.com
 
 pp. 42 -73
 
@@ -2381,7 +2478,11 @@ historically in El Salvador and what type of information has been recovered.
 Keywords
 Schmorl's Nodes, Dental Pathologies, Prehispanic Burials from El Salvador.
 
-Rocio Herrera / Paleopatologías prehispánicas en El Salvador: una aproximaciól
+Rocío Herrera / Paleopatologías prehispánicas en El Salvador: una aproximación desde los restos arqueológicos,
+pp. 42-7
+
+2
+ie)
 
 45
 
@@ -2391,6 +2492,7 @@ _Extraction method: OCR._
 
 46
 
+Revista ANALES 56, 2016, ISSN 0374-5546
 INTRODUCCIÓN
 
 Las paleopatologías son las enfermedades
@@ -2429,10 +2531,6 @@ o patrones de entierro; en el mejor de los
 casos, se da información sobre la posición
 en que fueron colocados, y en algunos otros
 se presenta información sobre sexo y edad,
-
-rehispánicas en El Sa
-
-or: una aproxin
 
 más recientemente se empiezan a presen-
 tar estudios sobre ciertas paleopatologías.
@@ -2473,7 +2571,9 @@ de están estos o si aún perduran.
 Por otra parte, se encuentran las fichas de
 registro del Departamento de Arqueología,
 
-IN dest
+3ocío Herrera / Paleopatologías prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
+
+pp. 42-73
 
 ## Page 47
 
@@ -2515,10 +2615,11 @@ estables para migración, nutrición y otras
 variables (ver Tabla 2).
 
 Teniendo esta información presente, nos
+
 enfocaremos en cinco estudios que pre-
 sentan información sobre patologías:
 
-s prehispánicas en El Salv
+Rocío Herrera / Paleopatologías prehispánicas en
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -2561,7 +2662,11 @@ prestó su ayuda en el sitio arqueológi-
 co Tacuscalco-Los Cerritos, en el cual se
 localizaron tres entierros múltiples, con
 
-Or: Una aproximación a
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
+
+2
+ie)
 
 47
 
@@ -2569,576 +2674,990 @@ Or: Una aproximación a
 
 _Extraction method: embedded text._
 
-Sitio arqueológico         Ficha          Registrador
-
-
-     1       El Molino        10-32 del 11/9/85   Paul Amaroli
-
-
-     2       La Cima          24-12 del 12/5/85   Paul Amaroli
-
-
-     3      Aguachapio         2-8 del 24/2/86    Paul Amaroli
-
-
-     4      Nueva York              1986          Paul Amaroli
-
-     5       Tacachol          2-9 del 24/2/86    Paul Amaroli
-
-
-     6      La Caseta         2-10 del 24/2/86    Paul Amaroli
-
-
-     7      Cangrejera        16-1 del 14/1/75    Stanley Boggs
-
-
 48
+
+Sitio arqueológico
+
+Ficha
+
+Registrador
+
+1
+
+El Molino
+
+10-32 del 11/9/85
+
+Paul Amaroli
+
+2
+
+La Cima
+
+24-12 del 12/5/85
+
+Paul Amaroli
+
+3
+
+Aguachapio
+
+2-8 del 24/2/86
+
+Paul Amaroli
+
+4
+
+Nueva York
+
+1986
+
+Paul Amaroli
+
+5
+
+Tacachol
+
+2-9 del 24/2/86
+
+Paul Amaroli
+
+6
+
+La Caseta
+
+2-10 del 24/2/86
+
+Paul Amaroli
+
+7
+
+Cangrejera
+
+16-1 del 14/1/75
+
+Stanley Boggs
 
 ## Page 49
 
 _Extraction method: embedded text._
 
-Localización                                          Información
-                                     Terreno ondulado junto al ferrocarril, en el extremo oriente de
-                                     Santa Ana, a 900 m al suroeste de la cima del cerro Tecana
-                                     (640 m de altura), parcial o totalmente destruido. Hay fragmen-
-                                     tos de cerámica, figurillas y 6 u 8 entierros en un área de 50
-       Santa Ana, Santa Ana
-                                     x 50 m, con profundidad de hasta 2 m. Incluye tecomates tipo
-                                     Conchalío Coarse, incisos y bicromo zonado, metates de batea
-                                     y manos plano-convexas, posiblemente del preclásico medio, a
-                                     300 m del río El Molino.
-                                     Finca Soledad, actual residencial La Cima, sobre terraza inclina-
-                                     da en área de colinas, lomas y quebradas entre 200-400 m en
-                                     las lomas al suroeste de San Salvador. Aprox. a 1 m debajo de
-                                     ceniza volcánica (TBJ). Preclásico tardío, con posible campo de
-                                     cultivo asociado, sitio habitacional. Se visualizan varias manchas de
-           San Salvador
-                                     carbón y tierra quemada (rojiza), tiestos (anaranjado monocromo,
-                                     negro, bicromo zonado y decoración usuluteca), obsidiana y ma-
-                                     nos biconvexas (posible basurero campaniforme sin confirmar), un
-                                     entierro asociado a vasijas (cerámica Joateca postclásica aislada).
-                                     Sitio preclásico tardío en quebrado y lomas (parte alta).
-                                     Preclásico tardío (400 d. C.-100 a. C.) con al menos tres montículos
-                                     bajos. Posible entierro y cerámica encontrada tipo Jicalapa, negro-
-        Jujutla, Ahuachapán
-                                     café con escisiones curvilíneas, posibles pinos. Tiestos bicromo zo-
-                                     nado, mano plano-convexa y obsidiana. Aprox. 90,00 m2.
+Localización
 
-        Jujutla, Ahuachapán                                    Entierro clásico.
+Información
 
-        Jujutla, Ahuachapán          Preclásico tardío, sobre una extensa elevación en forma de T
-                                     de 3 m. Saqueo intensivo con restos de huesos, fragmentos de
-                                     piedras de moler, obsidiana, restos de moluscos y rocas gran-
-                                     des. Cerámica presente: Olocuilta, Jicalapa e Izalco. Tiestos con
-                                     incisiones de volutas entrelazadas, bordes de jarras globulares,
-                                     mano plano-convexa y biplano rectangular. Se encontraron dien-
-                                     tes en forma de pala. Aprox. 40,000 m2.
-                                     Aprox. 100 x 400 m, dos montículos de 4 m. Aproximadamen-
-                                     te, saqueado entre 1980-1982. Hallazgo de urna funeraria con
+Santa Ana, Santa Ana
+
+Terreno ondulado junto al ferrocarril, en el extremo oriente de
+Santa Ana, a 900 m al suroeste de la cima del cerro Tecana
+(640 m de altura), parcial o totalmente destruido. Hay fragmentos de cerámica, figurillas y 6 u 8 entierros en un área de 50
+x 50 m, con profundidad de hasta 2 m. Incluye tecomates tipo
+Conchalío Coarse, incisos y bicromo zonado, metates de batea
+y manos plano-convexas, posiblemente del preclásico medio, a
+300 m del río El Molino.
+
+San Salvador
+
+Finca Soledad, actual residencial La Cima, sobre terraza inclinada en área de colinas, lomas y quebradas entre 200-400 m en
+las lomas al suroeste de San Salvador. Aprox. a 1 m debajo de
+ceniza volcánica (TBJ). Preclásico tardío, con posible campo de
+cultivo asociado, sitio habitacional. Se visualizan varias manchas de
+carbón y tierra quemada (rojiza), tiestos (anaranjado monocromo,
+negro, bicromo zonado y decoración usuluteca), obsidiana y manos biconvexas (posible basurero campaniforme sin confirmar), un
+entierro asociado a vasijas (cerámica Joateca postclásica aislada).
+Sitio preclásico tardío en quebrado y lomas (parte alta).
+
+Jujutla, Ahuachapán
+
+Preclásico tardío (400 d. C.-100 a. C.) con al menos tres montículos
+bajos. Posible entierro y cerámica encontrada tipo Jicalapa, negrocafé con escisiones curvilíneas, posibles pinos. Tiestos bicromo zonado, mano plano-convexa y obsidiana. Aprox. 90,00 m2.
+
+Jujutla, Ahuachapán
+
+Entierro clásico.
+
+Jujutla, Ahuachapán
+
+Preclásico tardío, sobre una extensa elevación en forma de T
+de 3 m. Saqueo intensivo con restos de huesos, fragmentos de
+piedras de moler, obsidiana, restos de moluscos y rocas grandes. Cerámica presente: Olocuilta, Jicalapa e Izalco. Tiestos con
+incisiones de volutas entrelazadas, bordes de jarras globulares,
+mano plano-convexa y biplano rectangular. Se encontraron dientes en forma de pala. Aprox. 40,000 m2.
+
 San Francisco Menéndez, Ahuachapán
-                                     tapadera con restos de un individuo, algunas vasijas y cascabe-
-                                     les de cobre. Preclásico tardío y clásico tardío. Izalco y Arambala.
-                                     46 esqueletos en hacienda Cangrejera, valle con pequeño pla-
-                                     no con declive al noreste. Quebrada Los Cangrejos, con tres
-                                     montículos. El montículo 1 muestra cinco pisos de uso y los
-    San Juan Opico, La Libertad
-                                     entierros estaban entre los pisos, principalmente entre los 3 y 4.
-                                     Cerámica preclásica media y tardía, metates domésticos (no hay
-                                     asociación entre entierro y artefactos) y jadeíta.
 
+Aprox. 100 x 400 m, dos montículos de 4 m. Aproximadamente, saqueado entre 1980-1982. Hallazgo de urna funeraria con
+tapadera con restos de un individuo, algunas vasijas y cascabeles de cobre. Preclásico tardío y clásico tardío. Izalco y Arambala.
 
-                                                                                                             49
+San Juan Opico, La Libertad
+
+46 esqueletos en hacienda Cangrejera, valle con pequeño plano con declive al noreste. Quebrada Los Cangrejos, con tres
+montículos. El montículo 1 muestra cinco pisos de uso y los
+entierros estaban entre los pisos, principalmente entre los 3 y 4.
+Cerámica preclásica media y tardía, metates domésticos (no hay
+asociación entre entierro y artefactos) y jadeíta.
+
+49
 
 ## Page 50
 
 _Extraction method: embedded text._
 
-8             El Cocal             21-15 del 15/2/76     Noé Valle
-
-
-     9    ENA, Escuela de Agricultura   17-7 del 25/8/75    Rúriko Mata B.
-
-
-     10    Urbanización San Mateo       23-3 del 30/5/76      Noé Valle
-
-               Pueblo Viejo o
-     11                                     16-12 s.f.
-             Hacienda Las Marías
-     12           San Diego                  1980´s         Manuel López
-
-     13          Monte Rico                  5-2 s.f.
-
-     14          La Monarca                 5-12 s.f.
-
-     15            Salinitas                 6-1 s.f.       Stanley Boggs
-     16        La Joya (Singuil)             9-2 s.f.       Manuel López
-     17           Bolinas 1                 10-7 s.f.       Stanley Boggs
-     18      San José la Majada             10-19 s.f.      Manuel López
-     19           San Isidro                11-7 s.f.
-
-     20        El Remolino n°1          22-11 del 4/12/74    Noé Estrada
-
-     21            San Luis                 21-12 s.f.         Méndez
-
-     22           El Rosario            21-14 del 9/1/75    Stanley Boggs
-
-     23             CENTA               17-4 del 20/1/75    Stanley Boggs
-
-     24            El Primo             17-55 del 6/5/87     José Retana
-
-     25            Monolit               17-56 del 1991      Paul Amaroli
-
-     26          Santa Clara             23-2 del 7/1/75    Stanley Boggs
-
-
 50
+
+8
+
+El Cocal
+
+21-15 del 15/2/76
+
+Noé Valle
+
+9
+
+ENA, Escuela de Agricultura
+
+17-7 del 25/8/75
+
+Rúriko Mata B.
+
+10
+
+Urbanización San Mateo
+
+23-3 del 30/5/76
+
+Noé Valle
+
+11
+
+Pueblo Viejo o
+Hacienda Las Marías
+
+16-12 s.f.
+
+12
+
+San Diego
+
+1980´s
+
+13
+
+Monte Rico
+
+5-2 s.f.
+
+14
+
+La Monarca
+
+5-12 s.f.
+
+Manuel López
+
+15
+
+Salinitas
+
+6-1 s.f.
+
+Stanley Boggs
+
+16
+
+La Joya (Singuil)
+
+9-2 s.f.
+
+Manuel López
+
+17
+
+Bolinas 1
+
+10-7 s.f.
+
+Stanley Boggs
+
+18
+
+San José la Majada
+
+10-19 s.f.
+
+Manuel López
+
+19
+
+San Isidro
+
+11-7 s.f.
+
+20
+
+El Remolino n°1
+
+22-11 del 4/12/74
+
+Noé Estrada
+
+21
+
+San Luis
+
+21-12 s.f.
+
+Méndez
+
+22
+
+El Rosario
+
+21-14 del 9/1/75
+
+Stanley Boggs
+
+23
+
+CENTA
+
+17-4 del 20/1/75
+
+Stanley Boggs
+
+24
+
+El Primo
+
+17-55 del 6/5/87
+
+José Retana
+
+25
+
+Monolit
+
+17-56 del 1991
+
+Paul Amaroli
+
+26
+
+Santa Clara
+
+23-2 del 7/1/75
+
+Stanley Boggs
 
 ## Page 51
 
 _Extraction method: embedded text._
 
+Suchitoto, Cuscatlán
+
 Hacienda Colima. A 233 m de la quebrada El Cocal y río Lempa
-                           (inundado en el embalse Cerrón Grande), bajo ceniza volcánica
-                           (TBJ). Entierro con vasijas cerámicas, posición extendida direc-
-  Suchitoto, Cuscatlán
-                           ta. Hacia el lado norte del sitio, la TBJ desaparece y reaparece
-                           debajo de una capa de arena del río Lempa. Horno subterráneo.
-                           Preclásico, por restos cerámicos.
-                           Km. 33 del CA-2, parece un basurero precolombino. Preclásico
-                           por bicromo inciso tipo Jayaque, usuluteco, rojo sobre blanco,
-Ciudad Arce, La Libertad   probables fragmentos óseos y dentarios, obsidiana, machacado-
-                           res de amate, pistilo de piedra, cabezas de figurillas, asas, tiestos
-                           monocromos y policromos.
-                           Debajo de 3 o 5 m de TBJ se encontraron depósitos o basureros
-     San Salvador          de cerámica y un entierro. Cerámica doméstica y ceremonial, fi-
-                           gurillas de barro, manos y fragmentos de metates, obsidiana, etc.
+(inundado en el embalse Cerrón Grande), bajo ceniza volcánica
+(TBJ). Entierro con vasijas cerámicas, posición extendida directa. Hacia el lado norte del sitio, la TBJ desaparece y reaparece
+debajo de una capa de arena del río Lempa. Horno subterráneo.
+Preclásico, por restos cerámicos.
 
-                                                        ¿Urnas?
+Ciudad Arce, La Libertad
 
-                                             Entierros excavados en 1960.
+Km. 33 del CA-2, parece un basurero precolombino. Preclásico
+por bicromo inciso tipo Jayaque, usuluteco, rojo sobre blanco,
+probables fragmentos óseos y dentarios, obsidiana, machacadores de amate, pistilo de piedra, cabezas de figurillas, asas, tiestos
+monocromos y policromos.
 
-      Sonsonate                                             ¿?
+San Salvador
 
-                                                    ¿Clásico tardío?
+Debajo de 3 o 5 m de TBJ se encontraron depósitos o basureros
+de cerámica y un entierro. Cerámica doméstica y ceremonial, figurillas de barro, manos y fragmentos de metates, obsidiana, etc.
+¿Urnas?
+Entierros excavados en 1960.
 
-                                                    ¿Clásico tardío?
-       Santa Ana
-       Santa Ana                                  Clásico y preclásico.
-      Sonsonate                                      ¿Cementerio?
-      Sonsonate                                             ¿?
-                              Doce en casa y otros afuera, en hacienda Colima. Clásico
-  Suchitoto, Cuscatlán
-                                                tardío y postclásico.
+Sonsonate
 
-       Cuscatlán                                    ¿Urna funeraria?
+¿?
+¿Clásico tardío?
+¿Clásico tardío?
 
-                                                    ¿Clásico tardío?
+Santa Ana
+Santa Ana
 
-Ciudad Arce, La Libertad       Tres urnas, cementerio a 1.20 y 1.80 m, ¿postclásico?
+Clásico y preclásico.
 
-                              Río Los Chorros, a 20 o 200 m. ¿Una urna funeraria con
-   Colón, La Libertad
-                                       tapadera y jarra a un lado? ¿Clásico?
-                            Hacia Hacienda El Tránsito, a 450 m. al oeste de la carretera,
- Lourdes, La Libertad
-                                   km. 26.5, a 500 msnm. Entierros del clásico.
+Sonsonate
 
-     San Salvador                                   ¿Clásico tardío?
+¿Cementerio?
 
+Sonsonate
 
-                                                                                                   51
+¿?
+
+Suchitoto, Cuscatlán
+
+Doce en casa y otros afuera, en hacienda Colima. Clásico
+tardío y postclásico.
+
+Cuscatlán
+
+¿Urna funeraria?
+¿Clásico tardío?
+
+Ciudad Arce, La Libertad
+
+Tres urnas, cementerio a 1.20 y 1.80 m, ¿postclásico?
+
+Colón, La Libertad
+
+Río Los Chorros, a 20 o 200 m. ¿Una urna funeraria con
+tapadera y jarra a un lado? ¿Clásico?
+
+Lourdes, La Libertad
+
+Hacia Hacienda El Tránsito, a 450 m. al oeste de la carretera,
+km. 26.5, a 500 msnm. Entierros del clásico.
+
+San Salvador
+
+¿Clásico tardío?
+
+51
 
 ## Page 52
 
 _Extraction method: embedded text._
 
-27    Cerro El Campanario          23-4 del 5/5/76     Noé Estrada
-
-     28         San Jacinto                23-13 s.f.      Stanley Boggs
-
-     29           Mapilapa                 23-21 s.f.
-
-     30     Texaco Concepción           23-26 de 1953      Stanley Boggs
-
-     31        Llano Grande                23-32 s.f.
-
-     32           La Finca                 23-38 s.f.       Jorge Mejía
-
-     33      Texas Instrument           25/4/85 y 6/84      Paul Amaroli
-
-     34         Madre Tierra           23-43 del 1/11/85    Paul Amaroli
-
-     35         Tenancingo                 28-6 s.f.
-
-     36          Tehuacán              30-1 del 17/12/74   Stanley Boggs
-
-     37   Hacienda San Francisco           T30-8 s.f.
-
-     38     Hacienda Escuintla             31-2 s.f.
-
-     39        Chancuyame                35-8 de 1981      Manuel Méndez
-
-     40           El Salitre               47-7 s.f.         Longyear
-
-     41   Hacienda la Presita I y II   48-1 del 14/1/76    Manuel López
-
-     42     Barrio Concepción              48-9 s.f.       Manuel López
-
-     43         Chapernalito                5/5/81          Jorge Mejía
-
-
 52
+
+27
+
+Cerro El Campanario
+
+23-4 del 5/5/76
+
+Noé Estrada
+
+28
+
+San Jacinto
+
+23-13 s.f.
+
+Stanley Boggs
+
+29
+
+Mapilapa
+
+23-21 s.f.
+
+30
+
+Texaco Concepción
+
+23-26 de 1953
+
+31
+
+Llano Grande
+
+23-32 s.f.
+
+32
+
+La Finca
+
+23-38 s.f.
+
+Jorge Mejía
+
+33
+
+Texas Instrument
+
+25/4/85 y 6/84
+
+Paul Amaroli
+
+34
+
+Madre Tierra
+
+23-43 del 1/11/85
+
+Paul Amaroli
+
+35
+
+Tenancingo
+
+28-6 s.f.
+
+36
+
+Tehuacán
+
+30-1 del 17/12/74
+
+37
+
+Hacienda San Francisco
+
+T30-8 s.f.
+
+38
+
+Hacienda Escuintla
+
+31-2 s.f.
+
+39
+
+Chancuyame
+
+35-8 de 1981
+
+Manuel Méndez
+
+40
+
+El Salitre
+
+47-7 s.f.
+
+Longyear
+
+41
+
+Hacienda la Presita I y II
+
+48-1 del 14/1/76
+
+Manuel López
+
+42
+
+Barrio Concepción
+
+48-9 s.f.
+
+Manuel López
+
+43
+
+Chapernalito
+
+5/5/81
+
+Jorge Mejía
+
+Stanley Boggs
+
+Stanley Boggs
 
 ## Page 53
 
 _Extraction method: embedded text._
 
 Clásico tardío, entierros en ceniza volcánica.
-                               Entierros y escondrijos en falda y base de cerro en TBJ, finca
-                                                Santa Clara. Clásico tardío.
-                                 1.5 km al norte de Nejapa, ¿cementerio precolombino?
-          Nejapa
-                                                       ¿Clásico?
+Entierros y escondrijos en falda y base de cerro en TBJ, finca
+Santa Clara. Clásico tardío.
+Nejapa
 
-Ciudad Delgado, San Salvador                Entierro en TBJ Plomizo y Nicoya.
+1.5 km al norte de Nejapa, ¿cementerio precolombino?
+¿Clásico?
 
-San José Guayabal, Cuscatlán                              ¿Urna?
+Ciudad Delgado, San Salvador
 
-                                              Posible entierro, clásico tardío.
+Entierro en TBJ Plomizo y Nicoya.
 
-  Soyapango, San Salvador                        Col. Santa Lucía, clásico.
+San José Guayabal, Cuscatlán
 
-    Apopa, San Salvador                             Urnas postclásicas.
+¿Urna?
+Posible entierro, clásico tardío.
 
-        Cojutepeque                                ¿Tumba con objetos?
+Soyapango, San Salvador
 
-        San Vicente                               Un entierro postclásico.
+Col. Santa Lucía, clásico.
 
-   Tecoluca, San Vicente                        Río Amate y San Francisco.
+Apopa, San Salvador
 
-    Zacatecoluca, La Paz                                   Urnas.
+Urnas postclásicas.
 
-                                                       ¿Un entierro?
+Cojutepeque
 
-        San Miguel                           Tumba en o por río San Esteban.
+¿Tumba con objetos?
 
-        San Miguel                                  Posible cementerio.
+San Vicente
 
-                                En posición fetal del clásico tardío, con cerámica Obrajuelo
-        San Miguel
-                                                          ordinario.
+Un entierro postclásico.
 
-         La Unión                           Salinera con muchos restos óseos.
+Tecoluca, San Vicente
 
+Río Amate y San Francisco.
 
-                                                                                                53
+Zacatecoluca, La Paz
+
+Urnas.
+¿Un entierro?
+
+San Miguel
+
+Tumba en o por río San Esteban.
+
+San Miguel
+
+Posible cementerio.
+
+San Miguel
+
+En posición fetal del clásico tardío, con cerámica Obrajuelo
+ordinario.
+
+La Unión
+
+Salinera con muchos restos óseos.
+
+53
 
 ## Page 54
 
 _Extraction method: embedded text._
 
-Nombre                    Medio escrito: informe interno,              Tipo de estudio
-                                               publicación, tesis, etc.
-         Informe preliminar de las
-      excavaciones arqueológicas en
-                                               1987, Informe para el
-       Cara Sucia, departamento de
-                                            Departamento de Arqueología
-         Ahuachapán, El Salvador.
-              Por Paul Amaroli
-      Informe final, proyecto arqueo-
-                                           Informe para el Consejo Nacional      Contexto arqueológico, posición
-       lógico El Cambio, temporada
-                                                para la Cultura y el Arte        de entierros, patrón funerario y
-               2006-2007.
-                                                (CONCULTURA), 2007                     objetos asociados
-        Por Rafael Castillo Taracena
-     Los entierros preclásicos del sitio
-                                                III Foro de Estudiantes
-         arqueológico El Cambio.
-                                                 FOESA-UTEC, 2008
-             Por Hugo Chávez
-          marzo-abril de 1999.             Cultura y el Arte (CONCULTURA),
-          Por Fabricio Valdivieso                         1999
-                                               2009, en XXII Simposio de
-                                           Investigaciones Arqueológicas en
-       Investigación arqueológica en
-                                           Guatemala, 2008 (editado por J.
-      Nueva Esperanza, Bajo Lempa,
-                                            P. Laporte, B. Arroyo y H. Mejía),
-     El Salvador. Por Shione Shibata y
-                                             pp. 614-626. Museo Nacional
-               Akira Ichikawa
-                                               de Arqueología y Etnología,
-                                                Guatemala (versión digital)
-      The Prehistory of Chalchuapa,        1978, University of Pennsylvania
-                                                                                     Contexto arqueológico
-     El Salvador. Por Robert J. Sharer                 Press
-                                               2005, en XVIII Simposio de
-                                           Investigaciones Arqueológicas en
-     Rescate arqueológico en la lotifi-    Guatemala, 2004 (editado por J.
-      cación Ciudad Nuevo Tazumal,          P. Laporte, B. Arroyo y H. Mejía),
-      El Salvador. Por Shione Shibata        pp. 550-557. Museo Nacional
-                                               de Arqueología y Etnología,
-                                                       Guatemala
-      Informe sobre las excavaciones
-      de rescate en sitio C (La Viuda),
-         ciudad de Nuevo Cuscatlán,     Informe para el Consejo Nacional
-     jurisdicción de Antiguo Cuscatlán,      para la Cultura y el Arte              Contexto arqueológico y
-       departamento de La Libertad.          (CONCULTURA), 1996                  estratigráfico, patrón funerario,
-            Por Howard H. Earnest                                                      análisis osteológico
-            y Kathryn E. Sampeck                                                       y objetos asociados
-     Tumba Precolombina en el cerro           Revista Tzunpame, Museo
-         El Zapote, El Salvador.           Nacional de El Salvador y anexos,
-          Por Stanley H. Boggs                 número IV, año V, 1945
+Nombre
 
+Medio escrito: informe interno,
+publicación, tesis, etc.
+
+Informe preliminar de las
+excavaciones arqueológicas en
+Cara Sucia, departamento de
+Ahuachapán, El Salvador.
+Por Paul Amaroli
+
+1987, Informe para el
+Departamento de Arqueología
+
+Informe final, proyecto arqueológico El Cambio, temporada
+2006-2007.
+Por Rafael Castillo Taracena
+
+Informe para el Consejo Nacional
+para la Cultura y el Arte
+(CONCULTURA), 2007
+
+Los entierros preclásicos del sitio
+arqueológico El Cambio.
+Por Hugo Chávez
+
+III Foro de Estudiantes
+FOESA-UTEC, 2008
+
+marzo-abril de 1999.
+Por Fabricio Valdivieso
+
+Cultura y el Arte (CONCULTURA),
+1999
+
+Investigación arqueológica en
+Nueva Esperanza, Bajo Lempa,
+El Salvador. Por Shione Shibata y
+Akira Ichikawa
+
+2009, en XXII Simposio de
+Investigaciones Arqueológicas en
+Guatemala, 2008 (editado por J.
+P. Laporte, B. Arroyo y H. Mejía),
+pp. 614-626. Museo Nacional
+de Arqueología y Etnología,
+Guatemala (versión digital)
+
+The Prehistory of Chalchuapa,
+El Salvador. Por Robert J. Sharer
+
+1978, University of Pennsylvania
+Press
+
+Rescate arqueológico en la lotificación Ciudad Nuevo Tazumal,
+El Salvador. Por Shione Shibata
+
+2005, en XVIII Simposio de
+Investigaciones Arqueológicas en
+Guatemala, 2004 (editado por J.
+P. Laporte, B. Arroyo y H. Mejía),
+pp. 550-557. Museo Nacional
+de Arqueología y Etnología,
+Guatemala
+
+Informe sobre las excavaciones
+de rescate en sitio C (La Viuda),
+ciudad de Nuevo Cuscatlán,
+Informe para el Consejo Nacional
+jurisdicción de Antiguo Cuscatlán,
+para la Cultura y el Arte
+departamento de La Libertad.
+(CONCULTURA), 1996
+Por Howard H. Earnest
+y Kathryn E. Sampeck
+Tumba Precolombina en el cerro
+El Zapote, El Salvador.
+Por Stanley H. Boggs
 
 54
+
+Revista Tzunpame, Museo
+Nacional de El Salvador y anexos,
+número IV, año V, 1945
+
+Tipo de estudio
+
+Contexto arqueológico, posición
+de entierros, patrón funerario y
+objetos asociados
+
+Contexto arqueológico
+
+Contexto arqueológico y
+estratigráfico, patrón funerario,
+análisis osteológico
+y objetos asociados
 
 ## Page 55
 
 _Extraction method: embedded text._
 
 Notas sobre las excavaciones en
-                                    Revista Tzunpame, Museo
-la Hacienda San Andrés, departa-
-                                 Nacional de El Salvador y anexos,
-      mento de La Libertad.
-                                      número I, año III, 1943
-      Por Stanley H. Boggs
-   Investigación arqueológica
-                                     Informe para el Consejo Nacional
-       situada en El Zonte,
-                                       para la Cultura y el Arte (CON-
- La Libertad. Informe preliminar.
-                                              CULTURA), 1998
-      Por Roberto Gallardo
-    Un entierro prehispánico
-descubierto en la playa El Zonte,    Informe para el Consejo Nacional
- departamento de La Libertad,             para la Cultura y el Arte
-El Salvador, reeditado en febrero         (CONCULTURA), 2009
-   2009. Por Roberto Gallardo
-   Urbanización Brisas de San
-Andrés: investigación arqueológi-
-                                     Informe para el Consejo Nacional
- ca del área que será impactada
-                                          para la Cultura y el Arte
-por el proyecto de urbanización,                                           Contexto arqueológico y estrati-
-                                          (CONCULTURA), 2005
-        informe preliminar.                                                gráfico, patrón funerario, análisis
-Por Marta D. González de Arenas                                            osteológico y objetos asociados
-   Urbanización Brisas de San
- Andrés: investigación arqueo-
-                                     Informe para el Consejo Nacional
- lógica del área impactada por
-                                          para la Cultura y el Arte
-  el proyecto de urbanización,
-                                          (CONCULTURA), 2005
-          informe final.
+Revista Tzunpame, Museo
+la Hacienda San Andrés, departaNacional de El Salvador y anexos,
+mento de La Libertad.
+número I, año III, 1943
+Por Stanley H. Boggs
+Investigación arqueológica
+situada en El Zonte,
+La Libertad. Informe preliminar.
+Por Roberto Gallardo
+
+Informe para el Consejo Nacional
+para la Cultura y el Arte (CONCULTURA), 1998
+
+Un entierro prehispánico
+descubierto en la playa El Zonte,
+departamento de La Libertad,
+El Salvador, reeditado en febrero
+2009. Por Roberto Gallardo
+
+Informe para el Consejo Nacional
+para la Cultura y el Arte
+(CONCULTURA), 2009
+
+Urbanización Brisas de San
+Andrés: investigación arqueológica del área que será impactada
+por el proyecto de urbanización,
+informe preliminar.
 Por Marta D. González de Arenas
- Un sitio preclásico medio en la
-  ciudad de Antiguo Cuscatlán,        1978, informe interno para el
-dpto. de La Libertad, El Salvador,    Departamento de Arqueología
+
+Informe para el Consejo Nacional
+para la Cultura y el Arte
+(CONCULTURA), 2005
+
+Urbanización Brisas de San
+Andrés: investigación arqueológica del área impactada por
+el proyecto de urbanización,
+informe final.
+Por Marta D. González de Arenas
+
+Informe para el Consejo Nacional
+para la Cultura y el Arte
+(CONCULTURA), 2005
+
+Un sitio preclásico medio en la
+ciudad de Antiguo Cuscatlán,
+dpto. de La Libertad, El Salvador,
 Centroamérica. Por Paul Amaroli
-  El entierro preclásico EC I 8A
+
+1978, informe interno para el
+Departamento de Arqueología
+
+Contexto arqueológico y estratigráfico, patrón funerario, análisis
+osteológico y objetos asociados
+
+El entierro preclásico EC I 8A
 extensión a temporada 2006/07
 del sitio arqueológico El Cambio, Tesis de graduación, Universidad
-  valle de Zapotitán, San Juan    Tecnológica de El Salvador, 2009
-        Opico, La Libertad.
-         Por Hugo Chávez
- Los entierros del área de Casa
-    Blanca. Por Kuniaki Ohi
-                                     Chalchuapa: memoria final de las
- Los restos óseos procedentes        investigaciones interdisciplinarias
- del área de Casa Blanca, sitio       de El Salvador, por Kuniaki Ohi
-   arqueológico Chalchuapa.                                                 Análisis osteológico, paleopa-
-      Por Zaid Lagunas R.                                                   tológico, prácticas funerarias y
-   Investigación preliminar de                                                  contexto arqueológico
-                                     Informe para el Consejo Nacional
-     sondeo arqueológico en
-                                       para la Cultura y el Arte (CON-
- Tacuscalco-Los Cerritos/sector
-                                     CULTURA), 2004-2005, estudio
-  Ruiz, Sonsonate, El Salvador.
-                                        osteológico de Sally Graver
-      Por Heriberto Erquicia
+valle de Zapotitán, San Juan
+Tecnológica de El Salvador, 2009
+Opico, La Libertad.
+Por Hugo Chávez
+Los entierros del área de Casa
+Blanca. Por Kuniaki Ohi
+Los restos óseos procedentes
+del área de Casa Blanca, sitio
+arqueológico Chalchuapa.
+Por Zaid Lagunas R.
+Investigación preliminar de
+sondeo arqueológico en
+Tacuscalco-Los Cerritos/sector
+Ruiz, Sonsonate, El Salvador.
+Por Heriberto Erquicia
 
+Chalchuapa: memoria final de las
+investigaciones interdisciplinarias
+de El Salvador, por Kuniaki Ohi
 
-                                                                                                                 55
+Informe para el Consejo Nacional
+para la Cultura y el Arte (CONCULTURA), 2004-2005, estudio
+osteológico de Sally Graver
+
+Análisis osteológico, paleopatológico, prácticas funerarias y
+contexto arqueológico
+
+55
 
 ## Page 56
 
 _Extraction method: embedded text._
 
-Fechamiento de los entierros,
-      a través de análisis cerámico y
-       osteológico, registrados en el
-                                           Tesis de graduación, Universidad
-     sector Tacuscalco/Ruiz, del sitio
-                                          Tecnológica de El Salvador, 2006
-       arqueológico Tacuscalco-Los
-     Cerritos, Nahulingo, Sonsonate,                                            Análisis osteológico, paleopa-
-       El Salvador. Por Liuba Morán                                             tológico, prácticas funerarias y
-     Cerritos, Sonsonate, El Salvador.                                              contexto arqueológico
-                                                   (versión digital)
-           Por Heriberto Erquicia
-     Late Preclassic mortuary patterns
-                                          Publicación en American Antiqui-
-     and evidence for human sacrifice
-                                           ty, vol. 49, n.o 3 (julio, 1984),
-        at Chalchuapa, El Salvador.
-                                                     pp. 603-618
-      Por William Fowler, 1977-1978
-         Informe sobre la tercera
-                                             Revista Tzunpame, Museo
-       temporada de excavaciones
-                                          Nacional de El Salvador y anexos,
-        en las ruinas de Tatzumal.
-                                              número IV, año V, 1945
-           Por Stanley H. Boggs
-                                              2007, en XX Simposio de
-      Primera temporada del rescate
-                                          Investigaciones Arqueológicas en
-        arqueológico en el sitio La
-                                          Guatemala, 2006 (editado por J.
-     Cuchilla, al sur del área de Casa
-                                           P. Laporte, B. Arroyo y H. Mejía),
-     Blanca, Chalchuapa, El Salvador.
-                                            pp. 884-903. Museo Nacional
-       Por Akira Ichikawa y Shione
-                                              de Arqueología y Etnología,
-                   Shibata
-                                              Guatemala. (versión digital)
-       Análisis de la obsidiana de los
-      entierros 20, 31 y 32 del sitio      Tesis de graduación, Universidad
-      arqueológico La Cuchilla, Chal-     Tecnológica de El Salvador, 2012
-        chuapa. Por Julio Alvarado                                              Contexto arqueológico, objetos
-     Catálogo: Dibujos y fotos de los                                                     asociados
-                                          Informe para el Consejo Nacional
-     materiales arqueológicos del sitio
-                                               para la Cultura y el Arte
-        La Cuchilla 2005-2006.
-                                               (CONCULTURA), 2007
-            Por Akira Ichikawa
-                                              2005, en XVIII Simposio de
-                                          Investigaciones Arqueológicas en
-       Investigación arqueológica de
-                                          Guatemala, 2004 (editado por J.
-     rescate en Verapaz, San Vicente,
-                                           P. Laporte, B. Arroyo y H. Mejía),
-                El Salvador.
-                                            pp. 540-549. Museo Nacional
-           Por Heriberto Erquicia
-                                              de Arqueología y Etnología,
-                                                      Guatemala
-     Verapaz: un entierro prehispánico
-     del periodo preclásico medio en
-                                            Revista El Salvador Investiga
-         San Vicente, El Salvador.
-          Por Heriberto Erquicia
-
-
 56
+
+Fechamiento de los entierros,
+a través de análisis cerámico y
+osteológico, registrados en el
+sector Tacuscalco/Ruiz, del sitio
+arqueológico Tacuscalco-Los
+Cerritos, Nahulingo, Sonsonate,
+El Salvador. Por Liuba Morán
+
+Tesis de graduación, Universidad
+Tecnológica de El Salvador, 2006
+
+Cerritos, Sonsonate, El Salvador.
+Por Heriberto Erquicia
+
+(versión digital)
+
+Late Preclassic mortuary patterns
+and evidence for human sacrifice
+at Chalchuapa, El Salvador.
+Por William Fowler, 1977-1978
+
+Publicación en American Antiquity, vol. 49, n.o 3 (julio, 1984),
+pp. 603-618
+
+Informe sobre la tercera
+temporada de excavaciones
+en las ruinas de Tatzumal.
+Por Stanley H. Boggs
+
+Revista Tzunpame, Museo
+Nacional de El Salvador y anexos,
+número IV, año V, 1945
+
+Primera temporada del rescate
+arqueológico en el sitio La
+Cuchilla, al sur del área de Casa
+Blanca, Chalchuapa, El Salvador.
+Por Akira Ichikawa y Shione
+Shibata
+
+2007, en XX Simposio de
+Investigaciones Arqueológicas en
+Guatemala, 2006 (editado por J.
+P. Laporte, B. Arroyo y H. Mejía),
+pp. 884-903. Museo Nacional
+de Arqueología y Etnología,
+Guatemala. (versión digital)
+
+Análisis de la obsidiana de los
+entierros 20, 31 y 32 del sitio
+arqueológico La Cuchilla, Chalchuapa. Por Julio Alvarado
+
+Tesis de graduación, Universidad
+Tecnológica de El Salvador, 2012
+
+Catálogo: Dibujos y fotos de los
+materiales arqueológicos del sitio
+La Cuchilla 2005-2006.
+Por Akira Ichikawa
+
+Informe para el Consejo Nacional
+para la Cultura y el Arte
+(CONCULTURA), 2007
+
+Investigación arqueológica de
+rescate en Verapaz, San Vicente,
+El Salvador.
+Por Heriberto Erquicia
+
+2005, en XVIII Simposio de
+Investigaciones Arqueológicas en
+Guatemala, 2004 (editado por J.
+P. Laporte, B. Arroyo y H. Mejía),
+pp. 540-549. Museo Nacional
+de Arqueología y Etnología,
+Guatemala
+
+Verapaz: un entierro prehispánico
+del periodo preclásico medio en
+San Vicente, El Salvador.
+Por Heriberto Erquicia
+
+Revista El Salvador Investiga
+
+Análisis osteológico, paleopatológico, prácticas funerarias y
+contexto arqueológico
+
+Contexto arqueológico, objetos
+asociados
 
 ## Page 57
 
 _Extraction method: embedded text._
 
-Investigaciones realizadas alre-
- dedor de la bahía de Jiquilisco,          IV Foro de Estudiantes
-      Usulután, El Salvador.                FOESA-UTEC, 2009
-        Por Akira Ichikawa
-                                          1976, Middle American
-                                          Research Institute, Tulane
-  The Archaeology of Quelepa,           University, ublicación n.o 42,
- El Salvador. La Arqueología de         1986. Ministerio de Cultura y
-      Quelepa, El Salvador.            Comunicaciones, Viceministerio
-                                                                             Contexto arqueológico, objetos
-    Por E. Wyllys Andrews V.          de Comunicaciones, Dirección de
-                                                                                       asociados
-                                         Publicaciones e Impresos,
-                                                  El Salvador
-                                          2005, en XVIII Simposio de
-  Rescate Arqueológico en El          Investigaciones Arqueológicas en
- Chiquirín, golfo de Fonseca, La      Guatemala, 2004 (editado por J.
-       Unión, El Salvador.             P. Laporte, B. Arroyo y H. Mejía),
-      Por Marlon Escamilla                      pp. 535-539.
-        y Shione Shibata              Museo Nacional de Arqueología y
-                                             Etnología, Guatemala
-    Proceso de extracción de
-  un entierro encontrado en la
-                                        Publicado por Fundación Clic,       Contexto arqueológico y proceso
+Investigaciones realizadas alrededor de la bahía de Jiquilisco,
+Usulután, El Salvador.
+Por Akira Ichikawa
+
+IV Foro de Estudiantes
+FOESA-UTEC, 2009
+
+The Archaeology of Quelepa,
+El Salvador. La Arqueología de
+Quelepa, El Salvador.
+Por E. Wyllys Andrews V.
+
+1976, Middle American
+Research Institute, Tulane
+University, ublicación n.o 42,
+1986. Ministerio de Cultura y
+Comunicaciones, Viceministerio
+de Comunicaciones, Dirección de
+Publicaciones e Impresos,
+El Salvador
+
+Rescate Arqueológico en El
+Chiquirín, golfo de Fonseca, La
+Unión, El Salvador.
+Por Marlon Escamilla
+y Shione Shibata
+
+2005, en XVIII Simposio de
+Investigaciones Arqueológicas en
+Guatemala, 2004 (editado por J.
+P. Laporte, B. Arroyo y H. Mejía),
+pp. 535-539.
+Museo Nacional de Arqueología y
+Etnología, Guatemala
+
+Proceso de extracción de
+un entierro encontrado en la
 estructura B1-1 de Tazumal. Por
-                                               2009, en linea                        de excavación
 Fabricio Valdivieso, Nobuyuki Ito y
-        Masakage Murano
-                                         2011, en XXIV Simposio de
-  Los entierros encontrados en
-                                      Investigaciones Arqueológicas en
+Masakage Murano
+
+Publicado por Fundación Clic,
+2009, en linea
+
+Contexto arqueológico y proceso
+de excavación
+
+Los entierros encontrados en
 Tazumal, Chalchuapa, un estudio
-                                      Guatemala (editado por B. Arroyo,
-  de prácticas mortuorias. Por                                              Prácticas funerarias, ofrendas y
-                                      L. Paiz, A. Linares y A. Arroyave),
-   Masakage Murano, Masashi                                                     contexto arqueológico
-                                       pp. 697-716. Museo Nacional
- Kudo, Akira Ichikawa, Nobuyuki
-                                         de Arqueología y Etnología,
-      Ito y Shione Shibata
-                                          Guatemala (versión digital)
-                                      2011, en XXIII Simposio de
- Estudio del patrón funerario en Investigaciones Arqueológicas en
- el sureste maya, a través de la Guatemala (editado por B. Arroyo,          Patrón funerario, análisis osteo-
-arqueología y antropología física. L. Paiz, A. Linares y A. Arroyave),       lógico, análisis métrico dental
-        Por Akira Ichikawa          pp. 681-696. Museo Nacional                  (migración y afinidad)
-         y Wataru Morita              de Arqueología y Etnología,
-                                       Guatemala (versión digital)
+de prácticas mortuorias. Por
+Masakage Murano, Masashi
+Kudo, Akira Ichikawa, Nobuyuki
+Ito y Shione Shibata
 
+2011, en XXIV Simposio de
+Investigaciones Arqueológicas en
+Guatemala (editado por B. Arroyo,
+L. Paiz, A. Linares y A. Arroyave),
+pp. 697-716. Museo Nacional
+de Arqueología y Etnología,
+Guatemala (versión digital)
 
-          Julie M. Saul                        Karen A. Kievit                       Estudio dental
+Prácticas funerarias, ofrendas y
+contexto arqueológico
 
+2011, en XXIII Simposio de
+Estudio del patrón funerario en Investigaciones Arqueológicas en
+el sureste maya, a través de la Guatemala (editado por B. Arroyo,
+arqueología y antropología física. L. Paiz, A. Linares y A. Arroyave),
+Por Akira Ichikawa
+pp. 681-696. Museo Nacional
+y Wataru Morita
+de Arqueología y Etnología,
+Guatemala (versión digital)
 
-                                                                                                                57
+Patrón funerario, análisis osteológico, análisis métrico dental
+(migración y afinidad)
+
+Julie M. Saul
+
+Karen A. Kievit
+
+Contexto arqueológico, objetos
+asociados
+
+Estudio dental
+
+57
 
 ## Page 58
 
 _Extraction method: embedded text._
 
-Investigación arqueológica en el
-     estudio del vulcanismo monoge-
-     nético de la caldera de Ilopango:
-     aportes al análisis de la amenaza                                          Análisis osteológico, contexto
-                                           2013, Informe de UTEC, IPGH,
-      volcánica en el noreste del Área                                        arqueológico, vulcanismo, análisis
-                                                  MARN y UNAM
-     Metropolitana de San Salvador y                                             isotópicos y paleopatologías
-     alrededores del lago de Ilopango.
-        Por Heriberto Erquicia, Walter
-        Hernández y Shintaro Suzuki
-                                          2011, Dirección de Publicacio-
-     Estudio arqueológico de Nueva
-                                           nes e Impresos, Secretaría de       Análisis osteológico y contexto
-     Esperanza, Bajo Lempa, Usulu-
-                                             Cultura de la Presidencia,                  arqueológico
-         tán. Por Akira Ichikawa
-                                                    El Salvador
-        Patrón de enterramiento en el
-       sitio arqueológico Nueva Espe-
-                                          Presentado en 2014 y publicado        Análisis osteológico, contexto
-      ranza, Bajo Lempa, El Salvador:
-                                           para el XXV Encuentro Interna-       arqueológico, paleopatología,
-     panorama anterior a la catastrófi-
-                                           cional “Los Investigadores de la            patrón funerario,
-     ca erupción del volcán Ilopango.
-                                                Cultura Maya”, 2015                  posición esquelética
-     Por Rocío Herrera, Wataru Morita
-                y Akira Ichikawa
-          Labo CO., Ltd., Japón.                Secretaría de Cultura
-                                                                                         información
-            Por Akira Ichikawa                     (SECULTURA)
-
-
 58
+
+Investigación arqueológica en el
+estudio del vulcanismo monogenético de la caldera de Ilopango:
+aportes al análisis de la amenaza
+volcánica en el noreste del Área
+Metropolitana de San Salvador y
+alrededores del lago de Ilopango.
+Por Heriberto Erquicia, Walter
+Hernández y Shintaro Suzuki
+
+2013, Informe de UTEC, IPGH,
+MARN y UNAM
+
+Análisis osteológico, contexto
+arqueológico, vulcanismo, análisis
+isotópicos y paleopatologías
+
+Estudio arqueológico de Nueva
+Esperanza, Bajo Lempa, Usulután. Por Akira Ichikawa
+
+2011, Dirección de Publicaciones e Impresos, Secretaría de
+Cultura de la Presidencia,
+El Salvador
+
+Análisis osteológico y contexto
+arqueológico
+
+Patrón de enterramiento en el
+sitio arqueológico Nueva Esperanza, Bajo Lempa, El Salvador:
+panorama anterior a la catastrófica erupción del volcán Ilopango.
+Por Rocío Herrera, Wataru Morita
+y Akira Ichikawa
+
+Presentado en 2014 y publicado
+para el XXV Encuentro Internacional “Los Investigadores de la
+Cultura Maya”, 2015
+
+Análisis osteológico, contexto
+arqueológico, paleopatología,
+patrón funerario,
+posición esquelética
+
+Labo CO., Ltd., Japón.
+Por Akira Ichikawa
+
+Secretaría de Cultura
+(SECULTURA)
+
+información
 
 ## Page 59
 
@@ -3160,7 +3679,7 @@ Juan Opico, departamento de La Libertad,
 enfocándose en la estructura cultural y re-
 tomando el análisis osteológico realizado
 por Daniel Fróhlich. En este estudio, lleva-
-do a cabo en 2008, Frohlich asigna sexo,
+do a cabo en 2008, Fróhlich asigna sexo,
 edad y patologías como caries, hipoplasia
 del esmalte, sarro y atrisión fisiológica en
 molares (Chávez Servano, 2009).
@@ -3182,7 +3701,7 @@ de los caninos inferiores se observa hipo-
 plasia del esmalte (Erquicia, Hernández y
 Suzuki, 2013).
 
-as prehispánicas en El Salvador
+Rocío Herrera / Paleopatologías prehispánicas en
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -3196,7 +3715,7 @@ de 4 incisivos, 2 caninos y 4 molares para
 maxilar y mandíbula, con un total de 20
 dientes; mientras que la dentadura adulta
 presenta 4 incisivos, 2 caninos, 2 premo-
-lares y 3 molares para maxilar y mandí-
+lares y 3 molares para maxilar y mandi-
 bula, con un total de 32 dientes. Se pue-
 de referir a los 4 incisivos separándolos:
 incisivos centrales e incisivos laterales. El
@@ -3206,12 +3725,12 @@ y raíz (donde se sujeta al hueso alveolar).
 En el informe se presenta “I'”, que sig-
 nifica posicionalmente que se habla del
 diente incisivo central superior (maxilar),
-mientras que si se coloca “I,,” significa
+mientras que si se coloca “l,,” significa
 que se habla del incisivo central inferior
 (mandíbula), para la dentadura adulta.
 Para la dentadura infantil se utiliza la mis-
 ma nomenclatura, pero se agrega la “d”
-de “deciduo”, es decir: “J*1”.
+de “deciduo”, es decir: “I*”.
 
 De manera posicional, el diente se compo-
 ne de lado oclusal (donde los dientes su-
@@ -3224,7 +3743,11 @@ de la boca) y lado distal (en dirección del
 centro de la boca hacia los molares) (Lagu-
 nas, 2000; Whites y Folkens, 2005).
 
-Jna aproximaci
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
+
+2
+ie)
 
 59
 
@@ -3234,6 +3757,7 @@ _Extraction method: OCR._
 
 60
 
+Revista ANALES 56, 2016, ISSN 0374-5546
 ESTUDIO DE CASOS
 
 En el “Estudio sobre paleopatologías en
@@ -3272,8 +3796,6 @@ Corresponde a un entierro del período pre-
 clásico tardío (Caynac, 100 a. C. - 100 d.
 C.); es uno de los 33 entierros encontrados
 en la Estructura E3-7 del sitio arqueológi-
-
-prehispánicas en El Salvador: una aproximaci
 
 co El Trapiche, municipio de Chalchuapa,
 departamento de Santa Ana, excavado por
@@ -3314,6 +3836,10 @@ parte de los huesos de la mandíbula y el
 maxilar, que no presentan rasgos distin-
 tivos. Tampoco es factible asignar sexo al
 
+3ocío Herrera / Paleopatologías prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
+
+pp. 42-73
+
 ## Page 61
 
 _Extraction method: OCR._
@@ -3336,42 +3862,42 @@ corona invertidas.
 
 Presenta modificación dental en forma de
 incrustación semiconcéntrica que llega
-hasta la parte oclusal de los I'¥ del lado
+hasta la parte oclusal de los I'¥? del lado
 derecho, pero no mantiene el material que
 había sido colocado para rellenar estos
 semicírculos. En el hueso mandibular se
 observan restos del cinabrio con el cual se
 realizo la práctica mortuoria.
 
-En el maxilar derecho se observa el I’ con
+En el maxilar derecho se observa el I' con
 modificación dental de tipo incrustación,
 además de un desgaste de la parte oclu-
 sal de la corona y de que la pared alveolar
 exhibe parte de la raíz, en el lado lingual el
 diente presenta forma de pala (carácter dis-
 tintivo de la población) y en la corona pre-
-senta un evento hipoplasico. El |? también
+senta un evento hipoplásico. El |? también
 posee la misma modificación dental con
 forma de pala en su lado lingual y un even-
 to hipoplásico. El Pm? presenta desgaste en
 desnivel en la parte oclusal-mesial-lingual
 del diente, el M' tiene una caries masiva en
 
-s prehispánicas en El Salv
+Rocío Herrera / Paleopatologías prehispánicas en
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
 la parte oclusal del diente que llega hasta la
 cámara pulpar, mientras que el M? muestra
 desgaste interno superior pero mantiene
-una cúspide, y el M* tiene desgaste interno
+una cúspide, y el M' tiene desgaste interno
 superior y dos cúspides.
 
-En el maxilar izquierdo (1') se observa el
+En el maxilar izquierdo (1!) se observa el
 diente en forma de pala. Encima de este
 se encuentra el diente supernumerario y
 los demás dientes (1?, C, Pm', Pm2, M', M?
-y M?) exhiben color ligeramente café (pro-
+y MP) exhiben color ligeramente café (pro-
 ducido en algunas ocasiones por la fluo-
 rosis dental, consumo de tabaco u otras
 especies vegetales como la nuez de areca
@@ -3383,7 +3909,7 @@ dientes en forma de pala con desgaste
 oclusal; el Pm, presenta desgaste ligero;
 los M,, M, y M, muestran desgaste oclusal
 al lado derecho. La mandíbula izquierda
-presenta el I, |, y C con coloración ligera-
+presenta el |, |, y C con coloración ligera-
 mente café-amarillenta y desgaste oclusal
 fuerte; los Pm, y Pm, y los M,, M, y M,
 también exhiben desgaste, y el M, pre-
@@ -3400,7 +3926,11 @@ Centro de Surf Horizonte, propiedad del Sr.
 Saburo Okuzawa. El Entierro 2 fue excava-
 do arqueológicamente por Roberto Gallardo
 
-Or: Una aproximación a
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
+
+2
+ie)
 
 61
 
@@ -3410,12 +3940,15 @@ _Extraction method: OCR._
 
 62
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 ENTIERRO 78-8B-SA-1, EL TRAPICHE, CHALCHUAPA, SANTA ANA
 
-Ilustración 1: Foto superior: dientes con modificación de tipo incrustación y restos de pigmento rojo. Foto al centro:
-hiperodoncia de tipo heterotópico. Foto inferior: desgaste oclusal alto y caries masiva. Fotografías de Rocío Herrera
+llustraci6n 1: Foto superior: dientes con modificación de tipo incrustación y restos de pigmento rojo. Foto al centro:
+hiperodoncia de tipo heterotópico. Foto inferior: desgaste oclusal alto y caries masiva. Fotografías de Rocío Herrera,
 
-prehispánicas en El Salvador: una aproximación desde los restos arqueoló
+3ocío Herrera / Paleopatologias prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
+pp. 42-73
 
 ## Page 63
 
@@ -3459,7 +3992,7 @@ Wormianos, los cuales son pequeños, nu-
 merosos y asimétricos huesos de la bóveda
 craneana, entre el parietal y el occipital.
 
-as prehispánicas en El Salvador
+Rocío Herrera / Paleopatologías prehispánicas en
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -3467,7 +4000,7 @@ Se observa en las vertebras torácicas (T6,
 T7 y T8) una inclinación hacia la izquierda,
 esto podría ser debido a que el mayor peso
 era colocado a su izquierda; en cuatro de
-las vertebras torácicas (T9, T10,T11 y 712)
+las vertebras torácicas (T9, T10,T11 y T12)
 se observan hernias discales intraesponjo-
 sas, conocidas como nódulos de Schmorl,
 una protrusión o abombamiento del disco
@@ -3488,11 +4021,11 @@ servándose en su lado lingual.
 
 El maxilar izquierdo presenta en el |? des-
 gaste hasta la cámara pulpar, con un trau-
-matismo pequeño del lado mesial del I' y
+matismo pequeño del lado mesial del |' y
 dos líneas de hipoplasia; el C, con desgaste
 oclusal, además de un episodio de hipopla-
 sia y un trauma pequeño abajo de la línea
-de hipoplasia; el Pm'¥? no presentan des-
+de hipoplasia; el Pm! Y? no presentan des-
 gaste oclusal, pero el Pm? posee un trauma
 en la superficie oclusal de la corona, al lado
 bucal; el M' se encuentra con una caries
@@ -3501,7 +4034,11 @@ hasta la pulpa del lado lingual e interproxi-
 mal hacia el Pm?; el M? tiene un golpe en la
 parte bucal con fractura de corona.
 
-Jna aproximaci
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
+
+2
+ie)
 
 63
 
@@ -3510,6 +4047,8 @@ Jna aproximaci
 _Extraction method: OCR._
 
 64
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 El maxilar derecho contiene el l?, que pre-
 senta desgaste oclusal; el C, un trauma
@@ -3532,12 +4071,12 @@ M,, se observa la raíz del lado labial y se
 encuentran muy gastados en su parte oclu-
 
 Figura 2: primera fila: cráneo con modificación craneal tipo bilobulado, imagen de huesos wormianos; segunda fila:
-anodoncia del mí y retención de diente deciduo, caries masiva; tercera fila: nódulos de Schmonl en las vertebras y
-periodontitis inicial de hueso alveolar y caries, Fotografías por Rocío Herrera.
+anodoncia del m1 y retención de diente deciduo, caries masiva; tercera fila: nódulos de Schmorl en las vertebras y
+periodontitis inicial de hueso alveolar y caries. Fotografías por Rocio Herrera.
 
-rehispánicas en El Salvador: una apro;
+3ocío Herrera / Paleopatologias prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
 
-ón desde los restos arquet
+pp. 42-73
 
 ## Page 65
 
@@ -3582,7 +4121,7 @@ en Tiesler, 2014, p. 75), ya que presenta
 características formales de una familia,
 pero con atributos que lo vuelven parecido
 
-as prehispánicas en El Salvador
+Rocío Herrera / Paleopatologías prehispánicas en
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -3598,37 +4137,39 @@ lobulado, según la taxonomía de Imbelloni
 de los terceros molares de la mandíbula
 (Ortner, 2003).
 
-El maxilar derecho no tiene el 1?Y? ni Pm’.
+El maxilar derecho no tiene el I’? ni Pm!.
 el C y el Pm? no presentan desgaste. El
-M' posee una caries en la corona, al lado
+M! posee una caries en la corona, al lado
 lingual, pequeña, y presenta restos de
 cálculo dental (sarro) en el lado labial. El
 M? se encuentra en relativo buen estado,
 presenta posible formación de caries en la
-corona. El M* se encuentra en el interior
+corona. El M$ se encuentra en el interior
 del maxilar y se está iniciando la forma-
 ción de la raíz.
 
-Al maxilar izquierdo le hacen falta los I' ¥2
-y Pm!»?, el C no está desgastado; el M'
+Al maxilar izquierdo le hacen falta los |'¥2
+y Pm'¥2, el C no está desgastado; el M'
 presenta dos caries pequeñas, una en la
 parte oclusal y otra al lado lingual-distal y
 restos de sarro; el M?, con una caries en la
-parte oclusal; el M* también se encuentra
+parte oclusal; el M? también se encuentra
 dentro del hueso alveolar y en formación
 inicial de la raíz.
 
 A la mandíbula derecha le hacen falta los
-dientes: |, ,, C, Pm, , ,; el M, presenta una
+dientes: |, ,,, C, Pm, , ,; el M, presenta una
 caries en la corona de lado labial y cálculo
 dental; el M,, una caries en la corona, al lado
 lingual, tres en la parte oclusal y sarro. A la
 
-mandíbula izquierda le hace falta el |, .: el C,
+mandíbula izquierda le hace falta el |, yo el C,
 
-1y2
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
 
-Jna aproximaci
+2
+ie)
 
 65
 
@@ -3638,10 +4179,12 @@ _Extraction method: OCR._
 
 66
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 con desgaste oclusal adrede, en forma se-
 miconcéntrica, con la parte más alta del lado
 mesial y la disminución hacia el lado distal;
-en Pm, ,, no se observan desgastes; el M,
+en Pm, , , no se observan desgastes; el M,
 presenta una caries en la corona, del lado la-
 bial; el M,, una caries en la parte oclusal. Los
 primeros molares exhiben poco desgaste y
@@ -3660,14 +4203,14 @@ espacio lacustre, y esto ha provocado que
 
 ENTIERRO DESCONOCIDO RO-D-005-2015
 
-Figura 3: Fila superior: deformación craneal tipo parieto-occipital desde vista lateral, se observa el tercer molar den
+Figura 3: Fila superior: deformación craneal tipo parieto-occipital desde vista lateral, se observa el tercer molar den-
 tro del hueso maxilar; fila inferior: se observa en el diente una modificación posiblemente de tipo antrópico y caries
 
 pequeñas en los molares. Fotografías por Rocío Herrera.
 
-rehispánicas en El Salvador: una apro;
+3ocío Herrera / Paleopatologias prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
 
-ón desde los restos arquet
+pp. 42-73
 
 ## Page 67
 
@@ -3700,7 +4243,7 @@ Espinoza y Peña Reyes (2010); además de
 la erupción y desarrollo dental, basado en
 la modificación de McCall y Schour (s. f.).
 Las enfermedades bucales presentes son:
-caries en el M" e hipoplasia en el |' y el C
+caries en el M*! e hipoplasia en el |' y el C
 del maxilar derecho.
 
 Entierro 3
@@ -3712,13 +4255,13 @@ y el área de fijación de los músculos). La
 edad de la persona para el momento de su
 muerte ronda los 20-35 años, adulto joven,
 
-as prehispánicas en El Salvador
+Rocío Herrera / Paleopatologías prehispánicas en
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
 se tiene el cráneo completo con maxilar y
 mandíbula. El maxilar presenta en sus inci-
-sivos centrales (I') limado dental del tipo A2,
+sivos centrales (1!) limado dental del tipo A2,
 y en sus incisivos laterales (1?) y el C izquier-
 do del tipo A1. De igual manera, se observa
 en la mandíbula tanto en incisivos centra-
@@ -3726,7 +4269,7 @@ les, laterales y caninos siempre del tipo A1
 (Comas, 1957); tanto los incisivos centrales
 como los laterales son dientes con forma
 de pala (Bass, 1987); el C derecho presenta
-una rotación dentaria de 90° (Bass, 1987).
+una rotación dentaria de 90? (Bass, 1987).
 La estatura promedia los 160.784 + 2.812
 cm, tomándose como base la fórmula para
 la tibia, de Genovés (1967), para individuo
@@ -3755,7 +4298,11 @@ y posiblemente pertenezcan al Entierro 4;
 uno de ellos presenta limado dental B-2 o
 B-4, tomado de Comas (1957). Se observó
 
-Jna aproximaci
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
+
+2
+ie)
 
 67
 
@@ -3765,9 +4312,11 @@ _Extraction method: OCR._
 
 68
 
-una línea de hipoplasia en el |? derecho. La
+Revista ANALES 56, 2016, ISSN 0374-5546
+
+una linea de hipoplasia en el I? derecho. La
 estatura ronda los 154.378 + 3.816 cm,
-basándose en la fórmula para el fémur de
+basandose en la formula para el fémur de
 Genovés (1967), para individuo femenino
 mesoamericano; sin embargo, la estima-
 ción es difícil, debido al estado precario del
@@ -3809,13 +4358,15 @@ lizar a este entierro determinó que presen-
 taba modelado céfalico en forma bilobula-
 da basado en Munizaga (1987) y Tiesler
 
-SITIO ARQUEOLÓGICO NUEVA ESPERANZA, USULUTÁN
+SITIO ARQUEOLÓGICO NUEVA ESPERANZA, LISULUTAN
 
-Figura 4: El Entierro 2 se observa una caries masiva y el cambio de dentadura; el Entierro 3, con modificación den
+Figura 4: El Entierro 2 se observa una caries masiva y el cambio de dentadura; el Entierro 3, con modificación den-
 taria y rotación de diente a 90°; y en el Entierro 4 se observa el prognatismo mandibular y anodoncia de terceros
 molares. Radiografías tomadas en Tridental y Arte Dental. Fotografías por Rocío Herrera.
 
-prehispánicas en El Salvador: una aproximación desde los restos arqueoló
+3ocío Herrera / Paleopatologias prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
+
+pp. 42-73
 
 ## Page 69
 
@@ -3857,11 +4408,11 @@ cho tiempo antes de la muerte, ya que los
 espacios alveolares tuvieron tiempo de re-
 generarse (Figura 5).
 
-s prehispánicas en El Sa
+Rocío Herrera / Paleopatologías prehispánicas en
 
 DISCUSIÓN
 
-Los análisis osteológicos (osteobiografías)
+Los análisis osteológicos (osteobiografias)
 nos dan información del individuo como
 ente particular, en cuanto a la edad, sexo,
 salud, migración, etc. Nos dan también in-
@@ -3887,14 +4438,18 @@ El proceso inicia con el huésped sano, al
 cual le puede afectar, desarrollar o sufrir
 una patología, teniendo tres posibles des-
 enlaces: 1) está sano, es decir que no se
-enferma; 2) se enferma y se recupera; o
+enferma; 2) se enferma y se recupera; 0
 3) se muere. La segunda opción es la que
 nos interesa, ya que de esta se despren-
 den: 1) la recuperación completa y 2) la
 recuperación incompleta, la cual genera
 una deformación ósea.
 
-fr una aproximación di
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
+
+2
+ie)
 
 69
 
@@ -3921,13 +4476,13 @@ _Extraction method: OCR._
 La deformación ósea que causa las pato-
 logías puede ser por:
 
-eTraumas Enfermedades infecciosas
+eTraumas «Enfermedades infecciosas
 (bacterias, hongos, virus y parásitos)
-eTrastornos endocrinos «Deformidades
-neuromecánicas +Problemas circulato-
-rios eTrastornos metabólicos «*Displacias
-esqueléticas «Malformaciones esquelé-
-ticas «Tumores eLesiones en articula-
+eTrastornos endocrinos eDeformidades
+neuromecánicas eProblemas circulato-
+rios eTrastornos metabólicos eDisplacias
+esqueléticas eMalformaciones esquelé-
+ticas eTumores eLesiones en articula-
 ciones eTrastornos reticuloendotelial y
 hematopoyético.
 
@@ -3954,10 +4509,13 @@ vidad microbial en la superficie del diente”
 (Ortner, 2003).
 
 Otra de las patologías observadas es la
+
 periodontitis, la cual se forma “por la re-
 modelación destructiva de la pared alveo-
 
-s prehispánicas en El Sa
+Rocío Herrera / Paleopatologías prehispánicas en
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 lar con exposición de las raíces dentales”
 (Ortner, 2003). En este caso, se puede
@@ -3972,7 +4530,7 @@ ria con la remodelación parcial o total del
 hueso alveolar (Entierro 1, Chinameca).
 
 La hipoplasia dental es “una condición ca-
-racterizada por líneas transversas, fosas o
+racterizada por líneas transversas, fosas 0
 surcos en las superficies de coronas den-
 tales. Estas perturbaciones son defectos
 en la formación o el desarrollo del esmal-
@@ -3992,13 +4550,17 @@ dientes. El Entierro 1 de El Zonte presenta
 anodoncia del M', es decir, que este diente
 no se desarrolló y en su lugar retuvo un
 diente deciduo que se encuentra rotado a
-90”. Por su parte, el Entierro 4 de Nueva
+90°. Por su parte, el Entierro 4 de Nueva
 Esperanza presenta la anodoncia del ter-
 cer molar, siendo más común no desarro-
 llar este diente. El Entierro 78-8B-SA-1 de
 El Trapiche, por el contrario, presenta una
 
-fr una aproximación di
+Salvador: una aproximación desde los restos arqueológicos
+pp. 42-7
+
+2
+ie)
 
 71
 
@@ -4008,7 +4570,7 @@ _Extraction method: OCR._
 
 72
 
-VALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 hiperodoncia, es decir, una mayor canti-
 dad de dientes; en este caso es de tipo
@@ -4056,34 +4618,40 @@ riormente pueda darnos una visión gene-
 ral de la salud de los grupos prehispánicos
 de El Salvador.
 
+3ocío Herrera / Paleopatologías prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
+
+pp. 42-73
+
 ## Page 73
 
 _Extraction method: OCR._
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 REFERENCIAS BIBLIOGRÁFICAS
 
 Bass, W. (1987) Human Osteology A Laboratory and Field Manual. (3a. ed.). Trimble, M.K.
-(Ed.), Special Publication N°2 of the Missouri Archaeological Society.
+(Ed.), Special Publication N*2 of the Missouri Archaeological Society.
 
 Bruzek, J. (2002) A method for visual determination of sex, using the human hip bone. Ame-
 rican Journal of Physical Anthropology 117, pp.157-168.
 
 Buikstra, J. & Ubelaker, D. H. (1994) Standards for data collection from human skeletal re-
 mains: proceedings of a seminar at the Field Museum of Natural History organized by
-Jonathan Haas, series N*44, US: Arkansas Archeological Survey.
+Jonathan Haas, series N°44. US: Arkansas Archeological Survey.
 
 Calce, S. (2012) A new method to estimate adult age-at-death using the acetabulum. Ameri-
 can Journal of Physical Anthropology 148, pp.11-23.
 
-Chavez, H. |. (2009) El Entierro Preclásico EC | “8A extensión - a” Temporada 2006/07 del
+Chávez, H. |. (2009) El Entierro Preclásico EC | “BA extensión - a” Temporada 2006/07 del
 Sitio Arqueológico El Cambio, Valle de Zapotitán, San Juan Opico, La Libertad (Tesis de
 grado). Universidad Tecnológica de El Salvador.
 
-Comas, J. (1957) Manual de Antropología Fisica (1a. ed.) Fondo de Cultura Económica. Mé-
+Comas, J. (1957) Manual de Antropología Física (1a. ed.) Fondo de Cultura Económica. Mé-
 xico-Buenos Aires.
 
 Dar, G., Masharawi Y., Peleg, S.; Steinberg, N., May, H., Medlej, B., Pedel, N. & Hershkovitz,
-|. (2010) Schmorl's nodes distribution in the human spine and its possible etiology.
+|, (2010) Schmorl's nodes distribution in the human spine and its possible etiology.
 European Spine Journal No. 19, pp. 670-675.
 
 Departamento de Arqueología. (2015) Fichas de Registro Arqueológico. Secretaría de Cultura
@@ -4091,11 +4659,11 @@ de la Presidencia de El Salvador, Dirección Nacional de Patrimonio Cultural y N
 Departamento de Arqueología.
 
 Departamento de Arqueología. (2015) Informes Internos del Departamento de Arqueología.
-
 Secretaría de Cultura de la Presidencia de El Salvador, Dirección Nacional de Patrimo-
 nio Cultural y Natural: Departamento de Arqueología.
 
-Rocio Herrera / Paleopato
+Rocío Herrera / Paleopatologías prehispánicas en El Salvador: una aproximación desde los restos arqueológicos,
+pp. 42-73
 
 73
 
@@ -4105,10 +4673,12 @@ _Extraction method: OCR._
 
 74
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 Erquicia, J. H. (2008) Prácticas funerarias y análisis biológico de los individuos localizados en
 la zona de enterramiento del sitio arqueológico Tacuscalco-Los Cerritos, Sonsonate, El
 Salvador. XX/ Simposio de Investigaciones Arqueológicas en Guatemala, 2007, Lapor-
-te, J.P., Arroyo, B., Mejia, H. (Eds.), pp.1282-1304 (versión digital). Guatemala: Museo
+te, J.P., Arroyo, B., Mejía, H. (Eds.), pp.1282-1304 (versión digital). Guatemala: Museo
 Nacional de Arqueología y Etnología.
 
 Erquicia, J. H., Hernández, W. & Suzuki, S. (2013) Investigación arqueológica en el estudio del
@@ -4117,7 +4687,7 @@ volcánica en el noreste del área metropolitana de san salvador y alrededores d
 de llopango. Informe publicado por UTEC-IPGH-MARN-UNAM.
 
 Faccia, K., J. & Williams, R. C. (2008) Schmorl's nodes: Clinical significance and implications
-forthe bioarchaeological record. International Journal of Osteoarchaeology 18, pp. 28-44.
+forthe bioarchaeological record. International Journal of Osteoarchaeology 18, pp. 28-44,
 
 Fowler, W. (1984) Late Preclassic Mortuary Patterns and Evidence for Human Sacrifice at
 Chalchuapa, El Salvador. American Antiquity, Vol. 49, N°3, pp. 603-618.
@@ -4125,7 +4695,7 @@ Chalchuapa, El Salvador. American Antiquity, Vol. 49, N°3, pp. 603-618.
 Genovés, S. (1967) Proportionality of the long bones and their relation to stature among Me-
 soamericans. American Journal of Physical Anthropology 26, pp. 67-78.
 
-Hasegawa, K., Ogose A., Morita, T. & Hirata, Y. (2004) Painful Schmorl’s node treated by lum-
+Hasegawa, K., Ogose A., Morita, T. & Hirata, Y. (2004) Painful Schmorl's node treated by lum-
 bar interbody fusion. Spinal Cord 42, pp. 124-128.
 
 Hernández, P. O., Peña. M. E. (2010) Manual para la identificación del sexo y la estimación
@@ -4143,16 +4713,19 @@ cultura Maya”, 2015.
 Ichikawa, Akira. (2011) Estudio Arqueológico de Nueva Esperanza, Bajo Lempa, Usulután. El
 Salvador: Dirección de Publicaciones e Impresos, Secretaría de Cultura de la Presidencia.
 
-fas prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
+3ocío Herrera / Paleopatologías prehispánicas en El Salvador: una aproximación desde los restos arqueológicos
+pp. 42-73
 
 ## Page 75
 
 _Extraction method: OCR._
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 Kyere, K., Than, K., Wang, A. C., Rahman, S. U., Valdivia-Valdivia, J. M., La Marca, F. & Park, P.
 (2012) Schmorl's nodes. European Spine Journal 21, pp. 2115-2121.
 
-Lagunas, Z. (2000) Manual de Osteología Antropológica, Vol. 1 Principios de anatomía ósea y
+Lagunas, Z. (2000) Manual de Osteologia Antropológica, Vol. 1 Principios de anatomía ósea y
 dental (1a. ed.). Instituto Nacional de Antropología e Historia, México.
 
 Lagunas, Z. (2000) Los restos óseos procedentes del área de Casa Blanca del sitio arqueológico
@@ -4163,28 +4736,28 @@ McCall & Schour (Ed). (S.F) Basic Growth and Development of the Face and Dental 
 Development & Morphology of Teeth, (ligeramente modificado de Logan, W., & Kronfeld,
 R. (1933) Development of the Human Jaws and Surrounding Structures from Birth to the
 Age of Fifteen Years. JADA 20, American Dental Association. Recuperado de http://www.
-toothpicks,info/exam_prep/module_2.html
+toothpicks.info/exam_prep/module_2.html
 
 Munizaga, J. R. (1987) Deformación craneana intencional en América. Revista Chilena de Antro-
-pologia N°6, pp.113-147.
+pología N°6, pp.113-147.
 
 White, T. D. & Folkens, P. A. (2005) The Human Bone Manual. Elsevier Academic Press.
 
-Ortner, D. (2003) Identification of pathological conditions in human skeletal remains (2dn ed.)
+Ortner, D. (2003) /dentification of pathological conditions in human skeletal remains (2dn ed.)
 USA: Elsevier Science.
 
-Rodriguez, J. V. (1994). Introducción a la Antropología Forense. Análisis e Identificación de Restos
+Rodríguez, J.V. (1994). Introducción a la Antropología Forense. Análisis e Identificación de Restos
 Óseos Humanos. Departamento de Antropología, Universidad Nacional de Colombia.
 
-Suby, J. A. (2014) Nódulos de Schmon en restos humanos arqueológicos de Patagonia Austral.
+Suby, J. A. (2014) Nódulos de Schmor! en restos humanos arqueológicos de Patagonia Austral.
 MAGALLANIA (Chile) vol. 42(1), pp. 135-147.
 
 Tiesler, V. (2014) The bioarchaeology of artificial cranial modifications. New approaches to
-
 head shaping and its meanings in Pre-columbian mesoamerica and beyond. Springer
 Science+Business Media New York.
 
-Rocio Herrera / Paleopato
+Rocío Herrera / Paleopatologias prehispánicas en El Salvador: una aproximación desde los restos arqueológicos,
+pp. 42-73
 
 75
 
@@ -4192,13 +4765,11 @@ Rocio Herrera / Paleopato
 
 _Extraction method: OCR._
 
-Revista ANALES 56, 2016, ISSN 0374-5546
-
 EVIDENCIAS RUPESTRES DEL
-“MONSTRUO ACUÁTICO”
+“MONSTRUO ACUATICO”
 EN EL SITIO ARQUEOLÓGICO IGUALTEPEQUE
 
-Hugo Iván Chávez S.
+Hugo Iván Chavez S.
 
 Departamento de Registro de Bienes Culturales
 
@@ -4217,7 +4788,7 @@ Revista ANALES 56, 2016, ISSN 0374-5546
 
 Resumen
 
-El sitio arqueológico Igualtepeque, ubicado en el lago de Gilija, municipio de Metapán,
+El sitio arqueológico Igualtepeque, ubicado en el lago de Gúija, municipio de Metapan,
 departamento de Santa Ana, se caracteriza principalmente por albergar la mayor agrupación
 de grabados rupestres en El Salvador y Centroamérica. Muchos de sus diseños rupestres
 remiten principalmente a su última ocupación conocida: los grupos nahua-pipiles (900-1525).
@@ -4226,7 +4797,7 @@ rupestres del sitio, como parte de un proyecto de valorización y protección de
 En ese inventario se encontró una figura muy particular, nunca antes reportada, la cual por
 su complejidad no se pudo determinar en campo; sin embargo, en la fase de laboratorio
 se encontró que algunas de las rocas con grabados rupestres que actualmente están en
-el Museo Nacional de Antropología Dr. David J. Guzman (MUNA), que también provienen
+el Museo Nacional de Antropología Dr. David J. Guzmán (MUNA), que también provienen
 del sitio Igualtepeque, poseen figuras muy similares en diseño y forma. Utilizando diversas
 fuentes históricas, arqueológicas y etnográficas, se determinó que esa figura correspondía a
 un ser mitológico denominado por los prehispánicos como “monstruo acuático”, que posee
@@ -4255,7 +4826,8 @@ qualities within the nahua-pipil cosmovision.
 Keywords
 Igualtepeque, Water monster, sacrifice, nahua-pipil, netherworld.
 
-Hugo Ivan Chávez / Evidencias rupestres del "monstru    ático" en el sitio arque
+Hugo Ivan Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqueológico Igualtepeque
+El Salvador. pp. 74-87
 
 77
 
@@ -4265,6 +4837,7 @@ _Extraction method: OCR._
 
 78
 
+Revista ANALES 56, 2016, ISSN 0374-5546
 INTRODUCCIÓN
 
 Entre los aspectos más importantes a
@@ -4343,6 +4916,10 @@ miento puede variar conforme se vaya
 realizando más investigación en la zona.
 Hay que tomar en cuenta que en los al-
 
+Hugo lván Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
+
+El Salvador. pp. 74-87
+
 ## Page 79
 
 _Extraction method: OCR._
@@ -4371,24 +4948,24 @@ departamento de Santa Ana (Figura 1). Tie-
 ne una extensión aproximada de 44 km?, de
 los cuales 32 km? corresponden a El Salva-
 dor (MOP, 1985, p. 603). Según indica Jorge
-Lardé y Larín, el toponímico Giijar, corrup-
+Lardé y Larin, el toponímico Giijar, corrup-
 
 Zona de grabados
 rupestres
 
-Fuente: FUNDAR (2006)/Longyear (1944). Adaptaciones: Hugo Iván Chávez
+Fuente: FUNDAR (2008)/Longyear (1944), Adaptaciones: Hugo Iván Chávez
 
-Figura 1: Mapa de ubicación de el Lago de Gúlja.
+Figura 1: Mapa de ubicación de el Lago de Gúija.
 
-Hugo Ivan Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqu
+Revista ANALES 56, 2016, ISSN 0374-5546
 
-ción de Giija, significa: “aguas rodeadas de
+ción de Gilija, significa: “aguas rodeadas de
 cerros” en idioma apay (chortí), y proviene
 de las raíces gui, huit'zir (cerro) y ja (agua,
-laguna) (Lardé y Larín, 2011, p. 260).
+laguna) (Lardé y Larin, 2011, p. 260).
 
 ANTECEDENTES COLONIALES DEL
-LAGO DE GUIJA E IGUALTEPEQUE
+LAGO DE GÚIJA E IGUALTEPEQUE
 
 Las primeras referencias históricas acer-
 ca del lago de Gúija son proporcionadas
@@ -4402,18 +4979,15 @@ dice de Uaxaca, grande y que su desaguadero
 se forma y hace el rio Lempa, que es uno de los
 mayores de este distrito; tiene en medio dos pe-
 noles, uno de los cuales antiguamente los indios
-de aquel distrito hacian sus sacrificios e idola-
-trias. Es tierra, aunque caliente, fértil, de mucha
+de aquel distrito hacían sus sacrificios e idola-
+trías. Es tierra, aunque caliente, fértil, de mucha
 pesca y caza; hay algunos venados blancos, y
 no se saben en estas provincias en otras partes
 do los haya. En su ribera hay un género de ár-
 
-GUATEMALA             E
-HONDURAS
+Hugo Ivan Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqueológico Igualtepeque,
 
-S
-
-OCEANO PACIFICO
+El Salvador. pp. 74-87
 
 79
 
@@ -4423,10 +4997,10 @@ _Extraction method: OCR._
 
 80
 
-ANALES 56, 2016
+Revista ANALES 56, 2016, ISSN 0374-5546
 
-boles pequeños que dan una goma de lindo olor,
-y que semeja y parece menjuí finísimo; da la flor
+boles pequeños que dan una goma de lindo olor;
+y que semeja y parece menjuí finisimo; da la flor
 muy olorosa y el fruto no se sabe que sea de
 provecho. Tres leguas de ella esta Micla, donde
 antiguamente los indios pipiles de este distrito
@@ -4443,7 +5017,7 @@ demostración natural, material y militar y
 política del Reyno de Guatemala, del siglo
 XVII, donde menciona que:
 
-... MÁS que como quiera que esta laguna de
+... MáS que como quiera que esta laguna de
 Guijar en la grande extensión de su circuito, de
 tanto lugar a su tráfico, también le hace muy
 capaz y desahogado en una gran isla, que casi
@@ -4453,17 +5027,13 @@ de su comarca o dando algún descanso a los
 indios canoeros de su tráfico, sirve sin duda a
 mucha conveniencia; y en cuyo territorio, afir-
 man calificados testigos , vense algunos sátiros
-en lo retirado y umbríos de aquellos arcabucos,
+en lo retirado y umbrios de aquellos arcabucos,
 mitad cabra de medio cuerpo abajo, y mitad
 para lo alto con representación humana, bien
 que remata en su frente con cornamenta robus-
 ta, y estos afirman haberles atribuido deidad los
 indios del gentilismo (Fuentes y Guzmán, 1969,
-libro Il, pp. 131-132).
-
-/ Evidencias rupestres del “monstruo aci
-
-74-87
+libro I, pp. 131-132).
 
 SOBRE LOS OTROS GRUPOS
 CULTURALES QUE SE ASENTARON
@@ -4502,6 +5072,10 @@ que coordinar un proyecto con colegas de
 la región de Guatemala, para resultados
 completos y satisfactorios.
 
+Hugo lván Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
+
+El Salvador. pp. 74-87
+
 ## Page 81
 
 _Extraction method: OCR._
@@ -4525,7 +5099,7 @@ Guatemala como en Motagua o Ixtepeque),
 patrones de asentamiento, estructuras de
 poder, entre otros. Mientras tanto, Amaroli
 (1979) menciona que la variedad de asen-
-tamientos de las culturas nahuat, chorti,
+tamientos de las culturas nahuat, chortí,
 pokom y xinca dio lugar a una plétora lin-
 gúística en la zona, y no descartamos la
 posibilidad de algún préstamo o fusiones
@@ -4540,12 +5114,12 @@ cía de Palacios en 1573: “en ese lugar los
 chontales y otros indios comarcanos de
 diferentes lenguas llegaban al lugar para
 hacer ceremonias”. Esto nos indica que el
-lago de Giija y el sitio Igualtepeque fueron
+lago de Gúija y el sitio Igualtepeque fueron
 lugares de interacción cultural, utilizados
 para modos de subsistencia y como rutas
 comerciales que facilitaron las condicio-
 
-Hugo Ivan Chávez / Evid
+Hugo lván Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqueoló
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -4588,11 +5162,20 @@ gations un croquis a manera de mapa del
 sitio (cuando está en isla) con la distribu-
 ción de las estructuras prehispánicas y del
 
+ico Igualtepeque,
+dor. pp. 74-87
+
+Es
+
+81
+
 ## Page 82
 
 _Extraction method: OCR._
 
 82
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 área de grabados rupestres bien defini-
 da. Stanley Boggs, en 1976, reportó que
@@ -4633,9 +5216,7 @@ ménez publicó en su informe “Reflexiones
 sobre las inscripciones hundidas en el lago
 de Gilija” una descripción general del sitio,
 
-estres del “monstruo acu
-
-así como de sus grabados más emblemáti-
+así como de sus grabados más emblemati-
 cos. En 1978, Roberto Guzmán, del Museo
 Nacional de Antropología Dr. David J. Guz-
 mán, realizó una serie de calcos utilizando
@@ -4663,7 +5244,7 @@ los reportados en la isla Ometepe (Nicara-
 gua) y en la región del Diquís (Costa Rica).
 
 Por último, en 2013, el arqueólogo Hugo
-Iván Chávez efectuó el proyecto “Inven-
+Ivan Chávez efectuó el proyecto “Inven-
 tario de las manifestaciones gráfico-ru-
 pestres del sitio Igualtepeque”, en el que
 documentó, a través de una ficha técnica
@@ -4674,7 +5255,9 @@ Para ello, se realizó un chequeo físico y se
 asignó un número correlativo y toma de
 punto GPS por cada roca con grabado ru-
 
-ualtepeque,
+Hugo lván Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
+
+El Salvador. pp. 74-87
 
 ## Page 83
 
@@ -4719,7 +5302,9 @@ horizontal” con un equipo de cuatro perso-
 nas que se alinearían con cierta separación
 y caminarían de forma conjunta, con el obje-
 
-Hugo Ivan Chávez / Evid
+Hugo lván Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqueoló
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 tivo de tener un buen control del trabajo; esto
 nos permitió obtener resultados positivos en
@@ -4760,6 +5345,11 @@ día 18 de julio del 2013 se revisó la roca
 N. 34, para saber su estado desde la
 última vez. Lastimosamente, se obser-
 
+ico Igualtepeque,
+dor. pp. 74-87
+
+Es
+
 83
 
 ## Page 84
@@ -4768,11 +5358,13 @@ _Extraction method: OCR._
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
-CRESTA-DORSAL
+Figura 2: Parte de diseño rupestre, inventariado bajo la ficha N 34,
+
+CRESTA:DORSAL
 
 Figura 3: Diseño rupestre, inventariado bajo la ficha N 34.
 
-Hugo Ivan Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
+84           Hugo lván Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
 El Salvador. pp. 74-87
 
 ## Page 85
@@ -4818,9 +5410,11 @@ iconografías, para dar con algún indicio de
 ello. Se sabe que durante el período Pos-
 clásico la mayor parte del territorio salva-
 
-Hugo Ivan Chávez / Evid
+Hugo lván Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqueoló
 
-dorefio estaba poblado por grupos nahua-
+Revista ANALES 56, 2016, ISSN 0374-5546
+
+doreño estaba poblado por grupos nahua-
 pipiles y su cosmovisión era, por lo tanto,
 muy directa con los grupos de México; por
 ello, y partiendo de este hecho, se buscó
@@ -4829,7 +5423,7 @@ el objetivo de encontrar una figura similar.
 Cabe mencionar que dichos códices fueron
 elaborados a partir de papel de amate o piel
 de animal, donde se dibujaban diferentes
-escenas sobre aspectos rituales, calendari-
+escenas sobre aspectos rituales, calendári-
 cos, ceremoniales, adivinatorios, etc.
 
 Efectuando una revisión de los códices, se
@@ -4850,7 +5444,7 @@ preciosa en la mano pronostica fertilidad y
 riquezas” (Anders y Jansen, 1993, p. 225)
 (Figura 4). Si hacemos una relación de lo que
 nos menciona el códice, y llevándolo al con-
-texto del lago de Giiija (para nuestro caso,
+texto del lago de Gúija (para nuestro caso,
 podríamos interpretar que el “mar” simboliza
 cualquier manto acuífero de gran extensión)
 y los grabados rupestres de nuestro estudio,
@@ -4859,29 +5453,37 @@ de que se trate del mismo ser. Todo esto nos
 indica que el denominado “monstruo acuáti-
 co” puede considerarse como la fusión de un
 
+ico Igualtepeque,
+dor. pp. 74-87
+
+Es
+
 85
 
 ## Page 86
 
 _Extraction method: OCR._
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 MONSTRUO ACUÁTICO — CÓDICE VATICANO B
 
 Monstruo Acuático
 Códice “Vaticano B”
-lamina 26
+lámina 26
 
 Colección MUNA
 
-Colección MUNA
+WA                               Colección MUNA
 
 Colección MUNA
 
-Dibujó: Hugo Iván Chávez, 2016.
-Figura 5: Comparación del Monstruo Acuático del Códice "Vaticano B” con los grabados rupestres que se encuen-
-tran en el MUNA.
+Dibujó: Hugo Iván Chavez, 2016.
 
-86            Hugo Ivan Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
+Figura 5: Comparación del Monstruo Acuático del Códice “Vaticano B” con los grabados rupestres que se encuen-
+tran en el MUNA,
+
+86           Hugo lván Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
 El Salvador. pp. 74-87
 
 ## Page 87
@@ -4921,7 +5523,9 @@ CONCLUSIONES
 Consideramos que el “monstruo acuáti-
 co” se debe de estudiar más a profundi-
 
-Hugo Ivan Chávez / Evid
+Hugo lván Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqueoló
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 dad, ya que apenas tenemos los prime-
 ros registros de estos seres en el sitio, o
@@ -4956,6 +5560,11 @@ población y el gremio académico pueda
 son muy pocas en el país. Hay mucha
 labor por hacer.
 
+ico Igualtepeque,
+dor. pp. 74-87
+
+Es
+
 87
 
 ## Page 88
@@ -4964,6 +5573,8 @@ _Extraction method: OCR._
 
 88
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 REFERENCIAS BIBLIOGRÁFICAS
 
 Anders, F., Jansen, M. (1993) Manual del adivino: libro explicativo del llamado Códice Vati-
@@ -4971,21 +5582,20 @@ cano B, Codex Vaticanus 3773 Biblioteca Apostólica Vaticana. Sociedad Estatal Q
 Centenario (España), Akademishe Druck-und Verlagsanstalt (Austria), Fondo de Cultura
 Económica (México), p. 225.
 
-Amaroli, P. (1979) Un reconocimiento arqueológico en la región del lago de Guija. Santa Rosa,
+Amaroli, P. (1979) Un reconocimiento arqueológico en la región del lago de Gúija. Santa Rosa,
 California, EE. UU. En Biblioteca Especializada del Museo Nacional de Antropología Dr.
-David J. Guzmán (MUNA), p. 5.
+David J. Guzman (MUNA), p. 5.
 
-Amaroli, P., Houston, S. (1988) The Lake Guija Plaque. Special supplement: A Guide to the
+Amaroli, P., Houston, S. (1988) The Lake Gúija Plaque. Special supplement: A Guide to the
 Style and Content of the Research Reports on Ancient Maya Writing. Valderbilt Univer-
-
 sity, p. 1.
 
-Boggs, S. (1976) Dos Xipe Totec del lago de Gilija. Anales del Museo Nacional David J. Guz-
-man. Dirección Nacional de Publicaciones, Ministerio de Educación, San Salvador,
+Boggs, S. (1976) Dos Xipe Totec del lago de Gúija. Anales del Museo Nacional David J. Guz-
+mán. Dirección Nacional de Publicaciones, Ministerio de Educación, San Salvador,
 pp.109-116.
 
-Chavez, H. |. (2013) Fichas de campo para el inventario de las manifestaciones gráficas rupes-
-tres del sitio arqueológico Igualtepeque, lago de Guija / enero-julio 2013. Departamento
+Chávez, H. |. (2013) Fichas de campo para el inventario de las manifestaciones gráficas rupes-
+tres del sitio arqueológico lgualtepeque, lago de Gúlja / enero-julio 2013. Departamento
 de Registro de Bienes Culturales, Secretaría de Cultura de la Presidencia. Inédito.
 
 Fuentes y Guzmán, F. (1969) Recordación Florida: discurso historial, natural, material, militar
@@ -4994,24 +5604,27 @@ y político, del Reyno de Goathemala. Libro Il, pp. 131-132.
 Fowler, W. R. (1989) Nuevas perspectivas sobre las migraciones de los pipiles y los nicaraos.
 Revista Arqueología. México D. F., pp. 89-98.
 
-Garcia de Palacio, D. (2000) Carta de Relación y otros documentos. Consejo Nacional para la
+García de Palacio, D. (2000) Carta de Relación y otros documentos. Consejo Nacional para la
 Cultura y el Arte (CONCULTURA). San Salvador: Dirección Nacional de Publicaciones e
 Impresos, pp. 47.
 
 Guzmán, R. (1978) Revista La Cofradía. Ministerio de Educación. Año 2, No. 22, octubre de
 1978. San Salvador, El Salvador, p. 1.
 
-o” en el sitio arqueológico Igualtepeque,
+Hugo lván Chávez / Evidencias rupestres del “monstruo acuático” en el sitio arqueológico Igualtepeque,
+El Salvador. pp. 74-87
 
 ## Page 89
 
 _Extraction method: OCR._
 
+Revista ANALES 56, 2016, ISSN 0374-5546
+
 Jiménez, F. (1959) Reflexiones sobre las inscripciones hundidas en el lago de Gúija. Sobretiro
 de Anales del Museo Nacional David J. Guzmán. Tomo IX, 1959-1960, números 33 y
 34, pp. 12-15.
 
-Lardé y Larin, J. (2011) El Salvador: sus pueblos, villas y ciudades. Edición Especial Bicen-
+Lardé y Larín, J. (2011) El Salvador: sus pueblos, villas y ciudades. Edición Especial Bicen-
 tenario. Dirección Nacional de Publicaciones e Impresos. El Salvador: Dirección de
 
 Publicaciones e Impresos, p. 260.
@@ -5024,7 +5637,8 @@ Geográfico Nacional Ing. Pablo Arnoldo Guzmán, p. 603.
 
 Stone, A. (1996) The Carved Boulders at Lake Gúija. El Salvador. Inédito. p. 2.
 
-Chávez / Evidencias rupestres del "monstruo acuático” el
+Hugo Ivan Chávez / Evidencias rupestres del "monstruo acuático” en el sitio arqueológico Igualtepeque,
+El Salvador. pp. 74-87
 
 89
 
@@ -5032,7 +5646,7 @@ Chávez / Evidencias rupestres del "monstruo acuático” el
 
 _Extraction method: OCR._
 
-Fragmento de figurilla zoomorta.
+Fragmento de figurilla zoomorfa.
 Postclásico temprano (900 - 1200 d. C.).
 
 ## Page 91
@@ -5055,7 +5669,7 @@ Maria Concetta Laurenti
 Arqueóloga — Directora
 
 Instituto Superior para la Conservación y la Restauración, Roma, Italia.
-m.laurenti@beniculturali.it
+m.laurentiObeniculturali.it
 
 pp. 90 - 102
 
@@ -5065,15 +5679,13 @@ Recibido: 6-04-2016; aceptado: 30-05-2016
 
 _Extraction method: OCR._
 
-ta ANALES
-
-6, ISSN 0374
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Resumen
 
 Con la expresión “conservación de los sitios arqueológicos” se entiende, en general, una
 serie de acciones encaminadas a la salvaguardia de un conjunto de estructuras y elementos
-decorativos que forman parte de la arquitectura antigua, que caracterizan uno o más
+decorativos que forman parte de la arquitectura antigua, que caracterizan uno O más
 monumentos o fases arqueológicas de un asentamiento, o bien de un sitio arqueológico.
 Condición de base de la conservación de los sitios arqueológicos, modernamente concebida,
 es la conservación in situ también de los productos manufacturados frágiles, como
@@ -5094,17 +5706,18 @@ at safeguarding a set of structures and elements decorative elements that form p
 ancient architecture, which characterize one or more monuments or archaeological phases of
 a settlement, or an archaeological site. Basic condition of the conservation of archaeological
 sites, modernly designed, is the in situ conservation of fragile manufactured products, such
-as structures, plaster, stucco, mosaics, masonry on raw ground, as well as other decorative
+as Structures, plaster, stucco, mosaics, masonry on raw ground, as well as other decorative
 elements of ancient architecture. This is considered today an election cultural dimension that,
 with the valorization of the site, configures the need to design and to apply, from the time of
 excavation, a series of interventions aimed at the protection of ancient remains for damages
 and damages to change of chemical status and physical of the manufactured products.
 
 Keywords
-
 In situ conservation, archaeological sites, protection, architectural coverings.
 
-María Laurenti / Con                           ón de los sitios arqueológicos. pp. 90-102
+r
+
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
 93
 
@@ -5114,6 +5727,7 @@ _Extraction method: OCR._
 
 94
 
+Revista ANALES 56, 2016, ISSN 0374-5546
 INTRODUCCIÓN
 
 Como se ha reiterado recientemente
@@ -5150,10 +5764,8 @@ que permiten su aplicación.
 
 Se desprende de una reciente revisión de
 la literatura sobre el tema y algunas con-
-ferencias internacionales (Matero et al.,
+ferencias internacionales (Matero et al,
 1997), pero actualmente hay una mayor
-
-María Laurenti / C
 
 conciencia e interés en las condiciones
 que permitan la gestión y conservación de
@@ -5194,12 +5806,14 @@ y estudio en el área mediterránea, que
 tiene como objetivo la identificación de
 métodos útiles para abordar los proble-
 
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
+
 ## Page 95
 
 _Extraction method: OCR._
 
 Figura 1: Mercado de Mileto, reconstrucción en el
-Pergamon Museum de Berlín,
+Pergamon Museum de Berlín.
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
@@ -5225,7 +5839,7 @@ nas en 1931, que establece recomenda-
 ciones para la documentación exacta de
 las intervenciones y relleno de materiales
 
-Figura 2: Boscoreale, Cubiculum de la Villa de Publio.
+Figura 2: Boscoreale, Cubiculum de la Villa de Publio,
 
 María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
@@ -5237,7 +5851,7 @@ _Extraction method: OCR._
 
 96
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 que de lo contrario sería imposible man-
 tener. También la UNESCO ha hecho sus
@@ -5277,8 +5891,6 @@ restaurador en la preparación de medidas
 de respuesta en los artefactos frágiles du-
 rante la excavación.
 
-María Laurenti / C
-
 La Carta del ICOMOS de 1981 (Burra Char-
 ter) ha hecho hincapié en los principios de
 la Carta de Venecia, estableciendo su valor
@@ -5311,11 +5923,13 @@ primeros auxilios durante la excavación.
 
 Como los esfuerzos de los responsables
 del sitio deben tener como finalidad ha-
-cer posible la conservación in situtambién
-de los restos más débiles, será necesario
+cer posible la conservación in situ también
+de los restos mas débiles, sera necesario
 prever la adopción de medidas provisiona-
 les y cautelares desde el momento de la
 excavación. Esto es necesario debido a la
+
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
 ## Page 97
 
@@ -5360,12 +5974,12 @@ de las tecnologías y los mecanismos de
 degradación, la capacidad de adaptar tales
 conocimientos al contexto específico y de
 
-María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
-
 Revista ANALES 56, 2016, ISSN 0374-5546
 
-Figura 3: Corfinio, Domus Intervenciones in situ,
-Consolidamiento de una pintura mural
+é
+
+Figura 3: Corfinio, Domus Intervenciones in situ.
+Consolidamiento de una pintura mural.
 
 Figura 4: Recuperación de manufacturados frágiles
 en cajas y el transporte al laboratorio.
@@ -5374,9 +5988,10 @@ tomar las decisiones apropiadas relativas a
 las metodologías que serán utilizadas.
 
 Se trata de acciones que requieren la
-
 experiencia del restaurador. De hecho, la
 metodología adoptada en las operaciones
+
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
 97
 
@@ -5386,7 +6001,7 @@ _Extraction method: OCR._
 
 98
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 de rápida intervención es similar a la uti-
 lizada para la intervención orgánica de la
@@ -5427,8 +6042,6 @@ ta milagrosa y a la intervención definitiva,
 política que no ha tenido éxito, sino más
 bien a las preocupaciones acerca de los
 
-María Laurenti / C
-
 tratamientos que no tengan efectos adver-
 sos en el tiempo y que no se opongan o
 impidan sucesivas acciones. Los materia-
@@ -5445,7 +6058,7 @@ la restauración. De hecho, la política de
 las intervenciones mínimas y puntuales y
 de mantenimiento, con el seguimiento del
 estado de conservación del bien, es hoy la
-única estrategia viable.?
+única estrategia viable.”
 
 Entre las operaciones de mantenimiento
 están incluidas operaciones necesarias
@@ -5467,6 +6080,8 @@ supuesto, relacionada con las condiciones
 ambientales, climáticas y geográficas del
 lugar, y también con el estado de conser-
 vación de los materiales constitutivos de
+
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
 ## Page 99
 
@@ -5510,9 +6125,11 @@ excavación, tanto en el pronóstico de una
 valorización del sitio, como en el caso de
 un relleno.
 
-María Laurenti / C
+r
 
-De aquí la necesidad de la presencia de un
+Revista ANALES 56, 2016, ISSN 0374-5546
+
+De aqui la necesidad de la presencia de un
 restaurador en el campo y de una mejor
 planificación de la excavación, que con-
 temple la realización de obras provisiona-
@@ -5522,7 +6139,7 @@ decorativos más delicados de los agentes
 atmosféricos y climáticos, que son los fac-
 tores inmediatos de degradación. Es sufi-
 ciente pensar en construcciones de adobe
-o arcilla prensada (pise) o en los delicados
+o arcilla prensada (pisé) o en los delicados
 enlucidos pintados para los cuales el con-
 trol de la fase de evaporación de la hu-
 medad contenida en los materiales que la
@@ -5535,7 +6152,7 @@ medio de estucos de contención basados en
 mortero de cal y a la limpieza en seco del
 mantillo de la excavación del suelo, que pue-
 de causar depósitos duros en la superficie y
-por lo tanto ser difícil de remover.*
+por lo tanto ser difícil de remover.?
 
 Sobre los manufacturados en arcilla cruda
 aparecen eficaces y simples operaciones
@@ -5550,6 +6167,8 @@ tónicas temporáneas realizadas como medi-
 das preventivas durante la excavación, sobre
 todo de material y diseño de mala calidad, se
 
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
+
 99
 
 ## Page 100
@@ -5558,7 +6177,7 @@ _Extraction method: OCR._
 
 100
 
-NALES 56, 20
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 quedan por mucho tiempo como protección
 de los restos arqueológicos durante la fase
@@ -5598,8 +6217,6 @@ la estructura de protección y estructuras
 arqueológicas protegidas en relación con
 el microclima de la zona de la excavación.
 
-María Laurenti / C
-
 Un proyecto de investigación llevado a
 cabo recientemente por el ISCR y por el
 ENEA en Italia ha tenido el mérito de haber
@@ -5638,6 +6255,8 @@ por ejemplo, sobre la difusión de los varios
 materiales empleados para los mantos de
 cobertura y para la estructura de soporte,
 
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
+
 ## Page 101
 
 _Extraction method: OCR._
@@ -5669,9 +6288,7 @@ trata de sistemas que se aplican común-
 mente también en los casos de relleno de
 un área entre una campaña de excavación
 
-ta ANALES
-
-6, ISSN 0374
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 y otra (Altieri, Laurenti y Roccardi, 1999;
 Roby, 2003; Mora, 1986).
@@ -5702,9 +6319,7 @@ la eficacia del mismo.
 
 Figura 5: Castelleone di Suasa Relleno. Protección con geo-textiles y perlitea.
 
-María Laurenti / Con
-
-ón de los sitios arqueológicos. pp. 90-102
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
 101
 
@@ -5713,6 +6328,8 @@ María Laurenti / Con
 _Extraction method: OCR._
 
 102
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
@@ -5725,10 +6342,10 @@ rials and techniques for short-term protection of archaeological remains, Procee
 6 International Conference on Non Destructives Testing and Mycroanalysis for The Diag-
 nostics and Conservation of the and Environmental Heritage, Roma, 1999, pp. 676-684.
 
-Brandi, C. (1977) La teoria del Restauro, Torino, ed.
+Brandi, C. (1977) La teoría del Restauro, Torino, ed.
 
 Capponi, G., Cacace, C., Laurenti, M.C. & Pietrini, N. (1996) La protezione delle aree archeolo-
-giche: la domus dei Coiedii, Atti del Xi! Convegno Scienza e Beni Culturali, Bressanone
+giche: la domus dei Coiedii, Atti del X// Convegno Scienza e Beni Cultural, Bressanone
 1996, Padova, 1996.
 
 Castelli, G. (1997). La Carta del Rischi del Patrimonio Culturale, ed. ICR, Roma, 1997.
@@ -5736,27 +6353,29 @@ Castelli, G. (1997). La Carta del Rischi del Patrimonio Culturale, ed. ICR, Roma
 Fazio, G. M. (2006) La conservazione in situ, Appunti di due cantieri per la conservazione dei
 dipinti murali in situ: Domus Aurea e Arslantepe, Diagnosi e Progetto per la Conserva-
 
-zione dei materiali dell’architettura, Roma, 1998, pp. 98-102.
+Zione dei materiali dell'architettura, Roma, 1998, pp. 98-102.
 
 ICOMOS (1984) The International Committee on Archaeological Heritage Management, es una
 comisión que nació dentro del ICOMOS, en 1984.
 
 Jerome, P., (1995) Proposed permanent shelder for building 5 at the Bronze Age site of Pa-
 laikastro, Crete, Conservation and Management of Archaeological Sites, 1995, 1, pp.
-35-42.
+35-42,
 
 Laurenti, M.C. (2003) “The Protection of the Mosaics in situ: cataloging projet and perspec-
 tives”, proceedings of the VI th International Conference, Roma 2003, pp. 289-298;
 
 Laurenti, M. C. (2006) Le coperture delle aree archeologiche. Museo aperto, Roma, 2006.
 
-María Laurenti / Conserva
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
 ## Page 103
 
 _Extraction method: OCR._
 
-Matero, F, et ali (1997) Archaeological site conservation and management, an appraisal of recent
+Revista ANALES 56, 2016, ISSN 0374-5546
+
+Matero, F, et alli (1997) Archaeological site conservation and management, an appraisal of recent
 trends. The Conservation and Management of Archaeological Sites, 2, pp. 111-120.
 
 Melucco A. (2003) Philosophies favouring in situ conservation, Proceedings of the VI th Con-
@@ -5768,7 +6387,7 @@ Mora, P. (1986) Conservazione di intonaci, stucchi, mosaici di scavo, Atti del c
 conservazione sullo scavo archeologico, Nicosia, Cipro, 1983, ed. ICCROM Roma,
 1986, pp. 109-120.
 
-Neguer, J., Ferroni, A. M., Guichard, V., & Giannakis, X. (2002) Proyecto PI.S.A. (Program-
+Neguer, J., Ferroni, A. M., Guichard, V., & Giannakis, X. (2002) Proyecto P1.S.A. (Program-
 mation integre dans les sites archeologiques) fue parte del programa Euromed Heri-
 tage, aprobado por la UE en el marco del Programa Regional MEDA, en 1998, Final
 Reports, Roma, 2002.
@@ -5780,16 +6399,14 @@ Roby, T. (2003) In situ stabilization during excavation of Roman floor mosaics s
 maged by root growth, in Proceedings of the VI th International Conference of ICCM.
 Mosaics make a site, Cyprus, 1996, ed. Roma, 2003.
 
-Stanley, N. (1986) La conservazione sugli scavi e le raccomandazioni UNESCO del 1956, Atti
+Stanley, N. (1986) La conservazione sugli scavi e le raccomandazioni UNESCO del 1956, Afti
 del convegno La Conservazione sullo scavo archeologico, Nicosia, Cipro, 1983, Roma,
 1986, pp. 161-169.
 
 Stanley Price, N., Burch, R., y Matero F., (2004) Conservation and Management of Archaeolo-
 gical Sites, Special Issue on Site Reburial.
 
-Maria Laurenti / Cons
-
-cturas de protección de los sitios arqueológicos. pp. 90-102         103
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102         103
 
 ## Page 104
 
@@ -5797,20 +6414,24 @@ _Extraction method: OCR._
 
 104
 
-Notas
+Revista ANALES 56, 2016, ISSN 0374-5546
 
+Notas
 1. Las pinturas murales de la villa di Boscoreale fueron comercializadas en 1903. Un primer equi-
+
 pamiento ad hoc fue realizado en el 1909, seguido a finales de los años 50 por una segunda
-sistemación en el Angulo sudeste de la Great Hall: B, F Cook, “The Boscoreale Cubiculum. A
+sistemación en el Angulo sudeste de la Great Hall: B. F. Cook, “The Boscoreale Cubiculum. A
 new Installation” en The Metropolitan Museum of Art Bulletin, 1964, pp. 166-183. Reciente-
 mente el Metropolitan Museum of Art ha procedido a un nuevo equipamiento en el cual los
-accesorios no pertinentes al contexto original, han sido retirados.
+accesorios no pertinentes al contexto original, han sido retirados,
 
 2. Sobre las problemáticas del mantenimiento se vea el XXVI Convegno Scienza e Beni Cultura-
+
 li, Bressanone 2010, Pensare la prevenzione, Manufatti, Usi, Ambienti, ed Arcadia Ricerche,
 Marghera- Venezia, 2010.
 
 3. La formación de incrustaciones calcáreas en las pinturas de la excavación y en los artefactos
+
 líticos es algo que sucede muy seguido, que se verifica por el fenómeno de re-carbonatación
 del carbonato de calcio presente en el enlucido en las fases de solubilización y cristalización
 de las sales, activada por los procesos físico-químicos que se producen en el momento de la
@@ -5821,13 +6442,13 @@ no solo por este motivo se tienen que descuidar: para su eliminación son necesa
 agresivos, por lo tanto se debe evitar la formación, desacelerando y en lo posible controlando
 el proceso de secamiento de los enlucidos.
 
-María Laurenti / Cons                               de los sitios arquec
+María Laurenti / Conservación y estructuras de protección de los sitios arqueológicos. pp. 90-102
 
 ## Page 105
 
 _Extraction method: OCR._
 
-EL CRIOLLO: |
+EL CRIOLLO: _
 SU PARTICIPACIÓN _
 EN LA ADMINISTRACIÓN
 
@@ -5881,11 +6502,9 @@ very limited; however, they actively participated in Municipal Governments. A sm
 creole families in the city totally controlled municipal positions during this century.
 
 Keywords
-
 Spain, Santiago de Guatemala, XVIII century, creole.
 
-ción en La administración de Santiago de Guatemala siglo XVII
-
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
 pp. 103-124
 
 ## Page 107
@@ -5931,7 +6550,7 @@ La hipótesis que presento en este ensayo
 es que el criollo no participó activamente
 en la administración de la Real Audiencia,
 
-guilar / El criollo: su particip:
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 pero sí lo hizo desde la etapa colonial más
 temprana a nivel medio en la administra-
@@ -5972,6 +6591,8 @@ entre el Reino de Guatemala y los Virreinatos
 de la Nueva España, Perú y otras áreas de
 Hispanoamérica. Este tipo de estudios ya se
 
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
+
 107
 
 ## Page 108
@@ -5980,7 +6601,7 @@ _Extraction method: OCR._
 
 108
 
-Revista ANALES 56, 2016
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 ha hecho, por ejemplo, está el caso de la fa-
 milia Aycinena, que tenía nexos con comer-
@@ -6020,8 +6641,6 @@ men y fiscales. Para poder asumir dichos
 cargos, era requisito que fuera letrado
 (Bruckholder, 1977).
 
-ón en La administración de Santiago de Guatemala
-
 Si bien el derecho castellano fue suple-
 torio del indiano, este se fundamentó en
 el trasplante de conceptos e instituciones
@@ -6060,6 +6679,10 @@ atribuciones y amplias facultades, además
 de las funciones judiciales, políticas y has-
 ta militares (cosa que no sucedía en Espa-
 ña) que tuvo en Indias.
+
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
+
+pp. 103-124
 
 ## Page 109
 
@@ -6104,12 +6727,12 @@ Entre sus responsabilidades judiciales
 más conocidas se hallaba la de funcionar
 como tribunales de primera instancia en
 
-guilar / El criollo: su particip:
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 los casos relacionados con la Real Hacien-
 da, y en otros surgidos dentro del mismo
 seno. En cambio, en los casos penales y
-la mayoria de los civiles, eran cortes de
+la mayoría de los civiles, eran cortes de
 apelación dentro de un territorio de su ju-
 risdicción, y su autoridad a este respecto
 era definitiva.
@@ -6137,13 +6760,15 @@ de ejecutarse todos los casos de mayor
 importancia, incluyendo aquellos sobre
 ministros inferiores (MacLachlan, 1974).
 
-Según Ots de Capdequí (1993), había tres
+Según Ots de Capdequi (1993), había tres
 tipos de Audiencias: virreinales, radicadas
 en la capital del virreinato y precedidas por
 propio virrey; pretoriales, presididas por
 un presidente de la Audiencia o capitán
 general que tenía autonomía de gobier-
 no y comunicación directa con el Consejo
+
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
 
 109
 
@@ -6153,7 +6778,7 @@ _Extraction method: OCR._
 
 110
 
-Revista ANALES 56, 2016
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 de Indias de España, su presidente tenía
 rango de gobernador; y subordinadas, que
@@ -6194,8 +6819,6 @@ se concentró en el presidente, a quien se
 le adjudicaron las funciones de presidir la
 Audiencia, encargado del gobierno admi-
 
-ón en La administración de Santiago de Guatemala
-
 nistrativo, económico y político, además
 de presidir las fuerzas armadas como ca-
 pitán general. Debía de proveer encomien-
@@ -6234,6 +6857,10 @@ res fungían como jueces de lo criminal
 
 Dice Méndez Montenegro (1976) que las
 autoridades locales tenian la facultad de
+
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
+
+pp. 103-124
 
 ## Page 111
 
@@ -6278,7 +6905,7 @@ en que fueron acordados. Si bien en mu-
 chos casos son un fiel reflejo de las leyes
 que aparecen en la Recopilación de Indias,
 
-guilar / El criollo: su particip:
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 en la mayoría de casos demuestran cuá-
 les eran las necesidades circunstanciales
@@ -6319,13 +6946,17 @@ efecto, era deber suyo recabar la informa-
 ción sobre la conducta observada por los
 gobernadores y particulares al respecto,
 
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
+
 111
 
 ## Page 112
 
 _Extraction method: OCR._
 
-NALES 56, 20
+112
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 imponiendo la sanción correspondiente
 cuando se comprobaran excesos o malos
@@ -6402,11 +7033,12 @@ municipio de Realengo, ya que todas las
 tierras de Indias pertenecían al rey.
 
 Para evitar confusiones entre Ayuntamien-
-
 to y Cabildo, se hace la siguiente acla-
 ración, citando textualmente a Ernesto
 
-antiago de Guaterr
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
+
+pp. 103-124
 
 ## Page 113
 
@@ -6434,7 +7066,7 @@ mejor, porque para algunos vecinos era
 importante asumirlos:
 
 Sigue explicando Chinchilla Aguilar: los al-
-caldes ordinarios presidían el Cabildo, su
+caldes ordinarios presidian el Cabildo, su
 función específica era la de hacer justicia
 como jueces de su majestad y conocer to-
 das las causas civiles y criminales de su
@@ -6449,6 +7081,8 @@ fueron dos, y este número no varió.
 Los regidores formaban cabildo, podían
 dictar todas las disposiciones y ordenan-
 zas relativas al gobierno y la administra-
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 ción de la ciudad. Originalmente fueron
 elegidos cadañeros, pero a partir de 1546
@@ -6481,12 +7115,14 @@ prendía, según Fuentes y Guzmán (1932-
 repartidos en nueve fecundos y provecho-
 sos valles”, con pueblos tan lejanos entre
 sí como Tecpán, Santa Catarina Pínula,
-Chimaltenango y Amatitlán. Los alcaldes
+Chimaltenango y Amatitlan. Los alcaldes
 ordinarios era también los corregidores del
 Valle, y estaban encargados de la construc-
 ción de caminos y puentes, repartimiento
 de indios, fiscalización de tribunales, etc.
 (Chinchilla Aguilar, 1961).
+
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
 
 113
 
@@ -6494,7 +7130,11 @@ de indios, fiscalización de tribunales, etc.
 
 _Extraction method: OCR._
 
+114
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 CONDICIÓN DE CRIOLLO
+
 La Conquista
 
 El descubrimiento y conquista de Indias
@@ -6504,7 +7144,7 @@ fondos, lo delegaron a empresas privadas
 por medio de las Capitulaciones. Por la
 misma naturaleza de estas empresas, los
 integrantes de ellas eran personas que ve-
-nian en busca de riquezas y honor.
+nían en busca de riquezas y honor.
 
 En 1524, la que es ahora Guatemala fue
 conquistada por un pequeño grupo de
@@ -6521,7 +7161,7 @@ Las castas sociales
 
 Desde la fundación de la ciudad de Santia-
 go, esta se traza y se construye de acuerdo
-alas disposiciones y ordenanzas reales, en
+a las disposiciones y ordenanzas reales, en
 las que las diferentes castas fueron asen-
 tadas de maneras bien definidas y separa-
 das. Los mejores solares le son entregados
@@ -6564,13 +7204,15 @@ el mestizo, sino que creó una conciencia
 social (Martínez Peláez, 1992).
 
 El peninsular
+
 El español peninsular ocupaba un sitio
 privilegiado en la sociedad colonial. Era el
-
 representante de la raza conquistadora y
 dominante. Los cargos principales de la
 
-antiago de Guaterr
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
+
+pp. 103-124
 
 ## Page 115
 
@@ -6615,9 +7257,9 @@ cargos del gobierno, pero retuvieron los
 de nivel medio. En ese mismo libro hay
 una cita de Tomas Gage (famoso viajero
 
-El criollo: su participación en La administración
+Revista ANALES 56, 2016, ISSN 0374-5546
 
-que vivió en Guatemala en el siglo XVII),
+que vivió en Guatemala en el siglo XVI),
 en la que dice que “los criollos no solo
 están privados de los oficios y cargos de
 gobierno, sino los españoles advenedizos
@@ -6656,13 +7298,17 @@ monarquía, principalmente en los siglos
 XVI y XVII. La Hacienda Real se encontraba
 sumamente presionada por los enormes
 
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
+
 115
 
 ## Page 116
 
 _Extraction method: OCR._
 
-NALES 56, 20
+116
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 gastos que le ocasionaban las constantes
 guerras, los altísimos gastos de la Corte y
@@ -6742,7 +7388,9 @@ La participación del criollo
 Para el siglo XVIII, la evolución del acceso
 a los cargos públicos ya había quedado
 
-antiago de Guaterr
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
+
+pp. 103-124
 
 ## Page 117
 
@@ -6767,7 +7415,7 @@ las provincias más ricas también los com-
 praron, pero era condición que no hubiera
 nacido en la provincia en que ejercería.
 
-Para ilustrar mejor su participación, ver los
+Para ¡ilustrar mejor su participación, ver los
 siguientes cuadros: Tabla 1: Totalidad de
 nombramientos para las Audiencias; Tabla
 2: Venta en la Audiencia: Reino de Guate-
@@ -6787,7 +7435,7 @@ ron dichos puestos hasta 1821, fecha de la
 independencia de España, ya que es signi-
 ficativo indicar que para esa época había
 
-guilar / El criollo: su particip:
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 dos, y solo dos, guatemaltecos ocupando
 dichos cargos. A continuación se incluye
@@ -6828,131 +7476,395 @@ bleza criolla se reservaba todos los
 mejores cargos: los que formaban Ca-
 bildo y los oficios de privilegio (alguacil
 
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
+
 117
 
 ## Page 118
 
 _Extraction method: embedded text._
 
-Cantidad                        Porcentaje
-                    Criollos                                200                               35%
-                 Peninsulares                               357                               62%
-                     Otros                                  20                                3%
-                    Totales                                 577                            100%
-
-
-                                   Años                                         Totales
-                             1686-1750                                            1
-                             1751-1808                                            3
-                             1809-1821                                            4
-                                    Total                                         7
-
-
-       Nombre             Edad              Universidad    Título     Puesto          Valor              Año
-        Miguel
-                                                                                   17,500
-      Santaella y              27              Gua          Lic.      Alcalde                          1771-74
-                                                                                    pesos
-      Melgarejo
-      Fernandez
-                               25              Méx        Bachiller   Alcalde          ?               1751-84
-      de Madrid
-      Diego Anto-
-      nio Ladrón               7               Méx           ?        Fiscal           ?            1777-1804
-      de Guevara
-      Baltazar de                                                                                   1804-Inde-
-                               37              Gua          Lic.      Oidor            ?
-      Larreinaga                                                                                     pendencia
-        Miguel
-                               7                ?            ?          ?              ?                ídem
-        Palomo
-      J. Ignacio
-                                                                                                    1821-Inde-
-      Beltranena               34              Gua        Bachiller   Oidor            ?
-                                                                                                     pendencia
-        Llano
-
-
 118
+
+Cantidad
+
+Porcentaje
+
+Criollos
+
+200
+
+35%
+
+Peninsulares
+
+357
+
+62%
+
+Otros
+
+20
+
+3%
+
+Totales
+
+577
+
+100%
+
+Años
+
+Totales
+
+1686-1750
+
+1
+
+1751-1808
+
+3
+
+1809-1821
+
+4
+
+Total
+
+7
+
+Nombre
+
+Edad
+
+Universidad
+
+Título
+
+Puesto
+
+Valor
+
+Año
+
+Miguel
+Santaella y
+Melgarejo
+
+27
+
+Gua
+
+Lic.
+
+Alcalde
+
+17,500
+pesos
+
+1771-74
+
+Fernandez
+de Madrid
+
+25
+
+Méx
+
+Bachiller
+
+Alcalde
+
+?
+
+1751-84
+
+Diego Antonio Ladrón
+de Guevara
+
+7
+
+Méx
+
+?
+
+Fiscal
+
+?
+
+1777-1804
+
+Baltazar de
+Larreinaga
+
+37
+
+Gua
+
+Lic.
+
+Oidor
+
+?
+
+1804-Independencia
+
+Miguel
+Palomo
+
+7
+
+?
+
+?
+
+?
+
+?
+
+ídem
+
+J. Ignacio
+Beltranena
+Llano
+
+34
+
+Gua
+
+Bachiller
+
+Oidor
+
+?
+
+1821-Independencia
 
 ## Page 119
 
 _Extraction method: embedded text._
 
-Batres        30
-    Pavón         30
-   Aycinena       28
-   Asturias       25
-    Barrutia      20
-    Juarros       18
-     Lara         15
-   Peynado        14
-     Roma         12
-    Palomo        12
-  Castanedo       11
-  Beltranena      10
-     Ferrer       10
- Martincorena     10
-   Arrivillaga    9
-   Manrique       9
-  Rodríguez       7
-    Urruela       7
-    Valdéz        5
-   Barrundia      5
-    Nájera        5
-  Coronado        5
-Saenz de Tejada   5
-    Gálvez        4
-   Martínez       4
-  Chamorro        4
-   Gomara         4
-   Obregón        5
+Batres
 
+30
 
-                       119
+Pavón
+
+30
+
+Aycinena
+
+28
+
+Asturias
+
+25
+
+Barrutia
+
+20
+
+Juarros
+
+18
+
+Lara
+
+15
+
+Peynado
+
+14
+
+Roma
+
+12
+
+Palomo
+
+12
+
+Castanedo
+
+11
+
+Beltranena
+
+10
+
+Ferrer
+
+10
+
+Martincorena
+
+10
+
+Arrivillaga
+
+9
+
+Manrique
+
+9
+
+Rodríguez
+
+7
+
+Urruela
+
+7
+
+Valdéz
+
+5
+
+Barrundia
+
+5
+
+Nájera
+
+5
+
+Coronado
+
+5
+
+Saenz de Tejada
+
+5
+
+Gálvez
+
+4
+
+Martínez
+
+4
+
+Chamorro
+
+4
+
+Gomara
+
+4
+
+Obregón
+
+5
+
+119
 
 ## Page 120
 
 _Extraction method: embedded text._
 
-Exportadores           Libras
-        Juan Fermín Aycinena      666737.5
-            Manuel Batres          66749
-          Pedro Beltranena        40237.5
-       Pedro Joseph Beltranena    103400
-       Juan Antonio Castañedo      30325
-        Joseph Fernandez Gil      168962.5
-             Luis Galiano         39312.5
-        Joseph García de Urda     81387.5
-           Juan Gil Barrio         92800
-          Ambrosio Gomara         77794.5
-            Miguel Molina          47600
-        Pedro Joseph Micheo        66025
-             Juan Natera           79900
-           Cayetano Pavón          94350
-      Fráncico Martínez Pacheco    58225
-            Diego Peinado         202725
-            Basilio Romá          110287.5
-      Joseph Miguel de San Juan   63537.5
-             Martín Sorra         126225
-          Ambrosio Toboado        181900
-           Esteban Yúdice          56950
-
-
 120
+
+Exportadores
+
+Libras
+
+Juan Fermín Aycinena
+
+666737.5
+
+Manuel Batres
+
+66749
+
+Pedro Beltranena
+
+40237.5
+
+Pedro Joseph Beltranena
+
+103400
+
+Juan Antonio Castañedo
+
+30325
+
+Joseph Fernandez Gil
+
+168962.5
+
+Luis Galiano
+
+39312.5
+
+Joseph García de Urda
+
+81387.5
+
+Juan Gil Barrio
+
+92800
+
+Ambrosio Gomara
+
+77794.5
+
+Miguel Molina
+
+47600
+
+Pedro Joseph Micheo
+
+66025
+
+Juan Natera
+
+79900
+
+Cayetano Pavón
+
+94350
+
+Fráncico Martínez Pacheco
+
+58225
+
+Diego Peinado
+
+202725
+
+Basilio Romá
+
+110287.5
+
+Joseph Miguel de San Juan
+
+63537.5
+
+Martín Sorra
+
+126225
+
+Ambrosio Toboado
+
+181900
+
+Esteban Yúdice
+
+56950
 
 ## Page 121
 
 _Extraction method: OCR._
 
-sta ANALES 56, 2016, ISS
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Tabla 6: Ventas de oficios del ayuntamiento (en pesos)
 
-Mo                                   Oficios
-A         B         C         D         E         F         G
+Año                                   Oficios
+A         B         C         D         E         IF         G
 1701                                   3000
-1703                                            5500
+1703                                             5500
 1706      3000
 1713                         3000
 1725                         2500      5000
@@ -6960,30 +7872,31 @@ A         B         C         D         E         F         G
 1731 1)
 1742 2)       1000        1000        2000        2000        5000        1000         500
 1761 3)     2000      2000      4000                         1000
-1762                                   750
-1763                                   750
-1767                                   750
-1770                                   750
-1787                                  1000      2000
-1793 (6)                                  500       300
-1807                                   300       300
+1762                                    750
+1763                                    750
+1767                                    750
+1770                                    750
+1787                                   1000      2000
+1793 (5)                                  500       300
+1807                                    300       300
 
-Fuente: Luján Muñoz (1980)
+Fuente: Luján Muñoz (1980).
 
-Explicación de las siglas
+Explicación de las siglas:
 
-Azalcalde de Santa Hermandad / B=Alférez mayor / C=alguacil mayor / D=Correo | regimiento Doble
+A=alcalde de Santa Hermandad / B=Alférez mayor / C=alguacil mayor / D=Correo | regimiento Doble
 E=Depositario General / F=juez tesorero de papel sellado / G=receptor / H=regimiento sencillo
 
 1) venta de un grupo de cinco regimientos a 750 pesos c/u.
 
-2) venta de ocho regimientos y cinco oficios de privilegio.
+2) venta de ocho regimientos y cinco oficios de privilegio,
 
 3) venta de un grupo de cuatro regimientos y cuatro oficios de privilegio, por un total de 26,000 pesos
 (4) este cargo paso a ser parte de la administración real local.
+
 (5) venta de un grupo de once regimientos
 
-0: su participac’ ¡ón en La administra
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
 
 121
 
@@ -6991,7 +7904,9 @@ E=Depositario General / F=juez tesorero de papel sellado / G=receptor / H=regimi
 
 _Extraction method: OCR._
 
-NALES 56, 20
+122
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 mayor, receptor, correo mayor, tesorero
 de papel sellado, alcalde de la Santa
@@ -7008,7 +7923,7 @@ cargos eran muy codiciados por esta
 nobleza cerrada, ya que no solo les pro-
 porcionaban grandes ganancias, sino
 un estatus social que se consideraba
-envidiable, al ocupar puestos honorífi-
+envidiable, al ocupar puestos honorifi-
 cos en celebraciones y fiestas y reci-
 bir títulos como el de “muy magníficos
 señores”. A este grupo oligarca por su
@@ -7069,7 +7984,9 @@ de añil del Reino de Guatemala. Podemos
 ver que muchos de los apellidos son los
 mismos de la Tabla 4.
 
-antiago de Guaterr
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
+
+pp. 103-124
 
 ## Page 123
 
@@ -7114,8 +8031,6 @@ Para tener una idea del valor adquisitivo
 de la moneda, véase los sueldos de al-
 gunos empleados del Cabildo en el siglo
 
-El criollo: su participación en La administración
-
 Revista ANALES 56, 2016, ISSN 0374-5546
 
 XVIII: escribano principal, 1,000 pesos al
@@ -7157,13 +8072,17 @@ familias criollas poderosas acaparó estos
 cargos; de esta manera, podían tener ac-
 ceso a puestos, títulos honoríficos y bene-
 
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
+
 123
 
 ## Page 124
 
 _Extraction method: OCR._
 
-NALES 56, 20
+124
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 ficios económicos que de otra manera les
 eran inaccesibles.
@@ -7201,11 +8120,15 @@ tes de las fluctuaciones y crisis de cada
 producto, de ahí el carácter profunda-
 mente cíclico de nuestra economía.
 
-antiago de Guaterr
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
+
+pp. 103-124
 
 ## Page 125
 
 _Extraction method: OCR._
+
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
@@ -7218,15 +8141,15 @@ Brown, R. (1977) Juan Fermín de Aycinena. Central American Colonial Entreprenur
 Burkholder, M. & Chandler, D.S. (1977). From Impotence to Authority. Columbia: University of
 Missouri Press.
 
-Cabezas, H. (1993) Etapas de la Organización Territorial y Administrativa. Historia General de
-Guatemala, Vol., lll, Guatemala: Fundación para la Cultura y Desarrollo.
+Cabezas, H. (1993) Etapas de la Organización Territorial y Administrativa. Historía General de
+Guatemala, Vol., III, Guatemala: Fundación para la Cultura y Desarrollo.
 
 De La Peña, J. F., & López, M. (1981) Comercio y poder- los mercaderes y el cabildo de Gua-
 temala 1592-1623. Historia Mexicana. México, 120, pp. 469-505.
 
 Floyd, T. S. (1980) Los Comerciantes Guatemaltecos, el gobierno y provincianos, 1750-1800,
 Jorge Lujan M, editor. Economía de Guatemala 1750-1940 Antología de Lecturas y Mate-
-riales. Tomo 1. Guatemala: Unión Tipográfica.
+rales. Tomo 1. Guatemala: Unión Tipográfica.
 
 Fuentes y Guzmán, F A. (1932-33) Recordación Florida discurso historial y demostración natu-
 ral, material, militar y política del Reino de Guatemala. Guatemala: Tipografía Nacional.
@@ -7236,16 +8159,16 @@ Academia de Geografía e Historia de Guatemala, LXXXIl, pp. 7-52.
 
 Johnston Aguilar, R. (2013b) Intercambio comercial marítimo del Reino de Guatemala por el
 Océano Pacífico. Anales de la Academia de Geografía e Historia de Guatemala, LXXX-
-VIll, pp. 279-212.
+VIIl, pp. 279-212.
 
 Kicsa, J. (1984) The Legal Community of Late Colonial México: Social Composition and Career
-
 Patterns. Five Centuries of Law and Politics in Central México, Publications in Anthro-
 pology 30. Nashville: Vanderbilt University Press.
 
-René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Gua
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII.
+pp. 103-124
 
-Y    125
+125
 
 ## Page 126
 
@@ -7253,8 +8176,10 @@ _Extraction method: OCR._
 
 126
 
+Revista ANALES 56, 2016, ISSN 0374-5546
 Luján Muñoz, J. (1980) Ensayo de Caracterización Básica del Desenvolvimiento Económico
 de Guatemala de 1750 a 1940. Economía de Guatemala 1750-1940, Antología de
+
 Lecturas y Materiales. Tomo 1. Guatemala: Unión Tipográfica.
 
 MacLachlan, C. (1974) Criminal Justice in Eighteenth Century México: A Study of the Tribunal
@@ -7262,10 +8187,10 @@ de la Acordada. Berkeley: University of California.
 
 Malagón, J. & Ots, J. (1965) Solórzano y la política indiana. México: Fondo de Cultura Económica.
 Ots, J.M. (1993) El Estado español en Indias. México: Fondo de Cultura Económica.
-Martínez Peláez, S. (1992) La Patría del Criollo. México: Editorial En Marcha.
+Martínez Peláez, S. (1992) La Patria del Criollo. México: Editorial En Marcha.
 
 Méndez Montenegro, J. C. (1976) Autos Acordados de la Real Audiencia de Guatemala, 1561-
-1807. Documentos Inéditos para la historia del Derecho Indiano criollo. México: Costa-Amic.
+1807. Documentos Inéditos para la historia del Derecho Indiano criollo. México: Costa-Amic,
 
 Palma Murga, G. (1986). Núcleos de Poder Local y Relaciones Familiares en Guatemala.
 Mesoamérica, No. 12. Antigua Guatemala, pp. 241-308.
@@ -7287,11 +8212,8 @@ Webre, S. (1982) Antecedentes económicos de los regidores de Santiago de Guatem
 glos XVI y XVII, una élite colonial. La sociedad colonial en Guatemala: estudios regiona-
 les y locales, pp.189-213. Antigua Guatemala: CIRMA.
 
-René Johnston Aguilar / El criollo: su participación en La administrac
-
+René Johnston Aguilar / El criollo: su participación en La administración de Santiago de Guatemala siglo XVIII
 pp. 103-124
-
-n de Santiago de Guatemal
 
 ## Page 127
 
@@ -7299,16 +8221,16 @@ _Extraction method: OCR._
 
 Revista ANALES 56, 2016, ISSN 0374-5546
 
-REFLEXIÓN SOBRE LOS APORTES
-DE 20 AÑOS DE ARQUEOLOGÍA PÚBLICA
-EN EL PARQUE ARQUEOLÓGICO CASA BLANCA
+REFLEXION SOBRE LOS APORTES
+DE 20 ANOS DE ARQUEOLOGÍA PUBLICA
+EN EL PARQUE ARQUEOLOGICO CASA BLANCA
 
 (1995-2015)
 
-Liuba Morán
+Liuba Moran
 
-Unidad de Investigación y Curaduria/Museo Nacional de Antropología Dr. David J. Guzmán
-Secretaría de Cultura de la Presidencia de la República
+Unidad de Investigacion y Curaduria/Museo Nacional de Antropologia Dr. David J. Guzman
+Secretaria de Cultura de la Presidencia de la Republica
 
 Imoran@cultura.gob.sv
 
@@ -7319,6 +8241,8 @@ Recibido: 9-04-2016; aceptado: 23-05-2016
 ## Page 128
 
 _Extraction method: OCR._
+
+128
 
 Revista ANALES 56, 2016, , ISSN 0374-5546
 
@@ -7342,6 +8266,8 @@ archeology to the population and make it part of it.
 
 Keywords
 Public Archaeology, Cultural Heritage, Archeological Park Casa Blanca.
+
+Liuba Morán / Reseña del desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
 
 ## Page 129
 
@@ -7385,8 +8311,6 @@ chuapa que se interesaron en apoyar las
 distintas iniciativas que surgieron en favor
 del desarrollo de dicho espacio.
 
-Liuba Morán / Reseña del desarrollo d
-
 Revista ANALES 56, 2016, ISSN 0374-5546
 
 La práctica de formación de recurso hu-
@@ -7413,7 +8337,7 @@ como colorante natural, lo que conllevó a
 generar oportunidades de desarrollo eco-
 nómico y cultural a los artesanos que se
 dedican a su producción y comercialización
-(ibid.), ya que esta acción permitió identifi-
+(ibíd.), ya que esta acción permitió identifi-
 car a la ciudad de Chalchuapa en un refe-
 rente de productos teñidos con el añil.
 
@@ -7427,7 +8351,7 @@ los años sesenta, cuando se tiene el primer
 registro en Japón de la participación de la
 comunidad en investigaciones arqueoló-
 
-gía pública en El Salvador. Des
+Liuba Morán / Reseña del desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
 
 129
 
@@ -7435,7 +8359,9 @@ gía pública en El Salvador. Des
 
 _Extraction method: OCR._
 
-Revista ANALES 56, 2016, , ISS
+130
+
+Revista ANALES 56, 2016, , ISSN 0374-5546
 
 gicas (Almansa, 2010). Se considera que
 es en el Reino Unido donde tuvo su origen
@@ -7476,8 +8402,6 @@ gos realizan, y mucho menos que estos
 “hallazgos arqueológicos” permitan gene-
 rar reflexiones, debates, talleres, charlas
 
-a arqueología pública en E
-
 que contribuyan directamente a fortalecer
 las identidades (locales y nacionales) de la
 población (Morán, 2017).
@@ -7517,6 +8441,8 @@ con la experiencia adquirida por sus coor-
 dinadores japoneses o salvadoreños que
 habían interactuado entre sí y que permi-
 tió fortalecer los conocimientos teóricos y
+
+Liuba Morán / Reseña del desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
 
 ## Page 131
 
@@ -7561,16 +8487,16 @@ trimonial, gestión del patrimonio, arqueo-
 logía preventiva y desarrollo regional, a
 través de talleres, charlas, investigaciones
 
-Liub:
+Liuba Morán / Res
 
-1/ Reseña de
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 de cátedra y de campo, incluso tesis a
 nivel de pregrado y posgrado, con el fin
 de transmitir a la sociedad salvadoreña la
 importancia de los aportes que las inves-
 tigaciones arqueológicas, antropológicas e
-históricas generan (ibid).
+históricas generan (ibid.).
 
 En 2008 se inició una etapa de trabajo
 multidisciplinario entre arqueólogos sal-
@@ -7593,7 +8519,7 @@ la modalidad de la educación no formal, la
 cual establece que “... esta (la educación
 no formal) es sistemática y tiene por objeto
 completar, actualizar, suplir conocimientos
-y formar; y no está sujeta al sistema de ni-
+y formar, y no está sujeta al sistema de ni-
 veles y grados de la educación formal que
 sí tiene por fin la obtención de grados y tí-
 tulos académicos” (ibíd.).
@@ -7604,6 +8530,8 @@ realizando el trabajo de campo, el análisis
 de los materiales, la entrega de informes y
 la socilización de los resultados de inves-
 
+Jel desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
+
 131
 
 ## Page 132
@@ -7611,6 +8539,8 @@ la socilización de los resultados de inves-
 _Extraction method: OCR._
 
 132
+
+Revista ANALES 56, 2016, , ISSN 0374-5546
 
 tigación a través de charlas y conferencias
 en la que los investigadores presentan y
@@ -7651,9 +8581,7 @@ Fundación Nacional de Arqueología de El
 Salvador, las distintas administraciones de
 la Alcaldía Municipal de Chalchuapa, los
 
-juba N
-
-arqueología públic
+Liuba Morán / Rese
 
 habitantes y pobladores de la ciudad de
 Chalchuapa y sus alrededores, quienes se
@@ -7693,6 +8621,8 @@ En la actualidad, es aplicada en muchos
 contextos dentro de Japón, como el cultu-
 ral y educativo; sin embargo, esta práctica
 ya no representaba “una innovación” para
+
+a del desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
 
 ## Page 133
 
@@ -7736,9 +8666,7 @@ tir que lo excavado y expuesto pueda ser
 apreciado y preservado para las presen-
 tes y futuras generaciones.
 
-Liub:
-
-1/ Reseña de
+Liuba Morán / Res
 
 PUBLICACIONES
 
@@ -7777,6 +8705,8 @@ por décadas durante el Siglo XX y desde
 espacios como museos, teatros, parques
 recreativos, entre otros.
 
+Jel desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
+
 133
 
 ## Page 134
@@ -7784,6 +8714,8 @@ recreativos, entre otros.
 _Extraction method: OCR._
 
 134
+
+Revista ANALES 56, 2016, , ISSN 0374-5546
 
 En esta formación tuvieron oportunidad ve-
 cinos del lugar y varios chalchuapanecos,
@@ -7824,9 +8756,7 @@ Otros de los aportes de los que se hace
 mención es el trabajo entre arqueólogos
 japoneses y salvadoreños haciendo ar-
 
-juba N
-
-arqueología públic
+Liuba Morán / Rese
 
 queología pública a través de talleres,
 charlas, festivales, publicaciones y otros.
@@ -7844,7 +8774,7 @@ y Karen Consuegra; en el año 2012-2013,
 Keisuke Hisasue con su contraparte na-
 cional Miriam Méndez, también con Karla
 Raquel López, Hugo Díaz y Katty García; y
-en 2014, Akira Ishikawa y Oscar Camacho,
+en 2014, Akira Ishikawa y Óscar Camacho,
 entre otros.
 
 Estas dinámicas de trabajo que fusionaron
@@ -7866,6 +8796,8 @@ talleres educativos para conocer sobre el
 patrimonio cultural arqueológico, el cual
 se continuó en los años 2012-2013 con
 Keisuke Hisasue; y en el año 2014, con
+
+a del desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
 
 ## Page 135
 
@@ -7906,9 +8838,9 @@ llando este enfoque a través de diversas
 acciones (charlas, talleres, publicaciones,
 gestión del preventiva del patrimonio) que
 
-Liub:
+Liuba Morán / Res
 
-1/ Reseña de
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 los investigadores pueden ir incluyendo
 dentro de sus proyectos de investigación,
@@ -7945,6 +8877,8 @@ rentes estrategias utilizadas y adaptadas a
 la realidad de cada investigación donde se
 aplique el enfoque de arqueología pública.
 
+Jel desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
+
 135
 
 ## Page 136
@@ -7953,56 +8887,56 @@ _Extraction method: OCR._
 
 136
 
+Revista ANALES 56, 2016, , ISSN 0374-5546
+
 REFERENCIAS BIBLIOGRÁFICAS
 
 Almansa, J. (2011) Arqueología para todos los públicos hacia una definición de la arqueología
 pública «a la española». ArqueoWeb, 13, 2011. Recuperado el 15 de abril de 2017 de
-http://pendientedemigracion.ucm.es/info/arqueoweb/pdf/1 3/almansa.pdf.
+http://pendientedemigracion.ucm.es/info/arqueoweb/pdf/1 3/almansa. pdf.
 
-Ayán Vila, X. M. et al. (2012) Más allá de la arqueología pública: arqueología, democracia y
+Ayan Vila, X. M. et al. (2012) Más allá de la arqueología pública: arqueología, democracia y
 comunidad en el yacimiento multivocal de A Lanzada (Sanxenxo, Pontevedra). Treballs
 d'Arqueologia, 2012, núm. 18.Recuperado el 15 de abril de 2017 de http://revistes.
-uab.cat/treballsarqueologia/article/viewFile/v1 8-ayan-gonzalez-rodriguez/ pdf-es.
+uab.cat/treballsarqueologia/article/viewFile/v18-ayan-gonzalez-rodriguez/ paf-es.
 
 Bello Suazo, G. & Murano, M. (2008) Folleto Serie identidades. Los Pipiles de El Salvador. JICA
 y CONCULTURA.
 
-Calbó Muntsa, et al. (2011) Visiones interdisciplinarias en educación del patrimonio: artes,
+Calbó Muntsa, ef al. (2011) Visiones interdisciplinarias en educación del patrimonio: artes,
 culturas, ambientes. Documenta Universitaria. España.
 
 Funes, R. (2014) Museo Nacional David J. Guzmán, 1992, El Salvador. Primera parte. Video
 sobre experiencias educativas. Recuperado el 14 de octubre de 2014 de https://www.
 youtube.com/watch?v=5tXwrCATkGc.
 
-Hisasue, K. (2012-2013) Informe final del taller “Arqueologia para nifios, avances relaciona-
-dos con las actividades desarrolladas como arqueologia publica, ciudad de Chalchua-
+Hisasue, K. (2012-2013) Informe final del taller “Arqueología para niños, avances relaciona-
+dos con las actividades desarrolladas como arqueología pública, ciudad de Chalchua-
 pa, Santa Ana”. SECULTURA. Inédito.
 
 Ikeda, M. & Morán, L. (2010) Informe final de “El proyecto de colaboración entre el museo del
 sitio arqueológico Casa Blanca y chalchuapanecos: taller de arqueología para niños”.
 Secretaría de Cultura de la Presidencia. Inédito.
 
-Morán, L. (2017) Artículo presentado para Memoria del VI Congreso Centroamericano de
+Morán, L. (2017) Artículo presentado para Memoria del VW Congreso Centroamericano de
 Arqueología de El Salvador. Informe final 2014 del Proyecto talleres educativos con
 enfoque en el patrimonio cultural, parque arqueológico Casa Blanca, municipio de
 Chalchuapa, departamento de Santa Ana. Secretaría de Cultura de la Presidencia.
 
-juba Morán / Reseña de    rrollo de la arqueología pública en El Salvador. Desde 1‘
+Liuba Morán / Reseña del desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135
 
 ## Page 137
 
 _Extraction method: OCR._
 
-‘evista ANALES 56, 2016, ISSN 0374-5546
+Revista ANALES 56, 2016, ISSN 0374-5546
 
 Murano M. 8 Valdivieso, F. (2007) Para hacer “Arqueología Pública”: Investigación sobre la
 utilización de los recursos arqueológicos en El Salvador y su perspectiva. // Congreso
 Centroamericano de Arqueología en El Salvador 2007. Museo Nacional de Antropolo-
 gía Dr. David J. Guzmán, El Salvador.
 
-ía pública en El S
-
-Liuba Morán / Reseña del desarrollo de la ar
+Liuba Morán / Reseña del desarrollo de la arqueología pública en El Salvador. Desde 1995 a 2015. pp. 125-135         137
 
 ## Page 138
 
@@ -8037,10 +8971,11 @@ Un resumen máximo de 150 palabras, cinco palabras clave, separadas por coma, am
 tanto en español como en inglés.
 
 Si incluye cuadros e imágenes, deberán ir en archivos aparte en formato EXCEL (sola-
+
 mente se aceptaran 5 imágenes, 5 tablas y 5 gráficas). Las imágenes deberán ser en
 formato JPG con resolución de 300 dpi.
 
-138        ANALES 56 - JUNIO - DICIEMBRE - 2016 / Museo Nacion:
+138      ANALES 56 - JUNIO - DICIEMBRE - 2016 / Museo Nacional de Antropología Dr. David J. Guzmán
 
 ## Page 139
 
@@ -8064,9 +8999,11 @@ Referencias bibliográficas
 
 Las referencias bibliográficas deberán de ir según las normas APA.
 
-http://www.uned.es/simposioconstruirfuturos/documentos/Normas%20APA. pdf
+http://www.uned.es/simposioconstruirfuturos/documentos/Normas%20APA.pdf
 
-ANALES 56 - JUNIO - DICIEMBRE - 2016 / Museo Nacional de Antrc
+ANALES 56 - JUNIO - DICIEMBRE - 2016 / Museo Nacional de Antropolog
+
+fa Dr. David J. Guzman
 
 139
 
@@ -8103,15 +9040,15 @@ denominado por los prehispánicos como “monstruo acuático”, que
 poseía cualidades del inframundo dentro de la cosmovisión
 nahua-pipil.
 
-Esperamos que este numero de la revista Anales, sea del agrado de
+Esperamos que este número de la revista Anales, sea del agrado de
 la comunidad académica, científica y del público general interesa-
 do en las temáticas desarrolladas en este ejemplar.
 
 SECRETARÍA DE CULTURA
 DE LA PRESIDENCIA
 
-ELSALVADOR ISSN 0374-5546      latindex
+EL SALVADOR        ISSN 0374-5546        latindex
 
-A A On                       Ne de folio: 3717
-EE
+UNÁMONOS PARA CRECER                           No de folio: 3717
+AAA                                     ,
 <!-- ocr:end -->
