@@ -16,9 +16,8 @@
   open-access archaeology, ethnohistory, language, and oral-history sources
   recovered before retiring the old discovery layer, plus five blocked leads.
 
-Each collection has machine-readable provenance in the repository's `_data/`
-directory or, for local intake data, under ignored `tmp/data/`, with original
-URL, local path, byte size, and SHA-256 checksum.
+Each collection may have a local machine-readable manifest under ignored
+`tmp/data/`, with original URL, local path, byte size, and SHA-256 checksum.
 
 The original 127 locally archived PDFs have a [page-addressable searchable
 Markdown mirror](Views/Papers.base). The 34 newly reconciled sources are archived
