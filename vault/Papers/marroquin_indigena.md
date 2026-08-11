@@ -15,13 +15,13 @@ source_url: "https://fundar.org.sv/referencias/marroquin_indigena.pdf"
 source_sha256: "6632d0402097c43359ef8f7d034fb267d438934c5ffed0575cb1d9f6fb204de1"
 pages: 14
 extraction_status: "complete"
-embedded_pages: 14
-ocr_pages: 0
+embedded_pages: 0
+ocr_pages: 14
 unrecognized_pages: 0
-ocr_mode: "auto"
+ocr_mode: "always"
 ocr_language: "spa+eng"
-ocr_dpi: 250
-generated: 2026-08-10
+ocr_dpi: 400
+generated: 2026-08-11
 review_status: "unreviewed"
 ---
 
@@ -29,1434 +29,1292 @@ review_status: "unreviewed"
 
 ## Notes
 
+- A local searchable PDF derivative was regenerated with forced Spanish/English OCR at 400 DPI on 2026-08-11; the canonical PDF attachment and original-source link remain in the metadata and provenance.
+- Reading order follows the article's printed pages 747-771; the two-page PDF spreads are split into their left and right pages.
+
 <!-- ocr:start -->
 ## Provenance
 
 - Source PDF: [marroquin_indigena.pdf](<../Attachments/PDFs/fundar/marroquin_indigena.pdf>)
 - Original URL: https://fundar.org.sv/referencias/marroquin_indigena.pdf
 - Source SHA-256: `6632d0402097c43359ef8f7d034fb267d438934c5ffed0575cb1d9f6fb204de1`
-- Extraction: 14 embedded-text pages; 0 OCR pages; 0 pages with no detected text
+- Reading order: printed pages 747-771, split from the two-page PDF spreads and arranged in printed order.
+- Scope: the cover, contents, and printed page 746 from the preceding article are omitted.
+- Extraction: 25 printed pages OCRed in Spanish and English at 400 DPI.
 - Caution: This is machine-extracted text. Consult the PDF for layout, images, tables, spelling, and exact quotation.
 
 ## Extracted text
 
-## Page 1
+## Page 747
 
-_Extraction method: embedded text._
+_Extraction method: OCR from PDF page 2, right half._
 
-INSTITUTO
+FUNDACIÓN NACIONAL DE
+ARQUEOLOGÍA DE EL SALVADOR
 
-INDIGENISTA
-
-INTERAMERICANO
-Niños Héroes. 139
-M6xico 7, D. F.
-
-Ieléfono 5-78-61-Ol
-
-Mé/ico, Pr¿ridsnr6, Go1zoto Aguifte Bettún. Esi.dos Unidos, Jo¡nes E. Otficer.
-(Delesodo Alferno: Eñ(tgue G. León López.l (D€l69od03 Atternos, Dave Vlo en y Trusterl
-tl Sollodor: Mo!r¡c¡o Vides Cevollos.
-F. C¡¡gte¡.)
-Argenriro: tro¡clsco iVúno Mo/tno Solos
-Guotsmoo: Ilonuel Vi/loco¡ro V.
-fic i!r.,
-Ct:tc¡d Rtveto
-Ho¡dlros, t)ro H. Cótcono T.
-^ñb¡o3lo
-Iros]L: Loulo
-t,co¡ei od'9!es C¿ ito,oel
-Nicoroguo, €rnesro Novd¡.o R¡c¡o¡d3on.
-{D6lesodo Alrerno, Jooo rLu¡o- au Oti.t-.t
-
-Cosro Rico: tlo¡fo Éleñd O. de ¡é¡ón.
-aht)e, Jú)jo D )'. ra \t pút:rdo.
-L.Jadart lo.ó Rco¡da Mo inez C.
-
-r¡_sTr f Lr1()
-
-\or \\\\,
-
-CONSEJO DIRECTIVO.
-
-Coloi,bio, Al,o¡o Uribe ¡iúedo.
-
-AME,RICA INDIGENA
-()c r'Lrl]r{t DIctENfER¡, 197')
-
-Nr) .]
-
-^,tÉxrco,
-
-SUMARIO
-
-Ven€zuelol r.oicisco Hareto Luque.
-
-EDITORIAL
-
-Erasil, Presidsnt€i tou¡o Escoré/ fod¡¡goos de Mó¡ico, Corzoio Asúiro Aatuón.
-Mordes.
-(Detegocto Ati€rno, tr¡¡qle c. teón López.J
-(Delegodo A r6.no: Jooo Tobo¡ora de Otjye,¡o.J porosuoy: Huso
-Couchor¡oJ.
-lsi.dos Unldos¡ loñes E. Oiljcet.
-petú. fet¡p6 de Búsromon,e De¡eg¡,.
-(Deegddos Alrernosl Ddve Wor¡en y f,usteñ
-lDot€godo Atternoj Roút p,nto itvotez.)
-
-F. C¡iste¡.1
-
-CLTNZALo Rl,Blo ORBE
-
-Jefe de Invesi¡gociones Anlropológicos, Alejondro D- Morroquin.
-
-C r-onr^ ElrNA IIIRNÁNDlz CIr.
-
-Pubijoclón trimostrol poro fomonlor el inler
-
-..mbio d6 lnrorñocion€s ocerco de lo vido iñdi93ño odlo t do o po irico y progromos quo
-ie e:rón clesarollondo en su fovor. El ANUAILO INDIGENISTA qlo oparecs én 6l més de
-.licieBbr€, es slp emenro C6 Lo R€vislo, y €n él
-:e pLrblicon nolicios € inlomes sobr6 los p.o'
-y,..s de do orrolo de .or 1 lod6\ i.di9e1o.
-
-Inlornre sobre la F¡in]cra ei¡fa d.
-
-las excavecioncs cn Lis ¡uin,rs
-dc ciihuaián
-
-P.roorrnrr Acnc r';r I dc 1a:rqucolo_
-
-PAYSoN D. SH!rr's
-
-Ii¡ modelo de tecnologia ¡rcso¡Irc
-
-qi.r cn |l
-
-Srlra(lol. ....
-
-699
-
-7l)
-
-ric¡na de lx oL.sidiana bssada en
-dcscchos dc un lallel Preclásico
-cn El salvador
-"
-
-,
-
-AA.{ERICA
-
-685
-
-LLrrs CAs^sor A
-
-Secretorio o. i. Sergio Delgodo.
-
-NOTA. Ho sido nombrqdo con corócter t"t.;;;4";;";";;
-de este Institulo, el Sr. Anlropólogo Sergio Delgoclo J.
-
-E1 S.rilador Indígcna
-SECCIÓN ARQI'EOLOGIA
-
-D¡rector, Gonzo/o Rubio Orbe.
-
-!e.isro lniero.,ericono (1940), ti€n6 5u bos€
-eldL en lro Convencióñ y 6ró linonciodo me
-di.,nrs cuoros d€ los Gobiernos rotificonles. El
-rr iLro i.,- cof'bio :1'or-es sobre lo !ido indiqe.o y ñiérodos poro í'eioro¡ sus condic;ones y coor.liro erldio3 relocionodos .on ro
-soución de problemos iidfgenos, q!e coñlri'
-buycn o !n ñrelor conoci.alenlo d€ lo vido d€
-
-lNf IIR^ltlllRll \Nr)
-
-ponomó, É¡r,/¡a Arosomeno Vol/orjno,
-Poroguoy¡ H!9o Couc¡onnol.
-PerÚ: felipé de 8u3rdñóñ'e Denegri.
-{Defegodo Alterno: RoJt P)nto A)votez.l
-
-COM¡TE EJECUTIVO.
-
-EL INSTITUTO INDIGENISTA INIERAAAERICA,
-rlO, €5robecido por el P,imer Cong'e50 Indi-
-
-lNDllill,\lsl^
-
-THE INTTR-A,AAERICAN INDIAN INSÍ¡TUTE,
-
-esroblished by ihs firrs Inrer-Amo¡icon tndjon
-Con9.éss (lt40l, hos ns r€9oJ bosis in a fnr€.
-nolionol Conv€ntion ond k supporr6d by quoros
-from rotilying governl'n6nrs.
-
-,\NTROPoL()Cf A SOCIA],
-
-tt serves as o ctoorin9 house lor inlormorion on tndions ond on
-' -l'ods ot oro,iro hc , socior oñd sLolcnic
-'
-
-At.r.lar-ono D. MARF.oQIr iN
-
-srudi6s oppicobe to rhe soruIon on tndion
-p,óbreris or coñ,riburing ro berte¡ knowreog€
-
-(.o¡¡1,¡¡t6- Cr-AR.( or GLI 'AR\
-
-condlrio¡3, ond iririores, direds ond coo.urnor€r
-
-RoL.\NDo M^RRoerri,-, (ct ¡11)
-
-INDIGENA
-
-Iil ¡ro1'1cma indígena en El Salr ¡rlor ...
-l l rnLl dt ',s rndios chtlt''
-
-14 /-
-
-113
-
-In\cstigación sobrc aciiirrdes hacia
-
-l¡ llanific¡ción famili.rr v 1a
-
-cducxcióo sexusl, cn una mucltrx clc 200 nr^d¡es d( Tccoluca r9l
-
-ls o q!orr€rly p!blicorion designed ro lorer
-rhé ¡nrerchonge of irlormoiion on thé [Í€ ol
-Indions lodov ond tho policies ond prosrorN
-fJelig de,elo¡ed on ihe I beh! L Ihe tltD AN
-IST YEARBOOK rhot oppeors in Dsc€mber, rs
-o supplemeni of rhis mogozine conroining n€ws
-ond repo¡ts ol p.oiecis ol l¡dion coñnrunity
-developrenl in th€ Am6ricos.
-
-721
-
-s¡:cck1N I.rNCiils-r rcA
-L\ r I RrcrlARD (lAMPBIir r.
-
-La dialcctolo¡íe Pipil
-
-...
-
-## Page 2
-
-_Extraction method: embedded text._
-
-América I ntli ,4c'n,r
-
-/9U
+FUNDAR
+El problema indígena en El Salvador
 
 Antropología social
 
-SHEETS. P. D. y G. R. MuTo
+por Alejandro D. Marroquín
 
-1972
+INTRODUCCIÓN
 
-P¡essurc Bl,rdrs :rod Toi-tl Crttr;:¡: lilL:,: .rrr tix¡,:riment il Lirhic
-'fechnology', S.)tt|¿¿. VoI L/t, I't,. ()jl ()i ¡.
+Como sucede en todos los paises de America Latina, cl problema
+indigena salvadoreño presenta características singulares y caracterís-
+ticas semejantes a los de otras naciones. Podríamos decir que en el
+caso de El Salvador las características singulares predominan, dada la
+compleja estructura de sus organizaciones sociales. En los países her-
+manos, se parte de la existencia material del indio dentro de la espesa
+constelación de sus costumbres, Instituciones tradicionales e ideolo-
+gias peculiares que se desenvuelve con los condicionamientos ya cono-
+cidos de misería, hambre, insalubridad, injusticia social etc.; pero
+en El Salvador el primer problema consiste en localizar al indio
+y precisar sus características proptas, en un ambiente de tácita o ex-
+presa negación de su existencia,
 
-$IILMSEN, E.
+En el marco socio-geográfico de Centro América, El Salvador se
+distingue de sus vecinos istmicos, por las siguientes notas diferenciales:
 
-1t6¡l "Lithic Analysis in Paleoenthropcrlogy
+la. Es el país más pequeño de America Central y seguramente
+del resto de América; aunque sus límites no están bien definidos, se
+calcula una extensión no mayor de 22,000 kilómetros cuadrados. Esta
+pequeñez territorial origina condiciones que problematizan la rea-
+lidad salvadoreña: superpoblación, presión demográfica sobre el suelo,
+fact] centralización del poder político, mejores condiciones de comu-
 
-(
+ALEJANDRO D. MARROQUIN, Jefe del Departamento de Investigaciones Án-
 
-El problema indígerra en E[ Salvador
+tropológicas del Instituto Indigenista Interamericano y profesor de la Escuela
+Nacional de Antropología e Historia de México.
 
-n ,\¡ /¿rr¡ r, \¡ol. 161, pp.
+América Indizgena.—Vol. XXXV, no. 4, actubre-diciembre, 1975.
 
-9s2-9 8 7.
+## Page 748
 
-por Alejandro f). Marroquin
-.t¿i¡1.rf..lti )
+_Extraction method: OCR from PDF page 3, left half._
 
-The ar¡itle l)rere tt ¿ ttodel lor tltt litltit techto/o¡1 tr tl,' lltqhlanl: of
-the Sol!theitet, I'ta1d tctritotl, ltrirg tl.t tatl¡ l'rulatr)c l'.t),al |/,. r//t/Jat 1¿
-cogn;zes lhdt iJ thit initial rtodel lat l¡¡l'¡¡ ¡t¡¿tti¿/s
+748                                              América Indigona
 
-Jnu t/,, l\t,l'r.t'), n¡ to
+nicación interna, complejo de inferioridad que se traduce en ultra-
+nacionalismo, etc.
 
-r/:e Chalchnapa Parltl,lt.tjc uere tottfrr'Drtrl r jtL ¡nart eriJtrtt. tttt¿1|t.1\lc.tl
-ol it uortld rcr¡uite Jrrt/:cr elaborttit'¡¡.'l /¡, ¿t¡t¡l¿ ¡tlto rtftr.¡ ¡t t/,t ¡ttt/ization af
-n¡oclels in tl¡c ltrote.t.t af rcr!1rtL.
+2a, Como consecuencia de lo anterior, cs el país más poblado de
+Centro América * con un índice de densidad demográfica de 180 ha-
+bitantes por kilómetro cuadrado, en tanto que los demas países de
+Centroamérica presentan los siguientes índices: *
 
-INTRODT]CCION
+Guatemala                                  AS
+Honduras                 23
+Nicaragua                15
+Costa Rica              3 1
+Panamá                   19
 
-Co¡ro sriccdc cn todos los países de América Latina, cl problema
-inrliuena salvadoreño prescnta caractcristici¡s singulirrcs y cafacterísticai scme,antcs ¿ los dc otras naciones. Podríanros <lccir quc en cl
-caso de El Salvador las caracrerísticas singulafes p¡edominan, dad:r la
-compleja cstructura de sus orgirnizaciones socialcs. En los países hermanos) se parte de la cxistenci¿1 rJl¿rtcri¿l del indio dcntro de la espesa
-constelación de sus costumbres. instituciones tradicionales c ideologías peculiares que se desenvuelve con los condicionamientos ya conocitlos cle mise¡ia, hambre, insalubridad, injusticia social ctc.; pero
-cn El Salvaclor el primer problema consiste en localizar al indio
-I precisar sus características propias, en un ambiente dc tácita o expresa negación cle su cxistencia
-En cl marco socio-geo¡¡ráfico cle Centro América, El S¿lvador se
-distingue de sus vecinos ístmicos, por las si.guientes notas diferenciales:
-la. Es el país más pequeño de Anc;¡ica Cent¡al y seguramente
-ric'l resro dc América; aunquc sus límites no están bien definidos, sc
-calcula una extensión no mayor dc 22,000 kilómetros cuadrados. Esta
+3a. Elevada presión demográfica. La concentración de la propie-
+dad de la tierra en pocas manos, la creciente proporción de campesinos
+sin tierra y la no existencia de terrenos baldíos dan al problema agra-
+no salvadoreño tonalidades dramáticas y como consecuencia el flujo
+migratorio hacia los países vecinos se intensifica año con «ño.
 
-lrcclucrlez territorial origina condiciones quc problem^trzan la rea.lirhd s¡h'arlo¡cña: superpoblación, presión dcmográfica sol¡re el suelo,
-lricil centralizacirin dcl podcr poiitico, nrejores condiciones dc comuAr-r.lANDRo D. MARRoQUIN. Jcfe rlel Degartamcnto dc Invcstigaciones Ao
-ir.'¡rrlririrls dcl Instituto Indigenista Interamcricano y profcsor de la Escuela
-N:rr i¡¡nrl ,1c Antronolo¡.:íe e Hisrori¿ Jc- trléxico.
+4a. El Salvador es el pais más mestizo de Centro América y uno
+de los más mestizados del Continente. La comparación con cl resto de
+Centro América es la siguiente: *
 
-.\nrriri¡r l¡dírena.-\'ol. \XX\', no. l. o(tühr€-diciemb¡e, 1975-
+Guatemala          36%
+Honduras                             50%
+Nicaragua                          753%
+Costa Rica                    ASS
+El Salvador                     85%
 
-## Page 3
+El mestizaje salvadoreño tiene un largo proceso de desarrollo; ya
+en 1807, es decir, poco antes de declararse la independencia, la pobla-
+ción mestiza era la mayoritaria.*
 
-_Extraction method: embedded text._
+da. En Centro América, El Salvador es el único país que no tiene
+costa al océano Atlántico. Esta circunstancia ha tenido un fuerte im-
+pacto histórico. Durante la Colonia El Salvador mantuvo importantes
+relaciones económicas y sociales en general, con países como México,
+Perú y Chile, más que con la metrópoli. Durante la vida indepen-
+diente, en el siglo xIx, El Salvador recibió del México porfiriano
 
-Anir)c,r I ul r¡¡r. tt,r
+1 Pereyra, Carlos, 1942, pag, 10.
 
-El probltrna indigctt'r cn [.] Stbador
+2 Naciones Unidas, 1972, págs. 64-65.
+3 Marroquín, 1969,
 
-nicación interna, c<xnplejo de inferioricl¿d (luc s(. u¿duce en ult¡anacionalismo, ctc.
-2a. Como consecuc-ncia dc lo antcrior', cs cl ¡'iris rnís poblado de
-Cen¡¡o Améric¿ 1 con un indice de dcnsidarl .le rnogri'rficrr dc 180 habitantes por kilómetro cuadrado, en tanr() <1rrt. tos tlcmii5 países de
-Ccntro¡mérit.r frcsentan los siguicnrcs indi.('s:
+4 Marroquín, 1964, pág. 28.
 
-influencia p¡edominantcmente politica y de Chile influencia cn el
-aspecto aducativo y en el militar (El ejército fuc organizado por nrilitares chilenos, sob¡c las bascs del prusiano).
-6a. Agudos procesos migratorios ya alutlilkrs antcriormentc.
-7a. Suclo que estimula la vocación agrícola del pueblo salvado¡eño. Su población rural ticne cl siguicnte ¡orcentaje; 699ó sobre
-la población rotal y sc ocupa de cultivos ¡an importantes como caf¿,,
+## Page 749
+
+_Extraction method: OCR from PDF page 3, right half._
+
+El problema indígena en El Salvador        749
+
+influencia predominantemente politica y de Chile influencia en el
+aspecto aducativo y en el militar (El ejército fue organizado por mili-
+tares chilenos, sobre las bascs del prusiano).
+
+Ga. Agudos procesos migratorios ya aludidos anteriormente.
+
+7a. Suclo que estimula la vocación agricola del pueblo salvado-
+reno. Su población rural tiene el siguiente porcentaje; 69% sobre
+la población total y se ocupa de cultivos tan importantes como café,
 arroz, algodón, caña de azúcar, cuyos altos rendimientos han batido
-recojds mundiales de producción.
-8a. Es el ¡nás desa¡rollado de Centro Anérica; su participación
-en el mercomún centtoame¡ic¿no fue ]¿ más intcnsa.
-9a. Ha tcnido los n.tás agudos conflictos sociales, como el lcv¿ntamiento campesino de 1932 en quc sc implantaron sovicts por primerr
-vcz en Amórica y se llevó acabo una matanza de cam¡rsinos de más
-de 25 000 hombres dcl campo (cn su mayoria indígenas).
-10a. Carencia de partidos policicos tradicionales. Los partidos li
-beml y conservador surgidos en los procesos de la independencia, han
-sido en algunos países centroamericanos fuente de división y de retraso poiítico. En El S¿lvador, despuis dc los partidos personalistas
-de vida efímera, 1a ausencia de partidos tradicionales ha Iacilitado la
-constitución dc partidos políticos cor.r procÍamas e idmlogías definidos.
-Con las anteriores prcmisas y dcntro del marco de un sistema
-capitalista depcndiente, con fuertes rcmanentes feud¿ies en el campo,
-con una lucha social por la existencia ext¡emadamente aguda y serios
-conflictos socialcs, se d¿-sar¡ollr sl ptoblcma indígena salvado¡eño.
+records mundiales de producción.
 
-748
+8a. Es el más desarrollado de Centro América; su participación
+en el mercomún centroamericano fue la más intensa,
 
-Guatemala
-Honduras
-Nicaragua
-Cost¿ Rica
-Panamá
+9a. Ha tenido los más agudos conflictos sociales, como el levanta-
+miento campesino de 1932 en que se implantaron sovicts por primera
+vez en América y se llevó acabo una matanza de campesinos de más
+de 25 000 hombres del campo (en su mayoría indígenas).
 
-IS
+10a. Carencia de partidos políticos tradicionales. Los partidos li-
+beral y conservador surgidos en los procesos de la independencia, han
+sido en algunos países centroamericanos fuente de división y de re-
+traso político. En El Salvador, despucs de los partidos personalistas
+de vida efímera, la ausencia de partidos tradicionales ha facilitado la
+constitución de partidos políticos con programas e ideologías definidos.
 
-J.)
+Con las anteriores premisas y dentro del marco de un sistema
+capitalista dependiente, con fuertes remanentes feudales en el campo,
+con una lucha social por la existencia extremadamente aguda y serios
+conflictos sociales, se desarrolla el problema indígena salvadoreño.
 
-t5
-11
+DIFICULTADES PARA LA DETERMINACIÓN
+DE LO INDÍGENA EN EL SALVADOR
 
-t()
-
-3a. Elevada presión demográfica. L¡ conccntrl< irin tlc i.L propredad de la tierr¿ cn pocas manos, la crecientc proporcirirr ,1. <.rrnpcsin,rs
-
-sin tierra y la no existcncia dc tcffcnos beldíos dan ;rl pr.obl¡¡]¿ 3g¡i¡¡io salvadoreño tonalidrdcs cl¡amáticas y como consecucucia cl fiujo
-migrator.io hacia los países vccinos se intcnsifica año (or ,r¡o.
-4a. El Salvador es ei pais rnás mcstizo dc Cent¡o Amirica y uno
-de los más mesrizados del Continentc. La comparación con cl rcsto de
-Cent¡o América es la siquiente: t
-Guatcmala
-Hondu¡as
-Nicaragua
-Costa Ric¿
-El Srlvador
-
-36%
-5oo/o
-
-15 9/o
-
-,Is%,
-
-85ti
-
-El mcstizajc salvadorcñr> ticnc ¡.rn larro ¡rroccso de clesarollo; 1'a
-cn 1807, cs decir, poco lntcs dc decla¡a¡se la inclepcndenci;r, la población nesciza era la mayoriraria.'
-5a. En Centro América. El Salvador es el írnic'¡ oais que no rienc
-costa al oc.iano Arlán¡ict.,. tst.r circ,rnsrrn. ia h¡ rcnido un fucrrc impacto histórico. Durantc la Colo¡ia El S¿lvador nantuvD inportantcs
-relaciones económicas y striales en ceneral, con paises como México,
-Perú y Chile, más que con la metrirpoli. Du¡¿rntc la vicla indcpendicnte, en el s;glo xrx, El Salvado¡ ¡ecibió dcl Méxir-o porfiriano
-
-r Pcrcyra, Carlos, 19.12, ¡ág. 10.
-
-2 Naciones Uni,las, 1972, págs. 64 65.
-
-ii Marroquio, 1969.
-
-a MarroqLrío, 1964, ¡ág. 25.
-
-749
-
-DITICULTADES PAIIA LA DETERV I NACIóN
-DE LO INDíCF:NA EN EL SALVADOR
-
-Los rasgos que constiruyen y defincn al inclio y a lo indio cn El
-Salvador se prcsen¡¿in fluidos y poco claros para la nayoría de los
-salvadoreños quc todavíi1 se preguntan si existe un problema indiéicnr y que, en todo caso, se contestrn que los indios son tan pocos
-y csrán lo suficientencnte intcgraclos a la vida nacional que no vale
+Los rasgos que constituyen y definen al indio y a lo indio en El
+Salvador se presentan fluidos y poco claros para la mayoría de los
+salvadoreños que todavía se preguntan si existe un problema indí-
+gena y que, en todo caso, se contestan que los indios son tan pocos
+y están lo suficientemente integrados a la vida nacional que no vale
 la pena hablar de problema indígena.
-Los factores que dificultan h comprensión del problema son los
-siuuic¡¡tes:
 
-1o. Il abunclante me stizaje h¡rce familiar la imagen del mestizo
-r,,n fr¡crtcs ras.gos ótnicos inclígenas, pcro quc social y culturalmente
-vivr tlcntro rls l¡ i(lcr)lr¡rrí¿ occidcntal; c¡rc incluso prrede scr drrcño
+Los factores que dificultan la comprensión del problema son los
+SIguIcntes:
 
-## Page 4
+lo. El abundante mestizaje hace familiar la imagen del mestizo
+con fuertes rasgos étnicos indígenas, pero que social y culturalmente
+vive dentro de la ideología occidental; que incluso puede ser dueño
 
-_Extraction method: embedded text._
+## Page 750
 
-15(\
+_Extraction method: OCR from PDF page 4, left half._
 
-de una finca dc cafó u ostentar r¡lr rí¡L¡lr¡ univcrsit¿rio, y a quien
-nadie considera indio salvo cuando sc rr¿rl (l(. l)roblemas ractstas,
+750                                               América Indigena
 
+de una finca de café u ostentar un título universitario, y a quien
+nadie considera indio salvo cuando se trata de problemas racistas,
 relativamente poco frecuentes.
 
-2o. la integración espontánea rlc nriilurcs tlc intlí{¡cnas a la vida
-nacional. Cuando a frnes del sigLr ¡r.rs.r.|rr.l .q''l'icrrr,, t.miriú un clecreto liquidando las comunidadcs intli{.¡cnírs 1' Irs cjidos, se rompio
-Ia columna ve¡tcbr¿l de ias ct¡m Lrni<1,¡rlcs y tst,rs sc clisolvieron al
-faltarles su base constitutiva: su ricrr¡.,,,,,1,n,'1. lur.l.rulcnro de sus
-organizaciones y de su modo pculiar clc procluccirin. Los indígenas,
-faltos de un apoyo cohesivo y solicitrio dcjaron clc scr homb¡cs libres
-que decidían cuando y cómo rrabajar cn las hacicnd¿s y fincas y sc
-convi¡tieron en peones, ve¡dadcros siervos de lt glcba, cxplotados y
-vilipendiados. Su integración al sistc¡r¿r socio-ccontinrico de l¿ socredad,'como señala un antropólogo f¡ancós, más clue integrrci<in fue un
+20. La integración espontánea de millares «de indígenas a la vida
+nacional. Cuando a fines del siglo pasado cl gobierno emitió un de-
+creto liquidando las comunidades indigenas y los ejidos, se rompió
+la columna vertebral de las comunidades y estas se disolvieron al
+faltarles su base constitutiva: su tierra comunal, fundamento de sus
+organizaciones y de su modo peculiar de producción. Los indígenas,
+faltos de un apoyo cohesivo y solidario dejaron de ser hombres libres
+que decidían cuando y cómo trabajar cn las haciendas y fincas y se
+convirtieron en peones, verdaderos siervos de la gleba, explotados y
+vilipendiados. Su integración al sistema socio-económico de la socie-
+dad; como señala un antropólogo francés, más que integración fue un
 proceso de privación.
-3o. La decadcncia de las lenguas vernáculas contribuye rambi¿n
-a la confusión. Por un proceso todavía no estudiado, a fines dcl siglo xvrtl el español sc convirtió en la lengua mayoritaria; los indios,
-en un alto porcentaje, se hiciero¡ bilingües y muchos olvidaron sus
-lenguas nativas.u
-4o. El menosprecio de la población no india hacia los indígenas.
-Gran cantidad dc personas que perrcnecen al sector blanco de la población e incluso muchos mestizos, consicleran el color blanco de la
-piel como una señal de prestigio y de superiodidad. Al indio se le disc¡imina y se piensa quc está casi al nivel de los animales irracionales.
-Para defenderse de l¿ discriminacicin el indígena clisimula su identidad,
-se mimetiza y trata clc pareccr mcstizo. Sin l¿ comunidad que lo
-apoyaba, disperso bajo la presitin distorsionadora dcl sistema dominante, no tenía otra solución que ocultar su idcntidad india.
-5o. La interrupcirin de los datos cstadísticos de tipo étnico; e parrir
-de l930 desapareccn de los censos y bolctines cstadísticos las carcsorías étnicas; en el Registro Civil donde sc clasificaba a los reciún n¿cidos como ladinos o indios, ya no existe esta distinción. El antrop<ilogo sc vé entonces obligado ¿ levantar sus p¡opias estadísticas.
-6o. la ideología y ia política: los conflictos violentos que tuvicron lugar en enero de I9i2, fueron acompañados por profundas manifestaciones ideoiógicas de tendencia izquierdista. La lucha en defensx
-del orden imperante se saturó de consignas anticomunisras que inci* el problema indígena: indio y comunismo llegaron a ser
 
-i-t1T
+30. La decadencia de las lenguas vernáculas contribuye también
+a la confusión. Por un proceso todavía no estudiado, a fines del si-
+glo xvut el español se convirtió en la lengua mayoritaria; los indios,
+en un alto porcentaje, se hicieron bilingiies y muchos olvidaron sus
+lenguas nativas.”
 
-5 Cortés v Larriz- 1921.
+40. El menosprecio de la población no india hacia los indígenas,
+Gran cantidad de personas que pertenecen al sector blanco de la po-
+blación e incluso muchos mestizos, consideran el color blanco de la
+piel como una señal de prestigio y de superiodidad. Al indio se le dis-
+crimina y se piensa que está casi al nivel de los animales irracionales.
+Para defenderse de la discriminación el indígena disimula su identidad,
+se mimetiza y trata de parecer mestizo. Sin la comunidad que lo
+apoyaba, disperso bajo la presión distorsionadora del sistema dominan-
+te, no tenía otra solución que ocultar su identidad india.
 
-El problena indlgent cn El Srtbulor
+5o. La interrupción de Jos datos estadísticos de tipo étnico; a partit
+de 1930 desaparecen de los censos y boletines estadísticos las catego-
+rías étnicas; en el Registro Civil donde se clasificaba a los recién na-
+cidos como ladinos o indios, ya no existe esta distinción. El antropó-
+logo se vé entonces obligado a levantar sus propias estadísticas.
 
-Anlrict luii gur,t
+Go, La ideología y la política: los conflictos violentos que tuvie-
+ron lugar en enero de 1932, fueron acompañados por profundas ma-
+nifestaciones ideológicas de tendencia izquierdista. La lucha en defensa
+del orden imperante se saturó de consignas anticomunistas que inci-
+dieron en el problema indígena: indio y comunismo llegaron a ser
 
-75r
+5 Cortés y Larráz, 1921.
 
-Lrna sola cosa. Por cso hablar de mejoras a l¿s condiciones de vida
+## Page 751
 
-indicena v de llevrr lr cxbu una politica .'lc I'romocirin indigenisrr'
-"uir,o
-.on profunda dcsconfianza sino con hostilidad' Actualmente'
-"r" años más iarde, esa cerrada actitud política cnrpicza a desaparecer
-'i3
-y y¿ se habla con libertad dcl indio y ius problcmas,.aún cuando la
-i"Áden.iu indigenista se proyccte cn un sentido erqueológico principaln-rente.
+_Extraction method: OCR from PDF page 4, right half._
 
--lo. El carácter equívoco del término "indio"' la historia de la
-llecada de Los espairoles i nucstro Con¡incn¡c su initi¿ tonlo une mcdiri¡e comedia Je equivocacioncs: lcr. error, Colón al tropezar con
-tierra ame¡icana cre; haber llegado a la India; 2o' error, .si tstas
-tierras eran la India, sus habitantes tenían que ser por necesrdad, rndros, 3cr. erot, por el hecho de se¡ indios todos los habitantes del
-Nuevo Mundo te^nían que ser iguales; quien había visto a un indio'
-los había visto a todos; el indio, así, se convierte cn categoría étnica;
-v oar¿ colmo. el 4o error, el Contincntc descubicrto por Colón no
-i",ii" non,br" pt,rpio; un ge,lgrafo italiano, Amórico Vespucio lo bautiza con su propio nombrc sirt tener méritos suficientes para tal honor
-u .ontininti se llamír América. Así surgió cI término indio ca"l cle toda base cicntífica de carácter taxonómico'
-rente
-Tomando en cuenta el senticlo equívoco del término indio' alguantropolónos antropólogos han propuesto su eli¡ninación clel léxico
-"campesino";
-no ha
-remedio
-el
-o;.n u tr't*i oción por la palabra
-amtiene
-una
-i"ruládo tan adecuado pues cl término no campesino
-a
-la
-idea
-Dlitud v una connotacrón que no corresponden exactamente
-qo. .o.tti"n" el vocablo indio.
-En realidad, las expiesioncs indio o indígena tienen .un significado peculiar qu. se dcpura y dcsarrolla en el proceso histótico; como
-hu r"iiul"do Bánfit6 eI ton..p.o del indio, se consolida con el choque
-,ungri"nro de la conquista; de ese chotloe surgieron -dos sectores bien
-Jefinidos qr,e.lora.tte siglos van a se¡ los polos del proce'so histórico amcricano: por un lado los venceclores, los que conqltistlron
-u ,oiorsn.on, qr,c se.lenomin¿n blancos o españoles; y por el otro
-i.,J.'"i"¡" los uen.;dot. Ios dcspoie'los. los humi.lhdos hasra cl ludibrio, los cualcs se denoninan iniios. En estc sentido, el término indio
-las calacterís," ,ornu unu categoria social y no ¿tnica, puesto que pretendc
-defi.ob." ia base de lai cuales se
-;i;;;t¿t
-"ti"rno,
-nir al indio no ¡csistcn ei juicio analítico respectivo, tcda vez quc
-los rasgos f ísico-biológicos de los indios difie¡en de un gruPo a otro'
-rt lbnfil, 197, pág.
+El problema indigena en El Salvador        751
 
-## Page 5
+una sola cosa. Por eso hablar de mejoras a las condiciones de vida
+indígena y de llevar a cabo una política de promoción indigenista,
+era visto con profunda desconfianza sino con hostilidad. Actualmente,
+43 años más tarde, esa cerrada actitud politica empieza a desaparecer
+y ya se habla con libertad del indio y sus problemas, aún cuando la
+tendencia indígenista se proyecte en un sentido arqueológico principal-
+mente.
 
-_Extraction method: embedded text._
+7o. El carácter equívoco del término “indio”. La historia de la
+llegada de los españoles a nuestro Continente se inicia como una me-
+diocre comedia de equivocaciones: ler. error, Colón al tropezar con
+tierra americana cree haber llegado a la India; 2o. error, si estas
+tierras eran la India, sus habitantes tenían que ser por necesidad, in-
+dios, 3er. error, por el hecho de ser indios todos los habitantes del
+Nuevo Mundo tenían que ser iguales; quien había visto a un indio,
+los había visto a todos; el indio, así, se convierte en categoría étnica;
+y para colmo, el 40. error, el Continente descubierto por Colón no
+tenía nombre propio; un geógrafo italiano, Américo Vespucio lo bau-
+tiza con su propio nombre sin tener méritos suficientes para tal honor
+y el continente se llamó América. Así surgió el término indio ca-
+rente de toda base científica de carácter taxonómico.
 
-El prc,blena indígtttu n El Sdla¿lor
+Tomando en cuenta el sentido equívoco del término indio, algu-
+nos antropólogos han propuesto su eliminación del léxico antropoló-
+gico y su sustitución por la palabra “campesino”; el remedio no ha
+resultado tan adecuado pues el término no campesino tiene una am-
+plitud y una connotación que no corresponden exactamente a la idea
+que contiene el vocablo indio.
 
-tI¡n t ric,t lt,J t !.1,t
+En realidad, las expresiones indio o indígena tienen un signifi-
+cado peculiar que se depura y desarrolla en el proceso histórico; como
+ha señalado Bonfil® el concepto del indio, se consolida con el choque
+sangriento de la conquista; de ese choque surgieron dos sectores bien
+definidos que durante siglos van a ser los polos del proceso histó-
+rico americano: por un lado los vencedores, los que conquistaron
+y sojuzgaron, que se denominan blancos o españoles; y por el otro
+lado están los vencidos, los despojados, los humillados hasta el ludi-
+brio, los cuales se denominan indios. En este sentido, el término indio
+se torna una categoría social y no étnica, puesto que las caracterís-
+ticas somáticas externas sobre la base de las cuales se pretende defi-
+nir al indio no resisten el juicio analítico respectivo, toda vez que
+los rasgos físico-biológicos de los indios difieren de un grupo a otro,
 
-152
+5 Bonfil, 197, pág.
 
-"
+## Page 752
 
-PobLacitjn en L,L S¿lt,¡lor e
+_Extraction method: OCR from PDF page 5, left half._
 
-a veces, en iorm¿s contf¿rstantcs, collto st¡rcclc tr¡¡r lOs indios se¡is al
-norte de- México, comparados con los lutir¡rrLrrc,s rle lléxico y Guatemala. La ú¡ica nota común y cscncial t¡rrc ricrtn los eborígénes dc
-México es
-de pcrtcnccer al grLrpo tlr.. lr¡r vr.rr i,los, ,lc los'iespoja-la
-dos y humillaclos.
+752                                                   América Didivena
 
-los indios ¡ro tienen una lcngur ni¡riv¡ (()¡r!i,r; cn t<¡do cl con_
-tinente hablan centenares de lcnguits y ir v((cs, to¡uo sr¡ccden en el
+a veces, en formas contrastantes, como sucede con los indios seris al
+norte de México, comparados con los lacandones de México y Gua:
+temala. La única nota común y esencial que tienen los aborí genes de
+México es la de pertenecer al grupo de los vencidos, de los despoja-
+dos y humillados.
 
-caso salvarlo¡eño, sectores iulportantcs han pcrtli.lo su lcngua natrva y hablan solamente el español; ¡si cl tritc|io dc la lcngu:L natrva
-no puede comprencler a todos los lr,.li',s cn su tlcjinirr,,rr y cxcluye a
-varios milloncs cle los mismos. Por cso, conrcur¡rlan,1o núy csi,ccialmente el caso salvado¡eño, podcntos clefinir al jntlio crtnrc> una caregotía socio-cconómica histí¡ricamcntc cr¡nclicionada ? cotrsrituícla por los
-descendientes de los primcros pobladorcs dc América, quc por eferro
-dc la conquista ibé¡ica fucron rcllr¡titlLrs e condicioncs tlc ,!:uda explctación, miscria, opresión c injLrsrici:r social. conclicioncs quc, en lo
-escncial, se manticncn cn diciros clcsccnclientes.s
+Los indios no tienen una lengua nativa común; en todo el con-
+tinente hablan centenares de lenguas y a veces, como suceden en el
+caso salvadoreño, sectores importantes han perdido su lengua nati-
+va y hablan solamente el español; así el criterio de la lengua nativa
+no puede comprender a todos los indios cn su definición y excluye a
+varios millones de los mismos. Por «so, contemplando muy especial-
+mente el caso salvadoreño, podemos definir al indio como una cate-
+goría socio-económica históricamente condicionada * constituída por los
+descendientes de los primeros pobladores de América, que por efecto
+de la conquista ibérica fueron reducidos a condiciones de aguda ex-
+plotación, miseria, opresión e injusticia social, condiciones que, en lo
+esencial, se mantienen un dichos descendientes?
 
-Careccmos clc datos cstadísricos quc se reficran a lo qr.re es hoy
-EI Salvador, en la época prehispánica; sabemos quc en l¿ aludida
+EL PROCESO DEMOGRÁFICO SALVADOREÑO
 
-época, la yrlación indigena era ¡clativamcnte numcrosa; el territo¡io constituía un ¡raso dc tránsito obligado para las grandes mi
-gracioncs proccdentcs <.lcl Sur o dcl Nortc y a:lemr'rs, fue cl asicnto
-de procesos de mestizljc cnr¡c las clisrintas tribus indígenas quc en
-l'l vivían.
-Los cronistas hlblan dc las clistintas lcngr"ras nativas a la llegada
-de los españoles; así cl Oydor Diego García dc Palacio, scñala como
-lengnas indígenas habladas cn cl siglo xvr las siguientes: "Los Izalcos y Costa dc Guazacapan, la populuca y pipil. La cle San Salvaclor,
-pipil y chontal. En l¿ de San Miguel, Pottin y 'I'aulcpa Ulúa", y el
-Dr. Leopoldo Alejandro Rodríguez 10 agrega los idiomas chortí, choluteca y pocoman.
-Con respecto a l¿ ctapa colonial tcncmos los siguientcs datos cuantitativos:
-1 Marro<,t:io, 197 2
+Carecemos de datos estadísticos que se refieran a lo que es hoy
+El Salvador, en la época prehispánica; sabemos que en la aludida
+época, la poklación indígena era relativamente numerosa; el tetri-
+torio constituía un paso de tránsito obligado para las grandes mi-
+graciones procedentes del Sur o del Norte y además, fue el asiento
+de procesos de mestizaje cntre las distintas tribus indígenas que en
+él vivían.
 
-.
+Los cronistas hablan de las distintas lenguas nativas a la llegada
+de los españoles; así cl Oydor Diego García de Palacio, señala como
+lenguas indígenas habladas cn el siglo xvi las siguientes: “Los Izal-
+cos y Costa de Guazacapan, la populuca y pipil. La de San Salvador,
+pipil y chontal. En la de San Miguel, Potón y Taulepa Ulúa”? y el
+Dr. Leopoldo Alejandro Rodríguez * agrega los idiomas chortí, cho-
+luteca y pocoman.
 
-3 Aguirre Beltráo, 1P72.
-a C¿rcí¿ de P"l¿tio. fq2l. pád. I6.
+Con respecto a la ctapa colonial tenemos los siguientes datos cuan-
+titativos:
+7 Marroquin, 1972.
+8 Aguirre Beltran, 1972.
+9 Garcia de Palacio, 1921, pag. 16.
+10 Rodríguez, 1948, pág. 155.
 
-1u Rodríguez, 1948, pá9. 155.
+## Page 753
 
-ltil \l
+_Extraction method: OCR from PDF page 5, right half._
 
-Iodios t¡ibuta¡ios
+Loa
 
-19,116
+El problema indigena en El Salvador         795
 
-lndios exentos
-Indios no somctidos
+Población en El Salvador en 1533101
 
-22,530
+Indios tributarios                   19,136
 
-¡i,I4l
-400
+Indios exentos                 22,580
+Indios no sometidos            8,343
+Espafioles                         o 400
 
-Españoles
+TOTAL                  50,459
 
-50,/r59
+Población de El Salvador para 1570
 
-TOTAL
+TOTAL general 77,000 habitantes ?*2
 
-Pablaciin ¿lc El S¿h,ador Paru 1574
-
-_
-
-I.L PROCf5O DEMOCRÁIJICO SAI-VADOREÑO
-
-17
-
-TOTAL gEnrr¡l -;,uUU hxbitantlsr2
-
-Obsérvese esrc dato cn relación con el relativo a la poblacrón en
-1551 y encontrarcmos un incremento del 32% en 19 años, lo cual
-parcce desmedido pa¡a la época, en la cual la población indígena
+Obsérvese este dato en relación con el relativo a la población en
+1551 y encontraremos un incremento del 32% en 19 años, lo cual
+parece desmedido para la época, en la cual la población indígena
 tiende a disminuir o a mantenerse estática.
-Pobltci,jn le El S¿l¡,ador c¿lctl¿da con ureglr:, a la tenla
-le las bulas de l¿ Sattd Crttz¿¿|a13
 
-9.8%
+Poblución de El Salvador calculada con arreglo a la venta
+de las bulas de la Santa Cruzada Y3
 
-Blancos
+Blancos                                            9.8%
 
-7t.2r;
+Mestizos                                        31.2%
+Indios                                      59.007:
 
-Mestizos
-Indios
+Obsérvese el incremento del sector mestizo.
 
-5t) .0 9i.
+Población de El Salvador para 1796-1798 14
 
-Obsérvese el incremcnto del sectot mestizo.
-Pol'l¿ción rle El Salt¡dar paru 1796 17()BÚ
-Españolcs y ladinos
+Espanoles y ladinos              78,025             48.40%
 
-18,025
+Indios                             83,010              51.6%
 
-43.47a
+TOTALES               161,035          100.0 %
 
-Indios
+1) Barón Castro, 1942, pág. 198.
+12 Barón Castro, 1942, pág. 200.
+13 Barón Castro, 1942, pág. 234.
+14 Barón Castro, 1942, pág. 235 y $.
 
-31,010
+## Page 754
 
-5 r.6rf ,
+_Extraction method: OCR from PDF page 6, left half._
 
-161,015
+754                                             América Indigena
 
-r00.0rí
+La población ladina (mestiza) se incrementa todavía más; la po-
+blación india tiende a disminuir casi en la misma proporción.
 
-ToTALES
+Población de El Salvador para 180315
 
-1r Bar(in Crsrro, 1942, p,ig. 199.
+Españoles                                             4,729                          2.80%
+Mestizos                                             89,374                        54.105
+Indios                            71,175              43.1%
 
-12 Barón Casrro, 1942, pig. 200.
-ril Barón Castro, 1.942, y>íg,. 2J4
+El incremento de los mestizos cs notable; cn vísperas de la in-
+dependencia de España, El Salvador ya tiene mayoría mestiza. El
+porcentaje de población india es siempre importante.
 
-rr ll¡rr'rn C¿srro, 191t2, plq.. 2J5 y t.
+Los estratos sociales en ese referido año de 1807 acusaban ya
+una tendencia a la definición de clases, las cuales se ocultaban en
+las categorías étnicas todavía predominantes.
 
-## Page 6
+Estratos soctales de la colonia. Año 1807 16
 
-_Extraction method: embedded text._
+Españoles                                                    0.86%
+Criollos                                                   2.00%
+Ladinos                           53.07%
+Negros y mulatos                                     1.00%
+Indios                                                    43.07%
 
-1t 1
+El cálculo anterior se hizo sobre la base de correlaciones e infe-
+rencias para poder separar cl estrato de españoles del de los criollos y
+para poder obtener, del estrato ladinos, las cifras relativas a negros
+y mulatos que no figuraban expresamente en el informe de Gutié-
+rrez y Ulloa.
 
-El prrtbLcma ind.ígena cn EL Sabador
+Población para 1927, (En porcentajes) 11
 
-Anlr)ct luli ld
-74c
+Indios                                                     20%
+Mestizos                                                 18%
+Extranjeros                                              2%
 
-La población ladina (mcstiza) sc incrcrrrcnfir rrxlavía nrás; la poblacitin india ticnde a disminui¡ casi cn lu r¡risnrr prolxrrci(rn.
-PobLació.n ¡le Ll Salr¿,lot
+16 Gutiérrez y Ulloa, 1926, pag. 10.
+16 Marroquín, 1944, pág. 28.
+Fonseca, 1927, pág. 55.
 
-Barón Castro calcula, para el ¿ño de l!40, la siguiente distribución de la población salvadoreña:r3
-Pobhción de El Sah,¿dor: Aio I()10
+—
+J]
 
-l.rr llio.itt,
+## Page 755
 
-Españoles
+_Extraction method: OCR from PDF page 6, right half._
 
-.1,i 2t )
+El problema indigena cn El Salvador        735
 
-2 8li,
+Barón Castro calcula, para el año de 1940, la siguiente distribu-
+ción de la población salvadoreña: '*
 
-Mcstizos
+Población de El Salvador: Ano 1940
 
-a9,11/t
+Mestizos                        1,340,948                75%
+Indios                       375,586             200%
+Blancos                            89,396                  5%
 
-1/t.1t)l)
+TOTAL                    1,787,930               100%
 
-lndios
+Las cifras anteriores nos llevan a las siguientes conclusiones: 1)
+El Salvador aparece como una población definitivamente mestiza; 2)
+La población india, si bien disminuye en tórminos relativos, se incre-
+menta en términos absolutos y constituye un sector importante que
+debe ser tomado en cuenta en toda obra de promoción social,
 
-1,340,948
-37 5,586
+En adelante, el indio se esfuma de las estadisticas oficiales y su
+localización sólo puede lograrse mediante trabajos de paciente inves-
+tigación.
 
-15 r/o
+CÓMO DESCUBRIR AL INDIO SALVADOREÑO
 
-Mesrizos
-
-Inüos
-
-i 1,) 1t
-
-4 t.tqi,
-
-Biancos
-
-89,196
-
-5 9/a
-
-|,i 87 ,910
-
-1000,10
-
-TOTAL
-
-El incremento de los ¡restizos cs notablr: cn visocr,rs de la indepcnclcncia de España, El Salv.rJo¡ )r rjcn( nrrrloir.r rncstiza. El
-porccntaie de ¡'oblaci,',n indie cs sir.rnl're inrporrantr..
-Los estratos sociales en esc rcfcriclo airo de 1807 acusaban ya
-lina tendencia a la definicirin dc clascs. ias cuales se oculraban cn
-las categorías i.tnicas todavía predominxntcs.
-Ertvtot jocialet le la colonid. Año 1807 ra
-Españolcs
-
-2.OOoÁ
-
-Ladinos
-
-53.07 %
-1.OOc/r¡
-
-1+3.07 %,
-
-EI cálculo anterior se hizo sob¡e la base dc correlacioncs c infcrencias para poder scpa¡ar cl csrrero dc cspañoles del de los c¡iollos y
-para poder obtener, del cstrato ladinos, las cifras rclativas ¿ negros
-
-)' mulatos que no figuraban cxprcsamentc en el informe dc Gutiérrez y Ulloa.
-
-Población para 1927. (En por¿erltaieJ) L7
-Indios
-Mestizos
-Extranieros
-
-r; Cuti(rrez l Ulloa. I926. pág. t0.
-
-16 Marroquín, 191tt. píg.. 28.
-1? Fonseca, 1927, pitg. 55.
-
-209'i'
-
-Las cifras anteriores nos llcvan a las siguientes conclusioncs: l)
-El Salvador aparcce como una pobiaci(in definitivaurente mestiza; 2)
-La población india, si bicn disminuye en t¿rminos relativos, se incrementa en términos absolutos y constituye un sector importente quc
-clebe ser tomaqlo en cuenta en toda obra dc promoción social.
-
-En aclelantc, el indio se esfuma de l¿s cstadrsticas oficiales y su
-localización sólo puede lograrse mediante trabajos de pacientc invcstitación.
-
-0.86o/a
-
-Criollos
-Negros y mulatos
-Indios
-
-755
-
-20%
-
-t'8lo
-
-có-uo D[5cLBR|R AL lNDlo sALVADoREÑo
-Todavía subsisten en El S¿rlvaclor pcqucños núclcos humanos en
-donde los aborígenes m¿tltietrcn muchos dc los rasgos dc vid¿ tradicionalcs: hablan idioma nahuat, por ejemplo; aunquc ese idioma
-es hablado pfincipalmente pof las ¡leneraciones adultas; las mujeres
-anclan descalzas y usan t¡ajcs típicos; rebozo y huipil, cn tanto quc
-los hombrcs. usan vcstidos dc manta o de mezclilla y andan descalzos
-o usan "caitcs" (sandalias hechas antiguamente de cue¡o y ahora de
-llantas us¿rclas de automotores); celebran fiestas tadicionales a la
+Todavía subsisten en El Salvador pequeños núcleos humanos en
+donde los aborígenes mantienen muchos de los rasgos de vida tra-
+dicionales: hablan idioma nahuat, por ejemplo; aunque ese idioma
+es hablado principalmente por las generaciones adultas; las mujeres
+andan descalzas y usan trajes típicos; rebozo y huipil, en tanto que
+los hombres, usan vestidos de manta o de mezclilla y andan descalzos
+o usan “caites” (sandalias hechas antiguamente de cuero y ahora de
+llantas usadas de automotores); celebran fiestas tradicionales a la
 usanza colonial, viven en un mundo mágico-religioso conservado de
-sus antcpasados y habitan chozas de Paia o palma. Estos núcleos de
-población evidentencnte son Éirupos indígenas; cllos., más quc nr-n{¡ún otro grupo. conscrvan vrr'i la conciencia dc ser los vencidos, los
-:lnferiorcs"-,
-humillados y cxplotados y además ocuio,
-","rn"-"nt"
-pan cl cscalón más bajo de la ierarquía social. Son indios sin ninoono du.lo. Dero rcsulta quc tales núcleos de población son tan reduii.los qo. posiblemenre no sobrepasan el I7o deI 16¡¿l dg h¿[itantes'
+sus antepasados y habitan chozas de paja o palma. Estos núcleos de
+población evidentemente son grupos indígenas; ellos, más que nin-
+gún otro grupo, conservan viva la conciencia de ser los vencidos, los
+“inferiores”, los eternamente humillados y explotados y además ocu-
+pan el escalón más bajo de la jerarquía social. Son indios sin nin-
+guna duda, pero resulta que tales núcleos de población son tan redu-
+cidos que posiblemente no sobrepasan el 19% del total de habitantes.
 
-It llrrrin Castro, 1942, pá9 527.
+IS Barón Castro, 1942, pág. 527.
 
-## Page 7
+## Page 756
 
-_Extraction method: embedded text._
+_Extraction method: OCR from PDF page 7, left half._
 
-El prablem.a indigena en EL Strl.r ot
+506                                           América Indisena
 
-Antít'ica luli,4c ta
+ln tal caso tendríamos que concederles la razón a aquellos que afir-
+man que nuestro problema indígena cs insignificante y que por lo
+mismo no merece ser tomado en consideración en ki politica guber-
+namental, A esto ultimo podríamos replicar que adn siendo unos cuan-
+tos miles frente a los millones de mestizos, aún asi, esos Cuantos in-
+digenas ticnen derecho a un tratamiento especializado, tunto en edu-
+cación como en su participación en el desarrollo cconómico nacional,
+cn salubridad y asistencia social asi como cn política y religión. Así
+lo han comprendido en Costa Rica en donde para unos pocos miles
+de indígenas han creado una Comisión Nacional del Indio y la Se-
+cretaría de Educación se apresta a crear un Departamento especiali-
+zado de Educación Indígena,
 
-lir tirl c¡so rcncl¡íamos que concctlcllcs lir nrzrjlt u irc¡Lrelkts clue afirr)l¿n (lL¡c nucstro prcblema indígena cs insir-lrif iL¿ntc y tiue por io
-rrrisDro no ntercrc sc¡ tomado cn consi.lcrrc ion t.D Ia
-¡nlitica gubern¡rncrtul. A cs¡o últirlro podríanos rcplitur <¡rrc rLi¡¡r sicnclo unos cuantos milcs l¡enrc a los ¡nillones dc nrcstizos. rrúrr ¡¡sr. r,sos cuanros inriíccn;Is ticnc-D dcrccho .l un tratrnticnro cs¡tcrirrlrz¡rtlo. t¡r¡tio cn eduLr¡tirin como en su participaci(in cn c-l dcs¡rir,,ll(, (1,rr,,rnrru nircional,
-cn s¿lubridacl y rsistencia social así corno cn ¡olitiiu y rclir¡ión. rlsí
-lo han comprendi(lo cn Costa Rica cn JonJc p.rr.r ur,rs ¡,,eos milcs
-clc indígenas h¿rn creado una Comisir;n N¿cir)ort .lt.l f n.ii,, v l¿ Secrctaría de Educaci<in se apr€stt a crear un Dcprrrrrurcnro cqrccializado de Educación Indígena,
-Pero cl tem¿ ticnc que ahonclarse nás. ¿euc sc hicicron los
-375,586 indígenas cncontrados F,or Ba¡(in Castro en l!40 y <lrrc constittrí¿n cl 20% de toda la población? ¿Acaso sc han inti-cr.r.lo a l¿r
-vida nacional y han dejado de ser indios para rr sim¡rlcmcnte salvadcreños? ¿Quú ¡roccso de ascenso socill permiriu que csos i75,5g6
-personss supc¡Nral l¡s difícilcs con(licioncs socioeconómicas quc los
-manteníirn como indios y los hiciera avjnzar Lrn escalón m¡is cn l¿
-jerarquía soci¿li' Ilsras prcguntas reclaman un.r rcspuesca basada en
-estLrdios serios sobre l¿ r(rlid.rJ srlv¡dorcri.rPor los datos que hemos cxpuL'sto vcmos quc la tendenci¿ de la
-población indígcna salvadoreña es de consran¡c inrremento, con-lo se
-evidcncia por las ciftas siguicntcs:
-l1no rt¡r I))t
+Pero el tema tiene que ahondarse más. ¿Que se hicieron los
+375,586 indígenas encontrados por Barón Castro en 1940 y que cons-
+titufan cl 20% de toda la población? ¿Acaso se han integrado a la
+vida nacional y han dejado de ser indios para ser simplemente sal-
+vadoreños? ¿Qué proceso de ascenso social permitió que esos 375,586
+personas superaran las difíciles condiciones socioeconómicas que los
+mantenían como indios y los hiciera avanzar un escalón más en la
+jerarquía social? Estas preguntas reclaman una respuesta basada en
+estudios serios sobre la realidad salvadoreña.
 
-Años de 1796-1798
-Año de 1807
-Año de 19¡i0
+Por los datos que hemos cxpuesto vemos que la tendencia de la
+población indígena salvadoreña es de constante incremento, como se
+evidencia por las cifras siguientes:
 
-t0,0t9
-3i,010
-71,175
-375,196
+Ano de 1551                  50,059
+Anos de 1796-1798            83,010
+Año de 1807                   71,175
+Ano de 1940                    375,396
 
-A pesar rlc-l )r'gcro rctroceso m¿¡crdo cn el año dc lS07 el creciniento de la población inclígena cs nor¿blemr:nte intenso. por lo
+A pesar del ligero retroceso marcado en el año de 1807 el creci-
+miento de la población indígena es notablemente intenso. Por lo
+tanto tenemos que descartar la hipótesis de que en cste año de 1975,
+treinta y cinco años después del cálculo de Barón Castro, se haya
+reducido a cifras insignificantes. Tenemos que rastrear las huellas de
+esa población indígena trashumante. Se nos puede ocurrir localizar
+a los indígenas sobre la base de determinados rasgos étnicos, siguien-
+do el punto de vista de los que sustentan que lo indio es una cate-
+goría étnica, pero en tal caso nos perderíamos en la selva inextricable
+de los millones de mestizos, entre los cuales abundan rasgos tenidos
+por tradición como de origen indio. Como consecuencia, el número
+de indios se elevaria al comprender a un gran sector de mestizos
 
-tanto tencfiros que dcscartar la hipótesis dc clue en csre ¿ño de 1975,
-treinta. y cinco aíios después dcl cálculo de Barón Castro, se haya
-rcducido ¿ cifras insignificantes. Tenc'mos qlrc rasr¡car las huellas ie
-csa población indígcnir rrashumante. Se nos puede ocurrir localizar
-a los indígenas sobre la base tle determinados rasgos étnicos, siguiendo el punro de vista dc los que sustentan que l; indio es una catc_
-goria étnica, p¿-¡o cn tal caso nos petderíamos cn la selva inextricable
-dc los millones de mestizos, enrre los cuales abLrnd¡n rasqos tenidos
-por tradición como de o¡ieen indio. Como .onscluenci¡, el nume¡o
-dc indios sc r-lev.lrí¡l al comprencler a un gran sector de mcstizos
+## Page 757
 
-cuyas condiciones de vida y su culturlr los colocan en la clase nlcdia alta.
-Si nos atenemos aI criterio lingüistito nos cncontrariamos con
-clue aún en los pequc-ños élrupo reconocidos cono indígenas se vería
-¡educido todavía nrás, dejando de lado a los n.rilts dc indigenas que
+_Extraction method: OCR from PDF page 7, right half._
 
-desde el siglo pasldo pe¡dieron su propia lcngua y 3sjmilaron el
-ssPañol.
+El problema indigena en El Salvador         157
 
-El crite¡io cultutalista para definir al intiio nos rcsulta inopcriintc en un mundo de cultur¿ mestiza cn dondc con ltccuencia Yemos
+cuyas condiciones de vida y su cultura los colocan en la clase me-
+dia alta,
 
-mezclados rasgos netan'rente indígcnas con r¿sélos,.le cultura hispánica y dondc, además, la hetcrogencidad cs notablc!¡ente la caractcrística de la sociedad global.
-El único camino que nos quecla es invcstigar si subsisten las condiciones que definen al jndio como categoría socioeconómica; si encontramo; quc esas condicioncs cstán vigentcs cn lo esencial saturadas
-tod¿vía del t¡auma quc o¡igin,-¡ lJ conquistit' rntonc('s cst3mos antc
-una población indígcna qLre vivc características pcculiares. Comc rntent; dc determinr¡ est:r n.lcDciollada población llcv¡r¡.los ir c,rbo una
-invesrigacil>n-cncL:esta en '15 municiPios rurales. los c¡ite¡ios iniciales
-quc scguimos fueron los siguientes:
-to. Al indio hay que buscarlo cn los cantonc-s lunidades demoqrhficas mínimas .lel scctr¡¡ rural) y cn las hacicndas y fincas donde
-ir.rb,rjan como mozos <ul, 'no" o ( onto pr on(s cn gcncral.
-2ó. Escogimos cor¡o basc de estudio municipios sobre los cuales
-tcníamos cvidenci¿ histórica dc quc son dc origen prehisphnico.
-los ¡esultaclos prcliminares de i¿ encucsta fueron publicados en
-un pcqueño folletot' cuya parte esencial resumimos en la nota.t'o
--En-
+Si nos atenemos al criterio lingúístico nos encontraríamos con
+que aún en los pequeños grupo reconocidos como indígenas Se vería
+reducido todavia más, dejando de lado a los miles de indigenas que
+desde el siglo pasado perdieron su propia Sengua y asimilaron el
+español,
 
-los .'i5 nrrrnicipios cstu.lia.los, con una poblacirin total de
+El criterio culturalisea para definir al indio nos resulta inoperan-
+te en un mundo de cultura mestiza en donde con frecuencia vemos
+mezclados rasgos netamente indígenas con rasgos de cultura hispá-
+nica y donde, además, la heterogencidad es notablemente la carac-
+terística de la sociedad global.
 
-más de J00,000 |c-rsonas. subsistcn las conJicioncs socioccomrmic¡s
-similares a las qnc impusieron los españole.s en la ópoca de l¿ conquisca; miserit, doior. angttscia, son los lcom¡-'ait¿rntes natu¡¡les de
-estas gentes quc viven como lo hicicron sLrs antepasados durantc
-la colonia. En cstr poblrrción preclominrtntcnrctttc tural, quc esti
-en los cantones de ios munic(rirls cstudiados, cocontramos a los
-elcmentos indígenas que buscábamos; no hablan lenguas nativas ni
-visten trajes t4)icos n; tienen costumbres pintorcscas quc tanto atraen
-a los turistas, pero clJos sabcn que sicmpre han vivido n.ral, que sus
-paclres y los Dadres dc srts paclres sufrie¡on las mismas condiciones
-,1" npt"tión y quc sus fo¡mas de vida son debidas a s¡'r contlición de
-rr' Nf'¡rf()(1uin, 196s, tis
+El único camino que nos queda es investigar si subsisten las con-
+diciones que definen al indio como categoría socioeconómica; si en-
+contramos que esas condiciones están vigentes en lo esencial saturadas
+todavía del trauma que originó la conquista, entonces estamos ante
+una población indígena que vive características peculiares. Como in-
+tento de determinar esta mencionada población Jlevamos a cabo una
+investigación-encuesta en 45 municipios rurales. Los criterios iniciales
+que seguimos fueron los siguientes:
 
-1l \ lj.
+lo. Al indio hay que buscarlo en los cantones (unidades demo-
+gráficas mínimas del sector rural) y en las haciendas y fincas donde
+trabajan como mozos colonos o como peones en general.
 
-## Page 8
+20. Escogimos como base de estudio municipios sobre los cuales
+teníamos evidencia histórica de que son de origen prehispánico.
 
-_Extraction method: embedded text._
+Los resultados preliminares de la encuesta fueron publicados en
+un pequeño folleto?” cuya parte esencial resumimos en la nota, 2
 
-i)li
+En los 45 municipios estudiados, con una población total de
+más de 300,000 personas. subsisten las condiciones socioeconómicas
+similares a las que impusieron los españoles en la época de la con-
+quista; miseria, dolor, angustia, son los acompañantes naturales de
+estas gentes que viven como lo hicieron sus antepasados durante
+la colonia. En esta población predominantemente rural, que está
+en los cantones de los municipios estudiados, encontramos a los
+elementos indígenas que buscábamos; no hablan lenguas nativas ni
+visten trajes típicos ni tienen costumbres pintorescas que tanto atraen
+a los turistas, pero cllos saben que siempre han vivido mal, que sus
+padres y los padres de sus padres sufrieron las mismas condiciones
+de opresión y que sus formas de vida son debidas a su condición de
 
-El problema iniigena en El Salaa¿ot
+1 Marroquín, 1968, pag, 12 y 13.
 
-Anlric,t I nli ¡y n,t
+## Page 758
 
-j¡¡tljos. P<>¡ cso podcmos scñalar
+_Extraction method: OCR from PDF page 8, left half._
 
-co¡lo (..1,..1( f( t.¡sti(¡s gcneralcs que
+iON                                           América Indizcna
 
-LlistingLrcn al indio salvado¡cño, las sivLricnrcs:
+indios. Por eso podemos señalar como caracteristicas generales que
+distinguen al indio salvadoreño, las siguientes:
 
-lo. Es cl vencido (condición <1uc.rc l)rol()n1r.¡ tlcsrlc la conquisr.r
-a nLrcstros días).
-. 2o. Es cl .despojado por excelcnr ia. ( lrcrrlirj sus ticrras, sus ilomi_
-nios, su prcstigio social y su culrurat.
-3o. Es el más humillado (Todc¡s i¡r rr¿rdn (otl altaocría me_
-nosprecio: el amo, el administrador los capat¿ccs, los ¡.qentes ¡,de la
-autoridad ) .
+lo. Es el vencido (condición que se prolonga desde la conquista
+a nuestros días).
 
-.4o. Es cl ¡nás atrasado (junto a su cr(;ni(o anrLliabcrismo, las
+20. Es cl despojado por excelencia. (Perdió sus ticrras, sus domi-
+nos, su prestigio social y su cultura).
 
-enfe¡mcdades como el paludismo y ia tuberculosis, oritinirn cn ellos
-una aha tasa de mortalidad ).
-5o. Es el disc¡iminado por antononrasia. (En El Salvatlor sc dis_
+30. Es el más humillado (Todos lo tratan con altanería y me-
+nosprecio: el amo, el administrador los capataces, Jos agentes de la
+autoridad ).
 
-.
+4o. Es cl más atrasado (junto a su crónico analfabetismo, las
+enfermedades como el paludismo y la tuberculosis, originan cn ellos
+una alta tasa de mortalidad).
 
-clmlna a algunos grupos étnicos, a los lJ¡mados ,,tu¡cos',: ¿ ios chi_
-nos y a los neélros; pero los nás djscrinr in irclos son los indios, a qure_
-ncs sc ¿ribuyen los peorcs dcfefio; con )os indios, aí,n sienio mcst¡zos. nadlc qulere reconocer plrcnfesco).
+do. Es el discriminado por antonomasia. (En El Salvador se dis-
+crimina a algunos grupos étnicos, a los llamados “turcos”; a los chi-
+nos y a los negros; pero los más discriminados son los indios, a quie-
+nes se atribuyen los peores defecto; con Jos indios, aún siendo mes-
+tizos, nadic quiere reconocer parentesco).
 
-oprinrido. (Los dcrechos hunlirnos. los clercchos quc ln
-^ 69 4 cl Saivadorcña
-Constitución
-cons¿rg¡..r son ierr.r muerra pJrJ i..,s indios
-<1ue con frecuencia sufren tod¿ c-llse de atropellos).
-Es e.l explotado. (Con ntuv pocas excepciones, las empresas
-.7oag¡icolas soneren al indio cono rraLraja<lor, a iargas jornaclas, 'bajos
-salarios, sin prestaciones sociales cle ninguna .spcci-e).'
+60. Es el oprimido, (Los derechos humanos, los derechos que la
+Constitución Salvadoreña consagra son letra muerta para los indios
+que con frecuencia sufren toda clase de atropellos).
 
-1sA C¿r¿cteúrt;¿¡l\ socioeconrinicu¡ Jc
+70. Es el explotado, (Con muy pocas excepciones, las empresas
+agricolas someten al indio como trabajador, a largas jornadas, bajos
+salarios, sin prestaciones sociales de ninguna especie).
 
-45 nrtnicifios nttaLes.
+19A Características socioeconómicas de 45 municipios rurales.
+85% de la población analfabeta.
+98% de la población fallece sin asistencia médica.
+20% de la población de 18 años cs obligada a prestar servicio milítar.
+98% de las viviendas carecen de servicios higiénicos y de agua corriente.
+83% de las viviendas carecen de alumbrado eléctrico.
+0.03% de la población adulta ha ocupado cargos públicos.
+826 de la población no consume leche y come carne 3 veces al ano,
+80° de la población no usa zapatos.
+85% de la población no goza de los beneficios del seguro social.
+270 de le población enferma no goza de asistencia hospitalaria.
 
-\Jc/o d,e le ¡oblación analfabcte.
-98ft de la población fallccr: sin esisrcnci¡ r¡i,lic¡.
-9O7o de la población dc lfl años cs obli¡¡arla a prester- scrvicio militar.
-98Vo de las viviendas ca¡eccn de scrvicios higiinicos y de agua corricntc
-35?á de las vivienrlas ca¡ccen <le alumbratlo clúcr¡ico.
-O.039i de la población adulta hl ocu¡rdo car¡los
-¡úl licos.
-pobleción no co¡sumc lcrhc y,,rÁ" auan" I vcccs al
-año.
-"s2|7 de l¿
-S0^, dc l¿ publa.iún rro u(r Trfrr¡,\.
-fl';l ,1" h ¡oblación no goza dc ios bcncficios Llel scguro socjal.
+Además:
 
-9it)í. .lc )z L"rblacitio enferm¿ ro goz.r .lc rsis¡r,ncj: hosiri¡ala¡j¡.
-Aclemás:
+Los trabajadores tienen 120 días de sub-ocupación al año,
 
-Los t¡¡bajadores ticnen 120 .lias dc sub-ocr¡lación aL ¿ño.
-
-El 659i de los trabajadores ticncn ingresos hasra t0().00 coloncs
+El 659% de los trabajadores tienen ingresos hasta 500.00 colones (200 dólares )
 al año.
 
-( 200 dólarcs )
+Los trabajadores tienen ingresos equivalentes al 40% de lo que devengan los
+trabajadores urbanos de más baja categoría.
 
-Los trabajadorcs
-iogresos cquiralcnrcs al 40ll rlc lo que devcngan los
-_ricnen
-'r.rI.'i¿ lor". urt¡nos ,1, m,iq \air .¡rc-gorr"
+## Page 759
 
-159
+_Extraction method: OCR from PDF page 8, right half._
 
-So. Es cl sin zapatos, que usa "criitcs' ( sirndalias) y rop¿ dc
-r'Danta o dc mezclilla, las mÁs ba¡atas dcl nrercrrlo nac;onal.
-9o. Es el que de preferÉncia prcsca servicio milit?¡. (La Cons¡itución establcce la obligrtoricdad del servicio nilitar para todos los
-saLvadorciros; cn l¿ prhccic¿r dicho scrvicio lo prcstan únicamente los
-slcmentos dc la población rural, incLuycndo ¿ los indios. El servicio
-militar tienc vcntajas y desventajas en la formación de la personali
-dad indigena; alftbettza al indígena, lc ioculca nucvos hábitos higiénicos, desar¡olla el individualismo y 1<l integra en cierto grado a la
-vida nacional; pero lo dcsliga de sus obligaciones de parentesco, lo
-desadapta pa¡a la vida cn su cantón o aldea, adquiere vicios urbanos, etc.
-10o. Es el que carece de servicios médicos hospitalarios. Somctido
-¿ 1a medicina tradicio¡al y al tratanricnto herboiario cstá margioado
-de los más importantes servicios púLrlicos, entre ellos los scrvicicrs
-hos¡italarios.
-L¿ encuesta llevada a cabo es sol> un comienzo; será ncccsari{)
-rc;rliz;rr investigaciones nrás compleras, con t¡irbirjo de campo y observ¿ción particip¿nte, para que poC:lr¡]os identificar a los más imporriLntes srupos indígcnas <1uc aírn subsis¡en; el cantón es, f¡ecueotemcntc, el último refugio dcl indígena. Yr no cicnc la tierra comunirl,
-ni el cjido, que cran las biLscs de su organizacirin social y de su
-cohesión como grupo. Pero la ¡rroximidad frsica de sus comPaircros,
-que sufren las mismas penalidadcs les dá el único apoyo moral con
-que pueden sostcne¡sc en su vjdr tan difícil. Ese es el sector irrcden¡o que tiene que ser localizado e identificado nediantc la invcstigación social.
+El problema indigena en El Salvador        739
 
-SITUACIóN AC'|UAL DE LOS GRIJPOS D]] POBI,ACIóN
-..PI]RA"
-¡\DíGENA MÁS O MENOS
+So. Es el sin zapatos, que usa “caitcs” (sandalias) y ropa de
+manta o de mezclilla, las más baratas del mercado nacional,
 
-Is relativamcnte fáci1 localizar aquellas comunidades quc .rún sc(()Dsclvan en EI Salvadol'como remaneDtcs('Jel pasado colonial. los
-.¡ue Iucron en otros tiúD'rpos asieDto clc scño¡ios indígenas hoy son
-(()nro lrcqucños jsl(]tcs cn los clue se nrantiene la organizacicin strcial
-y Lu cultura rradicioniri€s distintas de la organizacitin y de le vicla
-¡rrcicir¡1. En los Departanrentos dc Sonsonate y Ahuachapán aprrret < n poblacic.rncs como Izalco, N¿htLizalco y Juayúa donde todrrv'¿ po,l<rnos cncontrar mujercs vestidls con sus trírtcs típicos raclicionales
-1' r'n <1onr1c ¡ror lo mcno-s, las gcnctrcioncs adultas hablan la lengua
+9o. Es el que de preferencia presta servicio militar. (La Consn-
+tución establece la obligatoriedad del servicio militar para todos los
+salvadoreños; en la práctica dicho servicio lo prestan únicamente los
+clementos de la población rural, incluyendo a los indios. El servicio
+militar tiene ventajas y desventajas en la formación de la personali-
+dad indígena; alfabetiza al indígena, le inculca nuevos hábitos higié-
+nicos, desarrolla el individualismo y lo integra en cierto grado a la
+vida nacional; pero lo desliga de sus obligaciones de parentesco, lo
+desadapta para la vida en su cantón o aldea, adquiere vicios urba-
+nos, etc.
 
-## Page 9
+100. Es el que carece de servicios médicos hospitalarios. Sometido
+2 la medicina tradicional y al tratamiento herbolario está marginado
+de los más importantes servicios públicos, entre ellos los servicios
+hospitalarios.
 
-_Extraction method: embedded text._
+La encuesta llevada a cabo es solo un comienzo; será necesario
+realizar investigaciones más completas, con trabajo de campo y obser-
+vación participante, para que podamos identificar a los más 1mpor-
+tintes grupos indígenas que aún subsisten; el cantón es, frecuente-
+mente, el último refugio del indígena. Ya no tiene la tierra comunal,
+ni el ejido, que eran las buses de su organización social y de su
+cohesión como grupo. Pero la proximidad física de sus compañeros,
+que sufren las mismas penalidades les dá el único apoyo moral con
+que pueden sostenerse en su vida tan difícil Ese es el sector irreden-
+to que tiene que ser localizado e identificado mediante la investiga-
+ción social.
 
-Ancri.¿ I ¡tJ t;.c tt,t
+SITUACIÓN ACTUAL DE LOS GRUPOS DE POBLACIÓN
+INDÍGENA MÁS O MENOS “PURA”
 
-El problen.a htdigena en El Saluaior
+Fs relativamente fácil localizar aquellas comunidades que aún se
+conservan en El Salvador como remanentes del pasado colonial. Los
+que fueron en otros tiempos asiento de señorios indígenas hoy son
+como pequeños islotes en los que se mantiene la organización soctal
+y la cultura tradicionales distintas de la organización y de la vida
+nacional. En fos Departamentos de Sonsonate y Ahuachapán apare-
+cen poblaciones como Izalca, Nahuizalco y Juayúa donde todavía po-
+demos encontrar mujeres vestidas con sus trajes típicos tradicionales
+y en donde por lo menos, las generaciones adultas hablan Ja lengua
 
-nahuát. Análogos grupos indígenas podcr)ros cncontr¿r cn los Dcpartamentos dc La Libertad, La Paz, San M igLre I y trl(¡raz¡in. Po¡ ot¡a
-parte en todo el rcr¡ito¡io n¿ciontl, pirrri(Lrl.¡| (lrt( cn cl scclor nl¡xl
-que es cl mayoririlrio, se ven cl¿r¿s ¡t lur ifcsr rrc iont.s tle l¿r cultu¡a indígena, tanto en lo que resllccta iLl folkkrrc rorro l cicrtas costurnbres
-y valores fue¡tcmcnte arraigados cn cl ¡rLrcbkr.
-La situación de los grupos intliucnas alrrrli,l,,s ¡rnscntir lirs siguicn,
-tes caractcrísticas:
-1o. Convivcnci¿r de indkrs rirn ¡r¡ intlics f¡ct rrcntcnlcnrc llam¿dos ladinos. La irrLrpción de elc¡rcntos laclinos cn l¡s conruniclades
+## Page 760
 
-monda, pues su economía es casi natural. por regla general no hay
-producción de extedentes; todo lo cosechado se deitina al consumo y
-como lo cosechado no alcanza para subsistir toclo el año, los homb¡es
+_Extraction method: OCR from PDF page 9, left half._
 
-760
+760                                           América Indigena
 
-tiene viejos antecedentes quc sc rcmontan a los prinrcros años de
-vida colonial. Los espariolcs atrlíclos por la prrxpcridad cJc irJgunas
-comunidades indígenas se tr.rslir(lan ¡ vivir qn cllas, k¡s indícen¡s los
-recha'¡n pero los laclinos se impcrncn por l.L fLrerzr. L,L C,rr,rna cspañola dic¡a leyes prohibienclo la convivcncia de ladinos e indigenas y
-ordenando quc aqLrellos sc trasladcn a las ciudadcs españoles; esas
-lcycs fucron "acatarlirs lxro no cunrpiidas" por parte c1e los españoles. Asi se llegó a un statu qií). )os españoles sc cstablecieron en un
-barrio y los indios cn otro; pronro apareciri cl nr€srizajc y la separación sc consolidó cnt¡e indios y ladinos, es decir cntre los cxrraños a
+nahuat. Análogos grupos indígenas podemos encontrar en los Depar-
+tamentos de La Libertad, La Paz, San Miguel y Morazán. Por otra
+parte en todo el territorio nacional, particularmente en el sector rural
+que es el mayoritario, se ven claras manifestaciones de la cultura in-
+dígena, tanto en lo que respecta al folklore como a ciertas costumbres
+y valores fuertemente arraigados cn cl pucblo.
+
+La situación de los grupos indigenas aludidos presenta las siguien-
+tes Características:
+
+lo, Convivencia de indios con no indios frecuentemente llama-
+dos ladinos. La irrupción de elementos ladinos en las comunidades
+tiene viejos antecedentes que se remontan a los primeros años de
+vida colonial. Los españoles atraídos por la prosperidad de algunas
+comunidades indígenas se trasladan a vivir en ellas, los indígenas Jos
+rechazan pero los ladinos se imponen por la fuerza, La Corona espa-
+ñola dicta leyes prohibiendo la convivencia de ladinos e indígenas y
+ordenando que aquellos se trasladen a las ciudades españoles; esas
+leyes fueron “acatadas pero no cumplidas” por parte de Jos españo-
+les. Asi se llegó a un statu quo, los españoles se establecieron en un
+barrio y los indios en otro; pronto apareció el mestizaje y la separa-
+ción se consolidó entre indios y ladinos, es decir entre Jos extraños a
 la antigua comunidad y los habitantes nativos.
-2o. Hostilidad entre indios y ladinos. los indjos consideran al ladino como un intruso, romo un advenedizo, que hl llegado a explotar
-al indio; dc ahi su odio conrra el mestizo a quicn desearían cxpulsar
-de la comunitlacl; los ladinos a su vcz tratan dc justificar .u piil,i["giada situación quc lcs pcrmite explotar y oprimir a los ináígcnas
-afi¡mando que éstos son scrcs infcriorcs, malos por naturalezá, dc
-quiencs hay que des{onfi¿r sicml>rc,. Lo-s rcproches son mrituos e intcrrninablc's. Debcmos sclialar clr,r. rr Dr.sar clc cstos cncon¡raclos senrimientos, la convi',,cncia .lc anriro5 liupos s" realiza a rr.l\.rrs dc un
-sistema dc interc¡nbio cle se¡vicios y dc biencs, sistema cn cl cual
-los ladinos obtienen la parte dcl león.
-3o. los indios en cstas comLrnidadcs satisfaccn sus neccsicladcs mccliante una economía dc sr.rbsisrencia; algunos, los jrcnos, ricnen en
-propiedacl mínimas parcclas, la nayoría arricncl¿ tic¡ras a lrs hacicndas y I los latifunclistas; paflan paf el arrendamiento "tres fancgas
-de maíz por cacla fancga dc sembradura" 1.como lo frecucntc c5 <1ue
-una fane¿¡a cle semb¡adura produzca cuatro, eI indio paga el censo
-fespecrivo y despu¿s de tante enerría consumida, obticnc apcnas una
-fanega dc maí2. Su tccnologíe es atrasada. Sus proced in.r icnrcls de cui,
-tivo son prehispánicos cn su m¿yoría. Entre cllos casi no circlrl¿ Iil
 
-161
+20. Hostilidad entre indios y ladinos. Los indios consideran al Jadi-
+no como un intruso, como un advenedizo, que ha llegado a explotar
+al indio; de ahí su odio contra el mestizo 2 quien desearían expulsar
+de la comunidad; los ladinos a su vez tratan de justificar su privile-
+giada situación que les permite explotar y oprimir a los indígenas
+afirmando que éstos son sctes inferiores, malos por naturaleza, de
+quienes hay que desconfiar siempre. Los reproches son mútuos e in-
+terminables, Debemos señalar que a pesar de estos encontrados senti-
+mientos, la convivencia de ambos grupos se realiza a través de un
+sistema de intercambio de servicios y de bienes, sistema en el cual
+los ladinos obtienen la parte del león.
 
-se ven obligados a trabajar conro peones en lts haciendas y fincas
-incorporándose asi al sistema de capitalismo deoendiente nacional.
-(Sin perjuicio del ¡ecurso de las arás¡nías t, le producción de artículos come¡ciales tales como c,l c¡cao o cl .af¿. que son controlados
-¡'or rc;paradores ladinos ) .
-Taml¡ién debe tcnerse prcsenie que los indír:cnas ticnen además
-economía de presrigio, es dccir aquella que se caractcriza por un dcsproporcionado consumo corrspicuo. que bacc qr.re cn dcrerminadas ceremonias el indio gaste grandes crrntidadcs de dincro con el sólo propósito de ganar prestiélio social. Tal cs cl caso del mayordomo de
-un¿ cofradía que tienc quc sufr.rerr los gasros de la ficsir del Santo
-Patrono o del que tienc que conrrae¡ matrinonio y por consiguiente
-debe pagar el "p¡ccio de la novia" y además los áe-la fiest¿ co¡rcspondiente. En ambcs casos, la cc.,nornia dc sLrbsistencir del inclio no
-dá recursos para sLrfragar tan extraordinarios srstos. Il inr]io. an¡e
-tales compromisos, se vi. obligado a vendcr los ¡rocos bienes comerciables que- pue.l.r rencr ). r conrr.Ler de,r.les ¡.ira ru1o
-lrr¡o riene
-que engancharse como pcón por varios años. Queda a¡ruinado económlcamente pero en cambio ha tanaclo prestigio social y, en atlelante,
-formarír parte de los "principales". de aquellos a quienes la comunidad
-pide su opinión para lrs decisiones d!. flsuntos inrportanres.
-4o. El sector l¡dino ticne una ecr)nomi.r ,le ripo merc.rntil simplc
-en l¿ cual ellos desempeñan el papel cle intermedjarios entre los indios como productores y los grandes centros nacionales dc consumo.
-También un importante crupo de iadinos se dedica a la c-xplotación
-atrícola ganadera sobre la base de I;r exploraci,',n de la mano de obra
-indígena. Hay también en la jurisclicción erxndes unidades de explotación agricola, haciendas tradi< ionalcs y latifundios, lo c¡uc dá al
-sistema económico una abisarrada combinación de capitalismo agrícola
-y mercantil, iunto con imEtrtantes remanenrcs {cudales y de econor¡ía indi¡ propiamcnre dicha.
-5o. El ingreso mínimo dc los índios no super¿ los cien d<ilares
+30. Los indios en estas comunidades satisfacen sus necesidades me-
+diante una economía de subsistencia; algunos, los menos, tienen en
+propiedad mínimas parcelas, la mayoría arrienda tierras a las hacien-
+das y a los latifundistas; pagan por el arrendamiento “tres fanegas
+de maíz por cada fanega de sembradura” y como lo frecuente es que
+una fanega de sembradura produzca cuatro, el indio paga el censo
+respectivo y después de tanta energía consumida, obtiene apenas una
+fanega de maíz. Su tecnología es atrasada. Sus procedimientos de cul-
+tivo son prehispánicos en su mayoría, Entre ellos casi no circula la
 
-al ¿ño.
-óo. Abundan las festividadcs religiosas que proporcionan cxpansirin social a los indígenas y son la ocasión de gastos de derroche
-sumirmcntc dariinos para sus pobres economias familiares.
+## Page 761
 
-7o. Dcpcndencia polírice. La concentración y centralización de
+_Extraction method: OCR from PDF page 9, right half._
 
-¡xxl<r' <¡rrc círr¡rccriz¿ al cobicrno dc la rcpública, ha tenido repcr.
+El problema indígena en El Salvador        761
 
-## Page 10
+moneda, pues su economía es casi natural. Por regla general no hay
+producción de excedentes; todo lo cosechado se destina al consumo y
+como lo cosechado no alcanza para subsistir todo el año, los hombres
+se ven obligados a trabajar como peones en las haciendas y fincas
+incorporándose así al sistema de capitalismo dependiente nacional.
+(Sin perjuicio del recurso de las artesanías o la producción de ar.
+tículos comerciales tales como el cacao o el café, que son controlados
+por acaparadores ladinos).
 
-_Extraction method: embedded text._
+También debe tenerse presente que los indígenas tienen además
+economia de prestigio, es decir aquella que se caracteriza por un des-
+proporcionado consumo conspicuo, que hace que en determinadas ce-
+remonias el indio gaste grandes cantidades de dinero con el sólo pro-
+pósito de ganar prestigio social. Tal es el caso del mayordomo de
+una cofradía que tiene que sufragar los gastos de la fiesta del Santo
+Patrono o del que tiene que contraer matrimonio y por consiguiente
+debe pagar el “precio de la novia” y además los de la fiesta corres-
+pondiente. En ambos casos, la economía de subsistencia del indio no
+dá recursos para sufragar tan extraordinarios gastos. El indio, ante
+tales compromisos, se vé obligado a vender los pocos bienes comer-
+ciables que pueda tener y a contraer deudas para cuyo pago tiene
+que engancharse como peón por varios años. Queda arruinado econó-
+micamente pero en cambio ha ganado prestigio social y, en adelante,
+formará parte de los “principales”, de aquellos a quienes la comunidad
+pide su opinión para las decisiones de asuntos importantes.
 
-t62
+40. El sector ladino tiene una economía de tipo mercantil simple
+en la cual ellos desempeñan el papel de intermediarios entre los in-
+dios como productores y los grandes centros nacionales de consumo.
+También un importante grupo de ladinos se dedica a la cxplotación
+agrícola ganadera sobre la base de la exploración de la mano de obra
+indígena. Hay también en la jurisdicción erandes unidades de explo-
+tación agrícola, haciendas tradicionales y latifundios, lo que dá al
+sistema económico una abigarrada combinación de capitalismo agrícola
+y mercantil, junto con importantes remanentes feudales y de econo-
+mía india propiamente dicha.
 
-El ptoblerta indigena en El Sahtador
+5o. El ingreso mínimo de los indios no supera los cien dólares
+al año.
 
-Anñrica Ind igc tt,t
+Go. Abundan las festividades religiosas que proporcionan expan-
+sión social a los indígenas y son la ocasión de gastos de derroche
+sumamente dañinos para sus pobres economías familiares,
 
-cusiones en la relativa autonomía quc cn cl si.r¡lo pasado s€ concedía
+7o. Dependencia política. La concentración y centralización de
+poder que caracteriza al gobierno de la república, ha tenido reper-
 
-a los bar¡ios indígenas. Esta ha quciarlt> rtrlt¡r itl¡t cn grado muy mínimo, a las providencias para fesrividadcs rclir:iosus; en lo demás, la
-dependencia se manifiesta en niveles cirsi ll>vrlr¡tr¡s.
-8o. Desarrollo f¡ecuente de procc-sos rnigratriri,rs. La mayoría de
-los jóvenes, hombres y mujeres, se vcn ir<itl<los c()nstantemente a
-emigrar a los ccntros urbanos desarroll¿rdos, csl^-( ixln'rcntc a San Salvador. Por especial afinidad buscan csr¡blcccrsc cn l,ueblos donde
-hay apreciable cantidad de inclígenas y quc cstiln cn los aLedaños de
+## Page 762
 
-la ciudad capital. Así pueden trabaiar en clla y vivir cn pequeños
-poblados donde encuentran condiciones dc vida sinilares a las que
-están acostumbfados. Las consecuencias dc estos proccsos migratorios
-están por esrudiarse; puede anticiparse, sin embargo, quc los hombres
-migrantes incrementan el número de desxupados y las muieres cl de
+_Extraction method: OCR from PDF page 10, left half._
+
+762                                      América Indigena
+
+cusiones en la relativa autonomía que un el siglo pasado se concedía
+a los barrios indígenas. Esta ha quedado reducida en grado muy mi-
+nimo, a las providencias para festividades religiosas; en lo demás, la
+dependencia se manifiesta en niveles cast absolutos,
+
+80, Desarrollo frecuente de procesos migratorios, La mayoría de
+los jóvenes, hombres y mujeres, se ven incitados constantemente a
+emigrar a los centros urbanos desarrollados, especialmente a San Sal-
+vador. Por especial afinidad buscan establecerse en pueblos donde
+hay apreciable cantidad de indígenas y que están en los aledaños de
+la ciudad capital. Así pueden trabajar en clla y vivir en pequeños
+poblados donde encuentran condiciones de vida similares a las que
+están acostumbrados. Las consecuencias de estos procesos migratorios
+están por estudiarse; puede anticiparse, sin embargo, que los hombres
+migrantes incrementan el número de desocupados y las mujeres el de
 las sirvientas domésticas.
-9o. Las nuevas generaciones tjenden a ¡echazar los usos tradicionales. Los jóvenes visten a la usanza nacional dentro de sus posibilidades económicas; las muchachas no han podido resistir al uso de
-l¿ f¿lda cotta y cuando puedcn sc convierten en clicntes de los salones
-de lrlleza. Se niegan a hablar en lengua nativa y cuando se les pregunta quó son, contestan que son salvadoreños.
-10o. Alcoholismo. No es extraño el alto consumo de bebidas
-alcohólicas en los oueblos que se encuentran en condiciones de vida
-infrahumana; elloi b,.rscan en el deli¡io alcohólico un escape para
-sus constantes penas. Pcro es un hecho indudable que la mayoría de
-la población indígena se ha converticlo en alcohólica c¡ónica.
-Hemos usado delibc¡adamente Ia palabra "comunidad" en las anterio¡es observaciones; en su lugar debicr¡¡nos de haber puesto "comunidad cn proceso de desintegracirln", pues tlesde que se liquidaron
-por ley la-s tier¡as de comunidades y los ejidos, las comunidades indí.qenas hirn ido clesnparecienclo unas r¡as ot¡as. Usamos sin embargo
-la pnlabrir "comunidad" por razones de brevedad y por qr¡e la presencta
-de hdinos dá al poblado cierta relativa estabiliclad.
-ITAPAS DE LA POI-íTICA INDIGENISTA EN EL SALVADOR
+
+9o. Las nuevas generaciones tienden a rechazar los usos tradicio-
+nales. Los jóvenes visten a la usanza nacional dentro de sus posibili-
+dades económicas; las muchachas no han podido resistir al uso de
+la falda corta y cuando pueden se convierten en clientes de los salones
+de belleza, Se niegan a hablar en lengua nativa y cuando se les pre-
+gunta qué son, contestan que son salvadoreños.
+
+100. Alcoholismo. No es extraño el alto consumo de bebidas
+alcohólicas en los pueblos que se encuentran en condiciones de vida
+infrahumana; ellos buscan en el delirio alcohólico un escape para
+sus constantes penas. Pero es un hecho indudable que la mayoría de
+la población indígena se ha convertido en alcohólica crónica.
+
+Hemos usado deliberadamente la palabra “comunidad” en las an-
+teriores observaciones; en su lugar debiéramos de haber puesto “co-
+munidad en proceso de desintegración”, pues desde que se liquidaron
+por ley las tierras de comunidades y los ejidos, las comunidades in-
+digenas han ido desapareciendo unas tras otras. Usamos sin embargo
+la palabra “comunidad” por razones de brevedad y por que la presencia
+de ladinos dá al poblado cierta relativa estabilidad.
+
+ETAPAS DE LA POLÍTICA INDIGENISTA EN EL SALVADOR
 
 El indigenismo es la política que el Estado, entidades públicas
-o privadas y a veces particula¡es, asumen para enfrentar los problemas
-de los grupos indígenas. El indigcnismo es en la actualidad una de
-las actividades del Estado en nuest¡o continente, quc se xpoya en p¡in-
+O privadas y a veces particulares, asumen para enfrentar Jos problemas
+de los grupos indígenas. El indigenismo es en la actualidad una de
+las actividades del Estado en nuestro continente, que se apoya en prin-
 
-/
+## Page 763
 
-ot
+_Extraction method: OCR from PDF page 10, right half._
+
+El problema indigena en El Salvador         763
 
 cipios científicos que le proporcionan la Antropologia, la Sociología y
-.lcmás Ciencias Sociales; se apoya también en disciplinas tales como
-J,r Medicina, la Ingenieria, la Agrononía, etc., etc. Pero a pesar del apovo gue le proporcionan las ciencias, el indigenismo sigue siendo polírjca con las posibilidades y limitaciones que la poiítica contiene
-El indigenismo presenta variables en el tiempo y en cl espacio,
-ha experimentado c¿rnbios y virajcs profundos, de conformid¿d con
-las transformaciones operrdas en las instituciones clel Estrdo. En EL
-Salvador los cambios de la politica incligenista se prescntan de acue¡do
-con el proceso del desarrollo histórico nacional. Así podemos distinguir las siguientes etapas cn las cuales el indigenisrno tiene disíniiles
-¡nanifestaciones.
+demás Ciencias Sociales; se apoya también en disciplinas tales como
+la Medicina, la Ingeniería, la Agronomía, etc., etc. Pero a pesar del apo-
+yo que le proporcionan las ciencias, el indigenismo sigue siendo poli-
+tica con Jas posibilidades y limitaciones que la política contiene.
 
-1a. Etapa: ind,igenismo colonial: En esta ctapa el Estado y la
-Iglcsia practican una política indigenista que en el fondo trataba de
-consolida¡ el sistema colonial y ase¡lurat la prosperidad y riqueza de los
-r olonizadores. En esta etapa encontramos tres formas de indigenismo:
-a) Indigenismo de exre¡minio que persigue la liquidacit'>n de roda
-rcsistencia al dominio español mediante la acción bélica directa que
-se traducía en muer¡e y destruc-ción de poblados entcros, iniciándose
-asi los primeros genocidios en el continente. La rcduccirin de pobLados indígenas debe comprenderse cn esta política indigcnista;
-los poblados indígenas tenian el típico patrón de clispersión de los
-pueblos agricultores; Ias viviendas inclígenas estaban dispersas unas
-tlc las omas con distancias h¿sta dc medio kilómetro; esta dispersión
-favorecía sus tareas agrícolas y adaptaba mcjor el poblado al ambiente regional; pero los intereses clel Estado (cobro de tributos y
-facilidades para el control político y militar) y los intcreses dc la
-lglesia (necesidades del aclocr¡inamiento y el cob¡o de diezmos y
-primicias) impusieron la política de reducción (conccntración) dc
-¡roblados indigenas. las viviendas indí¡¡enas debían de estar juntas,
-(omo cn los poblados españoles; los pueblos que se rcsisricron fueron
-.¡remados junto con los habitantes qr.re allí se cnconrrarani y los que
-irccptaron Ia rcduccirin perdieron sus mejores ticrr¿rs en bcneficio de
-los españoles y tLrvieron que sufrir proccsos epidémicos desconocidos
-cn los poblados dispersos.
-b) Indigenismo de salvación. Es el practicado por la Iglcsia Catriiica; consecuente con sus principios y dogmas fundameutales, lo
-<¡rrc m/rs interesaba a la Iglesia era la salvación de las almas y con
-('stc fin sc dcdicaba a conve¡tir miles de indígenas a la religión de
-(.risro. I-os nisione¡os (en El Salvador franciscanos y dominicos)
-l)rot(.,11ü) a los indios clc aigunas violencias y atropellos de los colo-
+El indigenismo presenta variables en el tiempo y en el espacio,
+ha experimentado cambios y virajes profundos, de conformidad con
+las transformaciones operadas en las instituciones del Estado. En El
+Salvador los cambios de la politica indigenista se presentan de acuerdo
+con el proceso del desarrollo histórico nacional. Así podemos distin-
+guir las siguientes etapas en las cuales el indigenismo tiene disímiles
+manifestaciones.
 
-## Page 11
+la. Etapa: indigenismo colonial: En esta etapa el Estado y la
+Iglesia practican una política indigenista que en el fondo trataba de
+consolidar el sistema colonial y asegurar la prosperidad y riqueza de los
+colonizadores. En esta etapa encontramos tres formas de indigenismo:
 
-_Extraction method: embedded text._
+a) Indigenismo de exterminio que persigue la liquidación de toda
+resistencia al dominio español mediante la acción bélica directa que
+se traducía en muerte y destrucción de poblados enteros, iniciándose
+asi los primeros genocidios en el continente. La reducción de po-
+blados indígenas debe comprenderse en esta política indigenista;
+los poblados indígenas tenían el típico patrón de dispersión de los
+pueblos agricultores; las viviendas indígenas estaban dispersas unas
+de las otras con distancias hasta de medio kilómetro; esta dispersión
+favorecía sus tareas agrícolas y adaptaba mejor el poblado al am-
+biente regional; pero los intereses del Estado (cobro de tributos y
+facilidades para el control político y militar) y los intereses de la
+Iglesia (necesidades del adoctrinamiento y el cobro de diezmos y
+primicias) impusieron la política de reducción (concentración) de
+poblados indígenas. Las viviendas indígenas debían de estar juntas,
+como en los poblados españoles; los pueblos que se resistricron fueron
+quemados junto con los habitantes que allí se encontraran; y los que
+aceptaron la reducción perdieron sus mejores ticrras en beneficio de
+los españoles y tuvieron que sufrir procesos epidémicos desconocidos
+en los poblados dispersos.
 
-Atniricd lntliltet,t
+b) Indigenismo de salvación. Es el practicado por la Iglesia Ca-
+tolica; consecuente con sus principios y dogmas fundamentales, lo
+que más interesaba a la Iglesia era la salvación de las almas y con
+este fin se dedicaba a convertir miles de indígenas a la religión de
+Cristo. Los misioneros (en El Salvador franciscanos y dominicos)
+protegran a los indios de algunas violencias y atropellos de los colo-
 
-El problew )ndigeta en El Saluador
+## Page 764
 
-nizadores pero daban a entender quc los srifrir)ricntos en la tre¡ra
-aseguraban una vida feliz en e[ cickr. Irl in,lircnisr¡o de salvación
-mereció lla¡narse indigenismo dc resignar irin y ,lc sometimiento puesto que inculcaba en los indios cL coni,rrlrisnr,r y la obediencia. Las
-mismas órdenes misione¡as en cic¡ros <rrsos .ltsvir¡r¡rn sus objetivos
-espirituales para explotar al inclígcnt rorno crrrr¡ibuyenre de diezmos
-y primicias y toda clase de contribucioncs y a.lt nriLs aprc,vcchaban la
-fuerza de trabajo indígena plra construír rcrnl'los tln importantes
-como el de Metapán o el de San Vi<cntc.
-c) lüigenismo de explor,tcirir: "I)acl al cliablo <rn estas tierras
-pues que no hav oro", esto drjo, scgírn cl Pncl¡c Las Cas¿s, el conquistador Pedro de Alvarado cutn(l() sc convcnciri dc qLre cn Cuscatlán
-no habían minas de oro, ni sjquicrír de plata. Pero orros esparioles
-no pensaron así; quedaba la tierrn con suelos fccunclos cluc ¡endían
-magníficas cosechas ( Cuscatlltn quicrc dccir en N¡rhua¡ ticrra cle prcseas, de fegalos para el honrbrc) y cstaban hs masas indírcnas que
-sabían cultivar y a las cuales se podía cxplotnr hasta el límite humano para enriquecer a sus amos españoles y sr.rrgieron las haciendas
-que se multiplicaron por todo ei territorio salvadoreño y somcriercn
-a se¡vidumb¡e feud¿l a la mayoría de los indígcnas. El Estado se apresuró a crea¡ las instituciones que facilitaron esa cxplotación: la encomienda y los repartimientos- Ia encomienda consistía en el dec¡cto
-por medio dcl cual la Corona Española cncomendaba uno o varios
+_Extraction method: OCR from PDF page 11, left half._
+
+764                                              América Indigena
+
+nizadores pero daban a entender que Jos sufrimientos en la tierra
+aseguraban una vida feliz en el ciclo. El indigenismo de salvación
+mereció llamarse indigenismo de resignación y de sometimiento pues-
+to que inculcaba en los indios el conformismo y la obediencia. Las
+mismas órdenes misioneras en ciertos casos desviaron sus objetivos
+espirituales para explotar al indígena como contribuyente de diezmos
+y primicias y toda clase de contribuciones y además aprovechaban la
+fuerza de trabajo indígena para construír templos tan importantes
+como el de Metapán o el de San Vicente.
+
+c) Indigenismo de explotación: “Dad al diablo con estas tierras
+pues que no hay oro”, esto dijo, según el Padre Las Casas, el con-
+quistador Pedro de Alvarado cuando se convenció de que en Cuscatlán
+no habían minas de oro, ni siquiera de plata. Pero otros españoles
+no pensaron así; quedaba la tierra con suelos fecundos que rendían
+magníficas cosechas (Cuscatlán quiere decir en Nahuat tierra de pre-
+seas, de regalos para el hombre) y estaban las masas indígenas que
+sabían cultivar y a las cuales se podía explotar hasta el límite hu-
+mano para enriquecer a sus amos españoles y surgieron las haciendas
+que se multiplicaron por todo el territorio salvadoreño y sometieron
+a servidumbre feudal a la mayoría de los indígenas. El Estado se apre-
+suró a crear las Instituciones que facilitaron esa explotación: la enco-
+mienda y los repartimientos. La encomienda consistía en el decreto
+por medio del cual la Corona Española encomendaba uno o varios
 pueblos indigenas a un colonizador para que se encargase de velar
-por el adoctrinamiento cle los indios en la religión católic¿ y los
-indios en cambio, para compensar t¿n va]ios¿s como desinte¡esados
-servicios estaban obligados zr trabajar cierto número de días al año
-en tieras del cncomcndero, a llcv¿rle clcterminada cantidad de cem,
-de miel y de frutas de la estacirin, a hilarlc tletc¡minaCa cantidad de
-algodí>n y a tejerlc determinrdo nírme¡o dc v,rras de tela. En total el
-e¡comcndero disponía de mano de obra gratuita y además rccibía
-productos del trabajo indígena. Los repartimientos ernn de bic-nes y
-de trabajo; por los primeros el indígena recibía mercencías que debía de comprar aún sin neccsitarlas, al cspañol beneficiado con el
-repartimiento, mctcancías que vendía a p¡ecios muy elcvados: el repartimicnto de trabajo consistía cn que cl Intcndente Corregidor, o
-cualquier autoridad española dist¡ibuía entre los hacendados y demás
-propietarios, a los indios para que fueran a trabajar la tierra mediantc
-eI pa¿¡o de un módico sala¡io. El trabajo, en estos casos, era obligacorio y por lo tanto forzado. Frecuentemente el indio era víctirna de
-despojos, y a través del mcc¿nismo del repartirnicnto, se veía fo¡zado
+por el adoctrinamiento de los indios en la religión católica y los
+indios en cambio, para compensar tan valiosas como desinteresados
+servicios estaban obligados a trabajar cierto número de días al año
+en tierras del encomendero, a llevarle determinada cantidad de cera,
+de miel y de frutas de la estación, a hilarle determinada cantidad de
+algodón y a tejerle determinado número de varas de tela. En total el
+encomendero disponía de mano de obra gratuita y además recibía
+productos del trabajo indígena. Los repartimientos eran de bienes y
+de trabajo; por los primeros el indígena recibía mercancías que de-
+bia de comprar aún sin necesitarlas, al español beneficiado con el
+repartimiento, mercancías que vendía a precios muy elevados; el re-
+partimiento de trabajo consistía cn que el Intendente Corregidor, o
+cualquier autoridad española distribuía entre los hacendados y demás
+propietarios, a los indios para que fueran a trabajar la tierra mediante
+el pago de un módico salario. El trabajo, en estos casos, era obliga-
+corio y por lo tanto forzado. Frecuentemente el indio era víctima de
+despojos, y a través del mecanismo del repartimiento, se veía forzado
 
-a trabajar en la tier¡a que fue suya, al servicio del nismo que sc
+## Page 765
+
+_Extraction method: OCR from PDF page 11, right half._
+
+El problema indigena en El Salvador         765
+
+a trabajar en la tierra que fue suya, al servicio del mismo que se
 la usurpara,
-2a. Erdpd; post-independencl¿. Te¡minada la vida colonial el indio,
-rlue ha tomado pa¡te en las luchas por la indepcndcncia, es objeto
-<lc preocupaciones y reflexiones incelccrualcs [)or parrc de los no
-indios. Surgen entonces una srrie de p¡uycc(iónes'indigenistas que
-POOenOS pfesen¡ar asl:
-a) Indigenismo liberal. El libe'¡r¡lismc¡ cs la idc-ologia quc orientri a los próceres en su lucha por la independencia. Blancos y mestizos habían internalizado los principios y tcorías liberales aunque
-los proyectaban a la realidad con enfoques ciifercnres. El 4O/o, por
-lo menos, de .la poblacir'rn salvadoreña era indígena y esta circuns
-¡ancia no podía pasar desapercibidn a los teciricos liberales quienes
-t¡ataron de elaborirr una política indigcnista aco¡de con sus principios
-ideológicos gencrales. Esta política tcnía los siguien¡es principios fundamcntales: 1) a partir de la indcpcndencil todos son iguales ante
-la lcy; el indio cs ciudadano y por lo tanto es ya un ser libre; Ias
-leyes cspeciales que lo protegían dr.irante el periodo colonial eran
-tliscriminato¡ias y contrarirs al pr.incipio de i-gualdad, por tanto ruvieron que derogarse para que el indio dejara de ser un menor dc edad,
-siempre protegiclo y se convirtiera en suiero juríclico con plenitud
-dc derechos 1'obligaciones. 2) La edL¡c¿cirin es la palanca decisiva
-para cl progrcso; hay que eclucar lL indio para que conozca las ventajas de nuestra civilización y se incorpore a ella.3) En la lib¡e activiclad económica, en cl libre juego de la corr.:petencia, el indio puede,
-rul igual <1ue Ios no inciios, empobrecerse o edquirir muchas riquezas.
-Un ejemplo de esce liberalismo lo cncontramos en D¿vid J. Guzmán
-rluicn escribe: "Hoy el indio más acomodado vive cn una casilla de
-paja ,:lc tristc y pobre aspecto. Parece no tener asp.iraciones miis que
-a llenar sus más urgentes necesidades; nada adelanta, en nada inte¡vicnc. Es un ser pasivo en cl estado civil y social de nuestra sociedad
-rr pcsar de estar plcndna tL rels¡bilit¿do por /as leyes de Ia Repúblic¿. Es neccsario que el espíritu realmentc liberal y hum.rnita¡io
-,.lc nuestras instituciones pcnetre por todos lados en el hogar del
-indígena, instrulíndole; sacándolo de su apatía, y si es posible ha,.iónckrlc dcsapareccr graclualmente en la masa de le civilización ac¡ual
-(lrc cs ¡)or una parte la suerte resc¡vada a los vestigios expirantes
-(lc otrxs civilizaciones ya muertas y por orr¿ la gloriosa misión enco¡¡rcn,lrt,lrt apoyo ptlternnl de los gobiernos libcrales e ilustados".2o
 
-164
+2a. Etapa: postandependencia: Terminada la vida colonial el indio,
+que ha tomado parte en las luchas por la independencia, es objeto
+de preocupaciones y reflexiones intelectuales por parte de los no
+indios. Surgen entonces una serie de proyecciones indigenistas que
+podemos presentar así:
 
-: r (;uzrn,'rn. 1331, pág. 507.
+a) Indigenismo liberal. El liberalismo es la ideologia que orien-
+tó a los próceres en su lucha por la independencia. Blancos y mes-
+tizos habían internalizado los principios y teorías liberales aunque
+los proyectaban a la realidad con enfoques diferentes. El 40%, por
+lo menos, de la población salvadoreña era indígena y esta circuns-
+tancia no podía pasar desapercibida a los teóricos liberales quienes
+trataron de elaborar una política indigenista acorde con sus principios
+ideológicos generales. Esta politica tenia los siguientes principios fun-
+damentales: 1) a partir de la independencia todos son iguales ante
+la ley; el indio es ciudadano y por lo tanto es ya un ser libre; las
+leyes especiales que lo protegían durante el periodo colonial eran
+discriminatorias y contrarias al principio de igualdad, por tanto tuvie-
+ron que derogarse para que el indio dejara de ser un menor de edad,
+siempre protegido y se convirtiera en sujeto jurídico con plenitud
+de derechos y obligaciones, 2) La educación es la palanca decisiva
+para el progreso; hay que educar al indio para que conozca las ven-
+tajas de nuestra civilización y se incorpore a ella, 3) En la libre ac-
+tividad económica, en el libre juego de la competencia, el indio puede,
+al igual que los no indios, empobrecerse o adquirir muchas riquezas.
+Un ejemplo de este liberalismo lo encontramos en David J. Guzmán
+quien escribe: “Hoy el indio más acomodado vive en una casilla de
+paja de triste y pobre aspecto. Parece no tener aspiraciones más que
+a llenar sus más urgentes necesidades; nada adelanta, en nada inter-
+viene. Es un ser pasivo en cl estado civil y social de nuestra sociedad
+a pesar de estar plenamente rehabilitado por las leyes de la Repú-
+blica. Es necesario que el espíritu realmente liberal y humanitario
+de nuestras instituciones penetre por todos lados en el hogar del
+indígena, ¿imstruyéndole; sacándolo de su apatía, y si es posible ha-
+cióndole desaparecer gradualmente en la masa de la civilización actual
+que es por una parte la suerte reservada a los vestigios expirantes
+de otras civilizaciones ya muertas y por otra la gloriosa misión enco-
 
-165
+mendada al apoyo paternal de los gobiernos liberales e ilustrados”.*
 
-## Page 12
+“3 Guzmán, 1883, pág. 507.
 
-_Extraction method: embedded text._
+## Page 766
 
-At , úi,t lL,lrrLtt,r
+_Extraction method: OCR from PDF page 12, left half._
 
-/oo
+766                                               América Indigena
 
-El indigenismo liberal en el fondo ¡elsegui¡ a¡rcbatar a los indios
-sus tie¡¡as conrunales y ejidalcs y cotrvcrtir cr) r))it¡ro de obra asalariad¿ a millares de indígenas quc sc rcsisrirtrr t cttrjcnar su fuerza de
-trabajo. El sistema económico lil>cral rkstrrryLi la rornLrnidad indígena
-mediante la expedición de leycs clue cxtittliuitrort l¿s tierms de comunidades y ordenaban cl otorganricnto clc ¡tarccJas a cluicnes pagaran
-por ellas uoa pequeña cantidad cn tlincro; ltu (lúc (uvicron capacidad
-económica compra¡on esas parcclas y sc convirticrtln cn Propietarios
-privados que, con el co¡¡e¡ clc los lrt¡s sc vicron obligaclos a vender
-a blancos o mestizos; los quc no tuvicron capacirlitd ccttn<'tntca para
-
-compra¡ o no quisieron comprar como una protcst¿r contra la ley,
-pasaron a formar parte dcl ejército de crabajadorcs agricolas sin tierr.L.
-El resultado fue el despojo y la n.riscria. El paternalisno estatal creó
-escuelas en poblaclos indrgcnas, corno el Instirt¡¡o dc indígenas de
-Nahuizalco, en donde se impartía una educación liberarl positivista
-cornplcramente al margen de los verdadc¡os in¡e¡escs educativos de
+El indigenismo liberal en el fondo perseguía arrcbatar a los indios
+sus tierras comunales y ejidales y convertir cn mano de obra asala-
+riada a millares de indígenas que se resistían a enajenar su fuerza de
+trabajo, El sistema económico Jiberal destruyó la comunidad indígena
+mediante la expedición de leycs que cxtingutcron las tierras de co-
+munidades y ordenaban cl otorgumiento de parcelas a quienes pagaran
+por ellas una pequeña cantidad en dinero; los que tuvieron capacidad
+económica compraron esas parcclas y se convirticron en propietarios
+privados que, con el correr de los años se vieron vbligados a vender
+a blancos o mestizos; los que no tuvieron capacidad económica para
+comprar o no quisieron comprar como una protesta contra la ley,
+pasaron a formar parte del ejército de trabajadores agricolas sin tierra,
+El resultado fue el despojo y la miseria. El paternalismo estatal creó
+escuelas en poblados indigenas, como el Instituto de Indígenas de
+Nahuizalco, en donde se impartía una educación liberal positivista
+completamente al margen de los verdaderos intereses educativos de
 los grupos aborígenes.
 
-b) Indigenismo romántico. Consolidada la indepcndencia, la tareir
+b) Indigenismo romántico. Consolidada la independencia, la tarea
+central de los ideológos fue la de elaborar las bases de la flamante
+nacionalidad; y no encontrando otro asidero, buscaron en los arcanos
+del pasado indio las bases intelectuales para desarrollar nuestra con-
+ciencia nacional; se idealizó entonces el pasado indígena; se mitifi-
+caron ciertos héroes como el llamado Atlacatl el Joven," y se enalte-
+cieron Jos valores indígenas prehispánicos. Pero la visión idilica del
+pasado indígena contrastaba con el menosprecio del indio del presente,
+al que consideraban cn pleno proceso de degeneración racial. La
+única solución viable para estos indigenas románticos, estaba en el
+mestizaje, en la progresiva asimilación de la raza inferior por los
+representantes de la raza superior.
 
-central dc los ideológos fue la de elaborar las bases de la flamante
-nacionalidad; y no encontrando otro asiclero, buscaron en los arcanos
-.lel pasado indio las bases inteleccuales para desartollar nuestra conciencia nacional; se idealizó entonces el pasado indígena; se mitiflcaron ciertos héroes como el lhmatlo Atlacatl el foven,21 y se cnaltecieron los valores indígenzrs prehispánicos. Pcro [a visión idilica del
-pasado indígena cont¡astal¡a con el menosprecio dcl indjo del presente,
-al que consicleraban cn plcno prcreso de dcgeneración racial. La
-única solución viable para estos inclr¡¡cnas romhnticos, estaba en el
-mestizaje, cn la progresiva asimil¡¡cirin de h raza inferior por los
-reprcsentanres dc la raza superior.
-c) Indigenismo de explotirción: cstc indigcnismo, herencia directa de la colonia, ¡efina sus mctodos dc explotación del indio:
-aparecen las tiendas de raya y cl pago cn fichas. La hacienda tradi
+c) Indigenismo de explotación: este indigenismo, herencia di-
+recta de la colonia, refina sus métodos de explotación del indio:
+aparecen las tiendas de raya y el pago en fichas. La hacienda tradi-
 cional refuerza sus características feudales en un franco proceso de
-regresión histótica. Las leyes liberales favo¡ecen el proceso de explotación y las mesnadas indias se¡vían Jo mismo para hacer produ<ir
-las haciendas como para pa¡ticipa¡ en asonadas y golpes de Estaclo
-en defensa de inre¡eses rle los señores haccndados.
-d) Indigenisrno de exterminio. El siglo xrx presenta muchos levantamientos indígenas; la difícil sinración del indio y las frecuentes
-21 lat¿é, 1962. Íorr]o 1.
+regresión histórica. Las leyes liberales favorecen el proceso de ex-
+plotación y las mesnadas indias servían Jo mismo para hacer producir
+las haciendas como para participar en asonadas y golpes de Estado
+en defensa de intereses de los señores hacendados.
 
-El problema i lgena en El Sol'va.dor
+d) Indigenismo de exterminio. El siglo XIX presenta muchos le-
+vantamientos indígenas; la dificil situación del indio y las frecuentes
 
-167
+21 Lardé, 1962, Tomo 1.
 
-in¡usticias de que es víctima, originan ¡eacciones v.iolentas; Ias lcvas
-nrili¡a¡es fueron los motivos inmediatos del levantamiento de los nonualcos encabezados por Anastacio Aquino, eo 1831 y a partir dc
-cntonces se suceden levantamientos indígenas que son reprimidos con
-crecien¡e brutalidad sin que se tomen en cucnt¿ las causas s{xroeconómicas que originan talcs levantamientos. La última represión conrra los indígenas t.ienen .luga¡ cn encro de I9)2, cuando son muerros
-más de veinte nil indígenas cn el Occidente dcl país. El gcnocidio
-más grande que conrice la histo¡ia de El Salvador.
-3a. Etapa actual; indigenismo de egdción. En I9)2, el ri¡ano
-He¡nández Martíncz ordenó la mue¡te de nás de 20,000 indígenas
-del Occidente de la República; más tarde, en 194(1, envió a su Ministro de Educación, como representante de El Salvador, al Primer
-Congreso Indigenista Interanrericano celebrado en Pátzruaro, e rrrmediatanrente se apresuró a suscribir y ratifrcar la Convención Internacional, que crcó cl Instituto Indigcnista Intcrame¡jcano. El Salvador
-cs pues, fundador de <licho Instituto; además, promuLgó una ley creando cl Instituto Indigenista Salvado¡eiro. El dictado¡ quería presentar
-ante el mundo la imagen de un csraclist¿ preocupado por la causa
-indigenista y no la de un ''ascsino de indios" como se le solía llama¡
+## Page 767
 
-en los circulos clandc'stinos de la resistencia. Pero el indigenismo de
-He¡nández Martínez fue un indigenista de cxportación; se afilió al
-Insrituto Indigenista Interarnericano y dictó la ley del Instituto filial; pero dentro del país no sc hizo ninguna política indigenista
-positiva; no se conc¡etó en realidad la ley que ceó el Instituto Indigcnista Salvadoreño. Es du¡ante este periodo que el indio sc esfuma
-cle las estadísticas oficiales. Desaparece cl Insrituto de Indígenas de
-Nahuizalco y oficialmente no se ¡ealiza ninguna política de promoción social dirigida especialmentc a los grupos indigenas. Era como
+_Extraction method: OCR from PDF page 12, right half._
+
+El problema indígena en El Salvador         767
+
+injusticias de que es víctima, originan reacciones violentas; las levas
+militares fueron los motivos inmediatos del levantamiento de los no-
+nualcos encabezados por Anastacio Aquino, en 1831 y a partic de
+entonces se suceden levantamientos indígenas que son reprimidos con
+creciente brutalidad sin que se tomen en cuenta las causas socioeco-
+nómicas que originan tales levantamientos. La última represión con-
+tra los indígenas tienen lugar en encro de 1932, cuando son muertos
+más de veinte mil indígenas en el Occidente del país. El genocidio
+más grande que conoce la historia de El Salvador.
+
+3a. Etapa actual: indigenismo de negación. En 1932, el tirano
+Hernández Martínez ordenó la muerte de más de 20,000 indígenas
+del Occidente de la República; más tarde, en 1940, envió a su Mi-
+nistro de Educación, como representante de El Salvador, al Primer
+Congreso Indigenista Interamericano celebrado en Pátzcuaro, e in-
+mediatamente se apresuró a suscribir y ratificar la Convención Inter-
+nacional, que creó el Instituto Indigenista Interamericano. El Salvador
+es pues, fundador de dicho Instituto; además, promulgó una ley crean-
+do el Instituto Indigenista Salvadoreño. El dictador quería presentar
+ante el mundo la imagen de un estadista preocupado por la causa
+indigenista y no la de un “asesino de indios” como se le solía llamar
+en los circulos clandestinos de la resistencia. Pero el indigenismo de
+Hernández Martínez fue un indigenista de exportación; se afilió al
+Instituto Indigenista Interamericano y dictó la ley del Instituto fi-
+lial; pero dentro del país no se hizo ninguna política indigenista
+positiva; no se concretó en realidad la ley que creó el Instituto Indi-
+genista Salvadoreño. Es durante este periodo que el indio se esfuma
+de las estadísticas oficiales. Desaparece cl Instituto de Indígenas de
+Nahuizalco y oficialmente no se realiza ninguna política de promo-
+ción social dirigida especialmente a los grupos indígenas. Era como
 si en El Salvador no tuvieramos problemas indígenas.
-los gobiernos quc suceclicron a Hernández Manínez manruvicron
-la misma politica del dictador; Ios funciona¡ios que debían encarélarse
-dc la prornoción social, o no sabian conro abo¡dar cicntíficamente el
-problema indígena o conside¡a¡on que no habia ningún problema de
-csta clasc. Asi surge el indigenismo de negación que está de espaldas
-r la realidad social. El indigenismo de negación prede tener peligrosas consecuencias: los problenas que sufre el indio sin una in¡ervcncicin adecuada del Estaclo, tienden a aélravarse y a poner a los
-¡rrrcbkrs campesinos en situación tensional y conflictiva que puedc
 
-sr¡scita¡ c-s¡allidos de violenciir. la obligacirin del estadista es p¡cver anres
+Los gobiernos que sucedieron a Hernández Martínez mantuvieron
+la misma política del dictador; los funcionarios que debían encargarse
+de la promoción social, o no sabían como abordar científicamente el
+problema indígena o consideraron que no había ningún problema de
+esta clase, Asi surge el indigenismo de negación que está de espaldas
+a la realidad social. El indigenismo de negación puede tener peligro-
+sas consecuencias: los problemas que sufre el indio sin una inter-
+vención adecuada del Estado, tienden a agravarse y a poner a los
+pueblos campesinos en situación tensional y conflictiva que puede
+suscitar estallidos de violencia. La obligación del estadista es prever antes
+que remediar. Es tiempo ya de que se abandone el indigenismo de
 
-,¡rrc rcnrcdiar. Es tiempo ya dc <1ue sc abanclone el indigenismo dc
+## Page 768
 
-## Page 13
+_Extraction method: OCR from PDF page 13, left half._
 
-_Extraction method: embedded text._
+768                                           América Indigena
 
-168
-
-Atnérica Iudigcnd
-
-negación y se inicie una verdade¡a política incligenisra en favor de
-aquellos que, sin lugar a dudas, son los <1uc mhs derecho tienen a
-llamarse salvadorcños.
+negación y se inicie una verdadera política indigenista en favor de
+aquellos que, sin lugar a dudas, son los que más derecho tienen a
+llamarse salvadoreños.
 
 CONCLUSIONES
 
-1a. Tenemos que reconocer cluc cn Ll Salvaclor hay problema
-indígena; el grado de intensidad y la jDportancii! ,lcl mismo, pueden ser objcto de discusión, pero no cn lo (lue rcspe(ta a su mrsma
-existencia.
+la. Tenemos que reconocer que en El Salvador hay problema
+indígena; el grado de intensidad y la importancia del mismo, pue-
+den ser objeto de discusión, pero no en lo que respecta a su misma
+existencia,
 
-2a. Aín cuando el núme¡o cle indígcnas salvadorciros fue¡a de
+2a, Aún cuando el número de indígenas salvadoreños fuera de
 escasas dimensiones, esto en manera alguna justificaría una política
-de abstención; los indígenas, como los quc se cncucntr¿n en Nahuizalco, tienen una concepción general del munclo distinta de la nuestra;
-denen una ideología dife¡ente y sus costunbres, usos y valores también son diferentes; su proceso dc clesarrollo social y económico está
-en retraso; tienen, como dicen algunos antropiilogos una cultura propia que difiere profundamente de la nuestra. Estas circunstancias imponen un tratamiento especializado que, con apoyo en la Antropología, en la Sociología y demás ciencias sociales, logre poco a poco,
-
-la integración del in<1ígena a la vida nacional. Por eso, aún cuando el
+de abstención; los indigenas, como los que se encuentran en Nahui-
+zalco, tienen una concepción general del mundo distinta de la nuestra;
+tienen una ideología diferente y sus costumbres, usos y valores tam-
+bién son diferentes; su proceso de desarrollo social y económico está
+en retraso; tienen, como dicen algunos antropólogos una cultura pro-
+pia que difiere profundamente de la nuestra, Estas circunstancias im-
+ponen un tratamiento especializado que, con apoyo en la Antropo-
+logía, en la Sociología y demás ciencias sociales, logre poco a poco,
+la integración del indígena a la vida nacional. Por eso, aún cuando el
 problema indígena se presentara con cortas dimensiones en lo que
-respecta a su proyección cuantitativa, aún así, se t¡ata de un problema
-profundamente hLrmano que me¡ece, con todo derecho, la atcnción del
-
-El problerna indigena en El Stb¿dor
-
-juicio cle reclamar tratamicntos especiaics para la mujer y niño indíiicnas que trabajan en las unidades de explotacirin agrícolas.
-5a. El problema indígena en toda América l-atina proyecta como
-t¡na de sus bases esenciales, la ¡efo¡ma agraria quc pcrmita al indic¡ satisf¿ccr su milenaria vocación agricola con la cntrcga de la tierra para
-l.L comunidad. El indígena salvadoreño ha sido dcspojado de sus tierr,rs,
-,rlgunos desde la época colonial y otros durante el proceso de cles¡¡ro1lo de las instiruciones republicanas; su demanda central es la
-rccupcración de sus tierras; por lo mismo, una reforma agraria de
-ripo integral que resdtuy¿ o dote de derras a los grupos indígenas,
-ronstituiría la clave de la solución del problema indígena.22
-6a. Muchos niños indígenas están al margen de la labor escolar
-del Estado. Po¡ otra parte el niño indígena tiene derecho a la enseranza biculural, es decir, a que se le enseñc l¿r cultura nacional y
-rLclemás, su propia cultura. Esto hace necesario la creación de un
-Departamento de Educación Indígena que, con base en la experienci.r
-cducativa continental, integrc aclecuadamente al indígena al proccscr
-cclucativo nacional en todas sus escalas.
-7a. El Estado tiene quc desarrollat una campaña eclucativa nacronal en contra de la disc¡iminación racial del indígcna, para que se
-crccn las condiciones adecuadas quc permitan que cl indígena prescnte su vcrdadera imagen cn plena libe¡¡acl soci¿I, sin tcmor dc ninguna clase y en un ambientc de vc¡dadera f¡aternidad humana.
-BIBLIOGRAFfA
-
+respecta a su proyección cuantitativa, aún así, se trata de un problema
+profundamente humano que merece, con todo derecho, la atención del
 Estado.
 
-3a. Consideramos que hay base suficii:ntc para apreciar la existcncia del problen,a indígcna; cste problcma cs de grandes dimensrones;
-la mayoría de los habitantes de los centrcs rurales y los mozos de
+3a. Consideramos que hay base suficiente para apreciar la existen-
+cia del problema indígena; este problema es de grandes dimensiones;
+la mayoría de los habitantes de los centros rurales y los mozos de
 las haciendas y fincas, son indígenas que han perdido sus antiguas
-comunidades y prcsentan serios problemas de ca¡ácrcr social. Alrcde,J,or del 70% de la población nacional son indígenas que en su mayoría tienen la apariencia de mcstizos, pero en el fondo se siguen
-sintiendo inclios y viven las difícultades e injustas condiciones heredadas de la colonia. Desde este punto de vista se hace necesario que
+comunidades y presentan serios problemas de carácter social. Alrede-
+dor del 10% de la población nacional son indígenas que en su ma-
+yoría tienen la apariencia de mestizos, pero en el fondo se siguen
+sintiendo indios y viven las difícultades e imjustas condiciones here-
+dadas de la colonia. Desde este punto de vista se hace necesario que
 el Estado elabore una política adecuada para lograr, en un proceso
 más o menos prolongado, la liberación de nuestros indígenas.
-4a. Il indígena salvadorcño está incorporado ¿l sistema de trabajo
-agrícola nacional; por tanto uno de los aspectos de la política incligenista tiene que ser velar por la debida aplicación de las leyes laborales
-y del seguro social en beneficio de los taba.jadores indí¡¡enas, sin ¡rer-
 
-169
+4a, El indígena salvadoreño está incorporado al sistema de trabajo
+agrícola nacional; por tanto uno de los aspectos de la política indi-
+genista tiene que ser velar por la debida aplicación de las leyes laborales
+y del seguro social en beneficio de los trabajadores indígenas, sin per-
 
-AGIIIRRE BELTRÁN, GONZALo
+## Page 769
 
-1912 ¿LIa lracaurlo eL Indigenis¡no? SEP-Sctcntas, México, D. F.
-I]ARóN CAS].Ro, RoDoLFo
-1942 La poblaciln le F.L S¿h,,¡lor. Instituto Gonzalo |e¡nándcz ,le Ovie,lo.
+_Extraction method: OCR from PDF page 13, right half._
+
+El problema indigena en El Salvador         769
+
+juicio de reclamar tratamientos especiales para la mujer y niño indí-
+genas que trabajan en las unidades de explotación agrícolas,
+
+5a. El problema indígena en toda América Latina proyecta como
+una de sus bases esenciales, la reforma agraria que permita al indio satis-
+facer su milenaria vocación agricola con la entrega de la tierra para
+lia comunidad. El indígena salvadoreño ha sido despojado de sus tierras,
+algunos desde la época colonial y otros durante el proceso de des-
+arrollo de las instituciones republicanas; su demanda central es la
+recuperación de sus tierras; por lo mismo, una reforma agraria de
+tipo integral que restituya o dote de tierras a los grupos indígenas,
+constituiría la clave de la solución del problema indígena.”
+
+Ga. Muchos niños indígenas estan al margen de la labor escolar
+del Estado. Por otra parte el niño indígena tiene derecho a la ense-
+nanza bicultural, es decir, a que se le enseñe la cultura nacional y
+además, su propia cultura. Esto hace necesario la creación de un
+Departamento de Educación Indígena que, con base en la experiencia
+educativa continental, integre adecuadamente al indígena al proceso
+educativo nacional en todas sus escalas.
+
+7a. El Estado tiene que desarrollar una campaña educativa nacio-
+nal en contra de la discriminación racial del indígena, para que se
+creen las condiciones adecuadas que permitan que el indígena pre-
+sente su verdadera imagen en plena libertad social, sin temor de nin-
+guna clase y en un ambiente de verdadera fraternidad humana.
+
+BIBLIOGRAFÍA
+
+AGUIRRE BELTRÁN, GONZALO
+1972 ¿Ha fracasado el Indigentsmo? SEP-Serentas, México, D. F.
+BARÓN CASTRO, RODOLFO
+1942 La población de El Salvador, Instituto Gonzalo Fernandez de Oviedo.
+
 Madrid.
+BONFIL, GUILLERMO
+1972  “El concepto de indio ca América: Una categoría de la situación
 
-I]oNFIL, GT]II,LERMO
+colonial.” En analcs de Antropología. Vol. IX. UNAM, México.
+CoxtÉs Y LARRÁZ, FRANCISCO
+1921 — Descripción Geográfica Moral de la República de El Salvador. Fin
+Colección de Documentos Importantes relativos a la República de
+El Salvador. Imprenta Nacional, San Salvador.
+FONSECA, PEDRO S,
+1927 Lecciones de Estadística. San Salvador.
 
-19,12 El concepto dc indio cn Amórica: Una catc'goría dc la situación
+22 Instituto Indigenista Interamericano, 1973.
 
-colo¡ial." En analcs de Antropologia. Vol. IX. tlNAM. Mcx¡co.
-( oiil.ÚS Y IAR¡-{Z, FRANCISCO
-tr21 Dtscripciór Geagrál)ca Afora! ¡le h Re|íblic¿ rle EL Sabulot. L¡
-C¿¡lccción de r)ocunrcntos Imporrantcs rela¡ivos a Ia República clc
-Ill S.rlvado¡. Imprcnta N¿c;onal. San Salv¡Llo¡.
+## Page 770
 
-lr( )Ns¡f tA, P|DRo S.
+_Extraction method: OCR from PDF page 14, left half._
 
-1921 Leccione¡ ,le Eíalirt;.¿. S¿n Salv¡clor.
-?? InsritLrn) In,Jilcni:jre Intcf¡nrcriceno, I9ll-
+770                                           América Indivena
 
-## Page 14
+GARCIA DE PALACIO, DIEGO
+1921 Carta dirigida al Rey de Espuña por el Lic Diego Garcia de Palacio,
+Oxdor de la Real Audiencia de Guatemala. $ de marzo de 1576, En
+Colección de Documentos Importantes relativos a la República de El
+Salvador. Imprenta Nacional. Sau Sulvador, 1921.
 
-_Extraction method: embedded text._
+GUTIERREZ Y ULLOA, ANTONIO
+1926 — Estado General de la Provinces de Sun Salvador: Reyno de Guate-
+mula por don Antonio Cintiérrez y Ulloa Corregidor Intendente de la
+Provincia (ano de 15807), Imprenta Nacional, 1926.
 
-Att.nu I nJt ¡, tt.t
+GUZMÁN, Davip J.
 
-170
+1883  Apwttamientos sobre la Topografia Fisica de le Republica de El
+Salvador, comprendiendo: su historia natural, sus producciones, in-
+dustria, comercio e inmigración, climas. estadisticas, etc. San Salva-
+dor. Tipografía E] Comcta, 1883.
 
-G¡ncí¡ o¡ PALAcro, DrEco
-
-1921 Carta di,rigida aJ Rey le L'l,ttu rü el I)t.l)icso 1arctu,le Paütio,
-Otlor de l¿ Re'¡l Aali¿nru ,lL On¡rt¡¡t.tlt. ll (lc marzo Je 1576. En
-Colccción tlc Documentos lnr¡,oltt¡tcs rcl¡rrv<¡s a la República de El
-SaLvador. Impr.nta Nacion¿1. S¡rr S¡1v:r,lr¡r, lr)21.
-
-GUTI¡jRRIZ Y ULLoA, ANToNIo
-1926 L¡t*la G¿¡er¿l ,la la P¡oti¡t,t,t tlt S¿" S,¡lt,¿lor: Iiqno.le G ate.
-rt.tla pat ¿oD A¡¡totto ('itttii¡¡tz y Ullo¿ (.¡¡nLpJ,t t,tret)¿etu¿' Lle la
-Protircirt (tÁ<t (le tS07). lm¡rrcnrir N.L(;on¿1, 192ó
-Gtrzr'rÁN, DAVID J.
-
-1SS3 AOr tantielrto! sL¡bte l¿'lr.¡|,¡t.qr¡l¡¿ I:itic¿ lt l¡ Napiblicd de El
-SaLurlor, totnptendiet¡lo: ¡u hi.¡to¡i¿ ¡tt¿tr¡tl, :tt pro.lLcciorlLt, in,lrtttia, comertio e innigt,rciót, cLi¡t¿t. etatlistic¿¡, cc. San Salv¿rlor. Tipografia El Comcta, l8¡JJ.
-
-INTIlRT\.I'{ERICANo, INSTITT-II O INDIGIiN I5 fA
-
-l97l
-
-Acta Finrl Jcl VI Congriro Inciigenista Intcramcric¡no de Pátzcua¡o.
+INTERAMERICANO, INSTITUTO INDIGENISTA
+1973 Acta Final del VI Congreso Indigenista Interamericano de Pátzcuaro.
 
 LARDÉ, JORGE
+1962 Obras Completes, Secretaria de Educación. San Salvador.
 
-1962 OI¡¿¡ (.onllet¡s. Sccrctari¡ tlc lclucacirin. San S¡lvaclor.
+MARROQUÍN, ALEJANDRO D,
 
-MannoqufN, ALEJANDTLT D.
+1964 Apreciación Sociologica de la Independencia Salvadoreña. Instituto
+de Investigaciones Económicas. Facultad de Ciencias Económicas. Uni-
+versidad de El Salvador.
 
-1964 ,'lF€ci¿.ij SocioLógiu lc la lndept'nlencia S¿l¿'¿do¡eña, fos¡i¡uto
-dc Investigaciones Económicas. F'aculral rle Ciencias Económicas. Univr¡sidad de El Salvador.
+MARROQUÍN, ALEJANDRO D,
 
-Nf
+1968  <Alecion Indigenista y Problema Indigena en El Salvador. Centro de
 
-ALEJANDRO D,
-^RROQUíN,
-1968 ;lcckin Iniigeuira y Pnblemu Inlig¿t¡a e.n El S,tlu¿¡lor. ( cntro dc
-Estuclios SocjLrlcs v Promoción Popular San Salvador.
+Estudios Sociales y Promoción Popular San Salvador.
 
-MARrroeuiN, .A.LEJANDRo D.
-1969 Po . tit e,l (irngrr:so Jc Antropologir Amcrican¡. Ncw Orlc¿ns.
-Nf AsRoeuf
+MARROQUÍN, ALEJANDRO D.
+1969   Ponencia al Congreso de Antropología Americana. New Orleans.
 
-N. ALIJA\-DRo l).
+MARROQUÍN, ALEJANDRO D.
+1972  Balance del Indigenismo. {astituto Indigenista Interamericano. Edi-
+ciones Especiales. México, D, [.
 
-1912 B¿lance del Iali.{euis¡¡to. Instituto Indil¡enista Intcramericano. Ediciones Especialcs. México, D. l;.
+NACIONES UNIDAS
+1972 — Anuario Estadistico. New York.
+PEREYRA, CARLOS.
 
-NA(iroN rs tlNrDAS
+1942 Prólogo a Barón Castro Rodolfo, La Población de El Salvador. Ins-
+tituto Gonzalo Fernández de Oviedo, Madrid.
 
-191'2 llnk.triú Ett.kl;íi.(r. Nee, York.
+RODRÍGUEZ, LEOPOLDO ALEJANDRO
+1948 Estudio geográfico, histórico, etnográfico, filológico y arqueológico
+de la República de El Salvador en Centro América, Presentado por
+cl Delegado de aquella República, Dr. Leopoldo Alejandro Rodri-
+guez, al XVI] Congreso de Americanistas, reunido en la ciudad de
+México en septiembre de 1910. En Anales de la Sociedad de Geogra-
+fía e Historia. Guatemala. Año XXIM Tomo XXIII, marzo-junio
 
-Pt:REYRA, C-^RLos.
+de 1948. págs. 146-229.
 
-1942 l>róLogo a Ban|a Cdstrc Ro¿olJa, La Población de El Salvador. lns,
-tituto Gonzalo fernándcz Jc Oviedo, )\ladridRol)Rf crrE7, LEoPoLDo ALEJANDRo
+## Page 771
 
-L918 F.ttalio geogr.ilico, hht(iico, e,togúliao, liLológito 1 arqaeolcigico
-rlc la República de El S¿lua¿Jar e Cet¡tro América. Presentado por
-cl Delegado de aquella República, Dr. Leopoldo Alejandro Rodríguez, al XVII Congreso rle A¡ncricanistas, teunido en la ciudari de
-México en selrticmbre de 1910. En Anales de la So(iedad de G(.o8ra
+_Extraction method: OCR from PDF page 14, right half._
 
-fía e Histo¡ia. Guatemal¿ Año XXTII Tomo XXIII, marzo-iuoio
-Le 7948. píss. 746-229.
+—i
 
-EL prt,hlena indigena en [./ Sulya¿lor
-s u,rtf .4f,JR
+El problema indigena en El Salvador        7
+SUMMARY
 
-i-i
-
-I
-
-I'
-
-l)r. )l,trro4titt pre.t!))tr !n /:t¡ ¿¡¡)rl¿ t ¿,rLntl t.tr,:tt' t,l )nlq"rittt h L't.t
-
-(,'hDtrl) n].r;1tt¿t¡|n{ thdt tl)!.x;.,t¿rct ol ax in¿iar lt.'!,ltrr ir F] S¿i1¿¿.)r L¿\
-
-¡a l¡t r¡:cat)zed. Thi:, lerprte ,t.tDj Saltdatu)¡.t u Lo .lttjt¡o, tb(/ trltet tl
-trrr. it¡ll erirt.t aD ili¿)d lt/oble , ¡lte ¡o the lact tltat iulia:tt arc ¡o JeÚ i,
-¡tn¡¡¡btr, atrl ¡rl¿ti¡:el) inttEr,ttttl ittt't ¡/:r 7¡¿tiothl lile. t h attl:ar nairra.u'
-t/,,tt tb¿ ¡n,ti¿ ¡tohlor ta El Salr¿l¿t /¡¿¡ ta /:t r,tnNutz',1. 1/:t Jtgrt, ol tt
-lttt:u.\itJ an¿ iti )nPotttl ce tright he trLitct ot' li'ttt"tnu. /)L/ ilot itt rLfl L\i)t¿n.t.
-on /he other h¿t¡i. ¿tex iJ the inliatt.r ttue let. t/:it datrn't jrtttll a tlbrte ttot]
-¡,tln1. It ttill i¡ ¡ htn¿r problen ubicb dete¡ru, utrh all right the at¡e tio, lo
-the .\tate. The¡c (;/cr Prlnn.er lrotnlt, d..or¿i¡¡R to t/)r .t/ttbot. .t !l',,c;úlúJ
-,tt'/,/..1th, ¡, uhich Anrl:ropologT .iLtirlogl anl t¡¿i¿l .¡citrttt in geLer.rl. nÉe
-ldtt, i ar¿et t¿ J.rcilitdte tLt¿gtdtian lar the Salralateat iti)a,t.
+Dr, Marroquín presents im bis article a general review of indigenism in bis
+country, maintaining that the existance of an indian problem in El Salvador bas
+to be recomized. This, despite many Salvadoreans who question themselves if
+there still extsts an indian problem, due to the fact that indians are so few in
+number, and relatively integrated into the national life. The anthor maintains
+that the indtan problem in El Salvador has to he recognized. The degree of us
+intensity and iti importance might he subject of discussion, but not its very existance.
+On the other band, even if the indians were few, this doesn't justify an abstention
+policy. Tt still is a human problem which deserves, with all right the attention fo
+the State. These circumpsiances prompt, according to the author, a specialized
+approach, in which Anthropology, sociology and social sciences in general, take
+part, in order te facilitate imegration for the Salvradorean indians,
 <!-- ocr:end -->

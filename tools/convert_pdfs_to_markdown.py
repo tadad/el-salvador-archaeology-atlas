@@ -51,6 +51,14 @@ MANAGED_PROPERTIES = {
 }
 
 
+def ocr_enabled(mode: str) -> bool:
+    return mode in {"auto", "always"}
+
+
+def should_replace_page(mode: str, embedded: str, ocr_text: str) -> bool:
+    return bool(ocr_text) and (mode == "always" or len(ocr_text) > len(embedded))
+
+
 def command(args: list[str], timeout: int = 600) -> subprocess.CompletedProcess[str]:
     return subprocess.run(
         args,
@@ -348,8 +356,8 @@ def convert_one(
         "title": metadata.get("title") or metadata.get("citation") or source.stem,
         "creator": metadata.get("creator") or metadata.get("author") or "",
         "ocr_mode": ocr_mode,
-        "ocr_language": language if ocr_mode == "auto" else "",
-        "ocr_dpi": dpi if ocr_mode == "auto" else 0,
+        "ocr_language": language if ocr_enabled(ocr_mode) else "",
+        "ocr_dpi": dpi if ocr_enabled(ocr_mode) else 0,
         "generated": date.today().isoformat(),
         "status": "error",
         "error": "",
@@ -360,17 +368,17 @@ def convert_one(
         pages, extraction_warning = embedded_pages(source, count)
         methods = ["embedded text" if text else "none" for text in pages]
         ocr_errors = []
-        if ocr_mode == "auto":
+        if ocr_enabled(ocr_mode):
             with tempfile.TemporaryDirectory(dir=TEMP, prefix="ocr-") as temporary:
                 work = Path(temporary)
                 for index, embedded in enumerate(pages):
-                    if usable(embedded):
+                    if ocr_mode == "auto" and usable(embedded):
                         continue
                     try:
                         ocr_text, warning = ocr_page(
                             source, index + 1, work, tessdata, language, dpi
                         )
-                        if len(ocr_text) > len(embedded):
+                        if should_replace_page(ocr_mode, embedded, ocr_text):
                             pages[index] = ocr_text
                             methods[index] = "OCR"
                         if warning:
@@ -408,7 +416,7 @@ def convert_one(
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--ocr", choices=("auto", "never"), default="auto")
+    parser.add_argument("--ocr", choices=("auto", "always", "never"), default="auto")
     parser.add_argument("--ocr-language", default="spa+eng")
     parser.add_argument("--tessdata", type=Path, default=DEFAULT_TESSDATA)
     parser.add_argument("--dpi", type=int, default=250)
@@ -441,7 +449,7 @@ def main() -> int:
     TEMP.mkdir(parents=True, exist_ok=True)
     OUTPUT.mkdir(parents=True, exist_ok=True)
     DATA.mkdir(parents=True, exist_ok=True)
-    if args.ocr == "auto" and not args.tessdata.exists():
+    if ocr_enabled(args.ocr) and not args.tessdata.exists():
         raise SystemExit(f"OCR data directory does not exist: {args.tessdata}")
 
     metadata = source_metadata()
@@ -503,8 +511,9 @@ def main() -> int:
             not args.force
             and previous
             and previous.get("ocr_mode") == args.ocr
-            and previous.get("ocr_language") == (args.ocr_language if args.ocr == "auto" else "")
-            and previous.get("ocr_dpi") == (args.dpi if args.ocr == "auto" else 0)
+            and previous.get("ocr_language")
+            == (args.ocr_language if ocr_enabled(args.ocr) else "")
+            and previous.get("ocr_dpi") == (args.dpi if ocr_enabled(args.ocr) else 0)
             and previous.get("source_sha256") == expected_hash
             and output_path(source).exists()
         ):
