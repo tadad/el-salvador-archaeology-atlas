@@ -11,4 +11,4 @@ aliases:
 
 # Colonial
 
-The Spanish colonial period, broadly 1524–1821. Archaeological contexts may reflect Indigenous, African, Spanish, and mixed communities and should not be assigned a single identity without evidence.
+The period of Spanish rule, broadly 1524–1821. Place records use more specific cultural classifications when supported by their sources.

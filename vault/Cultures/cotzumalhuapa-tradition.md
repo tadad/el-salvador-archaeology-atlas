@@ -9,4 +9,4 @@ aliases: []
 
 # Cotzumalhuapa tradition
 
-Late Classic Pacific-coast material associated with the Cotzumalhuapa sphere. The tradition is an archaeological classification rather than the name of a securely identified people.
+Late Classic Pacific-coast material associated with the Cotzumalhuapa sphere.

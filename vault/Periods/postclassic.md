@@ -10,4 +10,4 @@ aliases: []
 
 # Postclassic
 
-Broadly 900–1524 CE, ending with the Spanish invasion. Place records should retain narrower source-supported dates where available.
+Broadly 900–1524 CE. Place records retain narrower source-supported dates where available.

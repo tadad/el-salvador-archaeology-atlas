@@ -10,4 +10,4 @@ aliases: []
 
 # Maya-related
 
-Material or settlement traditions discussed within the southeastern Maya sphere. This archaeological affiliation does not by itself establish the ethnic identity of a site's inhabitants.
+Material and settlement traditions discussed within the southeastern Maya sphere.

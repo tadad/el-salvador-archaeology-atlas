@@ -2,7 +2,7 @@
 
 Retrieved 2026-08-06 from Internet Archive.
 
-These works are preserved because they contain colonial testimony, early field observations, early archaeological documentation, or historically influential interpretations concerning El Salvador. Their biases and obsolete terminology are part of the source context and should not be adopted uncritically.
+These works are preserved for their historical and research value concerning El Salvador. The collection includes administrative reports, early field observations, archaeological documentation, ethnography, and historically influential interpretations.
 
 ## Documentos antiguos. Copia de dos cartas manuscritas ... dirigidas á Hernando Cortes, 11 de abril y 28 de julio de 1524
 

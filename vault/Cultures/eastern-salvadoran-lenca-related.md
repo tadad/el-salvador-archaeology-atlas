@@ -10,4 +10,4 @@ aliases: []
 
 # Eastern Salvadoran / Lenca-related
 
-Eastern Salvadoran traditions often discussed in relation to Lenca populations. The label is intentionally cautious because material distributions and ethnic identities are not interchangeable.
+Eastern Salvadoran archaeological traditions discussed by their sources in relation to Lenca populations.

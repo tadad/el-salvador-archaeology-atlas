@@ -39,7 +39,7 @@ A Middle/Late Classic village buried by a volcanic eruption, where excavations e
 
 ### 2014: Reinterpretation
 
-A site study reassessed identity, agency, representation, and site-management narratives. [[Papers/anales-53#Page 236|Source: anales-53.pdf, PDF pp. 236–257]]
+A site study reviewed descriptions of the site’s households and its presentation to visitors. [[Papers/anales-53#Page 236|Source: anales-53.pdf, PDF pp. 236–257]]
 
 ### 2013: Collection analysis
 

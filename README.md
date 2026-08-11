@@ -37,13 +37,10 @@ A record belongs in the corpus when it meets at least one condition:
 4. A strong source centered elsewhere contains material specifically relevant
    to El Salvador.
 
-The corpus distinguishes observation, historical or oral report, and later
-interpretation. A colonial text documents what its author wrote; it does not
-automatically establish the accuracy of that description. A documented oral
-tradition is evidence for a narrative and its recording context; claims about
-its age or continuity require separate support. Archaeological styles and
-historical ethnic identities also remain separate unless a source makes and
-supports the connection.
+The corpus distinguishes direct observation, historical or oral reports, and
+later interpretation. Historical accounts and recorded traditions document
+what their authors or narrators reported. Place, date, and cultural
+relationships are recorded when supported by the cited sources.
 
 Public coordinates follow the same principle. Each Place records whether its
 marker is source-published, tied to a public landmark, or approximate. A

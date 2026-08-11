@@ -9,7 +9,7 @@ This vault organizes the local research corpus as six linked record types:
 
 - **Places** preserve atlas locations, descriptions, research histories, uncertainty, and links to supporting Papers.
 - **Periods** provide shared chronological concepts used by Place records.
-- **Cultures** describe cautious archaeological affiliations and traditions; they do not automatically identify peoples.
+- **Cultures** describe archaeological affiliations and traditions and link to Peoples when supported by the cited sources.
 - **Peoples** represent historical or ethnolinguistic groups separately from material culture.
 - **Papers** preserve the page-addressable OCR text, source provenance, and bibliographic metadata for each archived document.
 - **Authors** provide canonical identities for the people and organizations credited by those papers.

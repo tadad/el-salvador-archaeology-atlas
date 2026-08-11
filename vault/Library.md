@@ -70,11 +70,11 @@ status call for linking rather than automatically copying.
 
 ## Source-handling rules
 
-- A local copy preserves access; it does not upgrade the reliability of a work.
-- Early ethnography and archaeology often contain racialized or obsolete
-  terminology. Preserve it as historical evidence and describe it critically.
-- Primary colonial sources document colonial observation, hearsay, coercion,
-  and authorial interest—not transparent Indigenous reality.
+- A local copy preserves access but does not change a work's evidentiary value.
+- Record a source's original terminology and publication date when terminology
+  differs from current usage.
+- Evaluate historical accounts from their authorship, date, purpose, cited
+  evidence, and relationship to other sources.
 - Record the narrator, collector, language, place, and collection date whenever
   working with oral tradition.
 - Cite the exact edition and page; translations can introduce interpretive

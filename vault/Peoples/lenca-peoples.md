@@ -9,4 +9,4 @@ review_status: "unreviewed"
 
 # Lenca peoples
 
-This ontology record represents peoples, not an archaeological material category. Eastern Salvadoran archaeological traditions should not be equated automatically with Lenca identity.
+This record groups historical and ethnolinguistic references to Lenca peoples. Place records link here when their sources make that identification.

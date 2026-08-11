@@ -57,4 +57,4 @@ Barberena identified ruins south of Sonsonate with the Tacuxcalco described in c
 
 ### 1524: Colonial account
 
-Alvarado’s second letter narrates the coastal campaign that later histories associate with Acaxual and Tacuxcalco. The letter is evidence for the invader’s account, not a neutral description or a precise archaeological location. [[Papers/documentosantigu00alva#Page 24|Source: Alvarado letter, PDF pp. 24–30]]
+Alvarado’s second letter narrates the coastal campaign that later histories associate with Acaxual and Tacuxcalco. It provides historical context for the campaign sequence and place names but does not give a precise archaeological location. [[Papers/documentosantigu00alva#Page 24|Source: Alvarado letter, PDF pp. 24–30]]

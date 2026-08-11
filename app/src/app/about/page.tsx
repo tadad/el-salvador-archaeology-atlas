@@ -71,24 +71,23 @@ export default function AboutPage() {
 
               <h2 id="ontology">One graph, six record types</h2>
               <p>
-                <strong>Places</strong> link to <strong>Periods</strong>, cautious
-                <strong> Cultures</strong>, and directly supporting <strong>Papers</strong>.
-                Papers link to canonical <strong>Authors</strong>. Cultures may link to historical
-                <strong> Peoples</strong>, but archaeological styles never become ethnic identities
-                by default. Backlinks supply the reverse relationships.
+                <strong>Places</strong> link to <strong>Periods</strong>, <strong>Cultures</strong>,
+                and directly supporting <strong>Papers</strong>. Papers link to canonical
+                <strong> Authors</strong>. Cultures link to historical <strong>Peoples</strong> when
+                the cited sources support the relationship. Backlinks supply the reverse relationships.
               </p>
 
               <h2 id="evidence">How to read the evidence</h2>
               <p>
-                The corpus distinguishes direct observation, historical or oral report, and later
-                interpretation. A colonial account documents what its author wrote. A recorded
-                tradition documents a narrative and its recording context. Neither automatically
-                proves the historical interpretation later attached to it.
+                The corpus distinguishes direct observation, historical or oral reports, and later
+                interpretation. Historical accounts and recorded traditions document what their
+                authors or narrators reported. Place, date, and cultural relationships follow the
+                cited sources.
               </p>
               <blockquote>
-                Terms such as Maya, Pipil, Nahua, and Lenca operate differently in archaeology,
-                language history, colonial records, and living community identity. The graph keeps
-                those domains connected without collapsing them.
+                Sources may use terms such as Maya, Pipil, Nahua, and Lenca for languages,
+                archaeological classifications, or historical groups. Each graph record preserves
+                the usage found in its cited sources.
               </blockquote>
 
               <h2 id="coordinates">Map coordinates</h2>

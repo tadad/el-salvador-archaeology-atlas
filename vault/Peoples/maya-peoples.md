@@ -8,4 +8,4 @@ review_status: "unreviewed"
 
 # Maya peoples
 
-This ontology record represents peoples, not an archaeological material category. Connections between particular Places and Maya identities require source-specific evidence.
+This record groups historical and ethnolinguistic references to Maya peoples. Place records link here when their sources make that identification.
