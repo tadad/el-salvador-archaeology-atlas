@@ -18,11 +18,12 @@ source_sha256: "f8e42dc1e61925bf7c66d45e87e48a7ad17ae8cc5c339bc60f99d6529258372a
 pages: 154
 extraction_status: "partial"
 embedded_pages: 7
-ocr_pages: 143
-unrecognized_pages: 4
+ocr_pages: 144
+unrecognized_pages: 3
 ocr_mode: "auto"
 ocr_language: "spa+eng"
-generated: 2026-08-06
+ocr_dpi: 250
+generated: 2026-08-11
 review_status: "unreviewed"
 ---
 
@@ -36,7 +37,7 @@ review_status: "unreviewed"
 - Source PDF: [anales-55.pdf](<../Attachments/PDFs/institutional/anales-55.pdf>)
 - Original URL: https://www.cultura.gob.sv/download/revista-anales-55/?wpdmdl=3454&refresh=6a74d714372131786042132
 - Source SHA-256: `f8e42dc1e61925bf7c66d45e87e48a7ad17ae8cc5c339bc60f99d6529258372a`
-- Extraction: 7 embedded-text pages; 143 OCR pages; 4 pages with no detected text
+- Extraction: 7 embedded-text pages; 144 OCR pages; 3 pages with no detected text
 - Caution: This is machine-extracted text. Consult the PDF for layout, images, tables, spelling, and exact quotation.
 
 ## Extracted text
@@ -45,9 +46,13 @@ review_status: "unreviewed"
 
 _Extraction method: OCR._
 
-DEL MUSEO NACIONAL DE ANTROPOLOGÍA DR. DAVID J. GUZMÁN
+JJ
 
-ENERO e JUNIO DE 2016
+Cuarta Epoca
+
+DEL MUSEO NACIONAL DE ANTROPOLOGIA DR. DAVID J. GUZMAN
+
+ENERO @ JUNIO DE 2016
 
 ## Page 2
 
@@ -59,7 +64,11 @@ _[No machine-readable text detected on this page.]_
 
 _Extraction method: OCR._
 
-MUSEO NACIONAL DE ANTROPOLOGÍA DR. DAVID J. GUZMÁN
+99
+
+Cuarta Epoca
+
+MUSEO NACIONAL DE ANTROPOLOGÍA DR. DAVID J. GUZMAN
 
 ENERO @ JUNIO DE 2016
 
@@ -67,7 +76,7 @@ ENERO @ JUNIO DE 2016
 
 _Extraction method: OCR._
 
-ANALES®
+TN
 
 MUSEO NACIONAL DE ANTROPOLOGIA DR. DAVID J. GUZMAN
 
@@ -76,7 +85,7 @@ ENERO e JUNIO DE 2016
 Silvia Elena Regalado Blanco
 Secretaria de Cultura de la Presidencia
 
-COMITE EDITORIAL PARA ESTE NUMERO
+COMITÉ EDITORIAL PARA ESTE NÚMERO
 
 Marlon Vladimir Escamilla
 Director Nacional de Patrimonio Cultural y Natural
@@ -85,7 +94,7 @@ Carlos Pérez Pineda
 Director Nacional de Investigaciones en Cultura y Arte
 
 José Heriberto Erquicia
-Director del Museo Nacional de Antropologia Dr. David J. Guzman
+Director del Museo Nacional de Antropología Dr. David J. Guzmán
 Director de la revista
 
 Nataly Gonzáles y Heriberto Erquicia
@@ -110,7 +119,7 @@ Avenida La Revolución, Col. San Benito, San Salvador, El Salvador.
 
 Tels. (503) 2243-3750, 2243-3927,
 
-e-mail: revistaanales@cultura.gob.sv
+e-mail: revistaanalesOcultura.gob.sv
 
 Impreso en los talleres de la DPI
 17.2 Avenida Sur N° 430, San Salvador, El Salvador, Centroamérica
@@ -126,16 +135,16 @@ ARTÍCULOS
 
 Puesta en valor de los murales de José Mejía Vides: una obra de montaje y
 restauración en el Museo Nacional de Antropología Dr. David J. Guzmán
-Astrid Bahamond Panama
+Astrid Bahamond Panamá
 
-Conjunto ferroviario Sitio del Nifio, San Juan Opico, La Libertad. Un estudio
-desde la perspectiva de la arqueologia industrial
-Nancy Carolina Trujillo Vasquez
+Conjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad. Un estudio
+desde la perspectiva de la arqueología industrial
+Nancy Carolina Trujillo Vásquez
 
-AVANCES DE INVESTIGACION
+AVANCES DE INVESTIGACIÓN
 
 El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
-en la Bahía de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 Roberto Gallardo
 
 Las encomenderas e indias cacicas de la provincia
@@ -217,7 +226,7 @@ puerto El Triunfo de 1894 a 1900, a partir de fuentes primarias, las cuales
 arrojaron una importante información sobre los avatares de la construc-
 ción de la infraestructura del puerto, las contratas con empresas privadas
 
-MUSEO NACIONAL DE ANTROPOLOGÍA DR
+MUSEO NACIONAL DE ANTROPOLOGÍA DR. DAVID J. GUZMÁN
 
 ## Page 8
 
@@ -280,6 +289,8 @@ de interés salvadoreño y centroamericano.
 José Heriberto Erquicia Cruz
 Director de la revista Anales del Museo Nacional de Antropología
 
+MUSEO NACIONAL DE ANTROPOLOGÍA DR. DAVID J. GUZMÁN
+
 ## Page 10
 
 _Extraction method: none._
@@ -320,11 +331,13 @@ Recibido: 26-04-2016; aceptado: 5-06-2016
 
 _Extraction method: OCR._
 
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
+
 Resumen
 
 Un artista paradigmático de la identidad salvadoreña. Uno de los representantes salvadoreños
 más importantes del costumbrismo, paisajismo y retratismo autóctono, es José Mejía Vides
-(1903-1990). Su obra prolífera, se caracteriza por ser un reflejo del modernismo muralista.
+(1903-1990). Su obra prolifera, se caracteriza por ser un reflejo del modernismo muralista.
 Su estilización, acercamiento y emulación del mestizaje nacional ha quedado inmortalizado
 en acuarelas, pinturas y esculturas en piedra, como los preceptos trascendentales de un
 nuevo credo estético internacional. Muralista asimismo - ya que se formó académicamente
@@ -356,7 +369,8 @@ By 2015, the murals were already set up at the David J. Guzman Museum of Anthrop
 Keywords
 Mejia Vides, muralism, artistic heritage, heritage conservation.
 
-13
+Puesta en valor de los murales de José Mejia Vides: una obra de montaje y restauración
+en el Museo Nacional de Antropología Dr. David J. Guzman
 
 ## Page 14
 
@@ -364,7 +378,8 @@ _Extraction method: OCR._
 
 14
 
-VALES 55, 20
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
+
 INTRODUCCIÓN
 
 El arte es lenguaje y comunicación. El ar-
@@ -403,9 +418,7 @@ temático y significativo.
 La producción artística de los murales de
 José Mejía Vides está enraizada en diver-
 
-rond Panamá
-
-Astrid B
+Astrid Bahamond Panama
 
 sos condicionamientos y debe ser anali-
 zada, leida e interpretada por las leyes
@@ -417,7 +430,7 @@ rá catalogarla y clasificarla en una escala
 de valores artísticos y culturales.
 
 Figura 1: Bañista. La muchacha del torso des-
-nudo, 1969. José Mejia Vides. Óleo.
+nudo, 1969. José Mejia Vides, Óleo.
 
 INFLUENCIAS ESTÉTICAS Y
 CONCEPTUALES
@@ -457,7 +470,7 @@ tumbres y la ideología socialista que las
 habría de amparar. Hacer una pintura
 aproximada al pueblo era el fin.
 
-Figura 2: José Vasconcelos (1882-1959), México.
+Figura 2: José Vasconcelos (1882-1959), México,
 
 En 1920, al término de la revolución, se
 iniciará el movimiento de pintura mural,
@@ -465,9 +478,7 @@ capítulo fundamental en la historia del
 arte mexicano y latinoamericano. En el
 muralismo se pueden observar los rasgos
 
-E
-
-ANALES 55, 2016, pp. 10-26, ISSN 0374
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 distintivos de una política cultural llevada
 con mucha pasión y habilidad.
@@ -493,7 +504,7 @@ la “nación masculina”:
 
 Los cultivos restando espacio a la selva, los ferro-
 carriles al día, las carreteras en crecimiento, las
-pequeñas industrias de las ciudades en actividaa,
+pequeñas industrias de las ciudades en actividad,
 el porte arrogante, el trato franco, despejado, de
 los pobladores, el empuje de los negocios, el opti-
 mismo generalizado, todo contribuye en El Salva-
@@ -504,9 +515,13 @@ por virtud de ciertos arreglos de las hormonas so-
 ciales, en masculinos y femeninos. San Salvador
 se llama la capital de El Salvador. La esencia que
 en el recuerdo deja la ciudad, entendiendo esen-
-cia a la manera de los fenomenólogos, el sustrato
+cía a la manera de los fenomenólogos, el sustrato
 último, singularizante y característico, es de efusi-
 va acogida clara, como el bano en las ondas tibias
+
+Puesta en valor de los murales de José Mejía Vides: una obra de montaje y restauración
+
+en el Museo Nacional de Antropología Dr. David J. Guzmán
 
 15
 
@@ -554,7 +569,7 @@ Arte comprometido con los grandes temas
 
 Figura 3: La destrucción del viejo orden (fresco, 1926), José Clemente Orozco.
 
-Escuela Nacional Preparatoria, UNAM
+Escuela Nacional Preparatoria, UNAM,
 
 Astrid Bahamond Panamá
 
@@ -596,7 +611,8 @@ legitimándose con la Revolución mexicana.
 El muralismo mexicano tuvo su período de
 producción más prolífico entre 1921 a 1954.
 
-Figura 4: Tormento de Cuauhtémoc (piroxilina sobre celotex, 1952), David Alfaro Siqueiros. Palacio de Bellas
+Figura 4: Tormento de Cuauhtémoc (piroxilina sobre celotex, 1952), David Alfaro Siqueiros, Palacio de Bellas
+
 Artes, México.
 
 Puesta en valor de los murales de José Mejía Vides: una obra de montaje y restauración
@@ -609,7 +625,7 @@ _Extraction method: OCR._
 
 18
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 A pesar de ser un movimiento plástico con
 diferentes etapas, mantuvo como cons-
@@ -649,6 +665,8 @@ masas obreras y campesinas.
 
 La política interior asumida por el Gobierno
 cardenista, así como la política externa con
+
+Astrid Bahamond Panama
 
 una clara oposición al fascismo, influyó en
 que los pintores jóvenes que no participa-
@@ -715,7 +733,7 @@ una intención por exaltar el arte popular, el
 pasado indígena y lo mexicano.
 
 La mayor parte de las obras que fueron
-creadas específicamente para los mu-
+creadas especificamente para los mu-
 
 Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
@@ -743,7 +761,7 @@ Rodríguez Lozano y Roberto Montenegro,
 cuyas obras ofrecen una visión más com-
 pleta del movimiento muralista mexicano.
 
-Figura 5: El hombre controlador del universo (fresco, 1934), Diego Rivera. Palacio de Bellas Artes, México.
+Figura 5: El hombre controlador del universo (fresco, 1934), Diego Rivera. Palacio de Bellas Artes, México,
 
 Puesta en valor de los murales de José Mejía Vides: una obra de montaje y restauración
 
@@ -757,7 +775,7 @@ _Extraction method: OCR._
 
 20
 
-Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
+Revista ANALES 95, 2016, pp. 10-26, ISSN 0374-5546
 
 Como bien afirma Luis Cardoza y Aragón:
 “El muralismo mexicano es la única apor-
@@ -798,9 +816,9 @@ tendencias de vanguardia: las europeas,
 filtradas por las experiencias del muralis-
 mo mexicano; y las del preciosismo pre-
 
-Astrid Bahamond Panamá
+Astrid Bahamond Panama
 
-Figura 6: José Mejía Vides, 1922.
+Figura 6: José Mejía Vides, 1922,
 
 cortesiano, que no eran solo desde una
 perspectiva contemplativa.
@@ -808,7 +826,7 @@ perspectiva contemplativa.
 Por supuesto, el artista salvadoreño es-
 tuvo inmerso en la intensa corriente au-
 toctonista promovida por José Vasconce-
-los, la cual le permitió estudiar in situ los
+los, la cual le permitió estudiar jn situ los
 lenguajes estéticos de las culturas maya y
 azteca. Fuertemente entusiasmado, formó
 parte del grupo de investigadores pioneros
@@ -842,7 +860,7 @@ Con el maestro Kitagawa conoce la prác-
 tica del plein air, descubre a Van Gogh y a
 Gauguin. Cuatro significativos años en la
 Academia fueron determinantes para la
-consolidacion del estilo propio del maes-
+consolidación del estilo propio del maes-
 tro José Mejía Vides. A través de su estilo
 traducirá los elementos sustentantes de la
 identidad nacional.
@@ -851,7 +869,7 @@ A su regreso, prefiere radicarse en su
 ciudad natal: Panchimalco, población que
 aún no ha roto sus nexos con el pasado
 ancestral, motivo que infunde en José Me-
-jia Vides deseos de evocar la comunidad
+jía Vides deseos de evocar la comunidad
 que lo vio nacer. El mundo mítico de los
 indígenas queda aprehendido en un mar-
 co que no se limita a los objetos visuales,
@@ -866,14 +884,10 @@ tran a diario, como un ritual, las hermosí-
 simas “panchas”, para realizar sus tareas
 cotidianas. No obstante, estas se subliman
 
-E
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
-ANALES 55, 2016, pp. 10-26, ISSN 0374
-
-Figura 7: Servicio fúnebre en Talpán (1930
-Tamij Kitagawa.
-
-),
+Figura 7: Servicio fúnebre en Talpán (1930),
+Tamiji Kitagawa.
 
 ante los ojos de nuestro pintor. General-
 mente, las pinta al desnudo, siendo el pri-
@@ -899,6 +913,10 @@ lumínicas para diferenciar los volúmenes;
 Gauguin, en cambio, las trata en forma to-
 talmente plana. Notaremos también hue-
 
+Puesta en valor de los murales de José Mejía Vides: una obra de montaje y restauración
+
+en el Museo Nacional de Antropología Dr. David J. Guzmán
+
 21
 
 ## Page 22
@@ -910,7 +928,7 @@ _Extraction method: OCR._
 Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 Figura 8: Lavanderas (acuarela, 1970),
-José Mejía Vides,
+José Mejía Vides.
 
 llas posimpresionistas en las soluciones
 puntillistas al trabajar las acuarelas, ya
@@ -952,11 +970,11 @@ najes tienen cuerpos cobrizos, están casi
 
 _Extraction method: OCR._
 
-Figura 9: Pila de San Martin (xilografia, 1956),
-José Mejía Vides,
+Figura 9: Pila de San Martin (xilografía, 1956),
+José Mejia Vides,
 
 desnudos; el primero yace inclinado y el
-segundo, al fondo, está parado con la mi-
+segundo, al fondo, esta parado con la mi-
 rada levantada hacia el cielo.
 
 Iconológicamente, el mural es una alegoría
@@ -1014,7 +1032,7 @@ nilita (acetato de polivinilo), sin fecha exacta,
 cerca de 1966, y firmado. La composición
 del simbólico escenario está resuelta bajo la
 perspectiva de punto de fuga, asimismo, las
-figuras antropomórficas y fitomórficas.
+figuras antropomórticas y fitomórficas.
 
 Puesta en valor de los murales de José Mejía Vides: una obra de montaje y restauración
 
@@ -1028,7 +1046,7 @@ _Extraction method: OCR._
 
 24
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 Seis adultos masculinos, una madre con
 su bebé en brazos y un paisaje que se
@@ -1068,6 +1086,8 @@ la historia pintada, gracias a la cruda ima-
 gen de un verdugo que sostiene con su
 mano derecha un látigo a punto de ejer-
 citar su azote contra un cuerpo de medio
+
+Astrid Bahamond Panama
 
 lado, el cual está adosado a un paredón,
 con sus brazos atados a sus espaldas,
@@ -1114,7 +1134,7 @@ _Extraction method: OCR._
 
 tistas, ya que los personajes protagonistas
 de la histórica batalla de Acaxual —acae-
-cida en 1524- representan el encuentro
+cida en 1524— representan el encuentro
 de culturas en su momento más cruento
 y crucial, que consagra el enfrentamiento
 bélico entre el conquistador Pedro de Al-
@@ -1132,7 +1152,7 @@ circular. La figura ecuestre de Alvarado, en
 la cual se distingue la armadura medieval
 como auténtico atuendo, es grisácea; di-
 cho logro tridimensional, que demuestra a
-perfección el esfumatio (difuminación), es
+perfección el esfumatto (difuminación), es
 utilizado para recrear el volumen del ataque
 del “enemigo” empuñando su espada con-
 tra una víctima indígena. Dicha iconografía
@@ -1150,6 +1170,10 @@ extremo inferior derecho, donde se encuen-
 tra la imagen en perfil e hiperdimensionada
 del guerrero indígena, única imagen que
 representa a la raza pipil, oponiéndose
+
+Puesta en valor de los murales de José Meji
+
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 contra el enemigo, en posición de ataque y
 defensa, a punto de lanzar su flecha y arco.
@@ -1176,7 +1200,7 @@ námicos que dan lugar a la organización
 de los estímulos perceptivos.
 
 En términos históricos, técnicos y estéticos,
-este mural se convierte en un ícono clásico
+este mural se convierte en un Ícono clásico
 de la historia del arte ancestralista que tes-
 timonia cronológicamente el punto clave de
 nuestra cultura: fortaleza y resistencia. Su
@@ -1190,6 +1214,13 @@ MEJÍA VIDES
 
 En 2013 se inició la labor de conservación
 
+restauración
+
+ía Vides: una obra de montaje y
+david J. Guzman
+
+en el Museo Nacional de Antropología Dr.
+
 25
 
 ## Page 26
@@ -1198,7 +1229,7 @@ _Extraction method: OCR._
 
 26
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 y restauración del primer mural del artis-
 ta salvadoreño José Mejía Vides, bajo la
@@ -1225,7 +1256,7 @@ do por las excretas de aves y el esmog, y
 algunas grietas surgidas, probablemente,
 por los movimientos telúricos de 2001.
 
-Posteriormente, el equipo de montaje fí-
+Posteriormente, el equipo de montaje fi-
 sico y estructuración fue conformado por
 Eduardo Góchez, coordinador del monta-
 je, fundamentos y bases, junto a Óscar
@@ -1238,6 +1269,8 @@ Conservación y Restauración de Patrimo-
 nio Nacional; Wilson Alfaro, restaurador;
 Roberto Misael Cuéllar, restaurador; Henry
 Sermeño, restaurador; y el equipo de es-
+
+Astrid Bahamond Panama
 
 tudiantes de horas sociales de la Univer-
 sidad de El Salvador: Alexander Calderón,
@@ -1295,11 +1328,15 @@ artística fuese lo más fidedigna posible.
 Parte del proceso ha quedado documen-
 tado en una producción audiovisual que
 puede ser conocida en el siguiente link:
-https://www youtube.com/watch?v=HV-QsancHus
+https://www. youtube.com/watch?v=HV-QsancHus
 
 Parte del proceso de desmontaje, traslado,
 fundación y exhibición de los murales Ex-
 plotación campesina y La batalla de Acaxual
+
+Puesta en valor de los murales de José Meji
+
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 Piezas seccionadas de los murales
 
@@ -1318,6 +1355,13 @@ Mural La batalla de Acaxual
 
 Mural Explotación campesina
 
+restauración
+
+ía Vides: una obra de montaje y
+david J. Guzman
+
+en el Museo Nacional de Antropología Dr.
+
 27
 
 ## Page 28
@@ -1325,6 +1369,8 @@ Mural Explotación campesina
 _Extraction method: OCR._
 
 28
+
+Revista ANALES 55, 2016, pp. 10-26, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
@@ -1334,7 +1380,7 @@ Edicoes. Brasil.
 Flores de Escalante, 1987. A. José Mejía Vides, Pintor de Cuscatlán. Colección El Salvador y
 el arte, vol. IX. El Salvador.
 
-Bahamond, A. y B. Rodriguez. 1999. Escultura en El Salvador. Somos Editores, Libros de Arte.
+Bahamond, A. y B. Rodríguez. 1999. Escultura en El Salvador. Somos Editores, Libros de Arte.
 El Salvador.
 
 Bahamond, A. 2012. Procesos del Arte en El Salvador. Dirección de Publicaciones e Impresos.
@@ -1349,7 +1395,7 @@ Monsiváis, C. 1985. Catálogo del Museo del Palacio de Bellas Artes. México.
 
 Vasconcelos, J. 1980. Obras completas. México, D.F.: Fondo de la Cultura Económica.
 
-Astrid Bahamond Panamá
+Astrid Bahamond Panama
 
 ## Page 29
 
@@ -1457,6 +1503,10 @@ cadas, es decir, el proyecto ferrocarrilero
 atravesó algunas dificultades que imposi-
 bilitaron la conclusión del mismo a corto
 
+Conjunto f
+
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
+
 plazo. No obstante, y pese a estos incon-
 venientes, el ferrocarril se convierte en un
 medio significativo, pues con la expansión
@@ -1496,6 +1546,11 @@ general y específico de la investigación en
 mención estuvieron enfocados en la iden-
 tificación, por medio de la disciplina de la
 
+ario Sitio del Niño, San Juan Opico, La Libertad.
+va de la arqueología industrial
+
+Un estudic
+
 31
 
 ## Page 32
@@ -1504,9 +1559,11 @@ _Extraction method: OCR._
 
 32
 
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
+
 arqueología industrial, de cómo a través
 de elementos en la arquitectura ferrovia-
-ría se pueden comprender las diversas
+ria se pueden comprender las diversas
 funciones del Conjunto ferroviario de Sitio
 del Niño; además de conocer el proceso
 histórico constructivo del ferrocarril, regis-
@@ -1540,6 +1597,8 @@ néutico, como parte importante de la lec-
 tura, comprensión e interpretación de las
 fuentes obtenidas a partir de la búsqueda
 y recopilación de las mismas.
+
+Nancy Carolina Trujillo Vásquez
 
 ANTECEDENTES DE INVESTIGACIÓN
 
@@ -1582,38 +1641,47 @@ Panamá. Con este logro se estaban crean-
 
 _Extraction method: OCR._
 
-E
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
-ANALES 55, 2016, pp. 27-41, ISSN 0374
-
-Año                                            Contenido
-Durante los meses de enero y febrero, se desarrolló el Proyecto             Marion Escamilla, Mónica
-“Reconocimiento, Prospección e Investigación del Patrimonio Cultural       Valentini y Javier Garcia-
-Subacuático en El Salvador. Etapa Exploratoria”.                                         Cano
-
-2005     Inventario a gran escala sobre patrimonio ferroviario, inventariando no
+Afio                                                       Contenido
 
 Autor/es
 
-.                                               Dirección Nacional de
-solamente inmuebles sino también objetos que formaron parte de las            Patrimonio Cultural
-diferentes estaciones ferroviarias (CONCULTURA, 2005).
-Desde la Universidad Tecnológica de El Salvador, inició un proyecto de
-2007, 2008 | registro y reconocimiento de sitios arqueológicos históricos en El
+Durante los meses de enero y febrero, se desarrolló el Proyecto
+“Reconocimiento, Prospección e Investigación del Patrimonio Cultural
+Subacuático en El Salvador. Etapa Exploratoria”.                                      Cano
 
-y 2011     Salvador, el cual es desarrollado en tres temporadas (Erquicia, 2007,
+Marion Escamilla, Mónica
+Valentini y Javier Garcia-
+
+2005     Inventario a gran escala sobre patrimonio ferroviario, inventariando no
+
+solamente inmuebles sino también objetos que formaron parte de las
+
+diferentes estaciones ferroviarias (CONCULTURA, 2005).
+
+Dirección Nacional de
+Patrimonio Cultural
+
 2008, 2011).
+
+Desde la Universidad Tecnológica de El Salvador, inició un proyecto de
+2007, 2008 [registro y reconocimiento de sitios arqueológicos históricos en El
+y 2011 |Salvador, el cual es desarrollado en tres temporadas (Erquicia, 2007,
+
+José Heriberto Erquicia Cruz
+
+2011-2014
+
+2012; 2013; 2014).
+
 Realizó en diferentes momentos exploraciones en las costas
 salvadoreños con el objetivo de registrar e investigar históricamente
 restos de vapores hundidos, para su pronta protección. (Gallardo, 2011;
 
-José Heriberto Erquicia Cruz
+Roberto Gallardo
 
-2011-2014                                                                                                    Roberto Gallardo
-
-2012; 2013; 2014).
-
-Tabla 1: Investigaciones de carácter científico
+Tabla 1: Investigaciones de carácter científico.
 
 do las condiciones para exportar hacia
 Europa, ya que había un tráfico marítimo
@@ -1640,8 +1708,6 @@ sión con los puertos; por ejemplo, la zona
 occidental y central con el puerto de Aca-
 jutla, y La Libertad y oriente con el puerto
 
-Conjunto ferro.
-
 de La Unión. Con esta dinámica comercial
 en pleno auge, se necesitaban de mejoras
 en el sistema vial y medios de transporte
@@ -1667,7 +1733,10 @@ dos Unidos de América y Europa, lo que
 conllevó a que los gobernantes y a la élite
 de la época pretendieran la incorporación
 
-Un estudios desc
+Conjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad.
+Un estudios desde la perspectiva
+
+de la arqueología industrial
 
 33
 
@@ -1676,6 +1745,8 @@ Un estudios desc
 _Extraction method: OCR._
 
 34
+
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
 del ferrocarril, un medio de transporte que
 brindó grandes beneficios a Inglaterra,
@@ -1692,7 +1763,7 @@ dificultades a consecuencia de la inex-
 periencia en la gestión y planificación de
 este ramo. Sin embargo, es importante
 enmarcar que para los gobernantes de la
-época “la empresa que más los ¡lusionó
+época “la empresa que más los ilusionó
 fue la construcción del ferrocarril. Ya que
 este reunía características que lo hacían
 especialmente atractivo. Aparte de los
@@ -1715,6 +1786,8 @@ trucción del ferrocarril inician en 1872,
 cuando el presidente mariscal Santiago
 González firma un contrato con Juan Luis
 Bueron, quien se compromete a realizar
+
+Nancy Carolina Trujillo Vásquez
 
 la construcción de tres tramos ferrovia-
 rios que conectarían a “San Salvador con
@@ -1762,11 +1835,11 @@ _Extraction method: OCR._
 Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
 Imagen 1: Estación central San Salvador, “The Salvador Railway Company Limited”, Fuente: Archivo periférico
-(FENADESAL) histórico,
+(FENADESAL) histórico.
 
-un año después, en 1898, se paralizaron
+un afio después, en 1898, se paralizaron
 las obras en la prolongación del tendido
-ferroviario debido a la inestabilidad políti-
+ferroviario debido a la inestabilidad politi-
 ca y problemas financieros que atravesa-
 ba el país (Sanz y Santamaría, 1998).
 
@@ -1798,8 +1871,7 @@ meros intentos para construirlo y para que
 geográficamente El Salvador de inicios del
 siglo XX quedase más unido y sus pobla-
 
-Conjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad.
-
+Conjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad,
 Un estudios desde la perspectiva de la arqueología industrial
 
 35
@@ -1836,9 +1908,8 @@ de Cerén y Agua Escondida; al sur, con el
 cantón Las Delicias; al oeste, con el cantón
 Flor Amarilla (municipio de Ciudad Arce); y
 
-Conjunto ferr as
-
-Sitio del Niño
+Conjunto ferroviari
+sitio del Niño
 
 al este, con el cantón Chanmico (Institu-
 to Geográfico Nacional Ing. Pablo Arnoldo
@@ -1864,7 +1935,7 @@ con el occidente salvadoreño vía Santa
 Tecla. No obstante, a la empresa conce-
 sionaria antes mencionada se le otorga-
 
-Imagen 2: Vista satelital del Conjunto ferroviario Sitio del Niño. Fuente: Programa Google Earth.
+Imagen 2: Vista satelital del Conjunto ferroviario Sitio del Niño, Fuente: Programa Google Earth.
 
 Nancy Carolina Trujillo Vásquez
 
@@ -1911,6 +1982,10 @@ blemas para continuar su operación. La
 Comisión Ejecutiva Portuaria Autónoma
 (CEPA) toma no solamente la dirección,
 
+Conjunto ferro’
+
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
+
 explotación y administración del sistema
 ferroviario de la empresa The Salvador
 Railway Company, sino también los bienes
@@ -1926,7 +2001,7 @@ edificaciones. Por tanto, Sitio del Niño se
 convierte en parte del distrito 3 y en uno
 de los cinco ramales, conocido como ra-
 mal D, que se encuentra en el km 67 de la
-vía principal y km O del ramal D.
+vía principal y km 0 del ramal D.
 
 Referente a la historicidad de la infraes-
 tructura en Sitio del Niño, este no cuenta
@@ -1950,6 +2025,10 @@ en ellos se puede apreciar la evolución y
 modificaciones en las construcciones de
 algunos edificios y también su involución,
 
+lo Sitio del Niño, San Juan Opico, La Libertad.
+
+Un estudios desde la perspectiva de la arqueología industrial
+
 37
 
 ## Page 38
@@ -1958,13 +2037,13 @@ _Extraction method: OCR._
 
 38
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
 con la pérdida y desaparición de algunos
 inmuebles que en su momento formaron
 parte del extenso conjunto ferroviario,
 cuyo patio cuenta con una extensión apro-
-ximada de 32,160.00 m2.
+Ximada de 32,160.00 m?.
 
 Es conveniente destacar que la distribu-
 ción espacial de los inmuebles gira en tor-
@@ -1998,6 +2077,8 @@ en mayo de 2010. Para el reconocimiento
 de los inmuebles detallados se optó por la
 conformación de grupos distribuidos en
 torno a puntos cardinales, facilitando la
+
+Nancy Carolina Trujillo Vásquez
 
 recopilación de datos. Es importante re-
 calcar que el puente ferroviario sobre el
@@ -2087,7 +2168,7 @@ o tanques (ver imagen 3). Sitio del Niño es
 Imagen 3: Materias primas utilizadas para la construcción de inmuebles en Sitio del Niño: ladrillo (a), madera (b),
 deploye (c), roca volcánica (d) y tule (e).
 
-onjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad
+Conjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad,
 
 Un estudios desde la perspectiva de la arqueología industrial
 
@@ -2096,6 +2177,8 @@ Un estudios desde la perspectiva de la arqueología industrial
 _Extraction method: OCR._
 
 40
+
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
 un ejemplo de arquitectura mixta o híbri-
 da, pues los ingenieros y arquitectos no
@@ -2135,6 +2218,8 @@ edificios de servicios de pasajeros o instala-
 ciones destinadas a soporte técnico y admi-
 nistrativo, según la clasificación realizada por
 Rolando Lloga Fernández (2014).
+
+Nancy Carolina Trujillo Vásquez
 
 Para comprender la funcionalidad de los
 inmuebles en Sitio del Niño se tomaron
@@ -2179,34 +2264,40 @@ uno de esos remanentes ha sobrevivido
 
 _Extraction method: OCR._
 
-E
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
-ANALES 5
+Propuesta clasificacion funcional para
+Conjunto Ferroviario Sitio del Nino
 
-27-41, ISSN 0374
+Servicio Publico
 
-Propuesta clasificación funcional para
-       Conjunto Ferroviario Sitio del Niño
+Soporte técnico y
+administrativo
 
-_           -                                             Soporte técnico y
-Servicio Público                                           administrativo
-I
-]                                     |                              |
-Edificio de       Menquede gua:                5        Viviendas
-A                     bomba/maquinade          Tanque petroleo
-pasajeros          bombeo                                    |
-Las relativas al transporte                                                     | Permanentes
-|_de pasajeros, con la venta
+ar            Tanque de agua-
+cure           bomba/máquina de
+paselsios                   bombeo
+
+Las relativas al transporte
+|_ide pasajeros, con la venta
 de boletos y los lugares
 destinados para espera
-Colectivas
-)
+
 Las relativas al
+| envio y recepción
+ de encomiendas
 
-~ envio y recepción
-de encomiendas
+I              |
 
-Tabla 2: Organigrama de la propuesta de clasificación funcional para el Conjunto Ferroviario Sitio del Niño..
+Tanque petróleo         Viviendas
+
+|          ~ |
+
+|  Permanentes
+
+Colectivas
+
+Tabla 2: Organigrama de la propuesta de clasificación funcional para el Conjunto Ferroviario Sitio del Nifio..
 
 a través del tiempo y son evidencias pal-
 pables de una sociedad determinada que
@@ -2234,12 +2325,13 @@ Sitio del Niño se hizo indispensable reto-
 mar los aportes de Lloga (2014) y Ferrari
 (2011), que ayudan a comprender que los
 edificios construidos en el referido conjun-
-to responden a un sistema funcional ínte-
+to responden a un sistema funcional inte-
 gro, es decir, a pesar de su ubicación en
 una convergencia de líneas férreas, esto
 
-Conjunto ferro.
-Un estudios desc
+Conjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad.
+
+Un estudios desde la perspectiva de la arqueología industrial
 
 41
 
@@ -2249,7 +2341,7 @@ _Extraction method: OCR._
 
 42
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
 no se torna importante; más bien, este di-
 seño y los inmuebles deben comprender-
@@ -2264,6 +2356,8 @@ importantes de la arquitectura de Sitio del
 Niño, por ejemplo, que entre los materia-
 les o materias primas utilizadas para la
 construcción de los mismos no se hizo uso
+
+Nancy Carolina Trujillo Vásquez
 
 máximo de elementos procedentes de los
 países industrializados, pese a que la in-
@@ -2283,15 +2377,15 @@ del extenso sistema ferroviario.
 
 _Extraction method: OCR._
 
-ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
+Revista ANALES 55, 2016, pp. 27-41, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
-Acosta, A, (2014). Los orígenes de la burguesía de El Salvador. El control sobre
-el café y el Estado. (1.2 ed., 2.? reimp.). Sevilla: Aconcagua Libros.
+Acosta, A. (2014). Los orígenes de la burguesía de El Salvador. El control sobre
+el café y el Estado. (1.? ed., 2.2 reimp.). Sevilla: Aconcagua Libros.
 
 Angulo, J. C. (2000). Tiempo de liberales y reformas. López C. G. El Salvador La Repú-
-blica. Tomo I. El Salvador: Artes Gráficas Publicitarias.
+blica. Tomo |. El Salvador: Artes Gráficas Publicitarias.
 
 Consejo Nacional para la Cultura y el Arte, CONCULTURA. (2005). Inventario del patrimo-
 nio ferroviario. Dirección Nacional de Patrimonio Cultural.
@@ -2303,7 +2397,8 @@ Ferrari, M. (2011). El sistema ferroviario en el noreste argentino. Arquitectura
 complementarias. Apuntes, vol. 24 (n.* 1), pp. 44-61.
 
 Instituto Geográfico Nacional Ing. Pablo Arnoldo Guzmán. (1990). Monografía del depar-
-tamento y municipios de La Libertad. (1. ed.). San Salvador: Centro Nacional
+tamento y municipios de La Libertad. (1.2 ed.). San Salvador: Centro Nacional
+
 de Registros.
 
 Lloga, R. (2014). La arquitectura asociada a los ferrocarriles en el occidente de Cuba (1837-
@@ -2313,14 +2408,23 @@ Diario Oficial, No oficial. Ferro-carril de Acajutla á Sonsonate. (07 de junio 
 
 Diario Oficial, Sección Editorial. (30 de diciembre de 1929). p. 2,585.
 
-Conjunto
-Un es
+Conjunto ferroviario Sitio del Niño, San Juan Opico, La Libertad.
+Un estudios desde la perspectiva de la arqueología industrial
+
+43
 
 ## Page 44
 
-_Extraction method: none._
+_Extraction method: OCR._
 
-_[No machine-readable text detected on this page.]_
+RIGE
+
+o:
+Ba
+
+et
+
+pit
 
 ## Page 45
 
@@ -2329,14 +2433,14 @@ _Extraction method: OCR._
 AVANCES DE
 INVESTIGACIÓN
 
-Retrato de India Cacica, Siglo XVII. Autor desconocido, México.
+Retrato de India Cacica, Siglo XVII. Autor desconocido. México.
 
 ## Page 46
 
 _Extraction method: OCR._
 
 EL PECIO PSJ-1 Y LA HISTORIA MARÍTIMA
-DE PUERTO EL TRIUNFO EN LA BAHIA DE
+DE PUERTO EL TRIUNFO EN LA BAHIA DE.
 JIQUILISCO, DEPARTAMENTO DE USULUTAN,
 
 EL SALVADOR (1894- 1900).
@@ -2354,6 +2458,8 @@ Recibido: 17-04-2016; aceptado: 5-06-2016
 ## Page 47
 
 _Extraction method: OCR._
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Resumen
 
@@ -2387,9 +2493,8 @@ Limited went broke, presenting a surprisingly short history of the rise and deca
 Keywords
 Archaeology, port, steamship, industrial, maritime
 
-en la Bahía de Jiquilisco,
-
-47
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 48
 
@@ -2455,9 +2560,8 @@ vo en posición vertical por mucho tiempo
 hasta que colapsó en el suelo, siendo re-
 movido recientemente. La concavidad en
 
-Reteve de El Ssvadcr
-
 Figura 1: Mapa propiedad de SNET, El Salvador. Bahía
+
 de Jiquilisco y triángulo blanco mostrando la ubicación del
 pecio PSJ-1. Tomado de Google Earth.
 
@@ -2477,8 +2581,8 @@ El sitio arqueológico PSJ-1 se encuen-
 tra en el extremo este de la península
 San Juan del Gozo, bahía de Jiquilisco
 en el departamento de Usulután (Figura
-1). Las coordenadas son: N13%10"25.6",
-W088"28'41.7".
+1). Las coordenadas son: N13%10'25.6',
+W088"28'41.7.
 
 EXCAVACIONES ARQUEOLÓGICAS
 
@@ -2505,13 +2609,13 @@ fecha de construcción y tampoco el nombre
 de esta embarcación, es evidente que este
 barco navegaba entre puerto El Triunfo y el
 
-Figura 2: Op.1 con unos 20 cm de agua. Se observa el Rasgo 1 parcialmente descubierto.
+Figura 2: Op.1 con unos 20 cm de agua. Se observa el Rasgo 1 parcialmente descubierto,
 
 Fotografía propiedad de Roberto Gallardo.
 
 El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
 
-en la Bahía de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 49
 
@@ -2520,6 +2624,8 @@ en la Bahía de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900
 _Extraction method: OCR._
 
 50
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 mar, por lo que fue necesario hacer un estudio
 histórico sobre este lugar.
@@ -2547,7 +2653,7 @@ del rio, el efecto de tobera se concentra en
 un “chorro” que alcanza hasta 4.5 km. mar
 adentro. De esta forma se ha formado la
 estría de desembocadura de hasta 20m. de
-profundidad y 300 — 400m. de ancho (/bid.)
+profundidad y 300 — 400m. de ancho (Ibíd.)
 y es por esta característica que buques de
 gran calado lograban ingresar a la bahía
 hasta el puerto.
@@ -2580,7 +2686,7 @@ DURANTE 1894
 Puerto El Triunfo fue inaugurado oficial-
 mente el 8 de junio de 1829 como “Puer-
 to del Triunfo de los Libres”, pero aquí se
-presenta su historia iniciando en 1894. Du-
+presenta su historia iniciando en 1894, Du-
 rante este año no aparece actividad en el
 “Movimiento de Buques” del Diario Oficial,
 lo que sugiere que el puerto no fue visita-
@@ -2644,7 +2750,7 @@ rígido de hierro” sobre el rio Lempa, en el
 lugar denominado “El Mal Paso”, entre los
 departamentos de San Vicente y Usulután
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 (Diario Oficial, abril 30 de 1894). La Ca-
 lifornia Bridge Company estaba radicada
@@ -2685,7 +2791,9 @@ do un poco adolorido físicamente ya que
 veinte días antes había sobrevivido a un
 atentado dramático: después de haber to-
 
-51
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 52
 
@@ -2695,9 +2803,9 @@ _Extraction method: OCR._
 
 Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
-Figura 3: El USS Bemington(1890).Imagen de dominio público tomada de https://commons.wikimedia.org/wiki/
+Figura 3: El USS Bennington(1890).Imagen de dominio público tomada de https://commons.wikimedia.org/wiki/
 
-File: USS-Bennington-1890
+File:USS-Bemnington-1890,
 
 mado el mando del ejército en Santa Ana,
 abordó el ferrocarril en La Ceiba “con una
@@ -2781,7 +2889,7 @@ Cónsul Pollock consultó con el Comandan-
 te Thomas del Bennington, quien informó
 que no podía acceder a esta petición hasta
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 recibir órdenes de Washington, otorgando
 a los refugiados derecho de asilo. Ezeta
@@ -2805,7 +2913,7 @@ Considerando la situación crítica de la
 embarcación, se concluyó que el movi-
 miento del barco no afectaba el estado
 de los refugiados. Finalmente, el Secre-
-tario de Estado ordenó al Benningion
+tario de Estado ordenó al Bennington
 zarpar hacia San Francisco y se le co-
 municó al Cónsul en el puerto de La Li-
 bertad que informase al Gobierno central
@@ -2822,7 +2930,9 @@ Al llegar a San Francisco, Ezeta y sus
 generales fueron detenidos (The evening
 herald, septiembre 24 de 1894).
 
-53
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 54
 
@@ -2830,7 +2940,7 @@ _Extraction method: OCR._
 
 54
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Ya consolidado el General Gutiérrez en el
 poder, se implementaron nuevos proyec-
@@ -2869,6 +2979,8 @@ materiales de construcción. El contrato in-
 cluía la preferencia de navegación en el rio
 Lempa si se llegaba a realizar esta aventura
 (Diario Oficial, agosto 27 de 1894).
+
+Roberto Gallardo
 
 La otra propuesta fue presentada por
 los Sres. Simón Sol, Luis López, Loren-
@@ -2950,9 +3062,7 @@ siderase oportuno. La fecha de apertura
 del puerto cambió a la propuesta original,
 ya que el contrato decía que debía estar
 
-SSN 0
-
-NALES 55, 2016, pp. 4
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 funcionando para el 1 de marzo de 1895
 para poder exportar la próxima cosecha
@@ -2992,6 +3102,10 @@ to, y si fuese necesario “...construir un
 faro, para indicar la entrada al puerto”. La
 Compañía también debía guiar el camino a
 
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
+
 55
 
 ## Page 56
@@ -3000,7 +3114,7 @@ _Extraction method: OCR._
 
 56
 
-Revista ANALES 55, 2016, pp. 44-85
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 las “naves de la Nación” cuando salgan o
 entren a la bahía.
@@ -3040,6 +3154,8 @@ del Diario Oficial, evidenciando el lapsus
 de tiempo que tomó la planificación, logís-
 tica y la construcción de la infraestructura
 antes de abrirse al comercio.
+
+Roberto Gallardo
 
 ACONTECIMIENTOS HISTÓRICOS
 DURANTE 1895
@@ -3084,9 +3200,9 @@ jeros para recoger la cosecha de café que
 
 _Extraction method: OCR._
 
-Pr Foon 0
+Pis Teen 10
 Figura 4: El vapor San José de la Pacific Mail Steamship Company (1910). Primer vapor de carga que llegó
-a El Triunfo, Fotografía de la colección personal de Robert Schwemmer.
+a El Triunfo. Fotografía de la colección personal de Robert Schwemmer.
 
 esperaba en las bodegas. Nunca se había
 visto algo parecido en la bahía cuando esta
@@ -3114,7 +3230,7 @@ Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Telémaco o la Odisea. Las tiendas blanquean en
 la costa. Grupos de artesanos, carpinteros, alba-
-files, picapedreros, suben o bajan por andamios,
+ñiles, picapedreros, suben o bajan por andamios,
 se agrupan o acarrean los materiales. El hacha
 bate los grandes árboles, de los que se fabrican
 las embarcaciones. Los canales que forman pro-
@@ -3136,7 +3252,7 @@ que se le avecina hace una exportación
 
 El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
 
-en la Bahía de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 57
 
@@ -3145,6 +3261,8 @@ en la Bahía de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900
 _Extraction method: OCR._
 
 58
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 de 50,000 quintales. El puerto tiene hacia
 un lado la desembocadura del rio Sirama
@@ -3184,6 +3302,8 @@ importantísimo en el desarrollo del puer-
 to y del ferrocarril ya que posteriormente
 transportaría gran cantidad de implemen-
 tos para la construcción de la vía férrea
+
+Roberto Gallardo
 
 entre La Unión y San Miguel. El Triunfo y
 la bahía de Jiquilisco se convirtieron en
@@ -3268,7 +3388,7 @@ Unidos sobre el comercio en la zona, du-
 rante los últimos 8 meses de 1895 las im-
 portaciones y exportaciones generaron en
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 las aduanas de El Triunfo la cantidad de
 $38,537.37, habiendo exportado 12,920
@@ -3278,7 +3398,7 @@ hace énfasis en el aumento de ingresos
 en el nuevo puerto y se predice un auge
 económico a esta región, algo que no ha-
 bía sido posible por la falta de un puerto
-apropiado (/bid.).
+apropiado (Ibíd..
 
 En noviembre se anunció la llegada próxi-
 ma del vapor Celia con más material pe-
@@ -3309,6 +3429,10 @@ nacional. El 5 de noviembre se presenta-
 ron varias propuestas a la Municipalidad
 de Sonsonate para la construcción de un
 
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
+
 59
 
 ## Page 60
@@ -3317,7 +3441,7 @@ _Extraction method: OCR._
 
 60
 
-Revista ANALES 55, 2016, pp. 44-85
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 puente sobre el rio Grande (Sensunapan),
 que debía unir el Barrio del Ángel con el
@@ -3357,6 +3481,8 @@ cuyo objetivo era conectar el puerto de La
 Unión, San Miguel y finalmente San Salva-
 dor. El Presidente Gutiérrez tenía que estar
 presente en tan importante evento, por lo
+
+Roberto Gallardo
 
 que él y su comitiva abordaron el vapor
 Celia en La Libertad y se trasladaron hacia
@@ -3401,48 +3527,56 @@ principales durante el año 1895:
 
 _Extraction method: embedded text._
 
-Año      Estados      Gran       Alemania Francia
-         Unidos       Bretaña
+Año
 
-1895      31.71%      11.73%      17.21%      22.56%
+Estados
+Unidos
+
+Gran
+Bretaña
+
+Alemania Francia
+
+1895
+
+31.71%
+
+11.73%
+
+17.21%
+
+22.56%
+
 Tabla 1: Porcentaje de exportaciones y sus destinos para
-      el año 1895 (Tomado de Lindo-Fuentes, 2002).
+el año 1895 (Tomado de Lindo-Fuentes, 2002).
 
-
-  Para este año se habían mejorado las
+Para este año se habían mejorado las
 carreteras que conectaban las fincas de
 café con El Triunfo, pero el puente sobre el
 rio Lempa que se había planificado desde
 abril de 1894 todavía no estaba finalizado.
 Pareciera que la revolución tecnológica de
-la industrialización y en especial la buro-
-cracia gubernamental no podían superar
+la industrialización y en especial la burocracia gubernamental no podían superar
 la anchura lempina.
 
 Acontecimientos históricos
 durante 1896
-
 El año de 1896 fue la culminación de un
-aumento continuo en la producción cafe-
-talera de El Salvador que venía de años
-atrás. Como muestra, en 1871 se exporta-
-ron un total de 4, 471,300 libras de café y
+aumento continuo en la producción cafetalera de El Salvador que venía de años
+atrás. Como muestra, en 1871 se exportaron un total de 4, 471,300 libras de café y
 en 1896 la cifra llegó a 25, 266,134 libras,
 un incremento de más de cinco veces
 (Lindo-Fuentes, 2002). El Triunfo fue parte
 de este crecimiento en las exportaciones
-y los años de 1896 y 1897 sin duda fue-
-ron los mejores para este puerto desde su
+y los años de 1896 y 1897 sin duda fueron los mejores para este puerto desde su
 apertura en 1829 hasta la época actual. Se
 hace evidente el éxito que tuvo el puerto
 durante el primer semestre de 1896 (Tabla
 2) y era notorio el atractivo que ofrecía la
 bahía a los buques, así como la demanda
-del buen café a los mercados norteameri-
-cano y europeo.
+del buen café a los mercados norteamericano y europeo.
 
-
-                                                           61
+61
 
 ## Page 62
 
@@ -3450,17 +3584,19 @@ _Extraction method: OCR._
 
 62
 
-Aduanas |         1896         |        1895        | 1898 | 1895
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
+
+Aduanas |         1896         |         1895        | 1896 | 1895
 | Importaciones | Exportaciones | Importaciones | Exportaciones |    Total    |    Total
-Acajutla       962,058.78 118,595.55 795,386.36 132,493.25  1,080,654.33 927,879.61
-La Libertad 938,033.21      47,105.88 790,649.41 40,152.67     985,139.00 839,802.08
-La Unión      330,925.47      14,071.84 330,053.48 35,250.22      344,997.31      365,203.70
-El Triunfo    47,700.58    62,220.11. ----------    6,173.70    109,920.69    6,173.70
+Acajutla       962,058.78 118,595.55 795,386.36 132,493.25 1,080,654.33 927,879.61
+La Libertad 938,033.21      47,105.88 790,649.41 40,152.67      985,139.00 839,802.08
+La Unión 330,925.47 14,071.84 330,053.48 35,250.22 344,997.31 365,203.70
+El Triunfo 47,700.58 62,220.11.   6,173.70 109,920.69  6,173,70
 
 Tabla 2: Cantidades en pesos de importaciones y exportaciones para los cuatro puertos principales de El Salvador
 durante los primeros semestres de 1895 y 1896 (enero, febrero, marzo, abril, mayo y junio). Tomado del Diario Oficial
 
-octubre 7 de 1896.
+octubre 7 de 1896,
 
 PMSC (Sr. Tisdel) ha dicho que muchas
 embarcaciones volverán a La Unión en vez
@@ -3486,6 +3622,8 @@ buena aceptación del café salvadoreño en
 esta comarca, incluyendo un extracto escri-
 to en una revista por una reconocida casa
 comercial de los Sres. Fredmóler Sóhne.
+
+Roberto Gallardo
 
 Abril empezó con un reclamo del repre-
 sentante de la PMSC. Algunas veces el Ce-
@@ -3532,7 +3670,7 @@ Hall & Co. en Aberdeen, Escocia, el año de
 año. Tenía casco de planchas de hierro,
 dos cubiertas y 3 mástiles, con una ca-
 pacidad de 1,014 toneladas. Sus dimen-
-siones eran 1981” de eslora y 31'4” de
+siones eran 1981” de eslora y 314” de
 manga, con una profundidad de 22”. Su
 nombre procede de un castillo del siglo
 XVI en Aberdeenshire, Escocia. Este tipo de
@@ -3555,7 +3693,7 @@ Thompson se queja diciéndole al Sr. Bu-
 rrell que es absurdo haberle dicho al capi-
 tán del Brucklay Castle que “queme cohe-
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 tes” al llegar a la entrada de la bahía y que
 con esto “...nosotros saldríamos de una
@@ -3579,7 +3717,7 @@ obligaba a la Compañía a contar con un
 vapor y colocar boyas en los canales, así
 como la construcción de un faro cuando
 fuese posible. De todas estas, se cumplió
-la compra del Celía que seguía navegando
+la compra del Celia que seguía navegando
 bajo dirección del Sr. Burrell, saliendo el
 1 de mayo de El Triunfo hacia “el Norte”
 con varios pasajeros y tres policías (Diario
@@ -3588,7 +3726,7 @@ Oficial, mayo 1 de 1896).
 El 13 de mayo a las 2:30 p.m. fondeó nue-
 vamente “... a pocas varas del muelle,”
 el velero inglés Brucklay Castle. Este tuvo
-que ser remolcado por el Celia comanda-
+que ser remolcado por el Celía comanda-
 do por el capitán Sandberg. “La capacidad
 de este velero es mayor que la de muchos
 vapores de la Pacific Mail, lo que indica
@@ -3596,7 +3734,9 @@ que los costeros pueden entrar sin peligro.
 La entrada fue a media marea y mañana
 atracará al muelle” (Diario Oficial, mayo 13
 
-63
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 64
 
@@ -3604,7 +3744,7 @@ _Extraction method: OCR._
 
 64
 
-Revista ANALES 55, 2016, pp. 44-85
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 de 1896). Al día siguiente, el Diario Oficial
 hace un comentario sobre el arribo del ve-
@@ -3644,6 +3784,8 @@ le envió una carta al Sr. Burrell en la que
 menciona que cada vez que el Celia “está
 afuera”, el balanceo y la presión hacen
 abrir las hendiduras, y si llueve, el agua
+
+Roberto Gallardo
 
 pasa al entrepuente. “El carpintero del
 vapor no tiene instrumentos para calafa-
@@ -3727,7 +3869,7 @@ de Libros, un Guarda Almacén, un Guarda
 Muelle, un Guarda Playa, un Guarda Costa
 y un Mozo de Servicio, mientras el vapor
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Celia hacía viajes a los puertos locales. El
 7 del mismo mes llegó a El Triunfo el va-
@@ -3738,7 +3880,7 @@ ocurrió ese mismo día en La Libertad cuan-
 do el vapor San Juan llegó procedente de
 Panamá con buena parte de la familia del
 Sr. Burrell, incluyendo W. Burrell, J. Burrell,
-C. Burrell y el mismo H. H. Burrell (/bid.).
+C. Burrell y el mismo H. H. Burrell (/b/d.).
 
 El contrato del Gobierno con la PMSC con-
 tinuaba vigente y los vapores americanos
@@ -3768,7 +3910,9 @@ mes y es de esperarse que a medida que
 se faciliten en el puerto los medios de im-
 portación y exportación, mejore dicha ofi-
 
-65
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 66
 
@@ -3776,7 +3920,7 @@ _Extraction method: OCR._
 
 66
 
-Revista ANALES 55, 2016, pp. 44-85
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 cina, presentando mayores rendimientos”.
 También se mencionan algunas deficien-
@@ -3817,6 +3961,8 @@ que pagar indemnización por las merca-
 derías mojadas (Ministerio de Relaciones
 Exteriores, 1902). El puerto seguía siendo
 
+Roberto Gallardo
+
 atractivo para el comercio europeo y los
 buques procedentes de Hamburgo lo visi-
 taban seguido. El dia 24, el vapor Diana de
@@ -3841,13 +3987,13 @@ al Presidente para contratar el Cuscatlán:
 remolcar algún buque cargado” (Minis-
 terio de Relaciones Exteriores, 1902). No
 fue posible la ayuda del Cuscatlán, por lo
-que el Celía debió salir a la barra y auxiliar
+que el Celia debió salir a la barra y auxiliar
 al Brucklay Castle. Al día siguiente (sep-
-tiembre 27) el capitan Sandberg del Celia
+tiembre 27) el capitán Sandberg del Celia
 informó al Sr. Thompson que se empezó a
-remolcar al velero: “Celia no tenía fuerza
+remolcar al velero: “Celía no tenía fuerza
 para tenerlo derecho sin embargo manejó
-remolcarlo despacio” (Ibíd.), pero la ma-
+remolcarlo despacio” (/bid.), pero la ma-
 rea creciente adquirió más y más fuerza lo
 que dificultó el remolque. Cerca de la 6:00
 a.m. del día siguiente la marea ya estaba
@@ -3899,7 +4045,7 @@ Pacific Dampsfshiffs Line, comprometién-
 dose a enviar sus ocho vapores a los puer-
 tos del Estado (Diario Oficial, noviembre
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 19 de 1896). Se hace evidente el protago-
 nismo del puerto El Triunfo en la economía
@@ -3940,13 +4086,17 @@ conocida como “Línea de Champerico” y
 otro vapor mensual de la línea designada
 como “Línea Mexicana”, tocarán tanto
 
-67
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 68
 
 _Extraction method: OCR._
 
 68
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 de ida como de vuelta los puertos de La
 Unión, La Libertad y Acajutla dos veces
@@ -3970,7 +4120,7 @@ y la presencia de una empresa california-
 na en Jiquilisco promovieron los estudios
 científicos en la zona. Debido al temor de
 algunos vapores en navegar la bahía, se fa-
-cultó a la Compañía El Triunfo Limitada para
+culté a la Compañía El Triunfo Limitada para
 que gestionara ante el Gobierno de Estados
 Unidos a fin de que enviara algunos de sus
 buques de guerra para el estudio detalla-
@@ -3982,7 +4132,9 @@ tiembre, así como la colocación de boyas y
 luces (Ministerio de Relaciones Exteriores,
 1902). El 18 de diciembre de 1896, el bu-
 
-Figura 5: USS Marian. Imágen cortesía de Imgur (courtesy of Imgur), tomada de imagen.com/gallery/lzjptud.
+- a TST ee
+
+Figura 5: USS Marian, Imágen cortesía de Imgur (courtesy of Imgur), tomada de imagen.com/gallery/lzjptud.
 
 Roberto Gallardo
 
@@ -4029,7 +4181,7 @@ tigación (The morning times, 1896, p.4).
 El Sr. Burrell felizmente anunció que para
 el 27 de diciembre, el buque de guerra
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 ya se encontraba realizando los estudios
 dentro de la bahía y el Marion se quedó
@@ -4052,11 +4204,11 @@ pitanes de vapores para visitar el puerto.
 El resultado de este estudio fue publicado
 en el Journal of the American Geographi-
 cal Society of New York en 1897, en un
-artículo titulado “Recent Survey of Jiqui-
+articulo titulado “Recent Survey of Jiqui-
 lisco Bay and El Triunfo, the New Port of
 Salvador”, por G. W. Littlehales. Parece
-que durante su estadía en El Salvador, el
-Bennington no limitó su estudio a la bahía
+que durante su estadia en El Salvador, el
+Bennington no limitó su estudio a la bahia
 de Jiquilisco ya que en esa publicación se
 presentan las profundidades de toda la
 costa salvadoreña (Figura 6).
@@ -4070,7 +4222,9 @@ en esa época. En la Memoria del Subse-
 cretario de Guerra y Marina a la Asamblea
 Legislativa de los actos del Poder Ejecutivo
 
-69
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 70
 
@@ -4078,12 +4232,15 @@ _Extraction method: OCR._
 
 70
 
-Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
+Revista ANALES 95, 2016, pp. 44-85, ISSN 0374-5546
 
-p
+mms
+ney re re
+
+oh heme Oe
 
 Figura 6: Mapa mostrando el estudio realizado por el USS Bennington y el Marion. En el extremo derecho inferior se
-puede leer “El Triunfo Observation Pier”, Tomado de Journal of the American Geographical Society of New York 1897.
+puede leer “El Triunfo Observation Pier”. Tomado de Journal of the American Geographical Society of New York 1897.
 
 correspondiente a 1896 se incluye una sec-
 ción dedicada al vapor Cuscatlán.
@@ -4124,56 +4281,62 @@ _Extraction method: embedded text._
 
 tal este año se duplicó en comparación a la
 temporada anterior (Baker, 1897).
-
 A continuación se presenta la Tabla 3,
-mostrando las importaciones y exporta-
-ciones de los puertos de El Salvador du-
-rante el año 1896 en base al informe del
-Subsecretario de Hacienda, Crédito Públi-
-co y Justicia presentado a la Asamblea Le-
-gislativa. Esta tabla muestra que El Triunfo
+mostrando las importaciones y exportaciones de los puertos de El Salvador durante el año 1896 en base al informe del
+Subsecretario de Hacienda, Crédito Público y Justicia presentado a la Asamblea Legislativa. Esta tabla muestra que El Triunfo
 nunca superó a los otros tres puertos en
 importación. Sin embargo, durante 1896
 este puerto se destacó por la exportación
 de productos, en su gran mayoría café. En
 1896, sus exportaciones superaron a La
 Unión y La Libertad, convirtiéndose en el
-segundo puerto de exportación en la Re-
-pública. Considerando el alto movimiento
-marítimo, es probable que el mismo fenó-
-meno ocurriera en 1897, pero no se tie-
-ne información precisa al respecto. Estos
+segundo puerto de exportación en la República. Considerando el alto movimiento
+marítimo, es probable que el mismo fenómeno ocurriera en 1897, pero no se tiene información precisa al respecto. Estos
 números también proporcionan una idea
-de la cantidad de café que se estaba pro-
-duciendo en la zona.
+de la cantidad de café que se estaba produciendo en la zona.
+Puerto
 
-   Puerto         Importación         Exportación
+Importación
 
+Exportación
 
-  Acajutla        2,287,299.52        124,682.84
+Acajutla
 
+2,287,299.52
 
- La Libertad      2,105,111.86         62,610.00
+124,682.84
 
+La Libertad
 
-  El Triunfo       186,538.57          63,509.97
+2,105,111.86
 
+62,610.00
 
-  La Unión         786,695.42          22,626.54
+El Triunfo
 
+186,538.57
 
-  Tabla 3: Importaciones y exportaciones de los
-  cuatro principales puertos durante el año de 1896
-  (Diario Oficial, marzo 11 de 1897).
+63,509.97
 
+La Unión
 
-                                                      71
+786,695.42
+
+22,626.54
+
+Tabla 3: Importaciones y exportaciones de los
+cuatro principales puertos durante el año de 1896
+(Diario Oficial, marzo 11 de 1897).
+
+71
 
 ## Page 72
 
 _Extraction method: OCR._
 
 72
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 ACONTECIMIENTOS HISTÓRICOS
 DURANTE 1897
@@ -4209,10 +4372,12 @@ dos líneas telegráficas, una directamente
 con la capital y la otra con Usulután. Des-
 de la capital, las líneas de telégrafo se co-
 nectan con el puerto de La Libertad y de
-alli a Salina Cruz, México, desde donde se
+allí a Salina Cruz, México, desde donde se
 comunicaban con otras partes del Mundo.
 Para este año, en el pequeño pueblo de
 El Triunfo habitaban 250 nativos, 6 ameri-
+
+Roberto Gallardo
 
 canos, 6 griegos y 1 inglés (Hydrographic
 Office, 1904).
@@ -4232,7 +4397,7 @@ las fragatas norte-americanas “Bennington” y
 “Marion” con el objetivo de practicar unos son-
 deos en el recién abierto puerto de “El Triunfo”.
 Las operaciones se han llevado a efecto con la
-mayor escrupulosidad, y todo hizo esperar que los
+mayor escrupulosidaa, y todo hizo esperar que los
 trabajos serían coronados del mejor éxito, dando a
 conocer las buenas condiciones de aquel lugar y
 las seguridades que por su fondo ofrece el puerto
@@ -4262,7 +4427,7 @@ realizaba la ruta Manzanillo-Panamá-
 Manzanillo algunas veces fondeaba en El
 Triunfo, siempre y cuando hubiera carga
 y la aduana comunicara con anticipación.
-El Adríana, procedente de Hamburgo ha
+El Adriana, procedente de Hamburgo ha
 sido el buque de más alto tonelaje que
 ingresó a la bahía de Jiquilisco. Después
 de realizar la investigación científica en
@@ -4276,7 +4441,7 @@ Febrero empieza con visitantes intere-
 santes como el arribo del buque noruego
 Transitel día 3. El Transitera un vapor de la
 Pouget Sound & Central American Steam-
-ship & Co., con la que el Gobierno había
+ship & Co., con la que el Gobierno habia
 firmado un contrato el 13 de junio del año
 anterior. Una de las razones por la que se
 había solicitado la presencia de este va-
@@ -4296,7 +4461,7 @@ ficultad ninguna hasta atracar en el mue-
 lle, en baja marea con 18 pies de calado”
 (Diario Oficial, marzo 9 de 1897).
 
-SSN 0
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 “No queda duda pues, de la bondad del
 puerto: él presta ya un valiosos servicio al
@@ -4336,6 +4501,10 @@ en construcción de puentes como la Ca-
 lifornia Bridge Company. Se mencionó la
 dificultad para construir la línea entre San
 
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
+
 73
 
 ## Page 74
@@ -4343,6 +4512,8 @@ dificultad para construir la línea entre San
 _Extraction method: OCR._
 
 74
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Vicente y San Salvador debido a la topo-
 grafía del terreno. Los directivos pidieron
@@ -4364,7 +4535,7 @@ mar fuera de la bocana). Esto es compren-
 sible considerando que este ha sido el bu-
 que de mayor tonelaje que visitó Jiquilisco,
 seguido por el Bennington. A pesar de estar
-fondeado en el mar, el Adriana hizo honor
+fondeado en el mar, el Adríana hizo honor
 a su capacidad de carga con 1,824 sacos
 de café cultivado en las fincas locales para
 llevarlos a Europa vía Puntarenas y Panamá
@@ -4440,7 +4611,7 @@ dente, el Sr. Burrel, quién llegó a Jiquilisco
 desde La Libertad a bordo de esta embar-
 cación el día 26 de octubre. Posteriormen-
 te, el 1 de noviembre, Burrell y su familia
-viajaron nuevamente en el Celia desde
+viajaron nuevamente en el Celía desde
 Corinto, Nicaragua hacia El Triunfo (Diario
 Oficial, noviembre 2 de 1897). La frecuen-
 cia de visitas a Corinto sugiere que Burrell
@@ -4467,7 +4638,7 @@ El Cuscatlán continuó activo finalizando el
 año de 1897, viajando a El Triunfo y hacia
 los otros puertos salvadoreños, incluyendo
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 una escala en La Libertad realizada el 2 de
 diciembre, luego Acajutla al día siguiente y
@@ -4508,13 +4679,17 @@ los años 1896 y 1897.
 
 Para diciembre de 1897, el gobierno cen-
 
-75
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 76
 
 _Extraction method: OCR._
 
 76
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 tral por medio de la aduana del puerto,
 ejercía presión fiscal y le comunicaba a la
@@ -4549,16 +4724,16 @@ pañía, H. H. Burrel y tomaron control de la
 directiva (The Washington Times, mayo 9
 de 1902, p.1). Efectivamente, apenas mes
 y medio antes que se estableciera el go-
-bierno provisorio de Tomas Regalado (se
+bierno provisorio de Tomás Regalado (se
 estableció el 14 de noviembre), conocien-
 do las ganancias que generaba el puerto
-y aprovechando la desestabilidad politica,
-Simon Sol y el Sr. Lopez, los dos miembros
+y aprovechando la desestabilidad política,
+Simón Sol y el Sr. López, los dos miembros
 
 Roberto Gallardo
 
 propietarios de la empresa contrincante
-a la que el Presidente Gutiérrez le habia
+a la que el Presidente Gutiérrez le había
 negado el proyecto de El Triunfo 4 años
 antes, realizaron una maniobra para
 confiscar todos los bienes de la Triunfo
@@ -4569,8 +4744,8 @@ dio un accidente marino en la bahía, cuan-
 do un fuerte viento azotó la zona de Jiqui-
 lisco. El Sr. Louis Woodley Maslin, hijo de un
 oficial naval de Estados Unidos, un italiano
-y ocho salvadorefios se encontraban en
-una balsa esperando un vapor que venia de
+y ocho salvadoreños se encontraban en
+una balsa esperando un vapor que venía de
 Panamá. El Sr. Maslin estaba a cargo de los
 intereses de la San Francisco Bridge Com-
 pany en puerto El Triunfo cuando los vientos
@@ -4637,9 +4812,9 @@ tiempo el puerto no tiene importaciones
 “por las dificultades que se halla la com-
 pañía autorizada para establecer en dicho
 puerto la navegación a vapor, Compañía
-que se ha declarado en quiebra...”. Rega-
+que se ha declarado en quiebra. ..”. Rega-
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 lado decretó varios artículos entre los que
 se encontraba el Art.1 que dice: “El puerto
@@ -4678,9 +4853,11 @@ de Usulután.
 Dos días después, el Ejecutivo justificó las
 acciones tomadas por las escasas opera-
 ciones de la aduana y para evitar el contra-
-bando que “.. .perjudica el comercio honra-
+bando que “...perjudica el comercio honra-
 
-77
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 78
 
@@ -4688,7 +4865,7 @@ _Extraction method: OCR._
 
 78
 
-Revista ANALES 55, 2016, pp. 44-85
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 do”. Aunque se hace énfasis en el beneficio
 que esta acción traerá a la agricultura ya
@@ -4704,7 +4881,7 @@ Tres días después de la elección oficial
 de Tomás Regalado, la compañía El Triun-
 fo Limitada hace otro intento, convocando
 nuevamente a todos los accionistas a una
-Junta General para el 14 de marzo (Dia-
+Junta General para el 14 de marzo (Día-
 rio Oficial, marzo 1 de 1899). Este parece
 haber sido el último esfuerzo de El Triunfo
 Limitada por sobrevivir. Según los aconteci-
@@ -4728,6 +4905,8 @@ Para abril de 1899 la aduana de El Triunfo
 se encontraba decadente y solamente tra-
 bajaban cuatro personas: un Administrador
 con funciones de contador y comandante
+
+Roberto Gallardo
 
 del puerto, un Guarda Almacén y Guarda
 Plaza, un escribiente y un mozo de servicio.
@@ -4784,7 +4963,7 @@ que tenga por objeto mantener el puerto de
 El Triunfo abierto a la navegación y hacer
 comercio de cabotaje entre los puertos de la
 República. Toda la infraestructura que había
-construido la Triunfo Company Limited fue en-
+construido la Triunfo Company Limitedfue en-
 tregada a los nuevos empresarios, incluyen-
 do “el uso libre del muelle hoy existente que
 pertenece al Estado...” Las nuevas medidas
@@ -4797,7 +4976,7 @@ se incluyen: carbón, gas, harina, alambre es-
 piga para cercas y ganchos correspondientes,
 maquinaria útiles e instrumentos para la agri-
 cultura, aceite para maquinaria, cemento, cal
-viva o apagada, lámina de zinc y sus acceso-
+viva O apagada, lámina de zinc y sus acceso-
 rios, edificios de hierro o de madera, madera
 en bruto o labrada para construcciones, se-
 movientes para raza, artículos alimenticios de
@@ -4811,7 +4990,7 @@ la lista continúa y es muy extensa. Da la im-
 presión que el Gobierno de Regalado intenta
 motivar la importación para contrarrestar los
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 efectos de la disposición anterior que prohibía
 la introducción de todos estos productos.
@@ -4819,7 +4998,7 @@ la introducción de todos estos productos.
 Es interesante notar que este contrato,
 así como el anterior entre el Gobierno y El
 Triunfo Limitada obligaba a las compañías a
-mantener uno o más buques “.. .construi-
+mantener uno o más buques “...construi-
 dos a propósito para la navegación a vapor
 para transportar carga y pasajeros para el
 puerto y para los vapores que en el puerto
@@ -4831,7 +5010,7 @@ día 28 de este puerto hacia el puerto de
 Acajutla con algunos pasajeros (Diario Ofi-
 cial, mayo 29 de 1899).
 
-El Sr. H. Burrel y los otros socios estadouni-
+EI Sr. H. Burrel y los otros socios estadouni-
 denses no pudieron quedarse sin valer sus
 derechos y decidieron luchar legalmen-
 te por el improperio cometido. El Triunfo
@@ -4852,13 +5031,17 @@ Ministro Plenipotenciario de la República
 de El Salvador designado por el Presidente
 Tomás Regalado.
 
-79
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 80
 
 _Extraction method: OCR._
 
 80
+
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Para cumplir con el contrato, el Dr. Fran-
 cisco Arriola, en representación de Maur-
@@ -4886,7 +5069,7 @@ de su Capitán Alejandro Medina, llevando a
 este puerto 1 paquete de correspondencia,
 11 bultos de mercaderías y sin pasajeros.
 A la misma hora zarpó la goleta nortea-
-mericana W. S. Phelps con destino a San
+mericana MW. S. Phelps con destino a San
 Francisco, llevando 60 toneladas de cedro
 obtenido en las selvas entre la ciudad de
 Usulután y la bahía. El 18 de julio regresó
@@ -4983,7 +5166,7 @@ por una comisión de arbitraje presidida
 por Sir Henry Strong, Jefe de Justicia de
 Canadá y anunciada el 8 de mayo de 1902
 
-en la Bahía de Jiquilisco,
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 en Washington. En ese evento, El Salvador
 fue representado por el Dr. José Rosa Pa-
@@ -5024,7 +5207,9 @@ turismo y la pesca. El Triunfo es usado de
 base por algunas empresas pesqueras que
 mantienen sus barcos en este lugar. Otro
 
-81
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 82
 
@@ -5032,7 +5217,7 @@ _Extraction method: OCR._
 
 82
 
-Revista ANALES 55, 2016, pp. 44-85
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 punto de importancia es Puerto Barillas,
 un nuevo proyecto empresarial que se ha
@@ -5071,6 +5256,8 @@ Dampsfshiffs” para que vapores europeos
 de gran tamaño visiten los puertos de El
 Salvador, incluyendo El Triunfo. De esta
 forma se exportaba el producto hacia
+
+Roberto Gallardo
 
 Hamburgo y posteriormente hacia otros
 lugares de Europa. A solicitud de Burrell
@@ -5114,14 +5301,13 @@ se encontraba este proyecto.
 
 _Extraction method: OCR._
 
-ANALES 55, 2016
-
-4-85, ISSN 0374
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Las excavaciones del pecio PSJ-1 han pasado, usando como herramientas la ar-
 sido una forma de comprender nuestro  queología histórica, marítima e industrial.
 
-en la Bahía de Jiquilisco,
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 83
 
@@ -5131,7 +5317,7 @@ _Extraction method: OCR._
 
 84
 
-ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
@@ -5171,7 +5357,7 @@ Roberto Gallardo
 
 _Extraction method: OCR._
 
-ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Ministerio de Cultura y Comunicaciones (1986) Geografía de El Salvador. Dirección de Publi-
 caciones, Ministerio de Cultura y Comunicaciones. San Salvador, El Salvador.
@@ -5211,9 +5397,8 @@ Diario Oficial. San Salvador, América Central. Enero 6 de 1895
 Diario Oficial. San Salvador, América Central. Enero 8 de 1895
 Diario Oficial. San Salvador, América Central. Enero 9 de 1895
 
-85
-
-en la Bahía de Jiquilisc:
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo         85
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 86
 
@@ -5221,7 +5406,7 @@ _Extraction method: OCR._
 
 86
 
-ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
 
 Diario Oficial. San Salvador, América Central. Abril 5 de 1895
 Diario Oficial. San Salvador, América Central. Abril 8 de 1895
@@ -5266,87 +5451,57 @@ Roberto Gallardo
 
 _Extraction method: OCR._
 
+Revista ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
+
 1897
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-Diario Oficial. San Salvador, América Central.
-
-ANALES 55, 2016, pp. 44-85, ISSN 0374-5546
-
-Enero 6 de 1897
-Enero 20 de 1897
-Enero 21 de 1897
-Febrero 3 de 1897
-Febrero 9 de 1897
-Febrero 10 de 1897
-Febrero 15 de 1897
-Febrero 18 de 1897
-Marzo 6 de 1897
-Marzo9 de 1897
-Marzo 22 de 1897
-Marzo 28 de 1897
-Mayo 9 de 1897
-Mayo 22 de 1897
-Mayo 28 de 1897
-Julio 3 de 1897
-Julio 13 de 1897
-
+Diario Oficial. San Salvador, América Central. Enero 6 de 1897
+Diario Oficial. San Salvador, América Central. Enero 20 de 1897
+Diario Oficial. San Salvador, América Central. Enero 21 de 1897
+Diario Oficial. San Salvador, América Central. Febrero 3 de 1897
+Diario Oficial. San Salvador, América Central. Febrero 9 de 1897
+Diario Oficial. San Salvador, América Central. Febrero 10 de 1897
+Diario Oficial. San Salvador, América Central. Febrero 15 de 1897
+Diario Oficial. San Salvador, América Central. Febrero 18 de 1897
+Diario Oficial. San Salvador, América Central. Marzo 6 de 1897
+Diario Oficial. San Salvador, América Central. Marzo9 de 1897
+Diario Oficial. San Salvador, América Central. Marzo 22 de 1897
+Diario Oficial. San Salvador, América Central. Marzo 28 de 1897
+Diario Oficial. San Salvador, América Central. Mayo 9 de 1897
+Diario Oficial. San Salvador, América Central. Mayo 22 de 1897
+Diario Oficial. San Salvador, América Central. Mayo 28 de 1897
+Diario Oficial. San Salvador, América Central. Julio 3 de 1897
+Diario Oficial. San Salvador, América Central. Julio 13 de 1897
 Diario Oficial. San Salvador, América Central. Agosto 2 de 1897
 Diario Oficial. San Salvador, América Central. Agosto 14 de 1897
-
 Diario Oficial. San Salvador, América Central. Septiembre10 de 1897
-
 Diario Oficial. San Salvador, América Central. Septiembre 11 de 1897
-
 Diario Oficial. San Salvador, América Central. Octubre 23 de 1897
-
 Diario Oficial. San Salvador, América Central. Noviembre: 2 de 1897
+
 1899
-
 Diario Oficial. San Salvador, América Central. Febrero 13 de 1899
-
 Diario Oficial. San Salvador, América Central. Febrero 17 de 1899
-
 Diario Oficial. San Salvador, América Central. Abril 17 de 1899
-
 Diario Oficial. San Salvador, América Central. Abril 24 de 1899
-
 Diario Oficial. San Salvador, América Central. Mayo 13 de 1899
 
 Páginas web: www.aberdeenships.com
 
-87
-
-en la Bahía de Jiquilisc:
+El Pecio PSJ-1 y la historia marítima de Puerto El Triunfo         87
+en la Bahia de Jiquilisco, Departamento de Usulután, El Salvador (1894— 1900)
 
 ## Page 88
 
 _Extraction method: OCR._
 
-Revista ANALES 51   )16, pp. 86-96, ISSN 0374-5546
-
 LAS ENCOMENDERAS E INDIAS CACICAS
 DE LA PROVINCIA DE SAN SALVADOR Y
 SONSONATE
 
-Ana Claudia Maria Alfaro Moisa
+Ana Claudia María Alfaro Moisa
 
-Museo Nacional de Antropologia Dr. David J. Guzman
-Secrtearia de Cultura de la Presidencia
+Museo Nacional de Antropología Dr. David J. Guzmán
+Secrtearía de Cultura de la Presidencia
 calfaro@cultura.gob.sv
 
 pp. 86 -93
@@ -5356,6 +5511,8 @@ Recibido: 16-04-2016; aceptado: 5-06-2016
 ## Page 89
 
 _Extraction method: OCR._
+
+Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
 
 Resumen
 
@@ -5375,7 +5532,7 @@ Encomenderas, Colonia, San Salvador, San Miguel, Sonsonate.
 Abstract
 
 This is a related approximation of the encomenderas in the Province of San Salvador and
-Sonsonate, where a list of landowner's women listed in the current departments of San
+Sonsonate, where a list of landowner’s women listed in the current departments of San
 Salvador, Sonsonate, San Miguel, San Vicente, Cuscatlán, Santa Ana and Ahuachapán. The
 selected files present a picture related to the presence and role of the encomenderas; which it
 is not usually raised in the history books of El Salvador. Throws documentation data indicating
@@ -5385,6 +5542,12 @@ also had the same tax obligations as their male counterparts to the Spanish crow
 Keywords
 Encomenderas, Colonia, San Salvador, San Miguel, Sonsonate.
 
+s e indias cacicas
+ador y Sonsonate
+
+Las encomenderz
+de la Provincia de San S
+
 89
 
 ## Page 90
@@ -5393,6 +5556,7 @@ _Extraction method: OCR._
 
 90
 
+Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
 INTRODUCCION
 
 El presente trabajo es un avance preli-
@@ -5430,6 +5594,8 @@ asignadas más encomiendas, lo que signi-
 ficó un control de grandes extensiones de
 tierras ganadas por derecho y validadas
 por el Rey.
+
+Ana Claudia María Alfaro Moisa
 
 La confirmación de las encomiendas entra-
 ron en vigencia durante el reinado de Car-
@@ -5473,15 +5639,14 @@ los dichos indios mandamos que tenga por tiem-
 
 _Extraction method: OCR._
 
-ris Marvina Perez, Norural dela Ant’
+=
+Di Moss Marina Perez, Natural de la
 
-Buatemala ce caso año de IS nacio s
+uabtemala ce caso año de 23 nacio su
 
-bigs en de Ende 57 se Hla” M Josefo Bore”
+ba en 3 de En de 57 se Mi M Jose bo Bre
 
 Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
-
-DY Jose María Bregante Natural del
 
 Figura 1: Retrato de familia. Siglo XVIII. Colección privada. El Salvador.
 
@@ -5490,7 +5655,7 @@ y como ahora los tienen y hasta que nos mande-
 mos dar la orden que convenga para el bien de
 la tierra y conservación de los naturales de ella
 y sustentación de los españoles pobladores de
-esta tierra. ..”?
+esta tierra...”?
 
 El párrafo dispone que tanto la viuda y la
 hija legítima se convertía en encomende-
@@ -5500,9 +5665,12 @@ matrimonio por segunda ocasión con la
 libertad de anexar sus encomiendas a las
 
 del nuevo esposo o no. De igual forma
+
 ocurría con las encomenderas casadas
 en primeras nupcias. Cabe destacar que
+
 la real cédula, no exige que la esposa
+
 legítima sea estrictamente peninsular, lo
 que lleva a la reflexión que las indígenas
 desposadas con encomenderos eran su-
@@ -5524,6 +5692,8 @@ _Extraction method: OCR._
 
 92
 
+Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
+
 encomendera Doña Beatriz de la Vera y Ce-
 rrato en 1586, hija legítima del Licenciado
 Alonso López Cerrato y Marta Rivas (Pohl
@@ -5542,7 +5712,35 @@ Los datos que Miranda emplea para la
 contextualización histórica de la hacienda
 La Bermuda en la publicación indican que
 
-durante el año de 1586 Doña Beatríz de
+AS Maen adit sho dicastevesy,                  (7
+gues ben Cemélcrca lo
+
+Je ¿Erolves tab
+
++ 2 see pocctitl
+
+Afoontabtr—
+
+E Lrwbuio Siena: UDS
+
+Panenasn Cv
+Pe  A eff dete
+
+KES: [NES    A
+
+A ptridadtierds ata ppb
+ind HEN mina Ge
+SM fiariita PELE NG ATA
+A    Elebramoao fal?    opción!
+e ho ze GER OE LOP
+                     Pn zy  Eni nageagatziontf
+j                                                           atan LJ
+aro pandeo dey Pfr
+E TIT tone, Van REZA cada
+
+WL
+
+durante el año de 1586 Doña Beatriz de
 la Vera y Cerrato, en su testamento figura
 como “antigua dueña de la Bermuda” y
 que deja a su hija, la encomienda de 5000
@@ -5560,29 +5758,28 @@ personales decidieron ingresar a conventos
 y beateríos, dejaban al morir sus bienes a la
 iglesia; tal es el caso de María de Gamboa
 
-“Ash Ae dribrabo dicas Meco,            G
-Y, quo ae Dent  ECACal     [hast   a
-putrabesta       E TAR     a
-Sef  se Sacra      AL        - [sa
-ee ab                              3
-ae       ago Himcnn IEPS,                       2
-haan On cot Bots                       lar]
+Ex.
 
-Pe   deneciep te afan
+[E óÉ,
 
-\
+tear             >  jr
 
-KIMGYS Fa o past            y
-OTRAS                              /
-Aptridactiend ea perl    ¡        4:
-Gre Hatncomlenrya be                 i]
-he famina ELE nGara,,                =>
-é th,  Legbramararfale  Lapcivt             Pe
-Wir ning entr troll,             3
-:              Be TT   Endara ga,             Z
-i                              iouentatotonel Jin aah            %
-Bee BaVtimeralitih                       5)
-| aes       ¡E          tone: Son Len CADA              _|
+tl Pateteas
+
+S
+
+Jo ato ato
+
+AN
+
+O at
+
+do)
+L,
+
+TAS ah
+
+mek
 
 Figura 2: Libro de pago de impuestos, 1680-1683. Proyecto Arqueológico Pueblo Viejo, 2005
 
@@ -5594,12 +5791,12 @@ _Extraction method: OCR._
 
 Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
 
-Figura 3: Retrato de una doncella india, hija de un cacique, 1757. Museo Franz Mayer, Ciudad de México, México,
+Figura 3: Retrato de una doncella india, hija de un cacique, 1757. Museo Franz Mayer, Ciudad de México, México.
 
 quien en 1569 heredó todos sus bienes al
 Convento de Nuestra Señora de la Luz de la
 Isla Tercera ubicada en las Islas Azores en
-España?. Esto indicaría que Gamboa figura
+Espana’. Esto indicaría que Gamboa figura
 probablemente como la encomendera más
 temprana de la Provincia de San Salvador,
 
@@ -5620,6 +5817,8 @@ de la Provincia de San Salvador y Sonsonate
 _Extraction method: OCR._
 
 94
+
+Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
 
 encomenderas Doña Mariana de Avendaño
 e Isabel Castro de la Cerda que figuran en
@@ -5658,6 +5857,8 @@ fue sujeto de cobro de las multas por no
 cumplir con los pagos de impuestos de
 Hospital y Barlovento.
 
+Ana Claudia María Alfaro Moisa
+
 Otros documentos hacen mención de la
 exigencia que algunas monjas hacían en
 solicitud al cumplimiento de la real cédu-
@@ -5668,12 +5869,12 @@ Trinidad de Sonsonate, solicitado por la
 fundadora del beaterío la Madre Madalena
 de Cristo y Monrroy con valor de dos mil
 ducados de renta destinados al sustento
-del beaterio®.
+del beaterío*.
 
 MARIA JOSEPHA, INDIA CACICA DE
 CUSCATLAN
 
-En el caso de las indias cacicas tenian un
+En el caso de las indias cacicas tenían un
 papel importante como parte de la clase
 alta durante la época colonial. Patricia
 Cruz Pasos en su artículo “Indias Cacicas
@@ -5684,7 +5885,7 @@ como un personaje importante en las so-
 ciedades coloniales, en el que acota acer-
 ca de la figura de la cacica como:
 
-“...el Cargo político más poderoso del ámbito lo-
+“...el cargo político más poderoso del ámbito lo-
 cal que fue ocupado por mujeres de la nobleza;
 en segundo lugar, por la influencia que tenían
 sus actos en el entorno social que lideraban”
@@ -5706,7 +5907,7 @@ desarrolla desarrolla la hipótesis:
 reconocidas tanto por los indígenas como por los
 españoles, con iguales prerrogativas que los va-
 rones, socialmente se les equiparó con la noble-
-za de los hijosdalgo, pero no con la alta nobleza
+Za de los hijosdalgo, pero no con la alta nobleza
 española” (Muriel; 1998, p.42)
 
 En El Salvador podría citarse el caso del
@@ -5724,9 +5925,12 @@ cumentos históricos relacionados con la
 época colonial es fuente de información
 importante para el estudio de la mujer en
 
+Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
+
 las sociedades coloniales, esta aproxima-
 ción ha logrado el objetivo de la identifica-
 ción de las encomenderas en El Salvador.
+
 (Ver Tabla 1)
 
 Cabe mencionar que las encomenderas
@@ -5737,6 +5941,7 @@ dia cacica identificada en la publicación de
 Amaroli (1986), se recopilará información
 procedente de las fuentes coloniales para
 identificar mujeres indígenas con poder
+
 político y administrativo durante la colonia.
 
 Posteriormente mediante la paleografía
@@ -5747,7 +5952,14 @@ mujer durante la colonia, transformando
 la figura de “la esposa de conquistador”
 hacia figuras femeninas de “gobernan-
 te”, “encomendera” y “tlatoani” durante
+
 la época colonial en El Salvador.
+
+Las encomende
+de la Provincia de San Sa
+
+indias cacicas
+vador y Sonsonate
 
 95
 
@@ -5756,42 +5968,81 @@ la época colonial en El Salvador.
 _Extraction method: embedded text._
 
 TABLA 1
-               Encomenderas registradas 1641 – 1700 para la Provincia de San Salvador,
-                                     San Miguel y Sonsonate.
+Encomenderas registradas 1641 – 1700 para la Provincia de San Salvador,
+San Miguel y Sonsonate.
 
+NOMBRE
 
-              NOMBRE               AÑO                                  ENCOMIENDA
-       Doña Beatríz de la Vera
-                                   1586                           Encomienda de la Bermuda
-             y Cerrato
-                                           Encomienda de Aguacatan, Nebac y Chaul en Totonicapan, Sacatecoluca y
-         Juana de Benavides        1641                    San Juan Nunualco en San Salvador
+AÑO
 
-       Maria y Francisca Ayala
-             Mazariegos,           1645      Encomienda de Jacatecoluca, San Juan de Nunbolco en San Salvador
-       Catalina de Mazariegos
-                                           Encomienda de Aguacatán, Nebac y Chaul en Totonicapán, Sacatecoluca y
-           Ana de Guzmán           1671                    San Juan Nunualco en San Salvador
+ENCOMIENDA
 
-        Francisca de Alvarado               Encomienda de Termitepeque en San Salvador, Naolingo en Sonsonate,
-                                   1677
-            y Villacreces                                             Yquiaguitlan
+Doña Beatríz de la Vera
+y Cerrato
 
-     Doña Mariana de Avendaño      1683                      Provincia de San Miguel y la Chuluteca
-       Doña Isabel de Castro
-                                   1683                           Encomienda de Chapeltique
-           y de la Cerda
-       María Manuela Zavaleta                Encomienda de Santa Ana Hilopango, Soyapango y Tonacatepeque en
-                                   1686
-             y Guzmán                                                 San Salvador
+1586
 
-                                          Santa Bárbara de la Castilla, San Pedro y San Pablo, San Juan de la Laguna
-                                          y otros, en el corregimiento de Atitlan; Cojutepeque, Santo Tomás Tesaquango,
-          Micaela Zapata,
-                                   1700   Suchitoto y Santa María Ostuma, en la provincia de San Salvador; Osolotega,
-     Marquesa de Olias y Montara          Telica y Posolteguilla, en la provincia de Nicaragua; Mistepeque, Mestitlan,
-                                          Coatlan y Cuytlapan.
+Encomienda de la Bermuda
 
+Juana de Benavides
+
+1641
+
+Encomienda de Aguacatan, Nebac y Chaul en Totonicapan, Sacatecoluca y
+San Juan Nunualco en San Salvador
+
+Maria y Francisca Ayala
+Mazariegos,
+Catalina de Mazariegos
+
+1645
+
+Encomienda de Jacatecoluca, San Juan de Nunbolco en San Salvador
+
+Ana de Guzmán
+
+1671
+
+Encomienda de Aguacatán, Nebac y Chaul en Totonicapán, Sacatecoluca y
+San Juan Nunualco en San Salvador
+
+Francisca de Alvarado
+y Villacreces
+
+1677
+
+Encomienda de Termitepeque en San Salvador, Naolingo en Sonsonate,
+Yquiaguitlan
+
+1683
+
+Provincia de San Miguel y la Chuluteca
+
+1683
+
+Encomienda de Chapeltique
+
+1686
+
+Encomienda de Santa Ana Hilopango, Soyapango y Tonacatepeque en
+San Salvador
+
+1700
+
+Santa Bárbara de la Castilla, San Pedro y San Pablo, San Juan de la Laguna
+y otros, en el corregimiento de Atitlan; Cojutepeque, Santo Tomás Tesaquango,
+Suchitoto y Santa María Ostuma, en la provincia de San Salvador; Osolotega,
+Telica y Posolteguilla, en la provincia de Nicaragua; Mistepeque, Mestitlan,
+Coatlan y Cuytlapan.
+
+Doña Mariana de Avendaño
+Doña Isabel de Castro
+y de la Cerda
+María Manuela Zavaleta
+y Guzmán
+
+Micaela Zapata,
+Marquesa de Olias y Montara
 
 96
 
@@ -5799,7 +6050,9 @@ TABLA 1
 
 _Extraction method: OCR._
 
-REFERENCIAS BIBLIOGRÁFICAS
+Revista ANALES 55, 2016, pp. 86-96, ISSN 0374-5546
+
+REFERENCIAS BIBLIOGRAFICAS
 
 Amaroli, P. (1986). “En la Búsqueda de Cuscatlán. Un Proyecto Etnohistórico y Arqueológico”.
 Patronato Pro-Patrimonio Cultural. San Salvador, El Salvador.
@@ -5814,7 +6067,7 @@ nes Para un Análisis”, Boletín Americanista. Número 55. Madrid. España.
 Velázquez, C. M. (1959). “Una Misión de la armada de Barlovento”, Historia Mexicana, Vol. 8,
 Núm. 3: enero - marzo 1959. Colegio de México.
 
-Web: //historiamexicana.colmex.mx/index.php/RHM/article/viewFile/7 78/669
+Web: //historiamexicana.colmex.mx/index.php/RHM/article/viewFile/778/669
 ARCHIVOS HISTORICOS CONSULTADOS:
 
 AGI (Archivo General de Indias)
@@ -5822,22 +6075,25 @@ AGI (Archivo General de Indias)
 Expediente de Confirmación de Encomienda de Aguacatan, Nebac y Chaul en Totonicapan,
 Sacatecoluca y San Juan Nunualco en San Salvador a Juana de Benavides. Resuelto
 
-ES.41091.AG1/22.8.6.7.6//GUATEMALA,101,N,13
-CONFIRMACION DE ENCOMIENDA DE AGUACATAN, ETC 1641 -2-1
+ES.41091.AG1/22.8.6.7.6//GUATEMALA,101,N.13
+CONFIRMACION DE ENCOMIENDA DE AGUACATAN, ETC 1641-2-1
 
 Expediente de Confirmación de Encomienda de Aguacatán, Nebac y Chaul en Totonicapán, Saca-
 tecoluca y San Juan Nunualco en San Salvador a Francisco de Godoy y Guzmán. Resuelto
 
-ES.41091.AGl/22.8.6.7.10//GUATEMALA, 105,N.7
+ES.41091.AG1/22.8.6.7.10//GUATEMALA,105,N.7
 CONFIRMACION DE ENCOMIENDA DE AGUACATAN, ETC 1671-4-30
 
 Expediente de Confirmación de Encomienda de Jacatecoluca, San Juan de Nunbolco en San
 Salvador a Maria y Francisca Ayala Mazariegos. Resuelto/Catalina de Mazariegos
 
-ES.41091.AG1/22.8.6.7.7//GUATEMALA, 102,N.6 1645-10-5
+ES.41091.AG1/22.8.6.7.7//GUATEMALA,102,N.6 1645-10-5
 
 Expediente de Confirmación de Encomienda de San Martín y Chalchuapa en San Salvador y
 Theotega en Nicaragua a Pedro de Bonilla y Ana Salazar. Resuelto
+
+Las encomenderas e indias cacicas
+de la Provincia de San Salvador y Sonsonate
 
 97
 
@@ -5859,13 +6115,13 @@ ES.41091.AG1/22.8.6.7.12//GUATEMALA,107,N.18 1686-5-28
 Expediente de Confirmación de Encomienda de Termittepeque en San Salvador, Naolingo en
 Sonsonate, Yquiaguitlan a Francisca de Alvarado y Villacreces. Resuelto
 
-ES.41091.AG1/22.8.6.7.11//GUATEMALA,106,N.16 1677-3-6
+ES.41091 .AGl/22.8.6.7.11//GUATEMALA,106,N.16 1677-3-6
 
 Expediente relativo al pago por parte de los oficiales reales del producto de la pensión que
 Micaela Zapata, Marquesa de Olias y Montara, tiene en las siguientes encomiendas:
 Santa Bárbara de la Castilla, San Pedro y San Pablo, San Juan de la Laguna y otros, en el
-corregimiento de Atitlan; Cojutepeque, Santo Tomás Tesaquango, Suchitoto y Santa María
-Ostuma, en la provincia de San Salvador, Osolotega, Telica y Posolteguilla, en la provincia
+corregimiento de Atitlan; Cojutepeque, Santo Tomás Tesaquango, Suchitoto y Santa Maria
+Ostuma, en la provincia de San Salvador; Osolotega, Telica y Posolteguilla, en la provincia
 de Nicaragua; Mistepeque, Mestitlan, Coatlan y Cuytlapan. Pendiente de Resolución
 
 ES.41091.AG1/22.8.6.7.14//GUATEMALA,109,N.9 1700-3-24
@@ -5873,31 +6129,31 @@ ES.41091.AG1/22.8.6.7.14//GUATEMALA,109,N.9 1700-3-24
 Autos sobre bienes de difuntos: María de Gamboa, natural de la Isla Tercera, difunta en San Sal-
 vador de Guatemala. Heredero: Convento de Nuestra Señora de la Luz de la Isla Tercera
 
-ES.41091.AG1/10.5.11.12//CONTRATACION, 207,N.1,R.9 1569
+ES.41091.AG1/10.5.11.12//CONTRATACION,207,N.1,R.9 1569
 
 AGCA (Archivo General de Centroamérica)
 
 Pagos de tributos por los pueblos de la Provincia de San Miguel y la Chuluteca, de Hospital
 y Barlovento
 
-AGCA ES. A3/ L 453/ E 5134 1683.
+AGCA ES. A3/L 453/E 5134 1683.
 NOTAS
 
 1 Citando a Jaime Miranda en “La Bermuda” Pág. 9: las encomiendas consistían en el repartimiento de indios para
-trabajar las tierras, justificado como un mecanismo de cristianización ...”
+trabajar las tierras, justificado como un mecanismo de cristianización ....”
 
 2 Extracto de Real Cédula a la villa de San Salvador sobre la tasación y sucesión en las encomiendas a las mujeres e
-hijos de conquistadores ES.41091.AG1/22.8.3.11//GUATEMALA,393,L.2,F.24 1538-7-20 Valladolid
+hijos de conquistadores ES.41091.A61/22.8.3.11//GUATEMALA,393,L.2,F.24 1538-7-20 Valladolid
 
-3 Autos sobre bienes de difuntos: María de Gamboa, natural de la Isla Tercera, difunta en San Salvador de Gua:
+3 Autos sobre bienes de difuntos: María de Gamboa, natural de la Isla Tercera, difunta en San Salvador de Gua-
 temala. Heredero: Convento de Nuestra Señora de la Luz de la Isla Tercera. ES.41091.AGI/10.5.11.12//
-CONTRATACION, 207,N.1,R.9, 1569
+CONTRATACION, 207,N.1,R,9, 1569
 
-4 Pagos de tributos por los pueblos de la Provincia de San Miguel y la Chuluteca, de Hospital y Barlovento AGCA ES
-A3/L 453/ E 5134. 1683. Proyecto PAC, 2005.
+4 Pagos de tributos por los pueblos de la Provincia de San Miguel y la Chuluteca, de Hospital y Barlovento AGCA ES.
+A3/L 453/ E 5134, 1683. Proyecto PACV, 2005.
 
-5 Informaciones de oficio y parte: Beaterio de la santísima Trinidad de Sonsonate. Información contenida de 1685.
-ES.41091.AG1/23.8.7.14//GUATEMALA,123,N,8
+5 Informaciones de oficio y parte: Beaterio de la santísima Trinidad de Sonsonate. Información contenida de 1685,
+ES.41091.AG1/23.8.7.14//GUATEMALA, 123,N.8
 
 Ana Claudia María Alfaro Moisa
 
@@ -5957,7 +6213,7 @@ conventos de San Miguel, Amapala y Nacaome, hecha por el provincial del Dulcísi
 de Jesús de la Orden de San Francisco en el año 1687.
 
 Palabras clave
-Golfo de Fonseca, San Miguel, lglesia, conventos, secularizaciones, piratería.
+Golfo de Fonseca, San Miguel, Iglesia, conventos, secularizaciones, piratería.
 
 Abstract
 
@@ -5972,8 +6228,9 @@ Amapala and Nacaome, made by the provincial of the Dulcisimo Nombre de Jesus of 
 Order of San Francisco in 1687.
 
 Keywords
-
 Fonseca Gulf, San Miguel, churches, secularity, piracy.
+
+Alejandro Conde
 
 ## Page 103
 
@@ -6017,9 +6274,9 @@ bifurcación de caminos que van hacia las
 zonas mineras hondureñas y el golfo de
 Fonseca en la ruta hacia Nicaragua.
 
-Una ap
+Una aproximación a la administración eclesiást
 
-a ANALE
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 Este trabajo ha sido posible gracias a la
 reciente organización de la documenta-
@@ -6049,7 +6306,7 @@ todo el siglo XVI, la navegación fue prefe-
 rida sobre el transporte terrestre, debido a
 que resultaba sumamente riesgoso y pe-
 noso el traslado de personas y mercancías
-através de caminos fragosos de peligroso
+a través de caminos fragosos de peligroso
 tránsito durante buena parte del año. Es
 así que la Corona siempre favoreció la ruta
 de navegación que tenía como punto final
@@ -6059,6 +6316,9 @@ navegación hasta Panamá, y desde allí se
 hacía el tránsito terrestre hasta la ciudad
 de los Reyes en Perú.
 
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
+
 103
 
 ## Page 104
@@ -6066,6 +6326,8 @@ de los Reyes en Perú.
 _Extraction method: OCR._
 
 104
+
+Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 El primer contacto entre españoles y lencas
 se dio en el año 1522, cuando una armada
@@ -6105,6 +6367,8 @@ nación de Nicaragua. Para lograr este fin,
 envió al capitán Martín Estete con 90 ca-
 ballos y 110 infantes a las provincias de
 Chaparrastique (volcán) o San Miguel. Al
+
+Alejandro Conde
 
 mismo tiempo, encontramos al capitán
 Diego de Rojas, integrante de las fuer-
@@ -6188,9 +6452,9 @@ la primera fase de la conquista en tierra
 firme. Los vecinos de la ciudad de Guate-
 mala no estaban conformes con la primera
 
-Una ap
+Una aproximación a la administración eclesiást
 
-a ANALE
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 y segunda expedición de Alvarado, por los
 altos costos que representaba la construc-
@@ -6231,6 +6495,9 @@ recomendó formar poblados urbanos y un
 plan intensivo de “educación” de los na-
 tivos. Parte de ese transcurso fue formar
 
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
+
 105
 
 ## Page 106
@@ -6239,7 +6506,7 @@ _Extraction method: OCR._
 
 106
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 autoridades locales bajo el modelo de los
 ayuntamientos hispánicos, gobernados
@@ -6269,7 +6536,7 @@ de la doctrina, y constituía un centro que
 propagaba un modo de vida ejemplar, que
 favorecía la expansión del evangelio entre
 los indios recién conquistados. Sin duda, el
-combate a las denominadas idolatrias y an-
+combate a las denominadas idolatrías y an-
 tiguas “gentilidades” constituía uno de los
 medios prácticos para modificar las cos-
 tumbres de los indios, su visión del mundo
@@ -6279,6 +6546,8 @@ la conformación de cofradías para que la
 devoción a los santos a través de imágenes
 se formara una mentalidad acorde al ideal
 cristiano católico.
+
+Alejandro Conde
 
 LA CONSTANTE AMENAZA PIRATA
 
@@ -6363,6 +6632,10 @@ En la década de 1590 aumentó el pillaje
 en la costa atlántica centroamericana, por
 lo cual se inició la mudanza del punto de
 
+Una aproximación a la administración eclesiást
+
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
+
 desembarque de la flota de Gracias a Dios
 a Portobelo, y este fue el tiro de gracia
 para los intereses del comercio marítimo
@@ -6402,7 +6675,8 @@ y corsaria, además de los fuertes indicios
 que existían de que los enemigos encon-
 traban provisión de brea y tablazones para
 
-Una aproximación a la administraci ¡ón eclesi
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
 
 107
 
@@ -6412,12 +6686,12 @@ _Extraction method: OCR._
 
 108
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 la reparación de embarcaciones, además
 de valiosa información. Los documentos
 de la época relatan las incursiones de Die-
-go Diaz Lucifer (Dieguillo el Mulato), quien
+go Díaz Lucifer (Dieguillo el Mulato), quien
 se internó tierra adentro hasta el río Ulúa.
 Esto motivó el traslado del total de indios,
 caciques y “mandones” desde las islas
@@ -6437,7 +6711,7 @@ Administración eclesiástica
 Se puede constatar el primer nombra-
 miento como cura beneficiado del Curato
 de Gotera en 1637, cuando fue provisto
-el presbítero Lorenzo Sáenz de Escobar.*
+el presbítero Lorenzo Sáenz de Escobar.’
 El primer título documentado de vicario
 provincial de la ciudad de San Miguel y su
 partido se libró a favor del bachiller José
@@ -6451,6 +6725,8 @@ la primacía de un cura secular, a cuya au-
 toridad estaban sujetos los intermediarios
 entre los mundos, español e indígena. Los
 franciscanos del convento Guardianía de
+
+Alejandro Conde
 
 la ciudad de San Miguel eran una organi-
 zación efectiva para controlar la influencia
@@ -6508,7 +6784,7 @@ dio.* En el primer cuarto del siglo XVIII, al-
 gunos curas párrocos fueron favorecidos
 con la posesión de extensiones de tierra
 en poblaciones que habían sufrido declive
-en los años anteriores, como lo ¡ilustra una
+en los años anteriores, como lo ilustra una
 real provisión del 22 de junio de 1716, por
 medio de la cual se otorgó título de confir-
 mación de cuatro caballerías, tres cuerdas
@@ -6517,7 +6793,7 @@ minos del pueblo de Guzapa, jurisdicción
 de la ciudad de San Miguel, alcaldía de
 San Salvador, a favor del presbítero An-
 drés de Aragón, cura beneficiado del pue-
-blo de Gotera.*
+blo de Gotera.®
 
 Entre 1716 y 1720 se realizaron varias
 desmembraciones parroquiales en la Villa
@@ -6534,7 +6810,9 @@ incurrir en concubinatos. La consecuencia
 de esto fue una progresiva toma de poder
 por parte de los regulares en las doctrinas
 
-Una aproximación a la administración ecles'
+Una aproximación a la administración eclesiást
+
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 y nuevos curatos, proceso que se contra-
 rrestó por medio de las secularizaciones
@@ -6569,11 +6847,14 @@ debido en parte al éxito del Colegio Semi-
 nario de Nuestra Señora de la Asunción de
 Santiago de Guatemala, en la formación
 de sacerdotes capaces de hacerse con el
-control de los curatos servidos por las ór-
+control de los curatos servidos por las 6r-
 denes religiosas. Es indiscutible este pro-
 ceso a partir de la década de 1630, mo-
 mento en el que un significativo número
 de españoles se trasladó hacia las áreas
+
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
 
 109
 
@@ -6583,7 +6864,7 @@ _Extraction method: OCR._
 
 110
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 rurales del reino, debido a la crisis general
 de las relaciones comerciales entre Amé-
@@ -6624,6 +6905,8 @@ por medio del cual los curas rectores de
 la ciudad de San Miguel notificaron que
 en el pueblo nombrado Jocorontique de la
 
+Alejandro Conde
+
 feligresía y anexo a San Pedro Moncagua,
 “que hacía tiempo de 12 6 14 años que
 se extinguió de indios tributarios” y “en
@@ -6631,7 +6914,7 @@ dichas tierras estaba una imagen de una
 Soberana Señora con el título y nombre de
 Nuestra Señora de los Reyes, titular que
 era de dicho pueblo, a cuya devoción se
-prepararon a los indios laboríos, negros y
+prepararon a los indios laborios, negros y
 mulatos, pero se han menoscabado por-
 que unos se han muerto y otros ausen-
 tado”. Por lo que solicitaron licencia para
@@ -6650,10 +6933,10 @@ de finales del siglo XVIII obligó, en 1787,
 a una reforma sustantiva de los beneficios
 eclesiásticos de San Gilberto, Guaymoco,
 San Antonio Ateos y San Juan Opico, cura-
-tosde Sonsonate y San Miguel.
+tosde Sonsonate y San Miguel.*
 
 La orden franciscana administraba una
-fracción de la vicaría y doctrina de San Mi-
+fracción de la vicaria y doctrina de San Mi-
 guel, donde instruía en lengua mexicana;
 además, funcionaron la guardianía y doc-
 trina de Amapala, donde se administraba
@@ -6671,7 +6954,7 @@ se enseñaba la doctrina cristiana. Es im-
 portante resaltar que la lengua mexicana
 funcionaba como medio de transmisión y
 comunicación en una región diversa lin-
-gúísticamente.*
+gilisticamente.°
 
 La Corona, al pasar de los años, no su-
 primió el poder franciscano en la región,
@@ -6703,13 +6986,12 @@ PRESTABAN LOS INDIOS DE LA
 VICARÍA
 
 El aumento de las cofradías activas permi-
-
 te apreciar algunas diferencias en el estilo
 de gobierno de las que funcionaban en
 
-Una ap
+Una aproximación a la administración eclesiást
 
-a ANALE
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 administraciones de religiosos y secula-
 res. Las hermandades bajo administración
@@ -6718,7 +7000,7 @@ tones anuales de la fiesta titular, mientras
 que la carga económica para las cofradías
 fundadas en administraciones de religio-
 sos oscilaba entre 30 y 50 pesos anua-
-les.'° Otra diferencia era la cantidad de
+les.*" Otra diferencia era la cantidad de
 asociaciones pías que funcionaban en las
 diferentes Iglesias, pues en las diocesanas
 eran fundadas cofradías únicamente bajo
@@ -6750,13 +7032,18 @@ tento del párroco bastaba con un poco
 de comestibles, dependiendo de la voca-
 ción productiva del territorio, pero en las
 
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
+
+111
+
 ## Page 112
 
 _Extraction method: OCR._
 
 112
 
-Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
+Revista ANALES 95, 2016, pp. 99-123, ISSN 0374-5546
 
 doctrinas de religiosos las cargas para
 el sustento se elevaban por la existencia
@@ -6798,11 +7085,11 @@ pueblos, pues era trabajo no remunerado.
 En el clero diocesano, en cambio, no exis-
 tían las figuras de provinciales de órdenes
 
-MAPA DEL CURATO DE 8. MIGUEL.
+MAPA DEL CURATO DE 3S. MIGUEL.
 
-Figura 1: Vista del Curato de San Miguel. Tomado de: http://pares.mcu.es/. Archivo General de Indias, MP-
+Figura 1: Vista del Curato de San Miguel. Tomado de: Attp://pares.mcu.es/. Archivo General de Indias, MP-
 
-Guatemala, 95. Mapa del curato de San Miguel, 1768
+Guatemala, 95, Mapa del curato de San Miguel, 1768
 
 Alejandro Conde
 
@@ -6811,7 +7098,7 @@ Alejandro Conde
 _Extraction method: OCR._
 
 dándoles poca oportunidad de profundizar en
-el dominio de un idioma en particular.!
+el dominio de un idioma en particular."
 
 Los clérigos diocesanos, tendientes a ser
 beneficiados en curatos y parroquias por
@@ -6821,7 +7108,7 @@ idioma de la localidad en la que eran nom-
 brados, y así poder explicar la doctrina cris-
 tiana en idiomas regionales. Aquí otro punto
 de gran interés para conocer el diferente
-desarrollo lingilístico de los pueblos en las
+desarrollo lingúístico de los pueblos en las
 administraciones de clérigos diocesanos: la
 instrucción en el idioma castellano en las
 parroquias. Todo lo contrario solía ocurrir en
@@ -6830,7 +7117,7 @@ monios que cuando algunos indios se in-
 clinaban al uso de Castilla, eran castigados
 por los regulares. Esta era una estrategia
 por parte de los regulares que pretendían,
-de esta manera, impedir la castellanizacion
+de esta manera, impedir la castellanización
 de los indios, para que a los curas diocesa-
 nos les fuera más difícil ganar el concurso a
 los curatos donde se encontraban asenta-
@@ -6849,12 +7136,12 @@ rales del reino de Guatemala, pues estos
 últimos se formaban en el Seminario de
 Nuestra Señora de la Asunción de la capi-
 
-Una ap
+Una aproximación a la administración eclesiást
 
-a ANALE
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 y vicarios generales, por lo tanto, no se
-requerían servicios personales para estos.
+requerian servicios personales para estos.
 
 Una diferencia sustantiva entre los mo-
 delos de administración eclesiástica es
@@ -6892,6 +7179,9 @@ año podían ser designados para una doctrina
 y al año siguiente podían moverse hacia otro
 sitio donde se hablaba un idioma diferente,
 
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
+
 113
 
 ## Page 114
@@ -6902,7 +7192,15 @@ _Extraction method: OCR._
 
 Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
-Figura 2: Vista del Curato de Gotera. Tomado de: AHAG. Planos y mapas, Curato de Gotera, 1784.
+E = cación
+a   Y a
+2
+
+1
+3
+4l:
+Sis
+Te
 
 tal del Reino de Guatemala. Durante la pri-
 mera parte del siglo XVIII, el clero secular
@@ -6948,7 +7246,9 @@ diocesana por su propia naturaleza, pero
 
 _Extraction method: OCR._
 
-Figura 3: Planos y mapas de Vicaría de San Miguel. AHAG. Fondo Diocesano. Planos y mapas, Vicaría de San Miguel, 1647
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
+
+Figura 3: Planos y mapas de Vicaría de San Miguel. AHAG. Fondo Diocesano. Planos y mapas. Vicaría de San Miguel, 1647.
 
 esto no se dio entre las órdenes religiosas,
 que obedecían los mandatos de los provin-
@@ -6968,6 +7268,8 @@ sas de su jurisdicción, haciendo la admi-
 nistración de justicia civil y criminal más
 eficiente, pues los feligreses no tenían
 
+Una aproximación a la administración eclesiást
+
 que salir de sus regiones para dirimir sus
 litigios legales en la capital, abaratando
 así los costos. La falta de un entramado
@@ -6986,6 +7288,9 @@ siglos por las tres órdenes religiosas, a las
 que se les concedió la administración de
 doctrinas en Guatemala, tanto en las insti-
 
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
+
 115
 
 ## Page 116
@@ -6994,7 +7299,7 @@ _Extraction method: OCR._
 
 116
 
-Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
+Revista ANALES 95, 2016, pp. 99-123, ISSN 0374-5546
 
 tuciones como en los individuos, siendo un
 hecho notable que dicho enriquecimiento
@@ -7026,12 +7331,14 @@ fueron las poblaciones, que tuvieron
 que sufrir exacciones, pagos de tribu-
 tos, prestación de servicios personales,
 
+MAPADEL CURATO DELA CONCHAGUA.
+
 Figura 4. Vista del Curato de Conchagua. Tomado de: http://pares.mcu.es/. Archivo General de Indias, MP-
-Guatemala, 96, Mapa del curato de Conchagua. Se marca la situación de la cabecera que es Yayantique con sus
-anexos los pueblos de Conchagua, Amapala é Intipucá, y la de las haciendas que hay en sus términos., para el año
+Guatemala, 96. Mapa del curato de Conchagua. Se marca la situación de la cabecera que es Yayantique con sus
+anexos los pueblos de Conchagua, Amapala é Intipucá, y la de las haciendas que hay en sus términos. para el año
 de 1768. (1) Pueblo de Yayantique, (2) Pueblo de Conchagua, (3) Pueblo de Amapala (4) Pueblo de
 Intipucá, (5) Hda. Monaguana, (6) Hda. El Pilón, (7) Hda. La Laguna, (8) Hda. De Maquicazagua, (9),
-Hda. de Santa Cruz, (10) Hda. del Potrerillo, (11) Hda. de Magotín, (12) Hda. de Salalaguara, (13) Hda.
+Hda. de Santa Cruz, (10) Hda. del Potrerillo, (11) Hda. de Magotin, (12) Hda. de Salalaguara, (13) Hda.
 de San Cristóbal, (14) Hda. de Santo Domingo, (15) Hda. de Manleo, (16), Hda. de Matadero, (17) Hda.
 de Magote con pajuides (ranchos), (18) Hda. Sobrera con pajuides, (19) Hda. de Pedrigo con pauides,
 
@@ -7043,133 +7350,176 @@ Alejandro Conde
 
 _Extraction method: embedded text._
 
-Ciudad de San Miguel                                          Descripción
-                           El pueblo de San Pedro Moncagua, fue encomendado a favor de vecinos de
- San Pedro Moncagua        la ciudad de Santiago de Guatemala, por méritos y servicios prestados en la
-                           conquista de diferentes territorios del reino.
- Santiago de Quelepa                                               ---
-                           La villa de Chapeltique se apuntaló como asentamiento de población ladina hacia
-                           principios del siglo XVIII, esta había sido una antigua encomienda, juntamente con
-                           Polorós y Guatiajao. La última tasación de tributos como pueblo de indios se rea-
-  Villa de Chapeltique     lizó en 1681. Seguramente el fortalecimiento de las actividades ganaderas en los
-                           alrededores, y la sobreexplotación fueron los factores que influyeron en su rápido
-                           despoblamiento, y sustitución por una población ladina que a finales del siglo XVIII
-                           rondaba los 500 habitantes.
+Ciudad de San Miguel
 
+Descripción
 
-                         Tabla 2. Pueblos y villas de San Francisco Gotera
+San Pedro Moncagua
 
-                                        San Francisco Gotera
-                                                 Gotera
-                                               Lolotiquillo
-                                                Chilanga
-                                               Sensembra
-                                                Yamagual
-                                               Guatajiagua
+El pueblo de San Pedro Moncagua, fue encomendado a favor de vecinos de
+la ciudad de Santiago de Guatemala, por méritos y servicios prestados en la
+conquista de diferentes territorios del reino.
 
+Santiago de Quelepa
 
-                                                                                                                  117
+---
+
+Villa de Chapeltique
+
+La villa de Chapeltique se apuntaló como asentamiento de población ladina hacia
+principios del siglo XVIII, esta había sido una antigua encomienda, juntamente con
+Polorós y Guatiajao. La última tasación de tributos como pueblo de indios se realizó en 1681. Seguramente el fortalecimiento de las actividades ganaderas en los
+alrededores, y la sobreexplotación fueron los factores que influyeron en su rápido
+despoblamiento, y sustitución por una población ladina que a finales del siglo XVIII
+rondaba los 500 habitantes.
+Tabla 2. Pueblos y villas de San Francisco Gotera
+San Francisco Gotera
+Gotera
+Lolotiquillo
+Chilanga
+Sensembra
+Yamagual
+Guatajiagua
+
+117
 
 ## Page 118
 
 _Extraction method: embedded text._
 
 Tabla 3. Pueblos y villas de Nuestra Señora de la Asunción Anamoros
+Pueblos y villas
 
-      Pueblos y villas                                              Descripción
-                             El curato de Anamorós se especializó en la producción ganadera, y para el año 1792 reco-
-                             gió 162 terneros, 12 potros, fanegas de maíz, frutas, pollos. Para una recaudación total de
-                             diezmos de$ 873 con tres reales. De los cuales se emplearon 241 pesos en la recaudación,
-                             quedando 632 pesos con tres reales líquidos para la Iglesia. El pueblo de Anamorós era un
-                             pueblo predominantemente indígena y tenía a su cargo a los pueblos de Luslic y Polorós,
-                             que eran habitados totalmente por familias de origen lenca, rodeados de varios valles po-
-          Anamoros
-                             blados por mulatos y mestizos tales como “El Sauce”, Guachipilín, Santa Rosa, Gueripe y
-                             Pasaquine (donde moraban tres españoles). El caso de Pasaquina ilustrativo del proceso de
-                             despoblamiento sufrido por las poblaciones indígenas hacia mediados del siglo XVI en esa
-                             región. Este fue uno de los principales asentamientos de población Ulúa, pero ya en el siglo
-                             XVIII se reportaba que la población había sido sustituida enteramente por 892 mulatos, 439
-                             mestizos y 3 españoles.
-       Luslic (Lislisque)                                                 ---
-      San Juna Polorós                                                    ---
-        Valle del Sauce                                                   ---
-      Valle de Guachipilín                                                ---
-       Valle de Gueripe                                                   ---
-      Valle de Pasaquina                                                  ---
+Descripción
 
+Anamoros
 
-                                        Tabla 4. Pueblos y villas de Chinameca
+El curato de Anamorós se especializó en la producción ganadera, y para el año 1792 recogió 162 terneros, 12 potros, fanegas de maíz, frutas, pollos. Para una recaudación total de
+diezmos de$ 873 con tres reales. De los cuales se emplearon 241 pesos en la recaudación,
+quedando 632 pesos con tres reales líquidos para la Iglesia. El pueblo de Anamorós era un
+pueblo predominantemente indígena y tenía a su cargo a los pueblos de Luslic y Polorós,
+que eran habitados totalmente por familias de origen lenca, rodeados de varios valles poblados por mulatos y mestizos tales como “El Sauce”, Guachipilín, Santa Rosa, Gueripe y
+Pasaquine (donde moraban tres españoles). El caso de Pasaquina ilustrativo del proceso de
+despoblamiento sufrido por las poblaciones indígenas hacia mediados del siglo XVI en esa
+región. Este fue uno de los principales asentamientos de población Ulúa, pero ya en el siglo
+XVIII se reportaba que la población había sido sustituida enteramente por 892 mulatos, 439
+mestizos y 3 españoles.
 
-                                                      Chinameca
-                                                       Chinameca
-                                                         Tecapa
-                                                        Lolotique
-                                                        Jucuapa
+Luslic (Lislisque)
 
+---
 
-                                            Tabla 5. Santa Catarina Usulután
+San Juna Polorós
 
-                                          El curato de Usulután, se especializó en la producción de algodón, a cargo de
-                                          muchos poquiteros, en total 732 arrobas en el año 1792. Esta actividad era com-
-         Santa Catarina Usulután
-                                          plementada por varios poquiteros de sal, que recolectaban en las playas y eran
-                                          vendidas a un mayorista español que la comercializaba en los pueblos del distrito.
-                 Usulután                                                        ---
-          San Miguel Jiquilisco                                                  ---
-      Santa María de los Remedios                                                ---
+---
 
+Valle del Sauce
+
+---
+
+Valle de Guachipilín
+
+---
+
+Valle de Gueripe
+
+---
+
+Valle de Pasaquina
+
+--Tabla 4. Pueblos y villas de Chinameca
+Chinameca
+Chinameca
+Tecapa
+Lolotique
+Jucuapa
+
+Tabla 5. Santa Catarina Usulután
 
 118
+
+Santa Catarina Usulután
+
+El curato de Usulután, se especializó en la producción de algodón, a cargo de
+muchos poquiteros, en total 732 arrobas en el año 1792. Esta actividad era complementada por varios poquiteros de sal, que recolectaban en las playas y eran
+vendidas a un mayorista español que la comercializaba en los pueblos del distrito.
+
+Usulután
+
+---
+
+San Miguel Jiquilisco
+
+---
+
+Santa María de los Remedios
+
+---
 
 ## Page 119
 
 _Extraction method: embedded text._
 
 Tabla 6. San Juan Oscicala
+Oscicala
+Cacaopera
+Yoloaiquín
+Jocoaitique
+Meanguera
+Perquín y Aramabala
+Torola
+Sensimo
+Gualococti
+Cacahuatique
+Sesori
 
-                                                  Oscicala
-                                                  Cacaopera
-                                                   Yoloaiquín
-                                                  Jocoaitique
-                                                  Meanguera
-                                             Perquín y Aramabala
-                                                     Torola
-                                                   Sensimo
-                                                  Gualococti
-                                                 Cacahuatique
-                                                    Sesori
+Tabla 7. Pueblos y Villas de Nombre de Jesús Ereguaiquin
+Pueblos y Villas
 
-                      Tabla 7. Pueblos y Villas de Nombre de Jesús Ereguaiquin
+Descripción
 
-  Pueblos y Villas                                              Descripción
-    Ereguaiquín                                                     ---
-      Jucuarán                                                      ---
-     Yucuaiquín       Yucuaiquín tuvo serios conflictos de linderos y jurisdicción con el pueblo de Gotera,
-                      y fue hasta principios del siglo XIX, en tiempos de don Cayetano Francos y Monroy,
-                      cuando se solventó la partición del curato de Gotera y Yucuaiquín, señalando los lin-
-                      deros en el camino Real de Partidas a la capital. Expediente instruido por los padres
-                      curas de Gotera y Ereguaiquín, sobre linderos de sus parroquias, en folio 35 hay un
-                      plano de los curatos, este documento es un informe completo de la situación de
-                      linderos. AHAG. C. 9, Expediente No. 107. 50 fols.
-      Uluazapa        El pueblo de Uluazapa fue administrado por los frailes franciscanos del convento guardianía de
-                      la ciudad de San Miguel desde fines del siglo XVI. Un documento de 1689, testimonia que
-                      San Pedro de Uluazapa tenía 156 indios de confesión. En 1740 el número de indios tributarios
-                      era 30 y el total que habitaban Uluazapa rondaba los 150. En 1770 eran 223 los indígenas
-                      que, distribuidos en 55 familias, habitaban en dicho lugar, como pueblo anexo de Ereguayquín.
-     Comacarán                                                      ---
-  San Felipe Jocoro                                                 ---
+Ereguaiquín
+
+---
+
+Jucuarán
+
+---
+
+Yucuaiquín
+
+Yucuaiquín tuvo serios conflictos de linderos y jurisdicción con el pueblo de Gotera,
+y fue hasta principios del siglo XIX, en tiempos de don Cayetano Francos y Monroy,
+cuando se solventó la partición del curato de Gotera y Yucuaiquín, señalando los linderos en el camino Real de Partidas a la capital. Expediente instruido por los padres
+curas de Gotera y Ereguaiquín, sobre linderos de sus parroquias, en folio 35 hay un
+plano de los curatos, este documento es un informe completo de la situación de
+linderos. AHAG. C. 9, Expediente No. 107. 50 fols.
+
+Uluazapa
+
+El pueblo de Uluazapa fue administrado por los frailes franciscanos del convento guardianía de
+la ciudad de San Miguel desde fines del siglo XVI. Un documento de 1689, testimonia que
+San Pedro de Uluazapa tenía 156 indios de confesión. En 1740 el número de indios tributarios
+era 30 y el total que habitaban Uluazapa rondaba los 150. En 1770 eran 223 los indígenas
+que, distribuidos en 55 familias, habitaban en dicho lugar, como pueblo anexo de Ereguayquín.
+
+Comacarán
+
+---
+
+San Felipe Jocoro
+
+---
 
 Tabla 8. Pueblos y villas del curato de Yayantique
+Yayantique
+San Juan Yayantique
+Amapala
+Villa de San Alejo
+Intipucá
+Conchagua
 
-                                                Yayantique
-                                           San Juan Yayantique
-                                                  Amapala
-                                             Villa de San Alejo
-                                                   Intipucá
-                                                 Conchagua
-
-
-                                                                                                                       119
+119
 
 ## Page 120
 
@@ -7177,12 +7527,13 @@ _Extraction method: OCR._
 
 120
 
+Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-554
 FUENTES DOCUMENTALES
 
 Transcripción del informe rendido
 por la Provincia del Nombre de
 Jesús sobre los Conventos de la
-Vicaría de San Miguel 1689"?
+Vicaría de San Miguel 1689?
 
 Convento de franciscanos de la
 ciudad de San Miguel
@@ -7215,6 +7566,10 @@ ron los vecinos de dicho pueblo a los mon-
 tes interiores de la otra banda del volcán de
 San Miguel, que mira al norte. Hanse vuelto
 a poblar en su sitio antiguo, aunque en mu-
+
+Alejandro Conde
+
+6
 
 cha disminución, así por los que murieron
 en los asaltos del enemigo, como porque
@@ -7282,7 +7637,7 @@ Los ladinos pagan la mitad del arancel, que
 son 26 reales por los casamientos, y otra
 tanta cantidad por los entierros. Por los
 bautismos, dan lo mismo que los indios.
-Asísteseles con toda puntualidad posible.
+Asisteseles con toda puntualidad posible.
 
 Convento de Nuestra Señora de las
 Nieves de Amapala
@@ -7298,9 +7653,9 @@ con tanta fatalidad, que de más de haber
 pasado a cuchillo muchos de sus habita-
 dores, asoló y quemó dicho pueblo, el cual
 
-Una ap
+Una aproximación a la administración eclesiást
 
-a ANALE
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 estaba situado al respaldo de una sierra
 montuosa y pedregosa, que sirvió de refu-
@@ -7329,17 +7684,20 @@ pueblos es el de Santa Ana la Teca, que
 tiene 16 indios de confesión, y dista el
 pueblo media legua del mar, que es sola la
 subida a él. El otro pueblo es de Santiago
-de la Conchagua,'* peninsula, que dista
+de la Conchagua,** peninsula, que dista
 de la Teca leguas, y del mar, solamen-
 te una. Y los 140 indios de confesión. El
 otro pueblo es el de la Limpia Concepción
 de Intipuca, el cual dista de la cabecera
-seis leguas|folio cuatro] y está situado en
+seis leguas[folio cuatro] y está situado en
 la misma costa, una legua del mar. Tiene
 40 indios de confesión. El otro pueblo que
 desde Santa María Magdalena de Monleo,
 está en la misma costa, la tierra adentro
 dos leguas de la cabecera, en un sitio alto
+
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
 
 121
 
@@ -7349,7 +7707,7 @@ _Extraction method: OCR._
 
 122
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 pedregoso que descubre muchas tierras.
 Tiene 30 personas de confesión. Así este
@@ -7389,6 +7747,8 @@ número de gente, pero de muchos años a
 esta parte ha venido a gran disminución, y
 por ultimo en estos últimos años, a causa
 de las frecuentes invasiones del enemigo,
+
+Alejandro Conde
 
 que quitó la vida a muchos, tan solamente
 tiene 4 personas de confesión de los natu-
@@ -7461,12 +7821,12 @@ cantadas voluntarias, suelen mandar decir,
 y dan seis reales por su estipendio, toda
 ella es tierra estéril, caliente y de pocas
 
-Una ap
+Una aproximación a la administración eclesiást
 
-a ANALE
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 siembras, y sus naturales poco aplicados
-al trabajo, contentándose con muy pocos
+al trabajo, contentandose con muy pocos
 maíces, manteniéndose con frutas, ásperas
 raíces y pescado, y tal vez buscando algún
 ganado alzado en los montes para hacer
@@ -7493,6 +7853,9 @@ dregoso hacia la parte del norte en la mis-
 ma línea que el de Amapala, ponese aquí
 por no faltar a la fidelidad de la relación.
 
+La Vicaría territorial de San Miguel (1599-1812).
+ca en los confines de la diócesis de Guatemala
+
 123
 
 ## Page 124
@@ -7500,6 +7863,8 @@ por no faltar a la fidelidad de la relación.
 _Extraction method: OCR._
 
 124
+
+Revista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
@@ -7509,7 +7874,7 @@ men 20 de Biblioteca “Goathemala”. Sociedad de Geografía e Historia de Guat
 Delgado, J. (1991) Sucesos de la historia de El Salvador, Volumen 1. Colección “Nueva evan-
 gelización”. Arzobispado de San Salvador.
 
-Escalante Arce, P. y Trujillo, F. (2006) Río Lempa: caudal de vida. FUNDEMAS, 2006.
+Escalante Arce, P. y Trujillo, F (2006) Río Lempa: caudal de vida. FUNDEMAS, 2006.
 
 Gómez, E. (2012) Apuntes sobre el descubrimiento y la colonización del Golfo de Fonseca
 durante los Siglos XVI y XVII: La arqueología e historia de Conchagua Vieja (54-A2),
@@ -7530,7 +7895,7 @@ Van Oss, A. C. (1986) Catholic Colonialism: A Parish History of Guatemala, 1524-
 bridge University Press. Reino Unido, 1986.
 
 Wortman, M. L. (2012) Gobierno y sociedad en Centroamérica, 1680-1840. 2da. Edición,
-Biblioteca Básica de Historia de Guatemala.
+Biblioteca Basica de Historia de Guatemala.
 
 Alejandro Conde
 
@@ -7538,49 +7903,54 @@ Alejandro Conde
 
 _Extraction method: OCR._
 
+evista ANALES 55, 2016, pp. 99-123, ISSN 0374-5546
+
 NOTAS
 
 1. Muchos pueblos indígenas, mencionados en 1550 desaparecieron, o decayeron hasta su total
-extinción, como lo demuestran las tasaciones de tributos del litoral salvadoreño del siglo XVII, AGCA.
+extinción, como lo demuestran las tasaciones de tributos del litoral salvadoreño del siglo XVII. AGCA.
 Tasaciones de tributos, A 3.16.4.
 
 2. Archivo General de Indias, Patronato, 260, N.1, R15-1.
-3, AGCA. A1.11.7 exp. 48642. Leg. 5787.
+3.AGCA. A1.11.7 exp. 48642. Leg, 5787.
 
-4, AGCA. A 1.24.exp. 10,223. Leg. 1,579 fol.57.
+4, AGCA. A 1.24.exp. 10,223, Leg. 1,579 fol.57.
 
-5. AGCA. Al. 24, exp. 10 .226. leg. 1,582 fol. 1.10.
+5. AGCA. Al. 24. exp. 10 .226. leg. 1,582 fol. 1.10.
 
 6. AGCA. Al. 24. exp . 10 .226. leg. 1,582 fol. 1.10.
 
-7. AHAG. Fondo diocesano, Secretario de gobierno eclesiástico, Curatos. C5, expediente 52,
+7. AHAG. Fondo diocesano. Secretario de gobierno eclesiástico, Curatos. C5, expediente 52.
 
-8, El 22 abril 1648 fue examinado y aprobado fray Fernando de Espino, maestro de novicios, en
+8. El 22 abril 1648 fue examinado y aprobado fray Fernando de Espino, maestro de novicios, en
 la suficiencia de lengua [UJlua, que se habla en la provincia de la Choluteca en las guardianías de
 Nacaome, Amapala y San Miguel.
 
 9. La Provincia de la Orden de San Francisco del Santo Nombre de Jesús de Guatemala, se componía
-de 34 conventos guardianía, uno de ellos era el convento guardianía de la ciudad de San Miguel,
+de 34 conventos guardianía, uno de ellos era el convento guardianía de la ciudad de San Miguel.
 
 En 1784 el reverendo padre Fray Lucas Castañeda, rindió cuenta y relación jurada de las memorias
 
-de misas, cofradías, hermandades y obras pías a cargo del convento, Gracias a ello sabemos que
-funcionaban alli 47 capellanias, 4 cofradías (San Benito, San Antonio de Padua, Concepción de Nuestra
+de misas, cofradías, hermandades y obras pías a cargo del convento. Gracias a ello sabemos que
+funcionaban allí 47 capellanías, 4 cofradías (San Benito, San Antonio de Padua, Concepción de Nuestra
 Señora y Santo Domingo). Además de 6 hermandades (La Santísima Cruz del Calvario, San Benito de
 negros, Santa Rita de Casia, Sangre de Cristo y San Francisco).
 
-10. El oidor don Diego García de Palacio, en carta de relación al rey Felipe Il fechada en Guatemala el 8
+10. El oidor don Diego Garcia de Palacio, en carta de relación al rey Felipe Il fechada en Guatemala el 8
 de marzo de 1576, afirma que en la provincia de San Miguel se hablaba el poton (lenca) y el taulepa ulua.
 
 11, AHAG. Fondo diocesano, secretaría. Franciscanos. Expediente 421. Año 1689.
 
-12, Después de esas incursiones se despobló la isla de Conchagúita y se fundó el nuevo pueblo
+12. Después de esas incursiones se despobló la isla de Conchagúita y se fundó el nuevo pueblo
 continental de Santiago de la Conchagua, fundado por los antiguos habitantes de las islas Conchagúita
-y Meanguera. Es decir, la ocupación española en Conchagua Vieja ubicado en la isla de Conchagúita
+y Meanguera. Es decir, la ocupación española en Conchagua Vieja ubicado en la isla de Conchagúlita
 fue corta, mientras la comunidad de Teca dio testigo de una época de contacto cultural, convergencia,
-cohabitación, y finalmente abandonamiento, (Gómez, 2012).
+cohabitación, y finalmente abandonamiento. (Gómez, 2012).
 
-Una aproximación a la administración ecles
+La Vicaría territorial de San Miguel (1599-1812).
+Una aproximación a la administración eclesiástica en los confines de la diócesis de Guatemala
+
+125
 
 ## Page 126
 
@@ -7602,6 +7972,8 @@ Recibido: 23-04-2016; aceptado: 7-05-2016
 ## Page 127
 
 _Extraction method: OCR._
+
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
 
 Resumen
 
@@ -7635,7 +8007,9 @@ playing a role of adaptability to adverse conditions in which the afrodescent li
 inheritance of them practice leads to a reconstruction of the cultural factor.
 
 Keywords
-Afrodescent, Agency, Inquisition, Reforming Bourbon, Status,
+Afrodescent, Agency, Inquisition, Reforming Bourbon, Status.
+
+Control social de afrodescendientes en las provincias de Sonsonate y San Salvador coloniales, 1600-1775
 
 127
 
@@ -7645,7 +8019,8 @@ _Extraction method: OCR._
 
 128
 
-VALES 55, 20
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
+
 INTRODUCCIÓN
 
 Muchos fueron los mecanismos que utiliza-
@@ -7685,8 +8060,6 @@ juzgadas bajo las mismas leyes que regían
 a otras castas, como criollos o peninsu-
 lares. Pero las personas de origen afro, a
 
-nchez - Christian S
-
 pesar de su estatus inferior, escapaban
 de sus limitantes mediante prácticas que
 eran diferentes de las impuestas por los
@@ -7722,9 +8095,11 @@ cas y con las independencias hispanoameri-
 canas, las prácticas de estas personas se van
 extinguiendo y a veces transformando, pero
 perduran de alguna forma en la lectura de
-Cartas, ciertos bailes exóticos, el uso de magia
+cartas, ciertos bailes exóticos, el uso de magia
 y otro tipo de prácticas que siguieron vigentes
 durante los siglos siguientes.
+
+Leonel Armando Hernández Sánchez - Christian Samael Zelada López
 
 ## Page 129
 
@@ -7769,6 +8144,8 @@ se expondrá el panorama de la sociedad
 en que se desarrollaron los afrodescen-
 dientes y la situación de la Inquisición,
 
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
+
 luego se hará alusión a casos particulares
 que den cuenta del accionar de los afro-
 descendientes, describiendo los mecanis-
@@ -7808,13 +8185,17 @@ critica la postura de Barón Castro, quien
 otorgó poca importancia a la presencia de
 este grupo racial, y cómo dicha interpre-
 
+Control social de afrodescendientes en las provincias de Sonsonate y San Salvador coloniales, 1600-1775
+
+129
+
 ## Page 130
 
 _Extraction method: OCR._
 
 130
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
 
 tación ha sesgado de manera negativa los
 estudios futuros sobre población colonial.
@@ -7855,12 +8236,10 @@ prácticas y en general por la cultura po-
 pular de cada región. Sobre este punto,
 Leonardo Hernández presenta un panora-
 
-nchez - Christian S
-
 ma de dicho aspecto, dando ejemplos de
 prácticas singulares, como el uso de pol-
 vos, plegarias o los llamados “pactos con
-el demonio” (Hernández, 2002). Vale decir
+el demonio”(Hernández, 2002). Vale decir
 que Hernández hace énfasis en que estos
 actos eran más comunes en la población
 de ascendencia africana que en la indíge-
@@ -7895,6 +8274,8 @@ sede en Nueva España, por tanto, la mayor
 parte de la información existente sobre
 estos casos están ubicados en el actual
 México(Escalante Arce, 2014). Sobresale
+
+Leonel Armando Hernández Sánchez - Christian Samael Zelada López
 
 ## Page 131
 
@@ -7939,10 +8320,12 @@ El negro llamado Atanacio alias Florentino entre
 otras personas entre quienes está don Juan Ba-
 rrieche; acudiendo dos con el mismo nombre,
 
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
+
 uno llamado Barrieche rico y el otro pobre...
 (Según el contexto de la demanda, sin duda el
 denunciado es el rico)...quien no solamente es
-rico sino el más rico de Guatemala y aunque me
+rico si no el más rico de Guatemala y aunque me
 dicen que tiene cajero pero se nota que siendo
 tan rico solamente vive como un negrito (Archivo
 General de la Nación, Fondo de Inquisición. Exp
@@ -7978,11 +8361,17 @@ pero se encontraba esa agencia como for-
 ma de escapar de esa realidad. Es decir, a
 pesar de la escasez de recursos, los afro-
 
+Control social de afrodescendientes en las provincias de Sonsonate y San Salvador coloniales, 1600-1775
+
+131
+
 ## Page 132
 
 _Extraction method: OCR._
 
-241:
+132
+
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-55
 
 descendientes utilizaban prácticas pecu-
 liares que les permitían escapar de la po-
@@ -8020,11 +8409,15 @@ largo tiempo en alta mar, y asegura que Ma-
 General de la Nación, Fondo Inquisición. Exp.
 15. Año 1704, San Salvador).
 
-Sobre este caso, Mafuela, que es mulata,
+Sobre este caso, Mañuela, que es mulata,
 es acusada por estar casada dos veces.
-Claramente, el titulo del caso sugiere que
+Claramente, el título del caso sugiere que
 
-la Iglesia esta directamente involucrada.
+)
+
+46
+
+la Iglesia está directamente involucrada.
 El primero de los dos esposos es quien
 acusa a Juana Mañuela. Es probable que
 dicha persona tenga otro esposo, pero lo
@@ -8063,6 +8456,8 @@ NEGRO POR BRUJO
 María de Vovadilla viuda, que hace tres años, no
 sabe mes y día, que estando llorosa y triste por
 
+Leonel Armando Hernández Sánchez - Christian Samael Zelada López
+
 ## Page 133
 
 _Extraction method: OCR._
@@ -8076,7 +8471,7 @@ yo te daré remedio para tu amante”. Y otro día
 vino el dicho negro Sebastián, le trajo unas hojas
 de mostaca y otras de cesfino, y unos camotillos
 que no sabe de qué eran, y él las mascó con su
-boca y se las dio para que las untara en los za-
+boca y se las dio para que las untara en los Za-
 patos de su marido, y otro día trajo unas hierbas
 para que las cociera y del agua caliente hiciera
 chocolate. Todo lo que ella declara no usó y los
@@ -8105,6 +8500,8 @@ realizar prácticas de curandería o brujería,
 como se le acusa, también es evidente
 un amplio conocimiento sobre las pro-
 piedades de la herbolaria. Estos factores
+
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
 
 indican que el estatus de este afrodescen-
 diente no definía sus prácticas cotidianas.
@@ -8145,11 +8542,17 @@ dencia cómo la Iglesia jugó un papel pre-
 ponderante en tanto que ejerció un control
 sobre la población afrodescendiente, pero
 
+Control social de afrodescendientes en las provincias de Sonsonate y San Salvador coloniales, 1600-1775
+
+133
+
 ## Page 134
 
 _Extraction method: OCR._
 
-NALES 55, 20
+134
+
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
 
 ala vez se demuestra cómo tanto la Iglesia
 y la Corona fueron incapaces de transfor-
@@ -8185,8 +8588,6 @@ tener una mejor administración económica;
 ligado a ello, las leyes contra los delitos de
 orden común crecieron.
 
-nchez - Christian S
-
 Hacia finales de 1700, el panorama no era
 nada alentador para las personas afrodes-
 cendientes. Ellos fueron, sin duda, quienes
@@ -8217,9 +8618,13 @@ nuar su situación eran recurrentes, como
 lo muestran los casos expuestos en los
 juzgados de la Inquisición.
 
+Leonel Armando Hernández Sánchez - Christian Samael Zelada López
+
 ## Page 135
 
 _Extraction method: OCR._
+
+Revista ANALES 55, 2016, pp. 124-133, ISSN 0374-5546
 
 REFERENCIAS BIBLIOGRÁFICAS
 
@@ -8230,13 +8635,13 @@ popular salvadoreña. San Salvador: Dirección de Publicaciones e Impresos.
 Hernández, L. (2002). Creencias populares de las provincias de San Salvador y Sonsonate: el
 caso de los polvos. Primer encuentro de Historia en El Salvador.
 
-Hernández, L. (2003). La Ilustración ante la sociedad de lo “mágico” y “monstruos”: Cultura
+Hernández, L. (2003). La llustración ante la sociedad de lo “mágico” y “monstruos”: Cultura
 urbana y rural de la provincia de San Salvador según el arzobispo Cortés y Larraz,
-siglos XVIILA. Margarita & A. S. Herrera (Comp.), en Mestizaje poder y sociedad. En-
+siglos XVII!.A. Margarita & A. S. Herrera (Comp.), en Mestizaje poder y sociedad. En-
 sayos de historia colonial en la provincia de San Salvador y Sonsonate. (1.a ed.). San
 Salvador: FLACSO.
 
-Lokken, P. (2003). Mulatos, negros y el mestizaje en las alcaldias mayores de San Salvador
+Lokken, P. (2003). Mulatos, negros y el mestizaje en las alcaldías mayores de San Salvador
 y Sonsonate siglo XVII.A. Margarita & A. S. Herrera (Comp.), en Mestizaje poder y so-
 ciedad. Ensayos de historia colonial de la provincia de San Salvador y Sonsonate. San
 Salvador: FLACSO.
@@ -8257,7 +8662,9 @@ cisco Hernández por decir que la simple fornicación no es pecado.
 Exp. 5. Año 1733, Sonsonate: Denuncia de Lorenzo Justiniano, mulato, contra un francés que
 dijo que para salvarse no era necesario ser cristiano.
 
-social de afrodescendientes en las f
+Control social de afrodescendientes en las provincias de Sonsonate y San Salvador coloniales, 1600-1775
+
+135
 
 ## Page 136
 
@@ -8280,13 +8687,13 @@ Recibido: 9-04-2016; aceptado: 23-05-2016
 
 _Extraction method: OCR._
 
-Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 Resumen
 
 En 1594, el gobernador de Guatemala recibió una solicitud muy especial por parte de Felipe Il,
-el rey quería conocer más sobre la Taguzgalpa, sus recursos y sobre todo quería saber quiénes
-eran sus habitantes. Los informes recibidos de las expediciones de Callejo y del capitán Diego
+el rey queria conocer mas sobre la Taguzgalpa, sus recursos y sobre todo queria saber quiénes
+eran sus habitantes. Los informes recibidos de las expediciones de Callejo y del capitan Diego
 Gutiérrez llevadas a cabo entre 1584 y 1589 crearon una serie de leyendas sobre los pueblos
 de la Taguzgalpa, mezcla de realidad y ficción. En los documentos generados sobresalen
 tres aspectos importantes: por un lado, la agresividad de sus habitantes, la negritud de sus
@@ -8299,19 +8706,19 @@ Taguzgalpa, zambos, negros, contabando, caribe centroamericano.
 
 Abstract
 
-In 1594, the governor of Guatemala received a very special request from Felipe ll, the king
-wanted to know more about Taguzgalpa, its resources and above all he wanted to know who ¡ts
+In 1594, the governor of Guatemala received a very special request from Felipe Il, the king
+wanted to know more about Taguzgalpa, its resources and above all he wanted to know who its
 inhabitants were. Reports received from the expeditions of Callejo and captain Diego Gutiérrez
 between 1584 and 1589 created a series of legends about the town of Taguzgalpa, a mixture
 of reality and fiction. The documents produced highlight three important aspects: on the one
 hand, the aggressiveness of its inhabitants, the blackness of its inhabitants and, finally, the
 extensive network of smuggling from the Caribbean to the bowels of Spanish Central America,
-making the Zambes of the Mosquitia into other actors of the Caribbean commercial dynamics.
+making the Zambes of the Mosauitia into other actors of the Caribbean commercial dynamics.
 
 Keywords
-Taguzgalpa, zambos, negroes, smuggling, Caribbean Central American.
+Taguzgalpa, Zambos, negroes, smuggling, Caribbean Central American.
 
-alpa, actores claves en el contrabando centroamericano (1642-1700)
+Zambos y negros dela Taguzgalpa, actores claves en el contrabando centroamericano (1642-1700)
 
 137
 
@@ -8321,7 +8728,8 @@ _Extraction method: OCR._
 
 138
 
-VALES 55, 20
+Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+
 INTRODUCCIÓN
 
 Estamos de acuerdo que el universo cari-
@@ -8348,7 +8756,7 @@ minar a los habitantes de la Mosquitia un
 término acuñado a finales del siglo XIX por
 los investigadores Potthast, y Conzemius
 (1938) y que hace referencia a los habitan-
-tes del Atlántico nicaragúense y hondureño.
+tes del Atlántico nicaragiiense y hondureño.
 
 La presencia de los zambos-misquitos en
 las actividades políticas y comerciales en
@@ -8360,6 +8768,8 @@ to fomentó las comunicaciones y con ello
 un proceso de aculturación de los pueblos
 que habitaban la región caribe centroame-
 ricana. Son muchos los autores que han
+
+Rafael Obando Andrade
 
 querido ver el desarrollo de la Mosquitia
 como un proceso exógeno impulsado por
@@ -8443,14 +8853,16 @@ territorio estaría relacionado con la zona
 central y noreste de la actual república de
 Honduras, teniendo como límite sur el río
 
-Zambos y
+Zambos y negros dela Taguzgalpa, actores claves en el contraba
+
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 Coco. (Latitud. 15° 50’) al otro lado del rio
 se extendió otro espacio cultural conocido
-como la Tologalpa, que vendría a corres-
+como la Tologalpa, que vendria a corres-
 ponder al territorio que hoy comprende
 la Mosquitia nicaragúense, con la ribera
-norte del río San Juan (Latitud 11° 30’ N)
+norte del río San Juan (Latitud 11° 30° N)
 como límite sur.
 
 Existió un gran vacío sobre la jurisdicción
@@ -8471,7 +8883,7 @@ oro”: la mítica Ciudad Blanca.
 Pero paradójicamente no se organizó ninguna
 expedición hasta finales del siglo XVI y princi-
 pios del XVII. Para entonces, el territorio se ha-
-bia vuelto a poblar con grupos pluriculturales
+bía vuelto a poblar con grupos pluriculturales
 que tendrán un papel clave en las dinámicas
 sociales y económicas, puesto que, lejos de
 estar aislados, estos asentamientos mantu-
@@ -8482,7 +8894,9 @@ español. Este flujo de productos benefició a
 los colonos, pero no a la Real Hacienda quien
 supo de primera mano cómo buena parte de
 la plata se marchaba por ese territorio rumbo
-alas arcas de los enemigos de España.
+a las arcas de los enemigos de España.
+
+Jo centroamericano (1642-1700)
 
 139
 
@@ -8492,7 +8906,7 @@ _Extraction method: OCR._
 
 140
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 Por ello, desde Guatemala se insistió en la
 necesidad de someter ese espacio y sobre
@@ -8532,6 +8946,8 @@ dos, como afirma Helms, (1983) se fueron
 estructurando bajo un sistema de inter-
 cambio basado en el contrabando.
 
+Rafael Obando Andrade
+
 Fueron muchas las razones por las cuales
 los vecinos de Comayagua y Granada soli-
 citaron ayudas reales para explorar y colo-
@@ -8549,7 +8965,7 @@ ción de ella, cincuenta leguas de Trujillo, por la costa
 llega hasta el desaguadero de Nicaragua, es tierra
 de buen temple y apacible, buena para poblar y han
 visto oro en ella y los naturales de ella son pocos,
-pero gente pulida y con ropa doméstica."
+pero gente pulida y con ropa doméstica.'
 
 El gobernador se basó en la información
 recibida de los buhoneros, quienes eran
@@ -8612,6 +9028,10 @@ se los soldados, se salían de ellas, como temían la
 guardia de cerca y por el camino los indios los ma-
 taban como a gente sin orden. (Vallejo 1905, p.96)
 
+Zambos y negros dela Taguzgalpa, actores claves en el contraba
+
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+
 El informe desalentó a los guatemaltecos,
 quienes exigieron la cabeza de Contreras
 y sus socios, acusándoles por un lado de
@@ -8650,6 +9070,8 @@ yas recorrieron la costa y se atrevieron en
 mar abierto, alcanzando las costas de Cu-
 racao, Jamaica, Puerto Rico y la Española.
 
+Jo centroamericano (1642-1700)
+
 141
 
 ## Page 142
@@ -8658,7 +9080,7 @@ _Extraction method: OCR._
 
 142
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 No olvidemos que desde muy temprano
 existió una constante presencia de barcos
@@ -8672,7 +9094,7 @@ tante gracias a las alianzas existentes entre
 los mineros y los habitantes de la Taguzgal-
 pa. Estas frágiles alianzas se mantuvieron
 en los largos periodos de crisis productiva
-minera y se fortalecían en los momentos
+minera y se fortalecian en los momentos
 de auge minero, un devenir económico que
 afectó a la región central centroamericana
 hasta bien entrado el siglo XX.
@@ -8694,10 +9116,12 @@ elemento clave en el devenir del contra-
 bando en la región Caribe.
 
 Un buen ejemplo lo encontramos en la
-obra de Géetz, Von Houwald (1975), quien
+obra de Góetz, Von Houwald (1975), quien
 asevera que existieron, desde 1589, algu-
 nos campamentos piratas más o menos
 estables en la costa caribeña centroameri-
+
+Rafael Obando Andrade
 
 cana. El investigador identificó en su obra
 dos caladeros, uno estaría en la laguna de
@@ -8777,11 +9201,15 @@ fueron y son grandes navegantes.
 
 Afirmando lo anterior, la alianza con los
 ingleses proporcionó a habitantes de la
-Mosauitia. el apoyo logístico necesario
+Mosquitia. el apoyo logístico necesario
 para consolidar su hegemonía en la zona.
 Para 1640, los zambos-misquitos man-
 
-tenían bajo su control a unas 30 tribus,
+Zambos y negros dela Taguzgalpa, actores claves en el contraba
+
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+
+tenian bajo su control a unas 30 tribus,
 desde Honduras hasta la región norte
 caribeña de Panamá. Entre las más im-
 portantes, estuvieron los Lencas, Tahuas,
@@ -8792,7 +9220,7 @@ Gualaes, Cuges, tomayes, Bucataguacas,
 Quimacas, Panamacas, Ytziles, Motucas,
 Borucas, Apazines, Nanaicas, entre otros.
 Todos ellos reconocieron la autoridad del
-rey Old Man |, quien gobernó desde 1640
+rey Old Man I, quien gobernó desde 1640
 hasta 1677. Existe un intenso debate so-
 bre la cronología y los nombres de los
 reyes misquitos, los datos más fiables los
@@ -8820,6 +9248,8 @@ do un importante papel en la economía
 zambo-misquitos. Algunos productos son:
 maderas nobles como la caoba, capara-
 
+Jo centroamericano (1642-1700)
+
 143
 
 ## Page 144
@@ -8827,47 +9257,68 @@ maderas nobles como la caoba, capara-
 _Extraction method: embedded text._
 
 zones de tortugas, zarzaparrilla, hierbas
-      medicinales, resinas, pieles de animales y
-      carne de manatí.
+medicinales, resinas, pieles de animales y
+carne de manatí.
+Genealogía de los reyes misquitos
+1640-1740
+NOMBRE
 
-             Genealogía de los reyes misquitos
-                       1640-1740
+INICIO
 
-        NOMBRE              INICIO             FIN
+FIN
 
-         Old Man I           1640             1677
+Old Man I
 
-        Old Man II           1677             1686
+1640
 
-         Jeremy I            1686             1718
+1677
 
-         Jeremy II           1718             1729
+Old Man II
 
-          Peter I            1729             1739
+1677
 
-         Edward I            1739             1755
+1686
 
-         Tabla 1: Las fuentes para constituir este cua-
-         dro fueron tomadas básicamente de Troy Floyd,
-         (1967, p.62).
+Jeremy I
 
+1686
 
-      La aglomeración de estas tribus bajo una
-      sola monarquía trajo estabilidad en la zona.
-      El rey Old Man I rápidamente dio poderes
-      a uno de sus aliados más importantes: el
-      cacique Paya, a quien nombró como ge-
-      neral, encargado de mantener las alianzas
-      con las poblaciones del interior del reino y
-      del contrabando de la plata y de otros ar-
-      tículos, como añil o zarzaparrilla. También
-      fue el encargado de mantener controlados
-      a los españoles, a la vez que comerciaba
-      con ellos. La región no solo contó con un
-      buen caladero, sino también con tierras de
-      cultivo, agua dulce y buena pesca. Además,
-      desde Río Tinto salían varias rutas de con
+1718
 
+Jeremy II
+
+1718
+
+1729
+
+Peter I
+
+1729
+
+1739
+
+Edward I
+
+1739
+
+1755
+
+Tabla 1: Las fuentes para constituir este cuadro fueron tomadas básicamente de Troy Floyd,
+(1967, p.62).
+
+La aglomeración de estas tribus bajo una
+sola monarquía trajo estabilidad en la zona.
+El rey Old Man I rápidamente dio poderes
+a uno de sus aliados más importantes: el
+cacique Paya, a quien nombró como general, encargado de mantener las alianzas
+con las poblaciones del interior del reino y
+del contrabando de la plata y de otros artículos, como añil o zarzaparrilla. También
+fue el encargado de mantener controlados
+a los españoles, a la vez que comerciaba
+con ellos. La región no solo contó con un
+buen caladero, sino también con tierras de
+cultivo, agua dulce y buena pesca. Además,
+desde Río Tinto salían varias rutas de con
 
 144
 
@@ -8914,10 +9365,14 @@ Toro, en Panamá, por el sur. Se comer-
 ciaba con productos básicos necesarios
 en las zonas mineras de Comayagua y
 
+Zambos y negros dela Taguzgalpa, actores claves en el contraba
+
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+
 Tegucigalpa, en Honduras, y de Nueva
 Segovia en Nicaragua.
 
-Por otro lado, vendieron esclavos indígenas
+Por otro lado, vendieron esclavos indigenas
 en la región del Caribe, a pesar de estar
 prohibida la esclavitud en los territorios es-
 pañoles, los zambos capturaron indígenas
@@ -8953,6 +9408,8 @@ te de su género por estos ataques y de paso
 alguno que otro esclavo que de forma vo-
 luntaria se enrolaba en las canoas payas.®
 
+Jo centroamericano (1642-1700)
+
 145
 
 ## Page 146
@@ -8961,7 +9418,7 @@ _Extraction method: OCR._
 
 146
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 En 1744, Diez Navarro informó de la situa-
 ción de Matina, describiendo a los zambos-
@@ -8982,7 +9439,7 @@ estas ferias clandestinas fueron un ele-
 mento clave en la sobrevivencia para los
 habitantes de la provincia de Costa Rica
 y, como atestigua Brenes (1978), a veces
-la única posibilidad de proveerse de mer-
+la Única posibilidad de proveerse de mer-
 caderías necesarias. Por ello, cuando los
 zambos dejaron de visitar la región, los
 cartagineses se vieron inmersos en una
@@ -9001,6 +9458,8 @@ Trujillo bajo la solicitud de ayuda, es decir,
 de malas entradas, descargando parte de
 sus mercaderías y cargando otras. Todo
 esto sucedía con el apoyo de los funcio-
+
+Rafael Obando Andrade
 
 narios reales, que como dice Pietscha-
 mann (1998) los funcionarios en América
@@ -9074,7 +9533,7 @@ número de bandoleros. Frente a ello, no se
 vio con malos ojos que los zambos traje-
 ran hasta Granada mercaderías y esclavos
 para comerciar, sin embargo, Martín Car-
-los de Mencos,'” nuevo capitán de Gua-
+los de Mencos,'* nuevo capitán de Gua-
 temala, nombró al joven Antonio Bonilla
 para que le informara sobre la situación
 del contrabando en Granada.
@@ -9083,6 +9542,10 @@ La presencia del contable no asustó a los
 vecinos, que pensaron que con un poco de
 dinero podrían comprarle, sin embargo, la
 sorpresa fue grande cuando este no acep-
+
+Zambos y negros dela Taguzgalpa, actores claves en el contraba
+
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 tó soborno alguno y denunció que desde
 hacía unos meses canoas zambas estaban
@@ -9123,6 +9586,8 @@ unas embarcaciones cargadas de añil y
 zarzaparrillas que esperaban en el puerto
 los permisos para salir hacia Veracruz.
 
+Jo centroamericano (1642-1700)
+
 147
 
 ## Page 148
@@ -9131,7 +9596,7 @@ _Extraction method: OCR._
 
 148
 
-NALES 55, 20
+Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 Este hecho hizo que el nuevo gobernador
 decidiera nombrar como gobernador de
@@ -9171,6 +9636,8 @@ ción de un fuerte mayor, al que se llamó
 Inmaculada Concepción, que fue, hasta
 la construcción del fuerte de Omoa en
 1775, el más importante de la zona. Al
+
+Rafael Obando Andrade
 
 parecer, la ruta de contrabando por el río
 San Juan quedó bloqueada. Por tal razón,
@@ -9254,7 +9721,9 @@ en el lago de Nicaragua, como Acoyapa.
 Entre 1708 y 1710 los ataques se fueron
 haciendo más frecuentes. La incapacidad
 
-Zambos y
+Zambos y negros dela Taguzgalpa, actores claves en el contraba
+
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 de reacción de la Corona española facilitó
 estas incursiones. En 1709, fue capturada
@@ -9295,13 +9764,17 @@ sistema colonial mediante pactos.
 Ambos procesos de ocupación se tienen
 que entender dentro de las dinámicas
 
+Jo centroamericano (1642-1700)
+
 149
 
 ## Page 150
 
 _Extraction method: OCR._
 
-NALES 55, 20
+150
+
+Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 económicas de la región, donde además
 de la minería se desarrollaron otras acti-
@@ -9331,6 +9804,8 @@ pansión y de confinación en el convulso
 espacio caribeño, demostrando con ello la
 capacidad bélica que los hizo famosos en
 todo el mundo.La trata de indígenas fue
+
+Rafael Obando Andrade
 
 una solución provisional al colapso que
 sufrió el contrabando, debido al abandono
@@ -9365,7 +9840,9 @@ los consideraron sus iguales.
 
 _Extraction method: OCR._
 
-REFERENCIAS BIBLIOGRÁFICAS
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+
+REFERENCIAS BIBLIOGRAFICAS
 
 Ayon, T. (1977). Historia de Nicaragua desde los tiempos más remotos. Managua:
 Instituto de Historia de Nicaragua.
@@ -9373,9 +9850,9 @@ Instituto de Historia de Nicaragua.
 Brenes Castillo, M?. (1978). Matina, bastión del contrabando en Costa Rica; Anuario
 de Estudios Centroamericanos. Vol. IV, 393- 450.
 
-Dampier, W. (1938). Buccaneer. Palo Alto: Stanford University.
+Dampier, W. (1938). Buccaneer. Palo Alto: Stanford University,
 
-Durón, R. (1838). Límites de Nicaragua: Rectificaciones, Managua: Taller Gráfico Joa-
+Durón, R. (1838). Límites de Nicaragua: Rectificaciones. Managua: Taller Gráfico Joa-
 quín Chamorro.
 
 Exquemelin, A. (2000). The Buccaneers of America. Ciudad de Nueva York: Dover
@@ -9396,6 +9873,8 @@ Helms, M. (1969), The Cultural Ecology of a Colonial Tribe. Ethnohistory, vol. V
 Helms, M. (1983). Miskito Slaving and Culture Contact: Ethnicity and Opportunity in an
 expanding Population, Journal of Anthropological. vol XXXIX, 179-197.
 
+Zambos y negros dela Taguzgalpa, actores claves en el contrabando centroamericano (1642-1700)
+
 151
 
 ## Page 152
@@ -9404,13 +9883,15 @@ _Extraction method: OCR._
 
 152
 
+Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+
 Hereford, E. (1908). Departament of Strand and Official Bodies, Acts of the Privy coun-
 cil of England, colonial Series. Londres: Stationery Office.
 
 Ibarra Rojas, E. (2006). Los zambos y los mosquitos en la Costa de Mosquito. Estrategias
 en el conflicto anglo-hispano en América Central 1633-1786. San José: CIHAC.
 
-Kemble, S. (1884). The Kemble Papers. Tomo Il. Ciudad de Nueva York: Historical Society.
+Kemble, S. (1884). The Kemble Papers. Tomo ll. Ciudad de Nueva York: Historical Society.
 
 Kupperman, K. (1995). Providence Island 1630 — 1641: The Other Puritan Colony.
 Cambridge: Cambridge University.
@@ -9423,9 +9904,9 @@ Historiográfico sobre Hispanoamérica Colonial. Valladolid: Instituto de Histor
 de Simangas.
 
 Sandner, G. (1985). Zentralamerika und derFerneKaribischeWesten: Konjunk-
-turen, Krisen und Konflikte 1503-1984, Stuttgar: Steiner.
+turen,Krisen und Konflikte 1503-1984, Stuttgar: Steiner.
 
-Vallejo, A. (1905). Límites entre Honduras y Nicaragua: alegato presentado a Su
+Vallejo, A. (1905). Limites entre Honduras y Nicaragua: alegato presentado a Su
 Majestad católica el rey de España en calidad de árbitro por los representantes
 de la república de Honduras. Madrid: Imprenta Real.
 
@@ -9442,29 +9923,29 @@ Rafael Obando Andrade
 
 _Extraction method: OCR._
 
-Revista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
+evista ANALES 55, 2016, pp. 134-151, ISSN 0374-5546
 
 NOTAS
 
 1. Archivo General de Centro América (de ahora en adelante AGCA) AGCA A.3.9 folio 5331 Leg. 504 1580.
-2. AGCAA.3.12 Exp. 5524, Leg. 527.
+2. AGCA A.3.12 Exp. 5524, Leg, 527.
 
-3. Quejas de los comerciantes hondureños, AGI, Guatemala, 450. Enero de 1660
+3, Quejas de los comerciantes hondureños, AGI, Guatemala, 450, Enero de 1660.
 
-4. Sobre la problemática del contrabando de zarzaparrilla y otros productos que salían de la Tologalpa, véase: AGI México
-3099 y AGI, Guatemala 450,
+4, Sobre la problemática del contrabando de zarzaparrilla y otros productos que salían de la Tologalpa, véase: AGI México
+3099 y AGI, Guatemala 450.
 
-5. Véase informe del gobernador sobre los ataques misquitos en AGI, Guatemala 303. 1683.
-6. Véase Informe de Luis Diez Navarro 1744 AGI Guatemala 450.
+5. Véase informe del gobernador sobre los ataques misquitos en AGI, Guatemala 303, 1683.
+6. Véase Informe de Luis Diez Navarro 1744 AGI Guatemala 450,
 
-7. En el documento AG! Guatemala 450, se hace referencia a dos importantes comerciantes identificados uno como el
+7. En el documento AGI Guatemala 450, se hace referencia a dos importantes comerciantes identificados uno como el
 judío de la costa y otro como Mirandés el judío ambos zambos de Río Tinto, enero 1774,
 
 8. Véase AGCA A.3.6 Exp. 53.902 y el legajo 6060 (A 124)
-9. Ibid. Leg. 6062-64
+9, Ibid. Leg. 6062-64
 
-10. Archivo Nacional Histórico de Honduras (de ahora en adelante ANHH), ANHH Paquete 5641 Legajo 125. Pago de
-alcabalas y entrada de esclavos no marcados 1665,
+10, Archivo Nacional Histórico de Honduras (de ahora en adelante ANHH), ANHH Paquete 5641 Legajo 125. Pago de
+alcabalas y entrada de esclavos no marcados 1665.
 
 Zambos y negros dela Taguzgalpa, actores claves en el contrabando centroamericano (1642-1700)
 
@@ -9506,6 +9987,12 @@ ISSN 0374-5546
 SECRETARÍA DE CULTURA
 DE LA PRESIDENCIA
 
-AAA
-AAA
+aomnno be
+
+EL SALVADOR
+
+UNÁMONOS PARA CRECER
+
+A
+SE
 <!-- ocr:end -->

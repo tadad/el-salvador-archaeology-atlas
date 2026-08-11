@@ -23,6 +23,7 @@ export function LibraryShell({ collection: collectionSlug, activeSlug, children 
         <nav className={styles.primaryNav} aria-label="Primary navigation">
           <Link href="/">Atlas</Link>
           <span aria-current="page">Wiki</span>
+          <Link href="/about">About</Link>
         </nav>
       </header>
 

@@ -15,6 +15,7 @@ export type PaperRecord = {
   slug: string;
   title: string;
   authors: ContributorLink[];
+  contributors: ContributorLink[];
   editors: ContributorLink[];
   translators: ContributorLink[];
   year: number | null;
@@ -130,6 +131,7 @@ function loadIndex(): VaultIndex {
         slug: String(parsed.data.paper_id || path.basename(filename, ".md")),
         title: String(parsed.data.title || path.basename(filename, ".md")),
         authors: contributors(parsed.data.authors),
+        contributors: contributors(parsed.data.contributors),
         editors: contributors(parsed.data.editors),
         translators: contributors(parsed.data.translators),
         year: typeof parsed.data.publication_year === "number" ? parsed.data.publication_year : null,
@@ -174,6 +176,7 @@ export function getAuthorPapers(authorSlug: string): AuthorPaper[] {
     .map((paper) => {
       const roles = [
         paper.authors.some((author) => author.slug === authorSlug) ? "Author" : "",
+        paper.contributors.some((author) => author.slug === authorSlug) ? "Contributor" : "",
         paper.editors.some((author) => author.slug === authorSlug) ? "Editor" : "",
         paper.translators.some((author) => author.slug === authorSlug) ? "Translator" : "",
       ].filter(Boolean);

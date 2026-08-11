@@ -1,94 +1,114 @@
-# El Salvador Archaeology, Ethnohistory, and Legend Corpus
+# El Salvador Archaeology Atlas
 
-This is an El Salvador-centered, multilingual discovery corpus covering
-archaeological sites and cultures, Indigenous history, colonial encounters,
-oral traditions, folklore, legendary people and places, disputed claims, and
-the history of archaeological investigation.
+This repository is an El Salvador-centered, multilingual research corpus and
+public atlas. It connects archaeological places with source documents,
+historical peoples, cultural classifications, and research history without
+treating any one of those evidence types as interchangeable.
 
-Guatemala, Honduras, Nicaragua, Belize, southern Mexico, Costa Rica, and the
-Pacific maritime sphere appear only when a subject or source materially
-illuminates El Salvador, its present territory, or the peoples and networks
-connected to it. This is not intended as a general corpus of Central American
-legends.
+Regional material from Guatemala, Honduras, Nicaragua, Belize, southern
+Mexico, Costa Rica, and the Pacific maritime sphere is included only when it
+materially helps interpret El Salvador, its present territory, or connected
+peoples and networks.
 
-Spanish and Indigenous-language sources are preferred. English and other
-languages are retained when they provide important primary documentation or
-strong scholarship. Wikipedia is used as a discovery map; citation trails are
-followed toward chronicles, field reports, archival documents, theses,
-catalogues, peer-reviewed research, heritage agencies, and other stronger
-sources.
+## Explore the project
 
-## Start here
+- [`app/`](app/) contains the Next.js atlas, wiki, and public About page.
+- [`vault/Home.md`](vault/Home.md) opens the Obsidian research vault.
+- [`vault/Library.md`](vault/Library.md) indexes downloaded and linked sources.
+- [`vault/Views/Papers.base`](vault/Views/Papers.base) provides a searchable
+  view of locally archived papers.
+- [`SITE-DESCRIPTION-AUDIT.md`](SITE-DESCRIPTION-AUDIT.md) defines the current
+  site-description audit method.
+- [`SITE-DESCRIPTION-AUDIT-CHECKLIST.md`](SITE-DESCRIPTION-AUDIT-CHECKLIST.md)
+  tracks that audit while it is in progress.
 
-- [Interactive excavation atlas](app/) — a Next.js map built directly from
-  vault-native Place documents, with coordinates, narrative descriptions,
-  research histories, and direct links to cited Paper or external source pages
-- Web wiki — automatically generated collection indexes, properties, documents,
-  links, and backlinks for every typed ontology folder in the vault
-- [Obsidian research vault](vault/Home.md) — linked Place, Period, Culture,
-  People, Paper, and Author records, page-addressable OCR text, and local PDF
-  attachments
-- [Field guide](FIELD-GUIDE.md) — curated orientation and high-value research
-  leads
-- [Source-derived leads](SOURCE-DERIVED-LEADS.md) — sites, artifacts, historical
-  problems, and traditions surfaced by the downloaded literature even when
-  Wikipedia coverage is weak or absent
-- [Searchable PDF text](vault/Views/Papers.base) — page-addressable Markdown
-  for all 127 locally archived PDFs, using embedded text and targeted
-  multilingual OCR
-- [Sources](vault/Library.md) — downloaded and linked primary/strong secondary
-  material
-- [Schema](SCHEMA.md) — record fields, evidence labels, and inclusion rules
+The web application publishes every typed, top-level ontology collection in
+the vault. It currently provides specialized readers for Paper and Author
+records and generic pages for the rest of the graph.
 
-## Scope rule
+## Scope and evidence
 
-Every included record must satisfy at least one of these conditions:
+A record belongs in the corpus when it meets at least one condition:
 
 1. It is located in present-day El Salvador.
 2. It concerns a people, polity, tradition, artifact, or event documented in
    El Salvador.
-3. It is a regional subject necessary to interpret Salvadoran material.
-4. A primary or strong secondary source centered elsewhere contains material
-   specifically relevant to El Salvador.
+3. It supplies regional context necessary to interpret Salvadoran material.
+4. A strong source centered elsewhere contains material specifically relevant
+   to El Salvador.
 
-Regional context without a concrete Salvadoran connection is excluded.
+The corpus distinguishes observation, historical or oral report, and later
+interpretation. A colonial text documents what its author wrote; it does not
+automatically establish the accuracy of that description. A documented oral
+tradition is evidence for a narrative and its recording context; claims about
+its age or continuity require separate support. Archaeological styles and
+historical ethnic identities also remain separate unless a source makes and
+supports the connection.
 
-## Cautions
+Public coordinates follow the same principle. Each Place records whether its
+marker is source-published, tied to a public landmark, or approximate. A
+sensitive location may be generalized even when more precise information is
+available.
 
-- `unassessed` means discovered, not verified.
-- A colonial text is primary evidence for what its author wrote, not automatic
-  proof that its description of Indigenous history is accurate.
-- A real archaeological site can have separate legendary or nationalist claims
-  attached to it; those claims require their own evidence assessment.
-- Folklore recorded in the twentieth century may preserve older elements, but
-  age and continuity should not be assumed without evidence.
-- Modern country borders do not map neatly onto pre-Hispanic cultural regions.
+## Knowledge graph
 
-## Maintenance
+The vault models six linked record types:
 
-The downloadable PDF archive is not committed to Git. Every Paper record
-records the original source URL, SHA-256 hash, and one-based PDF page
-headings. Local processing manifests live under ignored `tmp/data/`. This keeps
-the research provenance in the Paper records without making application
-deployments clone hundreds of megabytes of duplicate source files.
+- **Places** own links to Periods, Cultures, and directly supporting Papers.
+- **Periods** provide controlled chronological facets.
+- **Cultures** describe cautious archaeological traditions or classifications.
+- **Peoples** represent historical or ethnolinguistic groups separately from
+  material culture.
+- **Papers** preserve bibliographic, extraction, and provenance data and own
+  links to canonical Authors.
+- **Authors** represent credited people and organizations.
 
-The searchable mirror covers all 6,306 PDF pages. Each Paper record
-records its source URL and hash, preserves PDF page boundaries, and labels each
-page as embedded text, OCR, or unrecognized. Treat the text as a discovery aid
-and check the PDF before exact quotation or interpreting tables and figures.
+Obsidian links provide reverse relationships through backlinks, so each edge
+is stored once. Research events remain cited prose in Place records rather than
+a separate record type.
 
-Rebuild the Author and Paper properties after changing normalized ontology data
-or extraction metadata:
+## PDF processing
+
+The PDF archive under `vault/Attachments/PDFs/` is intentionally ignored by
+Git. Each generated Paper record preserves the original URL, SHA-256 checksum,
+page count, extraction settings, and one-based `## Page N` headings. Processing
+manifests and normalized metadata registries live under ignored `tmp/data/`.
+
+Convert archived PDFs to Markdown:
+
+```bash
+python3 tools/convert_pdfs_to_markdown.py --ocr auto --ocr-language spa+eng --dpi 250
+```
+
+`--ocr auto` keeps usable embedded text and OCRs unreadable pages;
+`--ocr never` disables OCR.
+Generated Markdown is a discovery and reading aid. Verify quotations, names,
+dates, diacritics, tables, and figures against the original PDF.
+
+After changing normalized author, paper, or extraction metadata, render and
+validate the ontology:
 
 ```bash
 python3 tools/build_vault_ontology.py
 python3 tools/build_vault_ontology.py --check
+python3 -m unittest tests.test_vault_tools
 ```
 
-Run the atlas locally with:
+The converter owns the region between `<!-- ocr:start -->` and
+`<!-- ocr:end -->`. It preserves the editable `## Notes` section and fails
+closed if an existing Paper has an ambiguous marker layout.
+
+## Web development
 
 ```bash
 cd app
 npm install
 npm run dev
+```
+
+Before shipping application changes, run:
+
+```bash
+npm run typecheck
+npm run build
 ```

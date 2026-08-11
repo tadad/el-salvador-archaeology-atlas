@@ -17,6 +17,7 @@ location_visibility: "public"
 periods: []
 cultures: []
 papers:
+  - "[[Papers/1985-fowler-earnest-paraiso-basin]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
 latest_study_year: 1999
 latest_study_label: "1999"

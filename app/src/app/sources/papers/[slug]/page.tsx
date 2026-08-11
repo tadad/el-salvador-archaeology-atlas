@@ -69,8 +69,14 @@ export default async function PaperPage({ params }: PaperPageProps) {
             </div>
           </dl>
 
-          {(paper.editors.length > 0 || paper.translators.length > 0) && (
+          {(paper.contributors.length > 0 || paper.editors.length > 0 || paper.translators.length > 0) && (
             <div className={styles.creditLines}>
+              {paper.contributors.length > 0 && (
+                <p>
+                  <strong>With contributions by</strong>{" "}
+                  <ContributorList contributors={paper.contributors} />
+                </p>
+              )}
               {paper.editors.length > 0 && (
                 <p>
                   <strong>Edited by</strong> <ContributorList contributors={paper.editors} />

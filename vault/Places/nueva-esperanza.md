@@ -19,6 +19,7 @@ periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
 papers:
+  - "[[Papers/2008-shibata-nueva-esperanza]]"
   - "[[Papers/anales-53]]"
   - "[[Papers/anales-56]]"
 latest_study_year: 2015

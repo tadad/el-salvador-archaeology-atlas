@@ -3,6 +3,7 @@ type: paper
 paper_id:
 title: "{{title}}"
 authors: []
+contributors: []
 creator_raw:
 publication_year:
 collection:

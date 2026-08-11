@@ -210,6 +210,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
         <nav className="masthead-nav" aria-label="Primary navigation">
           <span aria-current="page">Atlas</span>
           <Link href="/sources/places">Wiki</Link>
+          <Link href="/about">About</Link>
         </nav>
       </header>
 

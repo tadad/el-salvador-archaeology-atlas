@@ -21,7 +21,8 @@ ocr_pages: 0
 unrecognized_pages: 0
 ocr_mode: "auto"
 ocr_language: "spa+eng"
-generated: 2026-08-06
+ocr_dpi: 250
+generated: 2026-08-11
 review_status: "unreviewed"
 ---
 
@@ -50,21 +51,16 @@ arqueología nacional. En XXV Simposio de Investigaciones Arqueológicas en Guat
 por B. Arroyo, L. Paiz, y H. Mejía), pp. 427-438. Ministerio de Cultura y Deportes, Instituto de
 Antropología e Historia y Asociación Tikal, Guatemala (versión digital).
 
+36
+PRÁCTICA Y CONDUCTA DE LA ARQUEOLOGÍA
+SALVADOREÑA DURANTE LOS ÚLTIMOS 25 AÑOS: EL
+INICIO DE UNA ARQUEOLOGÍA NACIONAL
+Marlon Escamilla
+William R. Fowler
 
-                          36
-       PRÁCTICA Y CONDUCTA DE LA ARQUEOLOGÍA
-     SALVADOREÑA DURANTE LOS ÚLTIMOS 25 AÑOS: EL
-         INICIO DE UNA ARQUEOLOGÍA NACIONAL
-
-                                             Marlon Escamilla
-                                             William R. Fowler
-
-
-                                           PALABRAS CLAVE
-                                    El Salvador, teoría, estado del arte
-
-                                               ABSTRACT
-
+PALABRAS CLAVE
+El Salvador, teoría, estado del arte
+ABSTRACT
 Since the early 80's to present, practice and conduct of the Salvadoran Archaeology has undergone
 various changes and approaches. On the one hand, the application of various research techniques, the
 discussion of new theoretical interests, the development of specialties in the discipline and academic
@@ -74,8 +70,7 @@ various problems, from a civil war to a lack of theoretical and regional project
 unstable institutionalization of the discipline, among others. In this paper we discuss the effects, both
 positive and negative, of these trends in archaeological research in El Salvador during the past 25 years
 and the challenges that the discipline demands.
-
-           Desde la década de los 80’s hasta la actualidad, la práctica y la conducta de la Arqueología
+Desde la década de los 80’s hasta la actualidad, la práctica y la conducta de la Arqueología
 Salvadoreña ha experimentado diversos cambios y enfoques. Por una parte, la aplicación de diversas
 técnicas de investigación, el inicio de nuevos intereses teóricos, el desarrollo de especialidades en la
 disciplina y la formación académica de profesionales en el país han contribuido al inicio y al desarrollo de
@@ -93,11 +88,9 @@ como una reflexión pasiva se argumenta que la misma práctica de la arqueologí
 permitido nuevas discusiones teóricas en los años recientes (Politis 2003).
 
 LA ARQUEOLOGÍA HISTÓRICO-CULTURAL Y SU INFLUENCIA EN EL SALVADOR
-
-         La arqueología histórico-cultural está centrada en el desarrollo de cronologías y el
+La arqueología histórico-cultural está centrada en el desarrollo de cronologías y el
 establecimiento de relaciones entre grupos culturales. A medida que la evolución cultural se dejó de
-
-                                                    427
+427
 
 ## Page 2
 
@@ -108,8 +101,7 @@ centrada en la definición de culturas arqueológicas y en el estudio de sus or�
 difusión y migración. Por lo general, en el enfoque histórico-cultural, los cambios culturales más
 importantes documentados en el registro arqueológico, son interpretados y atribuidos a posibles
 procesos migratorios y difusionistas. El enfoque histórico-cultural se desarrolló como respuesta a una
-toma de conciencia creciente sobre la complejidad del registro arqueológico. El paradigma histórico-
-cultural se centraba más en la cultura arqueológica que en los estadios generales del desarrollo. Así, se
+toma de conciencia creciente sobre la complejidad del registro arqueológico. El paradigma históricocultural se centraba más en la cultura arqueológica que en los estadios generales del desarrollo. Así, se
 intentaba explicar el registro arqueológico con mucho más detalle de lo que se había hecho en el
 pasado. En los contextos nacionalistas donde se desarrolló en primer lugar, existía un enorme interés
 por saber más acerca de cómo los grupos culturales habían vivido en el pasado en los diferentes
@@ -124,9 +116,7 @@ reemplazarlo de la práctica arqueológica en Latinoamérica. Politis sostiene q
 parte a la estabilidad epistemológica que brinda y a la habilidad de organizar diversos datos
 arqueológicos.
 
-
-          Durante la década de 1940, El Salvador experimentaba el impacto de la arqueología histórico-
-cultural. Los trabajos de reconocimiento arqueológico desarrollados por John Longyear, en la parte
+Durante la década de 1940, El Salvador experimentaba el impacto de la arqueología históricocultural. Los trabajos de reconocimiento arqueológico desarrollados por John Longyear, en la parte
 oriental del país y por Stanley Boggs, en la parte occidental fueron de suma importancia para el registro
 de sitios arqueológicos, incrementando el conocimiento de la existencia de asentamientos humanos en
 ambos sectores del país (Cobos 1994). La publicación de Longyear (1944) constituye, incluso hoy en
@@ -147,19 +137,27 @@ resultado de intentos nacionalistas de construcciones identitarias en el imagina
 intentos se ven reflejados en la impresión gráfica de la estructura B1-1 del sitio Tazumal en el billete de
 100 de la extinta moneda nacional, el Colón.
 
-
-CHALCHUAPA Y               QUELEPA:          EL     ESTABLECIMIENTO              DE      SECUENCIAS
+CHALCHUAPA Y
 CRONOLÓGICAS
 
-          Durante la segunda mitad de la década de 1960, en El Salvador se desarrollaron dos
+QUELEPA:
+
+EL
+
+ESTABLECIMIENTO
+
+DE
+
+SECUENCIAS
+
+Durante la segunda mitad de la década de 1960, en El Salvador se desarrollaron dos
 importantes investigaciones arqueológicas, el Proyecto Chalchuapa en el occidente del país dirigido por
 Robert J. Sharer y el Proyecto Quelepa en el oriente dirigido por Willys Andrews. En términos
 metodológicos y teóricos, ambos proyectos establecieron cronologías culturales asociadas a sitios
 arqueológicos y zonas geográficas específicas lo cual podría considerarse como uno de los mayores
 logros alcanzados durante esta época. A continuación se presenta una breve descripción de ambos
 proyectos.
-
-                                                   428
+428
 
 ## Page 3
 
@@ -183,16 +181,14 @@ datos cronológicos de una ocupación aproximada de 2600 años, iniciando en el 
 Temprano alrededor de 1200 AC y finalizando en el periodo Postclásico 1500 DC. Así mismo, la
 detallada descripción del análisis cerámico, hacen de esta publicación un documento medular de
 referencia para toda investigación arqueológica de la zona.
-
-          El Proyecto Arqueológico Quelepa, dirigido por Willys Andrews (1986) durante los años de
+El Proyecto Arqueológico Quelepa, dirigido por Willys Andrews (1986) durante los años de
 1967 a 1969 en el oriente de El Salvador, aportó importante información como resultado del programa de
 excavaciones desarrolladas en el sitio arqueológico de Quelepa. Dentro de los mayores aportes destaca
 el establecimiento de una secuencia arqueológica para el oriente de El Salvador. El estudio de Andrews
 se basa principalmente en el análisis cerámico y arquitectónico. Dicho análisis abarca un periodo
 aproximado de 1500 años, iniciando durante periodo Preclásico Medio-Tardío alrededor del año 500 AC
 hasta el periodo Clásico Tardío Terminal alrededor del año 1000 DC.
-
-          El desarrollo de ambos proyectos fundó una solida base para la investigación arqueológica en
+El desarrollo de ambos proyectos fundó una solida base para la investigación arqueológica en
 El Salvador. Ambas investigaciones implementaron una perspectiva histórico-cultural, con una
 orientación marcada en el establecimiento de secuencias cronológicas con un enfoque especifico en
 sitios arqueológicos contrario a un enfoque regional. Sin embargo, el Proyecto Chalchuapa difiere
@@ -203,8 +199,7 @@ investigación arqueológica que se quiera desarrollar en El Salvador.
 
 ARQUEOLOGÍA ECOLÓGICA: LA INTERACCIÓN DEL SER HUMANO Y SU
 ENTORNO
-
-          La arqueología ecológica nació en conjunción con la teoría funcionalista, específicamente
+La arqueología ecológica nació en conjunción con la teoría funcionalista, específicamente
 cuando en Estados Unidos la arqueología y la antropología teoréticamente se encontraban en mayor
 concordancia. Hacia mediados del siglo XX, las aproximaciones ecológicas ganaron mayor popularidad
 como resultado del desarrollo de técnicas en el análisis de flora y fauna. Lo anterior permitió desarrollar
@@ -219,8 +214,7 @@ pueden asociarse a esta perspectiva teórica, el Proyecto Cerrón Grande y el Pr
 Aunque ambos proyectos desarrollan una perspectiva basada en la arqueología ecológica, las
 diferencias y las circunstancias bajo las cuales se desarrollaron ambos proyectos son notables.
 
-
-                                                   429
+429
 
 ## Page 4
 
@@ -236,8 +230,7 @@ inundación. Fowler (1995) propone que el análisis de los resultados del Proyec
 y Earnest 1985) se fundamentó primariamente en una perspectiva ecológica, la cual permitió analizar los
 cambios culturales en el asentamiento a través del tiempo relacionándolos directamente con aspectos
 geomorfológicos particulares de la cuenca.
-
-          Durante la misma época, específicamente en el año 1975, Payson D. Sheets (1983) diseñó el
+Durante la misma época, específicamente en el año 1975, Payson D. Sheets (1983) diseñó el
 Proyecto Protoclásico en el Valle de Zapotitán, Departamento de la Libertad. Entre los años de 1978 y
 1979 Sheets dirigió dicho proyecto el cual tenía como principal objetivo estudiar la interacción del ser
 humano y el vulcanismo a través de los diferentes asentamientos prehispánicos del Valle. Por lo tanto,
@@ -254,8 +247,7 @@ Protoclásico aportaron valiosa información acerca del desarrollo de asentamien
 prehispánicos en sus áreas geográficas específicas. En ambos proyectos la interacción del ser humano
 con su medio ambiente formo parte del eje principal de investigación. A excepción de estos proyectos, el
 desarrollo de la arqueología salvadoreña continúo enfocada dentro de la perspectiva histórico-cultural.
-
-           Durante los años de 1977 y 1978, Fowler dirigió excavaciones de rescate en el área de
+Durante los años de 1977 y 1978, Fowler dirigió excavaciones de rescate en el área de
 Chalchuapa, específicamente en el montículo E3-7 del sitio arqueológico El Trapiche. Como resultado de
 las excavaciones 33 individuos fueron registrados lo cuales habían sido enterrados dentro del montículo.
 Fowler interpreto este hallazgo como un contexto de sacrificio humano resaltando la importancia del
@@ -277,13 +269,11 @@ principales de esta investigación destacan los reconocimientos arqueológicos e
 de excavaciones el cual se desarrollo con la finalidad de obtener una secuencia cerámica y cronológica
 del sitio. Como resultado del proyecto se elaboro un mapa topográfico del sitio y se fecharon las
 esculturas del tipo “gordinflones” para el periodo Preclásico Tardío.
-
-          Durante la década de 1980, las condiciones socio-políticas de El Salvador no permitieron el
+Durante la década de 1980, las condiciones socio-políticas de El Salvador no permitieron el
 desarrollo de investigaciones arqueológicas de una manera intensa y permanente. Lo anterior se debió al
 estallido del conflicto armado. Sin embargo, a pesar de la inestabilidad política del país, algunas
 investigaciones puntuales fueron desarrolladas. Dentro de las cuales se destacan las siguientes. El
-
-                                                    430
+430
 
 ## Page 5
 
@@ -313,8 +303,7 @@ Kathryn E. Sampeck y Howard H. Earnest llevaron a cabo un extensivo y sistemáti
 arqueológico en el valle del río Ceniza, en el departamento de Sonsonate. Como resultado de la
 investigación, el proyecto registro un total de 278 sitos los cuales se ubican cronológicamente desde el
 Preclásico Medio hasta la época de la República (Fowler 1995).
-
-           El Proyecto en el valle del río Ceniza junto con el Proyecto Protoclásico y el Proyecto Izalco (el
+El Proyecto en el valle del río Ceniza junto con el Proyecto Protoclásico y el Proyecto Izalco (el
 cual se discute en el tema de la arqueología histórica) constituyen los únicos ejemplos de investigaciones
 arqueológicas que han abarcado una región relativamente grande. A diferencia de muchos proyectos con
 una perspectiva histórico-cultural, los cuales se enfocan en establecimiento de secuencias cronológicas
@@ -323,8 +312,7 @@ investigación arqueológica de El Salvador. De una visión local enfocada en el
 sitio determinado a una visión regional enfocada en el establecimiento de conexiones culturales.
 
 ARQUEOLOGÍA PROCESUAL: IMPLEMENTACIÓN DE NUEVA TECNOLOGÍA
-
-         A diferencia de la arqueología histórico-cultural, la cual estaba centrada en la cronología y en la
+A diferencia de la arqueología histórico-cultural, la cual estaba centrada en la cronología y en la
 construcción de tipologías comparativas, la arqueología procesual se focaliza en los procesos culturales
 del ser humano, los cuales pueden ser estudiados a través de la teoría de sistemas o bajo leyes
 generales (Flannery 1973). En base a lo anterior, la arqueología procesual sostiene la necesidad de
@@ -333,8 +321,7 @@ buscar leyes universales basadas en la objetividad. Aunque hoy en día la arqueo
 siendo practicada en muchas regiones, en El Salvador el impacto de la misma fue mínimo.
 Probablemente el único proyecto que ha desarrollado, en algunos aspectos puntuales, una aproximación
 procesual ha sido el Proyecto Joya de Cerén.
-
-          El Proyecto Joya de Cerén, dirigido por Payson Sheets, inicia en los años de 1979 y 1980,
+El Proyecto Joya de Cerén, dirigido por Payson Sheets, inicia en los años de 1979 y 1980,
 durante estos años se desarrollaron diversas investigaciones geofísicas en la zona, dentro de las cuales
 se aplicaron varios métodos de detección remota como la resistencia magnética y el radar. Sin embargo,
 a raíz del conflicto armado que afectó a El Salvador durante la década de 1980, no fue sino hasta el año
@@ -344,9 +331,7 @@ en El Salvador. Diversas temporadas de excavación desarrolladas desde la décad
 actualidad han permitido la excavación de diversas estructuras y campos de cultivo de la aldea de Joya
 de Cerén, permitiendo una reconstrucción muy vívida acerca de la vida cotidiana de los antiguos
 habitantes de la aldea. Como consecuencia de la investigación multidisciplinaria sostenida por diversos
-
-
-                                                    431
+431
 
 ## Page 6
 
@@ -356,11 +341,9 @@ años en Joya de Cerén, se han publicado libros, artículos y tesis doctorales 
 teóricas. Sin embargo, la interacción del ser humano con su entorno y la arqueología domestica han sido
 los temas de mayor abordaje.
 
-
 ARQUEOLOGÍA POSTPROCESUAL: UNA APROXIMACIÓN CASI INEXPLORADA
 EN EL SALVADOR
-
-          La Arqueología Postprocesual es un movimiento que surge a partir de la década de 1980 como
+La Arqueología Postprocesual es un movimiento que surge a partir de la década de 1980 como
 oposición a la arqueología Procesual. En base a lo anterior, la arqueología Postprocesual defiende al
 individuo, rechaza la idea que la teoría y la ciencia son distintas, las interpretaciones son siempre
 hermenéuticas, rechaza la oposición entre lo material y lo ideal, considera la cultura material como un
@@ -368,8 +351,7 @@ texto el cual puede ser leído por distintas personas de distintas maneras y pue
 significados. Por lo tanto la arqueología Postprocesual critica la rigidez del método científico y duda que
 éste pueda ser aplicado estrictamente en arqueología. El impacto de la arqueología Postprocesual en El
 Salvador es casi nulo.
-
-           William R. Fowler et al. (2007; 2011) desarrolla una interesante interpretación de la antigua
+William R. Fowler et al. (2007; 2011) desarrolla una interesante interpretación de la antigua
 Villa de San Salvador (Ciudad Vieja) desde una perspectiva de la arqueología del paisaje basándose en
 investigaciones geofísicas desarrolladas en el sitio. Fowler propone que el estudio de este tipo de sitios
 ofrece una oportunidad única para el entendimiento del comportamiento y de las diferentes dinámicas
@@ -385,8 +367,7 @@ perspectiva histórico-cultural. Sin embargo, una de las áreas de investigació
 en la última década ha sido la arqueología histórica.
 
 ARQUEOLOGÍA HISTÓRICA
-
-           La arqueología histórica, es una forma de investigación en la cual interactúan dos disciplinas
+La arqueología histórica, es una forma de investigación en la cual interactúan dos disciplinas
 sociales, la arqueología y la historia. Según la Escuela Norteamericana, la arqueología histórica es la
 disciplina que utiliza los métodos de la arqueología tradicional apoyándose en documentos históricos.
 Particularmente en El Salvador, la arqueología histórica está enfocada en el estudio de las sociedades
@@ -405,8 +386,7 @@ superficial y excavaciones. Posteriormente, para el año de 1994, Fowler junto a
 excavaciones en la iglesia colonial de San Pablo y San Pedro (Iglesia de Caluco) y algunas zonas
 aledañas. Durante el año de 1995 Verhagen desarrolló un levantamiento topográfico y continuó con el
 programa de excavaciones. Sin lugar a duda el Proyecto Arqueológico Ciudad Vieja dirigido por William
-
-                                                    432
+432
 
 ## Page 7
 
@@ -419,8 +399,7 @@ constituye el primer asentamiento estable de la Villa de San Salvador, el cual f
 fecha de abandono puede ser más tardía. Desde el inicio de los trabajos se han desarrollado numerosas
 temporadas de campo (2000 – 2005) las cuales han contribuido al entendimiento de la dinámica cultural
 y de los procesos de hibridez que se desarrollaron dentro de la antigua Villa de San Salvador.
-
-          Durante finales de la década de 1990 y la década de 2000, se han desarrollado trabajos de
+Durante finales de la década de 1990 y la década de 2000, se han desarrollado trabajos de
 rescate en Iglesias históricas. En muchas ocasiones los rescaten obedecen a remodelaciones
 arquitectónicas y en otros casos a reconstrucciones estructurales debido a daños causados por los
 terremotos de Enero y Febrero de 2001. Dentro de estos proyectos destacan la investigación realizada
@@ -434,8 +413,7 @@ durante la época del General Maximiliano Hernández Martínez, específicamente
 Para el año 2003 el arqueólogo salvadoreño Fabio E. Amador realiza una investigación en la Iglesia El
 Pilar, departamento de San Vicente, destacándose los hallazgos de catacumbas, rasgos arquitectónicos
 y materiales culturales de la época de la Colonia.
-
-          Recientemente, desde el año 2007 hasta la actualidad el Proyecto de Registro y
+Recientemente, desde el año 2007 hasta la actualidad el Proyecto de Registro y
 Reconocimiento de Sitios Arqueológicos Históricos de El Salvador (PAHES-UTEC) dirigido por el
 arqueólogo salvadoreño José H. Erquicia ha desarrollo tres temporadas de campo abordando diferentes
 investigaciones en el territorio salvadoreño. El objetivo principal de dicho proyecto es el de registrar y
@@ -446,16 +424,14 @@ fachadas y restos de iglesias y antiguos asentamientos de poblados coloniales.
 
 EL PROYECTO ARQUEOLÓGICO JAPONÉS Y SUS INVESTIGACIONES EN EL
 ÁREA DE CHALCHUAPA
-
-          Durante el año de 1995, un equipo de multidisciplinario de japoneses, bajo la conducción de
+Durante el año de 1995, un equipo de multidisciplinario de japoneses, bajo la conducción de
 Kuniaki Ohi (2000), iniciaron trabajos de investigación arqueológica en el área de Chalchuapa,
 específicamente en el sitio de Casa Blanca. Dentro de los principales objetivos del proyecto destaca el
 interés de investigar interdisciplinariamente la historia y la cultura de los pipiles. Durante los cinco años
 que duró el proyecto se desarrollaron programas de excavación y restauración de algunas estructuras
 del parque arqueológico. Cabe destacar que el proyecto realizó investigaciones multidisciplinarias en el
 área de Chalchuapa, principalmente en las áreas de arqueología, etnología e historia.
-
-          En base a los resultados publicados, destaca el trabajo minucioso de registro mostrado en los
+En base a los resultados publicados, destaca el trabajo minucioso de registro mostrado en los
 programas de excavación y restauración, el mapeo preciso de las estructuras y la calidad de los dibujos
 presentados. Lamentablemente, aparte de lo antes mencionado, es difícil interpretar el aporte teórico de
 este proyecto. Así mismo, la falta de seguimiento del uso de datos de investigaciones previas, complica
@@ -463,12 +439,9 @@ la interpretación de los datos. No existe un hilo conductor que guíe al lector
 conectado con los objetivos de la investigación.
 
 LOS INICIOS DE LA CARRERA DE ARQUEOLOGÍA EN EL SALVADOR
-
-         Durante el año 1994, un grupo de personas visionarias fundan la Universidad San Jorge en El
+Durante el año 1994, un grupo de personas visionarias fundan la Universidad San Jorge en El
 Salvador. Para el año de 1995 la Universidad abre sus puertas ofreciendo tres Licenciaturas: en
-
-
-                                                    433
+433
 
 ## Page 8
 
@@ -485,8 +458,7 @@ destacándose profesionales japoneses y estadounidenses. Actualmente se han grad
 arqueólogos y existen más de una media docena de estudiantes egresados.
 
 RECIENTES INVESTIGACIONES
-
-           Durante la década del 2000, importantes avances se han realizado en la arqueología
+Durante la década del 2000, importantes avances se han realizado en la arqueología
 salvadoreña. Dentro de los avances logrados es necesario mencionar la tesis doctoral de Howard
 Earnest Jr. (1999) la cual aborda una temática de suma importancia para la práctica de la arqueología
 salvadoreña. Utilizando datos de excavaciones en la Cuenca del Paraíso y la zona de Nuevo Cuscatlán,
@@ -509,8 +481,7 @@ a lo anterior, durante los años de 2005 y 2006 se desarrollaron investigaciones
 de restauración en dicha estructura. El proyecto fue desarrollado por arqueólogos del departamento de
 arqueología de CONCULTURA y arqueólogos japoneses del JICA, el proyecto se ejecuto bajo la
 supervisión de Fabricio Valdivieso.
-
-          Durante el año 2005 Marlon V. Escamilla, Mónica Valentini y Javier García-Cano (2006)
+Durante el año 2005 Marlon V. Escamilla, Mónica Valentini y Javier García-Cano (2006)
 desarrollaron trabajos pioneros en el ámbito de la arqueología subacuática. El Proyecto
 “Reconocimiento, Prospección e Investigación del Patrimonio Cultural Subacuático en El Salvador. Etapa
 Exploratoria”, implicó análisis de cuerpos de agua en varios puntos del territorio salvadoreño, tomando
@@ -529,9 +500,7 @@ constituye el primer sitio sumergido con declaración de protección en el país
 2007 y 2008 se desarrolló el Proyecto Atlas Arqueológico de la región Oriente de El Salvador dirigido por
 el arqueólogo salvadoreño Fabio E. Amador. Dicho proyecto brinda importante y valiosa información
 acerca de las diversas dinámicas culturales desarrolladas en la región oriente del país. Dentro de los
-
-
-                                                   434
+434
 
 ## Page 9
 
@@ -548,8 +517,7 @@ roca. Además de haberse implementado por vez primera fichas de registro especia
 arte rupestre, ésta información ha sido clasificada en una base de datos digital la cual tiene como
 finalidad divulgar nuestro patrimonio rupestre y a la vez proveer información técnica a la comunidad
 científica.
-
-           Durante los años 2006 y 2007, el departamento de arqueología de la extinta CONCULTURA
+Durante los años 2006 y 2007, el departamento de arqueología de la extinta CONCULTURA
 fundó el Proyecto Arqueológico Ataco e inició los trabajos de investigación bajo la dirección del
 arqueólogo salvadoreño Marlon V. Escamilla y con la asistencia de un equipo de estudiantes de la
 carrera de arqueología de la Universidad Tecnológica de El Salvador (UTEC), los cuales incluyeron
@@ -567,8 +535,7 @@ el sitio Tazumal, las cuales están enfocadas en el levantamiento topográfico y
 del sitio.
 
 RETOS Y DESAFÍOS
-
-          Existen muchos factores que han influenciado la práctica de la arqueología en El Salvador a lo
+Existen muchos factores que han influenciado la práctica de la arqueología en El Salvador a lo
 largo de su historia. Dentro de ellos se puede mencionar una lista interminable de aspectos como falta de
 fondos, inestabilidad socio-política, falta de voluntad de los gobiernos en turno, entre otros. Sin embargo,
 al mismo tiempo, dicha inestabilidad ha contribuido a un desarrollo peculiar del quehacer arqueológico en
@@ -576,24 +543,21 @@ El Salvador. Cabe destacar la dedicación de arqueólogos nacionales y extranjer
 arqueología salvadoreña, sin embargo, debido a su formación profesional la cual en la mayoría de los
 casos termina con la licenciatura, se nota durante los últimos diez años la producción de muchos
 estudios arqueológicos de carácter descriptivo. En términos teóricos, la arqueología de El Salvador se
-encuentra en una época de transición, en la cual a pesar de la continuidad de estudios históricos-
-culturales, existe un pequeño grupo de investigadores impulsando nuevos paradigmas en la práctica
+encuentra en una época de transición, en la cual a pesar de la continuidad de estudios históricosculturales, existe un pequeño grupo de investigadores impulsando nuevos paradigmas en la práctica
 arqueológica. En su mayoría, este reducido grupo de investigadores cuentan con estudios de postgrado
 en el extranjero lo cual permite la formulación y la discusión de preguntas teóricas y el desarrollo de
 nuevos paradigmas. Por lo tanto, uno de los mayores retos de la arqueología salvadoreña es la apertura
 y gestión de oportunidades para los estudiantes de Licenciatura en la obtención de becas de postgrado
 en el extranjero o en el mejor de los casos, la implementación de un diseño curricular de postgrado en
 las Universidades tanto privadas como nacionales.
-
-          Uno de los aspectos medulares de este momento en la historia salvadoreña es la formación de
+Uno de los aspectos medulares de este momento en la historia salvadoreña es la formación de
 arqueólogos salvadoreños a través del programa de arqueología ofrecido por la Universidad Tecnológica
 de El Salvador (UTEC), lo cual permitirá en un par de décadas contar con un cuerpo solido de
 arqueólogos salvadoreños. Así mismo la potencial preparación de los mismos en el extranjero permitirá
 la formulación y ejecución de proyectos científicos y éticos. Mucho falta por hacer en la arqueología de El
 Salvador, el reto cada vez es más desafiante, sin embargo un futuro prometedor se avecina en el avance
 teórico de la práctica de la arqueología salvadoreña. La apertura de espacios de discusión académica
-
-                                                    435
+435
 
 ## Page 10
 
@@ -606,133 +570,103 @@ prometedor. Este futuro prometedor será posible en la medida que se continúen 
 académicos y que a su vez se institucionalicen, la idea es generar espacios en los cuales las nuevas
 generaciones de arqueólogos aborden problemáticas globales que la arqueología enfrenta hoy en día.
 
-
 REFERENCIAS
 Amaroli, Paul
- 1984 Cara Sucia: nueva luz sobre el pasado de la Costa Occidental de El Salvador. Universitas
-       1(1):15-19. San Salvador.
-
+1984 Cara Sucia: nueva luz sobre el pasado de la Costa Occidental de El Salvador. Universitas
+1(1):15-19. San Salvador.
 Andrews, E Wyllys, V
- 1986 The Archaeology of Quelepa, El Salvador. Middle American Research Institute, Pub. 42. Tulane
-      University, New Orleans.
-
+1986 The Archaeology of Quelepa, El Salvador. Middle American Research Institute, Pub. 42. Tulane
+University, New Orleans.
 Bruhns, Karen Olsen
- 1980 Cihuatan: An Early Postclassic town of El Salvador: The 1977-1978 Excavations. University of
-        Missouri Monographs in Anthropology No. 5. Department of Anthropology, University of Missouri,
-        Columbia.
-
+1980 Cihuatan: An Early Postclassic town of El Salvador: The 1977-1978 Excavations. University of
+Missouri Monographs in Anthropology No. 5. Department of Anthropology, University of Missouri,
+Columbia.
 Card, Jeb J.
- 2007 The Ceramics of Colonial Ciudad Vieja, El Salvador: Culture Contact and Social Change in
-        Mesoamerica. Tesis doctoral, Universidad de Tulane, Nueva Orleans, Louisiana.
-
+2007 The Ceramics of Colonial Ciudad Vieja, El Salvador: Culture Contact and Social Change in
+Mesoamerica. Tesis doctoral, Universidad de Tulane, Nueva Orleans, Louisiana.
 Cobos, Rafael
- 1994 Síntesis de la Arqueología de El Salvador (1850-1991). Colección Antropología e Historia No. 21.
-       Consejo Nacional para la Cultura y el Arte, Dirección General de Publicaciones e Impresos.
-
+1994 Síntesis de la Arqueología de El Salvador (1850-1991). Colección Antropología e Historia No. 21.
+Consejo Nacional para la Cultura y el Arte, Dirección General de Publicaciones e Impresos.
 Demarest, Arthur
- 1986 The Archaeology of Santa Leticia and the Rise of Maya Civilization. Middle American Research
-      Institute, Pub. 52. Tulane University, New Orleans.
-
+1986 The Archaeology of Santa Leticia and the Rise of Maya Civilization. Middle American Research
+Institute, Pub. 52. Tulane University, New Orleans.
 Earnest, Howard H. Jr.
- 1999 A Reappraisal of The Ilopango Volcanic Eruption in Central El Salvador. Tesis doctoral,
-        Universidad de Harvard, Cambridge, Massachusetts.
-
+1999 A Reappraisal of The Ilopango Volcanic Eruption in Central El Salvador. Tesis doctoral,
+Universidad de Harvard, Cambridge, Massachusetts.
 Escamilla, Marlon V.
- 2007 El Salvador Rupestre: Reconocimiento y registro de sitios. En XX Simposio de Investigaciones
-      Arqueológicas en Guatemala, 2006 (editado por J.P. Laporte, B. Arroyo y H. Mejia), pp.1219-
-      1233. Museo Nacional de Arqueología y Etnología, Guatemala.
-
+2007 El Salvador Rupestre: Reconocimiento y registro de sitios. En XX Simposio de Investigaciones
+Arqueológicas en Guatemala, 2006 (editado por J.P. Laporte, B. Arroyo y H. Mejia), pp.12191233. Museo Nacional de Arqueología y Etnología, Guatemala.
 Escamilla, Marlon V., Monica Valentini y Javier Garcia-Cano
- 2006 El Salvador Sumergido: Reconocimiento del Patrimonio Cultural Subacuatico. En XIX Simposio
-      de Investigaciones Arqueológicas en Guatemala, 2005 (editado por J.P. Laporte, B. Arroyo y H.
-      Mejia), pp.282-290. Museo Nacional de Arqueología y Etnología, Guatemala.
-
+2006 El Salvador Sumergido: Reconocimiento del Patrimonio Cultural Subacuatico. En XIX Simposio
+de Investigaciones Arqueológicas en Guatemala, 2005 (editado por J.P. Laporte, B. Arroyo y H.
+Mejia), pp.282-290. Museo Nacional de Arqueología y Etnología, Guatemala.
 Dull, Robert A., John R. Southon y Payson Sheets
- 2001 Volcanism, Ecology and Culture: A Reassessment of the Volcan Ilopango TBJ Eruption in the
-        Southern Maya Realm. Latin American Antiquity 12: 25–44.
-
+2001 Volcanism, Ecology and Culture: A Reassessment of the Volcan Ilopango TBJ Eruption in the
+Southern Maya Realm. Latin American Antiquity 12: 25–44.
 Dull, Robert, John Southon, Steffen Kutterolf, Armin Freundt, David Wahl y Payson Sheets
- 2010 Did the Ilopango TBJ Eruption Cause the AD 536 Event? Afiche presentado en la reunión
-        International Geophysical Union, Diciembre 2010. Imagen PDF en posesión de los autores.
-
-                                                 436
+2010 Did the Ilopango TBJ Eruption Cause the AD 536 Event? Afiche presentado en la reunión
+International Geophysical Union, Diciembre 2010. Imagen PDF en posesión de los autores.
+436
 
 ## Page 11
 
 _Extraction method: embedded text._
 
 Flannery, Kent V.
- 1973 Archaeology with a Capital “S”. En Research and Theory in Current Archaeology (editado por C.
-       Redman). pp 47-53. John Wiley and Sons, New York.
-
+1973 Archaeology with a Capital “S”. En Research and Theory in Current Archaeology (editado por C.
+Redman). pp 47-53. John Wiley and Sons, New York.
 Fowler, William Jr.
- 1981 The Pipil-Nicarao of Central America. Tesis Doctoral, University of Calgary.
-
- 1989 The Cultural Evolution of Ancient Nahua Civilizations: the Pipil-Nicarao of Central America.
-      University of Oklahoma Press, Norman.
-
- 1995 El Salvador. Antiguas Civilizaciones. Banco Agrícola Comercial de El Salvador, San Salvador.
-
+1981 The Pipil-Nicarao of Central America. Tesis Doctoral, University of Calgary.
+1989 The Cultural Evolution of Ancient Nahua Civilizations: the Pipil-Nicarao of Central America.
+University of Oklahoma Press, Norman.
+1995 El Salvador. Antiguas Civilizaciones. Banco Agrícola Comercial de El Salvador, San Salvador.
 Fowler, William y Howard Earnest
- 1985 Settlement Patterns and Prehistory of the Paraíso Basin of El Salvador. Journal of Field
-        Archaeology 12:19-32.
-
+1985 Settlement Patterns and Prehistory of the Paraíso Basin of El Salvador. Journal of Field
+Archaeology 12:19-32.
 Fowler Jr., William R., Francisco Estrada-Belli, Jennifer R. Bales, Matthew D. Reynolds y Kenneth L.
 Kvamme
- 2007 Landscape Archaeology and Remote Sensing of a Spanish-Conquest Town: Ciudad Vieja, El
-        Salvador. En Remote Sensing in Archaeology. Interdisciplinary Contributions to Archaeology,
-        (editado poe J. Wiseman y Farouk El-Baz). pp. 395-421. Springer, New York.
-
+2007 Landscape Archaeology and Remote Sensing of a Spanish-Conquest Town: Ciudad Vieja, El
+Salvador. En Remote Sensing in Archaeology. Interdisciplinary Contributions to Archaeology,
+(editado poe J. Wiseman y Farouk El-Baz). pp. 395-421. Springer, New York.
 Fowler, William R. (editor)
- 2011 Ciudad Vieja: Excavaciones, arquitectura y paisaje cultural de la primera villa de San Salvador.
-       Editorial Universitaria Secretaria de Cultura de la Presidencia, San Salvador
-
+2011 Ciudad Vieja: Excavaciones, arquitectura y paisaje cultural de la primera villa de San Salvador.
+Editorial Universitaria Secretaria de Cultura de la Presidencia, San Salvador
 Haberland, Wolfgang
- 1958 Ceramic Sequences in El Salvador. American Antiquity 26:21-29.
-
+1958 Ceramic Sequences in El Salvador. American Antiquity 26:21-29.
 Hamilton, Conard C.
- 2009 Intrasite Variation among Household Assemblages at Ciudad Vieja, El Salvador. Tesis doctoral,
-       Universidad de Tulane, Nueva Orleans, Louisiana.
-
+2009 Intrasite Variation among Household Assemblages at Ciudad Vieja, El Salvador. Tesis doctoral,
+Universidad de Tulane, Nueva Orleans, Louisiana.
 Longyear, John M., III
- 1944 Archaeological Investigations in El Salvador. Memoirs of the Peabody Museum of Archaeology
-       and Ethnology Vol. 9, No. 2. Harvard University, Cambridge.
-
+1944 Archaeological Investigations in El Salvador. Memoirs of the Peabody Museum of Archaeology
+and Ethnology Vol. 9, No. 2. Harvard University, Cambridge.
 Ohi, Kuniaki
- 2000 Chalchuapa, Memoria Final de las Investigaciones Interdisciplinarias de El Salvador. Universidad
-       de Estudios Extranjeros de Kyoto, Kyoto, Japón.
-
+2000 Chalchuapa, Memoria Final de las Investigaciones Interdisciplinarias de El Salvador. Universidad
+de Estudios Extranjeros de Kyoto, Kyoto, Japón.
 Politis, Gustavo
- 2003 The Theoretical Landscape and the Methodological Development of Archaeology in Latin
-         America. Latin American Antiquity, 14 (2):115-142.
-
+2003 The Theoretical Landscape and the Methodological Development of Archaeology in Latin
+America. Latin American Antiquity, 14 (2):115-142.
 Sampeck, Kathryn E.
- 2007 Late Postclassic to Colonial Landscapes and Political Economy of the Izalcos Region, El
-      Salvador. Tesis Doctoral, Universidad de Tulane, Nueva Orleans, Louisiana.
-
+2007 Late Postclassic to Colonial Landscapes and Political Economy of the Izalcos Region, El
+Salvador. Tesis Doctoral, Universidad de Tulane, Nueva Orleans, Louisiana.
 Sweely, Tracy L.
- 1998 Personal Interactions: the implications of spatial arrangements for power relations at Cerén, El
-       Salvador. World Archaeology 29(3):393-406.
+1998 Personal Interactions: the implications of spatial arrangements for power relations at Cerén, El
+Salvador. World Archaeology 29(3):393-406.
 
-
-                                                  437
+437
 
 ## Page 12
 
 _Extraction method: embedded text._
 
 Sharer, Robert
- 1978 The Prehistory of Chalchuapa, El Salvador. 3 vol. University of Pennsylvania Press,
-        Philadelphia.
-
+1978 The Prehistory of Chalchuapa, El Salvador. 3 vol. University of Pennsylvania Press,
+Philadelphia.
 Sheets, Payson (Editor)
- 1983 Archaeology and Volcanism in Central America: The Zapotitán Valley of El Salvador. University of
-        Texas Press, Austin.
-
+1983 Archaeology and Volcanism in Central America: The Zapotitán Valley of El Salvador. University of
+Texas Press, Austin.
 Yesner, David R.
- 2008 Ecology in Archaeology. En Handbook of Archaeological Theories (editado por A. Bentley, H.
-       Maschner y C. Chippindale), pp.39-56. Altamira Press, Lanham.
+2008 Ecology in Archaeology. En Handbook of Archaeological Theories (editado por A. Bentley, H.
+Maschner y C. Chippindale), pp.39-56. Altamira Press, Lanham.
 
-
-                                                 438
+438
 <!-- ocr:end -->

@@ -19,6 +19,8 @@ periods:
 cultures:
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
 papers:
+  - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
+  - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"
   - "[[Papers/anales-56]]"
   - "[[Papers/guijaplaque]]"
   - "[[Papers/identidades-18-arqueologia]]"

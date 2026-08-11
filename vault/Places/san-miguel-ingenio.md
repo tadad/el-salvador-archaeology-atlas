@@ -21,6 +21,7 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
+  - "[[Papers/2026-castellon-metapas-fierro]]"
 latest_study_year: 2007
 latest_study_label: "August–December 2007"
 last_fieldwork_year: 2007

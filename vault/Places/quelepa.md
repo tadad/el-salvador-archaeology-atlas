@@ -19,6 +19,7 @@ periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
 papers:
+  - "[[Papers/1994-braswell-et-al-obsidian-quelepa]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
   - "[[Papers/ruedas]]"

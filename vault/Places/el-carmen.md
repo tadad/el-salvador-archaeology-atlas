@@ -18,6 +18,7 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
 papers:
+  - "[[Papers/1989-arroyo-el-carmen]]"
   - "[[Papers/carmen]]"
 latest_study_year: 1988
 latest_study_label: "23 May–17 June 1988"
