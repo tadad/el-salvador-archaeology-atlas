@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 tmp/
+output/
 
 # Local source archive. The repository retains source URLs, hashes, and
 # page-addressable Markdown derivatives instead of duplicating the PDFs.
