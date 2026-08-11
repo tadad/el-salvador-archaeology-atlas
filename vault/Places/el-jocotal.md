@@ -28,76 +28,28 @@ last_fieldwork_label: "Revisited during the 2006–2008 Atlas project; exact yea
 
 # El Jocotal
 
-## Overview
+## Description
 
-A Late Classic settlement in Cantón El Tecomatal, built around a plaza and paired mounds interpreted as a ballcourt. Unlike several nearby rescue sites, it remained outside the reservoir’s inundation zone.
+A Late Classic settlement in Cantón El Tecomatal, built around a plaza and paired mounds interpreted as a ballcourt. Unlike several nearby rescue sites, it remained outside the reservoir’s inundation zone. Late Classic, approximately 600–900 CE. The work exposed platforms, plaza organization, ceramics, and a formal ballcourt arrangement, revealing a small community with public architecture in the upper Lempa landscape. [[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Source: PDF pp. 53–54, 79–91, 102 (printed pp. 38–39, 64–76, 87)]]
 
-## Chronology
+## Studies
 
-Late Classic, approximately 600–900 CE. Six structures were excavated in 1983 during the San Lorenzo project.
+### 2017: Reinterpretation
 
-## How it was investigated
+A ballcourt thesis reassessed the site's architecture; it reports no new excavation. The work exposed platforms, plaza organization, ceramics, and a formal ballcourt arrangement, revealing a small community with public architecture in the upper Lempa landscape. [Source: García Hernández thesis, PDF pp. 181–184](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941001110.pdf#page=181)
 
-The project mapped ten structures and excavated six, including architectural contexts around the plaza and possible ballcourt.
+### 2016: Collection analysis
 
-## What archaeologists found
+A projectile-point thesis analyzed 13 artifacts from El Jocotal. [[Papers/2016-barrera-puntas-flecha-oriente#Page 79|Source: Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 79–91]]
 
-The work exposed platforms, plaza organization, ceramics, and a formal ballcourt arrangement, revealing a small community with public architecture in the upper Lempa landscape.
+### 2006–2008: Condition assessment
 
-## Research history
+The Atlas team revisited the site, recorded additional structures, and assessed damage; the exact visit year is unstated. [[Papers/2009-amador-atlas-arqueologico-oriente#Page 39|Source: Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 39]]
 
-### 2017 — Reinterpretation
+### February–June 1983: Fieldwork
 
-A ballcourt thesis reassessed the site's architecture; it reports no new excavation.
+The San Lorenzo project excavated six structures. [[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Source: Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 53–54]]
 
-**Evidence:** 2017-canchas-juego-pelota-oriente.pdf, PDF pp. 181–184
+### 1979: Site recording
 
-### 2016 — Collection analysis
-
-A projectile-point thesis analyzed 13 artifacts from El Jocotal.
-
-**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 79|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 79–91]]
-
-### 2006–2008 — Condition assessment
-
-The Atlas team revisited the site, recorded additional structures, and assessed damage; the exact visit year is unstated.
-
-**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 39|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 39]]
-
-### February–June 1983 — Fieldwork
-
-The San Lorenzo project excavated six structures.
-
-**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 53–54]]
-
-### 1979 — Site recording
-
-The site was recognized and described before the rescue excavations.
-
-**Evidence:** [[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 53–54]]
-
-## Location and uncertainty
-
-The point is fitted to the Tecomatal locality and source map; no archaeological GPS coordinate is printed.
-
-- **Coordinates:** 13.6540, -88.5200
-- **Placed from:** Cantón El Tecomatal and the non-inundated San Lorenzo project map
-- **Precision:** approx
-
-## Sources
-
-### Atlas Arqueológico de la Región de Oriente de El Salvador
-
-**Citation:** PDF p. 39 (printed p. 28), site description and condition assessment
-
-[[Papers/2009-amador-atlas-arqueologico-oriente#Page 39|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=39)
-
-Atlas reconnaissance expanded the registry’s four-mound count, documenting a laja-faced platform and stair, two additional structures, a modified natural elevation, ceramics, and damage from looting and stone extraction.
-
-### Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador
-
-**Citation:** PDF pp. 53–54, 79–91, 102 (printed pp. 38–39, 64–76, 87)
-
-[[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000733.pdf#page=53)
-
-The thesis places the site in Cantón El Tecomatal, reports its 1979 description and February–June 1983 excavation of six structures, assigns the analyzed contexts to the Late Classic, and analyzes 13 projectile points. Figure 4 on PDF p. 102 maps El Jocotal among the non-inundated San Lorenzo sites but supplies no geodetic coordinate. Neither source establishes a site-specific ethnic identity.
+The site was recognized and described before the rescue excavations. [[Papers/2016-barrera-puntas-flecha-oriente#Page 53|Source: Análisis morfológico y funcional de las puntas de flecha del oriente de El Salvador, PDF pp. 53–54]]

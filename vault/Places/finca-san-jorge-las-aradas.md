@@ -28,48 +28,16 @@ last_fieldwork_label: "Systematic pedestrian survey and surface collection in 20
 
 # Finca San Jorge / Las Aradas
 
-## Overview
+## Description
 
-Two mound groups in Santa Ana surveyed together in 2011 to compare settlement organization between Chalchuapa and the Zapotitán Valley.
+Two mound groups in Santa Ana surveyed together in 2011 to compare settlement organization between Chalchuapa and the Zapotitán Valley. Surface ceramics suggest occupation from the Preclassic through the Classic, but 87–92 percent of the collections remained chronologically unassigned and the ranges are tentative. The survey recorded seven mounds at San Jorge and eight at Las Aradas. [[Papers/finca-san-jorge-las-aradas#Page 89|Source: PDF pp. 89–98 (printed pp. 71–80), methods and survey bounds; PDF pp. 164–169 (printed pp. 146–151), comparative results and conclusions]]
 
-## Chronology
+## Studies
 
-Surface ceramics suggest occupation from the Preclassic through the Classic, but 87–92 percent of the collections remained chronologically unassigned and the ranges are tentative.
+### 2013: Collection analysis
 
-## How it was investigated
+A thesis analyzed the 2011 survey data and cautiously classified both sites as secondary regional or civic-administrative centers. [[Papers/finca-san-jorge-las-aradas#Page 164|Source: PDF pp. 164–169, printed pp. 146–151]]
 
-Researchers used systematic pedestrian transects, GPS/GIS mapping, mound measurement, condition recording, and surface collection. No excavation was conducted.
+### 2011: Fieldwork
 
-## What archaeologists found
-
-The survey recorded seven mounds at San Jorge and eight at Las Aradas. The tallest measured 6.42 metres at San Jorge and 7.86 metres at Las Aradas; damage was especially extensive at Las Aradas.
-
-## Research history
-
-### 2013 — Collection analysis
-
-A thesis analyzed the 2011 survey data and cautiously classified both sites as secondary regional or civic-administrative centers.
-
-**Evidence:** [[Papers/finca-san-jorge-las-aradas#Page 164|PDF pp. 164–169, printed pp. 146–151]]
-
-### 2011 — Fieldwork
-
-Systematic pedestrian survey, GPS/GIS mapping, mound measurement, condition recording, and surface collection documented both sites.
-
-**Evidence:** [[Papers/finca-san-jorge-las-aradas#Page 89|PDF pp. 89–98, printed pp. 71–80]]; [[Papers/finca-san-jorge-las-aradas#Page 164|PDF pp. 164–169, printed pp. 146–151]]
-
-## Location and uncertainty
-
-One generalized marker represents two sites less than one kilometre apart; the thesis publishes separate mound-level coordinates.
-
-- **Coordinates:** 13.9347, -89.5382
-- **Placed from:** Center of the published 2011 survey bounds
-- **Precision:** approx
-
-## Sources
-
-### finca-san-jorge-las-aradas.pdf
-
-**Citation:** PDF pp. 89–98 (printed pp. 71–80), methods and survey bounds; PDF pp. 164–169 (printed pp. 146–151), comparative results and conclusions
-
-[[Papers/finca-san-jorge-las-aradas#Page 89|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/66794.pdf#page=89)
+Systematic pedestrian survey, GPS/GIS mapping, mound measurement, condition recording, and surface collection documented both sites. The survey recorded seven mounds at San Jorge and eight at Las Aradas. [[Papers/finca-san-jorge-las-aradas#Page 89|Source: PDF pp. 89–98, printed pp. 71–80]]; [[Papers/finca-san-jorge-las-aradas#Page 164|Source: PDF pp. 164–169, printed pp. 146–151]]

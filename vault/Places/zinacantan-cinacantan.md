@@ -30,70 +30,24 @@ last_fieldwork_label: "PAHES first-phase field registration (August–December 2
 
 # Zinacantan / Cinacantan
 
-## Overview
+## Description
 
-Zinacantan is a mapped mound settlement on Cerro Pueblo Viejo in Tamanique. The 2007 survey identifies nearby Cerro Redondo as the probable peñol described in accounts of the 1538 battle, but that identification is not certain.
+Zinacantan is a mapped mound settlement on Cerro Pueblo Viejo in Tamanique. The 2007 survey identifies nearby Cerro Redondo as the probable peñol described in accounts of the 1538 battle, but that identification is not certain. Ceramics suggest a likely Late Postclassic occupation, while a longer span from the Early through Late Postclassic remains possible; documents place a battle at Cinacantan in 1538 and the community under encomienda in 1548. Hamilton mapped 26 mounds in three sectors, including at least seven small plazas; a low wall bounds the southern sector. [[Papers/identidades-18-arqueologia#Page 114|Source: PDF pp. 114–115 (printed pp. 114–115), Zinacantan entry]] [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|Source: PDF pp. 2, 10–11 (printed pp. 152, 159–160), field season and Cinacantan entry]]
 
-## Chronology
+## Studies
 
-Ceramics suggest a likely Late Postclassic occupation, while a longer span from the Early through Late Postclassic remains possible; documents place a battle at Cinacantan in 1538 and the community under encomienda in 1548.
+### 2022: Reinterpretation
 
-## How it was investigated
+A GIS/LiDAR study geospatially reanalyzed the site; this is the study's completion/submission year, not a field visit. [[Papers/identidades-18-arqueologia#Page 89|Source: identidades-18-arqueologia.pdf, PDF pp. 89, 114–115, 121–125]]
 
-Fowler discovered the site in 1989; Fowler, Gallardo, and Hamilton later registered it. Hamilton georeferenced and mapped three sectors with a total station in 2001–2002, and PAHES registered the historical site during its 2007 field season.
+### August–December 2007: Site recording
 
-## What archaeologists found
+PAHES documented and registered the historic archaeological site during its first field phase. No controlled excavation is documented in these sources. [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|Source: 2009-erquicia-sitios-arqueologicos-historicos.pdf, PDF pp. 2, 10–11]]
 
-Hamilton mapped 26 mounds in three sectors, including at least seven small plazas; a low wall bounds the southern sector. No controlled excavation is documented in these sources.
+### 2001–2002: Site recording
 
-## Research history
+Hamilton mapped the structures with a total station. Hamilton mapped 26 mounds in three sectors, including at least seven small plazas; a low wall bounds the southern sector. [[Papers/identidades-18-arqueologia#Page 114|Source: identidades-18-arqueologia.pdf, PDF pp. 114–115]]
 
-### 2022 — Reinterpretation
+### 1989: Site recording
 
-A GIS/LiDAR study geospatially reanalyzed the site; this is the study's completion/submission year, not a field visit.
-
-**Evidence:** [[Papers/identidades-18-arqueologia#Page 89|identidades-18-arqueologia.pdf, PDF pp. 89, 114–115, 121–125]]
-
-### August–December 2007 — Site recording
-
-PAHES documented and registered the historic archaeological site during its first field phase.
-
-**Evidence:** [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|2009-erquicia-sitios-arqueologicos-historicos.pdf, PDF pp. 2, 10–11]]
-
-### 2001–2002 — Site recording
-
-Hamilton mapped the structures with a total station.
-
-**Evidence:** [[Papers/identidades-18-arqueologia#Page 114|identidades-18-arqueologia.pdf, PDF pp. 114–115]]
-
-### 1989 — Site recording
-
-Fowler identified and recorded the site.
-
-**Evidence:** [[Papers/identidades-18-arqueologia#Page 114|identidades-18-arqueologia.pdf, PDF pp. 114–115]]
-
-## Location and uncertainty
-
-The report does not state whether its coordinate marks a site center or one of the two named elevations.
-
-- **Coordinates:** 13.5475, -89.3948
-- **Placed from:** 13°32′51.1″ N, 89°23′41.3″ W published in the PAHES registration
-- **Precision:** published
-
-## Sources
-
-### identidades-18-arqueologia.pdf
-
-**Citation:** PDF pp. 114–115 (printed pp. 114–115), Zinacantan entry
-
-[[Papers/identidades-18-arqueologia#Page 114|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-identidades-18-2/?wpdmdl=89649#page=114)
-
-PDF p. 114 locates the settlement on Cerro Pueblo Viejo, distinguishes the nearby Cerro Redondo or peñol, reports Fowler's discovery in 1989 and later registration, and describes Hamilton's total-station mapping in 2001–2002: 26 mounds in three sectors, at least seven small plazas, and a low wall around Site 2. PDF p. 115 says ceramic analysis makes a Late Postclassic occupation probable but cannot rule out continuous occupation from the Early through Late Postclassic. The entry does not publish a coordinate or document controlled excavation.
-
-### 2009-erquicia-sitios-arqueologicos-historicos.pdf
-
-**Citation:** PDF pp. 2, 10–11 (printed pp. 152, 159–160), field season and Cinacantan entry
-
-[[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/011_-_Erquicia-2.08.pdf#page=10)
-
-PDF p. 2 (printed p. 152) dates the PAHES first phase to August–December 2007 and describes its site visits and recording methods. PDF p. 10 (printed p. 159) publishes the coordinate, places Cinacantan on Cerro Redondo and Pueblo Viejo, recounts a documented battle in 1538, and reports that the community was under encomienda in 1548. PDF p. 11 (printed p. 160) describes Late Postclassic remains and plazas on the ridge and identifies Cerro Redondo as the probable peñol in the historical accounts; that identification is interpretive, not certain. These pages do not document controlled excavation.
+Fowler identified and recorded the site. Fowler discovered the site in 1989; Fowler, Gallardo, and Hamilton later registered it. [[Papers/identidades-18-arqueologia#Page 114|Source: identidades-18-arqueologia.pdf, PDF pp. 114–115]]

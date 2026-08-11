@@ -26,44 +26,12 @@ last_fieldwork_label: "Visited during Boggs’s 1940–1942 western survey; exac
 
 # Finca Potosí
 
-## Overview
+## Description
 
-A broad find locality on Finca Potosí, where a report lists pottery vessels, figurines, stone objects and pictographs.
+A broad find locality on Finca Potosí, where a report lists pottery vessels, figurines, stone objects and pictographs. Undated; the report gives no period or cultural assignment. Pottery vessels, figurines and stone objects were reported; the ravine pictographs were said to resemble those on Igualtepeque Island. [[Papers/longyear#Page 28|Source: PDF pp. 28–29 (printed pp. 21–22), Potosí entry]]
 
-## Chronology
+## Studies
 
-Undated; the report gives no period or cultural assignment.
+### 1940–1942: Fieldwork
 
-## How it was investigated
-
-The report records objects found at various places on the finca and pictographs observed in a deep ravine. It documents no excavation or bounded survey.
-
-## What archaeologists found
-
-Pottery vessels, figurines and stone objects were reported; the ravine pictographs were said to resemble those on Igualtepeque Island.
-
-## Research history
-
-### 1940–1942 — Fieldwork
-
-Boggs observed surface finds and pictographs during the western reconnaissance; the exact visit year is unstated.
-
-**Evidence:** [[Papers/longyear#Page 16|longyear.pdf, PDF pp. 16, 28–29 (printed pp. 9, 21–22)]]
-
-## Location and uncertainty
-
-The marker is a proxy; the report publishes no archaeological coordinate or site boundary.
-
-- **Coordinates:** 13.9469, -89.4632
-- **Placed from:** Approximate modern El Potosí locality; the report locates finds only within Finca Potosí
-- **Precision:** approx
-
-## Sources
-
-### longyear.pdf
-
-**Citation:** PDF pp. 28–29 (printed pp. 21–22), Potosí entry
-
-[[Papers/longyear#Page 28|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=28)
-
-PDF p. 28 (printed p. 21) locates Potosí on Finca Potosí about 20 km east-southeast of Santa Ana and gives only access and ownership details. PDF p. 29 (printed p. 22) reports pottery vessels, figurines, and stone objects found at various places on the finca, plus pictographs observed in a deep ravine. The entry provides no coordinate, site boundary, find context, chronological or cultural assignment, investigation date, or excavation evidence.
+Boggs observed surface finds and pictographs during the western reconnaissance; the exact visit year is unstated. The report records objects found at various places on the finca and pictographs observed in a deep ravine. It documents no excavation or bounded survey. Pottery vessels, figurines and stone objects were reported; the ravine pictographs were said to resemble those on Igualtepeque Island. [[Papers/longyear#Page 16|Source: longyear.pdf, PDF pp. 16, 28–29 (printed pp. 9, 21–22)]]

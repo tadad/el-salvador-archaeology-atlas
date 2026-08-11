@@ -29,94 +29,24 @@ last_fieldwork_label: "Condition visit during the 2006–2008 Atlas project; exa
 
 # Los Llanitos
 
-## Overview
+## Description
 
-About a dozen small mounds were arranged around a plaza and an excavated ballcourt south of San Miguel.
+About a dozen small mounds were arranged around a plaza and an excavated ballcourt south of San Miguel. Excavation documented pumice-block walls set in adobe mortar, stone slabs facing the ballcourt, pottery, obsidian, and caches in two mounds. [[Papers/longyear#Page 32|Source: PDF pp. 32–39 (printed pp. 27–34), Part III introduction and excavation results]]
 
-## Chronology
+## Studies
 
-The ceramic complex was tentatively placed around 1100–1200 CE; excavation ran February 3–March 13, 1942.
+### 2017: Reinterpretation
 
-## How it was investigated
+A ballcourt thesis reassessed the site's architectural layout; it reports no new excavation. [Source: García Hernández thesis, PDF pp. 172–180](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941001110.pdf#page=172)
 
-The 1942 project mapped the mound group, concentrated excavation on the ballcourt, and investigated three other mounds.
+### 2006–2008: Condition assessment
 
-## What archaeologists found
+The Atlas team revisited the site and photographically documented the near-total destruction; the exact visit year is unstated. [[Papers/2009-amador-atlas-arqueologico-oriente#Page 36|Source: Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 36]]
 
-Excavation documented pumice-block walls set in adobe mortar, stone slabs facing the ballcourt, pottery, obsidian, and caches in two mounds.
+### 1960: Reinterpretation
 
-## Research history
+Haberland reassessed the site's ceramics and chronology. [[Papers/haberland_sequences#Page 3|Source: haberland_sequences.pdf, PDF pp. 3, 7]]
 
-### 2017 — Reinterpretation
+### 3 February–13 March 1942: Fieldwork
 
-A ballcourt thesis reassessed the site's architectural layout; it reports no new excavation.
-
-**Evidence:** 2017-canchas-juego-pelota-oriente.pdf, PDF pp. 172–180
-
-### 2006–2008 — Condition assessment
-
-The Atlas team revisited the site and photographically documented the near-total destruction; the exact visit year is unstated.
-
-**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 36|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 36]]
-
-### 1960 — Reinterpretation
-
-Haberland reassessed the site's ceramics and chronology.
-
-**Evidence:** [[Papers/haberland_sequences#Page 3|haberland_sequences.pdf, PDF pp. 3, 7]]
-
-### 3 February–13 March 1942 — Fieldwork
-
-Longyear excavated the site and documented its architecture, ceramics, and caches.
-
-**Evidence:** [[Papers/longyear#Page 32|longyear.pdf, PDF pp. 32–39, 46–47]]
-
-## Location and uncertainty
-
-Longyear published relative distances and a sketch map, not a geodetic coordinate.
-
-- **Coordinates:** 13.3318, -88.1979
-- **Placed from:** Approximate reconstruction: a pasture 500 m west of the road and about 1 km south of Los Llanitos village
-- **Precision:** approx
-
-## Sources
-
-### Atlas Arqueológico de la Región de Oriente de El Salvador
-
-**Citation:** PDF p. 36 (printed p. 25), condition assessment
-
-[[Papers/2009-amador-atlas-arqueologico-oriente#Page 36|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=36)
-
-The Atlas revisits Longyear’s plan and reports that agricultural activity and looting had destroyed almost all visible structures, including most of the ballcourt. It documents condition, not a new excavation or a secure revision of Haberland’s tentative chronology.
-
-### longyear.pdf
-
-**Citation:** PDF p. 20 (printed p. 13), Los Llanitos site entry
-
-[[Papers/longyear#Page 20|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=20)
-
-The site entry places Los Llanitos 22 km south of San Miguel, on the west side of the road to Playa de Cuca, in a pasture about 500 m west of the road and 1 km south of Los Llanitos village. It reports a ballcourt, a mound group, pottery, and stone but gives no coordinate.
-
-### longyear.pdf
-
-**Citation:** PDF pp. 32–39 (printed pp. 27–34), Part III introduction and excavation results
-
-[[Papers/longyear#Page 32|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=32)
-
-The report maps about a dozen mounds, describes the plaza and ballcourt, and documents excavation from February 3 to March 13, 1942. It says most excavation focused on the ballcourt, with three other mounds investigated, and describes rough pumice-block walls set in adobe mortar, stone slabs, pottery, and obsidian. The author interpreted the uniform pottery and construction as evidence for one occupation period but did not assign an absolute date.
-
-### longyear.pdf
-
-**Citation:** PDF pp. 46–47 (printed pp. 40–41), ‘Caches’
-
-[[Papers/longyear#Page 46|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=46)
-
-The cache section documents deposits in Mounds 2 and 7 containing pottery vessels and sherds, incense burners, stone slabs, and obsidian objects. It does not date the deposits.
-
-### haberland_sequences.pdf
-
-**Citation:** PDF pp. 3, 7 (printed pp. 23, 27), Figure 2 and eastern-sequence discussion
-
-[[Papers/haberland_sequences#Page 3|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/haberland_sequences.pdf#page=3)
-
-Haberland's explicitly tentative sequence places the Los Llanitos ceramic complex around 1100–1200 CE. His discussion links it closely, but not identically, to the Lower Lempa ceramic complex and says Los Llanitos may be slightly later. This does not establish an ethnic identity.
+Longyear excavated the site and documented its architecture, ceramics, and caches. The 1942 project mapped the mound group, concentrated excavation on the ballcourt, and investigated three other mounds. Excavation documented pumice-block walls set in adobe mortar, stone slabs facing the ballcourt, pottery, obsidian, and caches in two mounds. [[Papers/longyear#Page 32|Source: longyear.pdf, PDF pp. 32–39, 46–47]]

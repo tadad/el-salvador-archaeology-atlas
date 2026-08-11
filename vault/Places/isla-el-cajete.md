@@ -27,50 +27,16 @@ last_fieldwork_label: "1983 reconnaissance and surface collection"
 
 # Isla El Cajete
 
-## Overview
+## Description
 
-An archaeological site occupies dry ground on Isla El Cajete in the Barra de Santiago mangroves. The 1983 report describes visible mounds, including one formal plaza, across the island’s western half.
+An archaeological site occupies dry ground on Isla El Cajete in the Barra de Santiago mangroves. The 1983 report describes visible mounds, including one formal plaza, across the island’s western half. Most collected ceramics were tentatively associated with the Early Postclassic Guazapa complex, then dated about 900–1200 CE; the report allows later occupation and notes sparse possible Late Classic evidence. The report records rectangular earthen mounds, some faced with cut talpuja blocks and stucco, plus pottery, obsidian blades and cores, manos, and tripod metates. [[Papers/amaroli_elcajete#Page 1|Source: PDF pp. 1–4, 10 (printed pp. 1–4; preliminary plan)]]
 
-## Chronology
+## Studies
 
-Most collected ceramics were tentatively associated with the Early Postclassic Guazapa complex, then dated about 900–1200 CE; the report allows later occupation and notes sparse possible Late Classic evidence.
+### 10 February 1983: Collection analysis
 
-## How it was investigated
+Amaroli's dated report analyzed the collected surface ceramics. [[Papers/amaroli_elcajete#Page 1|Source: amaroli_elcajete.pdf, PDF pp. 1–4]]
 
-In 1983, investigators sketched visible mounds with a compass and tape and collected surface pottery and obsidian. The report documents no controlled excavation.
+### 9 February 1983: Fieldwork
 
-## What archaeologists found
-
-The report records rectangular earthen mounds, some faced with cut talpuja blocks and stucco, plus pottery, obsidian blades and cores, manos, and tripod metates.
-
-## Research history
-
-### 10 February 1983 — Collection analysis
-
-Amaroli's dated report analyzed the collected surface ceramics.
-
-**Evidence:** [[Papers/amaroli_elcajete#Page 1|amaroli_elcajete.pdf, PDF pp. 1–4]]
-
-### 9 February 1983 — Fieldwork
-
-Amaroli reconnoitered the island and collected surface ceramics.
-
-**Evidence:** [[Papers/amaroli_elcajete#Page 1|amaroli_elcajete.pdf, PDF pp. 1–4]]
-
-## Location and uncertainty
-
-The marker represents the island, not an archaeological coordinate; the 1983 reconnaissance covered only its western half.
-
-- **Coordinates:** 13.7051, -90.0094
-- **Placed from:** Isla El Cajete landmark in the Barra de Santiago mangroves
-- **Precision:** landmark
-
-## Sources
-
-### amaroli_elcajete.pdf
-
-**Citation:** PDF pp. 1–4, 10 (printed pp. 1–4; preliminary plan)
-
-[[Papers/amaroli_elcajete#Page 1|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/amaroli_elcajete.pdf#page=1)
-
-PDF pp. 1–2 document the 9 February 1983 reconnaissance of the island’s western half, a compass-and-tape sketch, and surface collection; they describe one formal plaza and mound construction. PDF pp. 3–4 describe the pottery and obsidian and tentatively associate most ceramics with the Guazapa complex, then dated about 900–1200 CE, while allowing later occupation and noting sparse possible Late Classic evidence. PDF p. 10 is the preliminary plan of 15 visible mounds. The report publishes no archaeological coordinate, controlled excavation, 2005 revisit, or ethnic attribution.
+Amaroli reconnoitered the island and collected surface ceramics. [[Papers/amaroli_elcajete#Page 1|Source: amaroli_elcajete.pdf, PDF pp. 1–4]]

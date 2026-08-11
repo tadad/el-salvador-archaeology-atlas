@@ -30,64 +30,20 @@ last_fieldwork_label: "2011 protection and buffer-area delimitation project"
 
 # SS Douglas (Sakkarah)
 
-## Overview
+## Description
 
-A registered steamship wreck at Los Cóbanos, Sonsonate, also identified in the inventory as Sakkarah.
+A registered steamship wreck at Los Cóbanos, Sonsonate, also identified in the inventory as Sakkarah. Built in 1872 and wrecked in 1890. The inventory identifies a steamship wreck but does not describe its surviving remains or cargo. [[Papers/anales-53#Page 16|Source: PDF pp. 16–17, Figures 1–2]]
 
-## Chronology
+## Studies
 
-Built in 1872 and wrecked in 1890.
+### 2014: Registry synthesis
 
-## How it was investigated
+A national summary mapped SS Douglas broadly at Los Cóbanos and tabulated its construction, wreck, and registration years. The inventory identifies a steamship wreck but does not describe its surviving remains or cargo. [[Papers/anales-53#Page 16|Source: anales-53.pdf, PDF pp. 16–17]]
 
-The wreck was registered in 2005. A 2011 project addressed its protection and buffer-area delimitation, but the local summaries do not describe the field method.
+### 2011: Protection-area project
 
-## What archaeologists found
+A project addressed protection and buffer-area delimitation for the wreck. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|Source: 2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 8]]
 
-The inventory identifies a steamship wreck but does not describe its surviving remains or cargo.
+### 2005: Site registration
 
-## Research history
-
-### 2014 — Registry synthesis
-
-A national summary mapped SS Douglas broadly at Los Cóbanos and tabulated its construction, wreck, and registration years.
-
-**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
-
-### 2011 — Protection-area project
-
-A project addressed protection and buffer-area delimitation for the wreck.
-
-**Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 8]]
-
-### 2005 — Site registration
-
-The national inventory gives 2005 as the registration year.
-
-**Evidence:** [[Papers/anales-53#Page 17|anales-53.pdf, PDF p. 17]]
-
-## Location and uncertainty
-
-The marker represents the Los Cóbanos locality. The local sources do not support the former exact coordinate, distance, depth range, survey-point name, or coffee-cargo claim.
-
-- **Coordinates:** 13.4983, -89.8110
-- **Placed from:** Los Cóbanos locality in the national inventory
-- **Precision:** approx
-
-## Sources
-
-### anales-53.pdf
-
-**Citation:** PDF pp. 16–17, Figures 1–2
-
-**Citation note:** Supports the Los Cóbanos location, steam propulsion, 1872 construction, 1890 wreck, alternate name Sakkarah, and 2005 registration. It does not publish a coordinate or describe the remains.
-
-[[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
-
-### 2012-escamilla-fowler-practica-arqueologia.pdf
-
-**Citation:** PDF p. 8 (printed p. 434)
-
-**Citation note:** Supports a 2011 protection and buffer-area delimitation project and the statement that Douglas was the country's first submerged site with a protection declaration.
-
-[[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/03/036_Escamilla_y_Fowler.pdf#page=8)
+The national inventory gives 2005 as the registration year. [[Papers/anales-53#Page 17|Source: anales-53.pdf, PDF p. 17]]

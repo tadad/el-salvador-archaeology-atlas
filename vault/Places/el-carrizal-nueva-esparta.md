@@ -25,52 +25,12 @@ last_fieldwork_year: null
 
 # El Carrizal / Nueva Esparta
 
-## Overview
+## Description
 
-A compiled site-list entry identifies El Carrizal with the town then called Nueva Esparta and reports artifacts there. The entry’s typography indicates that the locality was field-confirmed, but the record does not locate the finds within the town.
+A compiled site-list entry identifies El Carrizal with the town then called Nueva Esparta and reports artifacts there. The entry’s typography indicates that the locality was field-confirmed, but the record does not locate the finds within the town. The artifacts are undated; the source does not document when they were found or examined. Obsidian, greenstone, and pottery artifacts were reported. [[Papers/longyear#Page 79|Source: PDF p. 79 (printed p. 78), Department of La Unión: ‘Carrizal (El)’]]
 
-## Chronology
+## Studies
 
-The artifacts are undated; the source does not document when they were found or examined.
+### Undated: Site recording
 
-## How it was investigated
-
-The source indicates that the locality was visited by Lothrop, Boggs, or Longyear, but does not identify which investigator, the date, or the method. No controlled excavation is documented.
-
-## What archaeologists found
-
-Obsidian, greenstone, and pottery artifacts were reported. No quantities, forms, contexts, or associated architecture are described.
-
-## Research history
-
-### Undated — Site recording
-
-Longyear's appendix lists Carrizal as field-confirmed, but supplies no site-specific investigation date or method.
-
-**Evidence:** [[Papers/longyear#Page 76|longyear.pdf, PDF pp. 76, 79]]
-
-## Location and uncertainty
-
-The point is a broad locality marker, not a documented findspot or site boundary.
-
-- **Coordinates:** 13.7836, -87.8356
-- **Placed from:** Nueva Esparta town center; the source identifies the town as former El Carrizal but gives no artifact findspot
-- **Precision:** approx
-
-## Sources
-
-### longyear.pdf
-
-**Citation:** PDF p. 76 (printed p. 75), Appendix D introduction
-
-[[Papers/longyear#Page 76|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=76)
-
-The introduction explains that Appendix D combines three earlier published site lists with new sites encountered by Boggs and Longyear. It identifies ‘J. L.’ as Jorge Lardé, warns that most listed sites had not been visited by a competent investigator, and says confirmed localities are printed in bold. It does not state who confirmed each bold entry, when, or by what method.
-
-### longyear.pdf
-
-**Citation:** PDF p. 79 (printed p. 78), Department of La Unión: ‘Carrizal (El)’
-
-[[Papers/longyear#Page 79|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=79)
-
-The boldface entry equates El Carrizal with the town then called Nueva Esparta and reports artifacts of obsidian, greenstone, and pottery. Its typography indicates that the locality was field-confirmed, but it gives no findspot, date, quantities, context, site boundary, field method, or evidence of excavation.
+Longyear's appendix lists Carrizal as field-confirmed, but supplies no site-specific investigation date or method. The source indicates that the locality was visited by Lothrop, Boggs, or Longyear, but does not identify which investigator, the date, or the method. No controlled excavation is documented. Obsidian, greenstone, and pottery artifacts were reported. No quantities, forms, contexts, or associated architecture are described. [[Papers/longyear#Page 76|Source: longyear.pdf, PDF pp. 76, 79]]

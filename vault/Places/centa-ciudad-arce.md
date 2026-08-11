@@ -26,50 +26,16 @@ last_fieldwork_label: "Registration card dated January 20, 1975"
 
 # CENTA, Ciudad Arce
 
-## Overview
+## Description
 
-An archaeology-department registration card reports a funerary locality named CENTA in Ciudad Arce. The later publication warns that card reports are not independently verified.
+An archaeology-department registration card reports a funerary locality named CENTA in Ciudad Arce. The later publication warns that card reports are not independently verified. The card reports three urns and a cemetery at depths of 1.20 and 1.80 metres. [[Papers/anales-56#Page 47|Source: PDF pp. 47, 50–51 (printed pp. 47, 50–51), registration-card caveat and CENTA entry]]
 
-## Chronology
+## Studies
 
-The card tentatively suggests a Postclassic date and is dated 20 January 1975; no field-investigation date is documented.
+### 2016: Archival synthesis
 
-## How it was investigated
+A national burial review reassessed the archaeology-department registration card and its evidentiary limits. The card reports three urns and a cemetery at depths of 1.20 and 1.80 metres. [[Papers/anales-56#Page 47|Source: anales-56.pdf, PDF pp. 47, 50–51]]
 
-Stanley Boggs is named as the recorder, but the table does not describe excavation, recovery, survey or another fieldwork method.
+### 20 January 1975: Site recording
 
-## What archaeologists found
-
-The card reports three urns and a cemetery at depths of 1.20 and 1.80 metres. It does not describe associated objects or the urns' arrangement.
-
-## Research history
-
-### 2016 — Archival synthesis
-
-A national burial review reassessed the archaeology-department registration card and its evidentiary limits.
-
-**Evidence:** [[Papers/anales-56#Page 47|anales-56.pdf, PDF pp. 47, 50–51]]
-
-### 20 January 1975 — Site recording
-
-Stanley Boggs registered the reported urn cemetery.
-
-**Evidence:** [[Papers/anales-56#Page 50|anales-56.pdf, PDF pp. 50–51]]
-
-## Location and uncertainty
-
-The marker represents the named institution, not a published archaeological coordinate or site boundary.
-
-- **Coordinates:** 13.8058, -89.4038
-- **Placed from:** Modern CENTA facility at Ciudad Arce; the archival table does not identify the discovery spot within the grounds
-- **Precision:** landmark
-
-## Sources
-
-### anales-56.pdf
-
-**Citation:** PDF pp. 47, 50–51 (printed pp. 47, 50–51), registration-card caveat and CENTA entry
-
-[[Papers/anales-56#Page 47|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=47)
-
-PDF p. 47 warns that the archaeology-department registration cards contain variable information, that reported bones were often not osteologically analyzed, and that the cards cannot be treated as independently verified. PDF p. 50 lists CENTA as card 17-4, dated 20 January 1975, with Stanley Boggs as recorder. The aligned row on PDF p. 51 places it in Ciudad Arce, La Libertad, and reports three urns and a cemetery at depths of 1.20 and 1.80 m, with a tentative Postclassic attribution. The table gives no archaeological coordinate, fieldwork method, associated objects, or field-investigation date.
+Stanley Boggs registered the reported urn cemetery. Stanley Boggs is named as the recorder, but the table does not describe excavation, recovery, survey or another fieldwork method. [[Papers/anales-56#Page 50|Source: anales-56.pdf, PDF pp. 50–51]]

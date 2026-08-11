@@ -26,48 +26,16 @@ last_fieldwork_year: 2007
 
 # La Palma, southern Ahuachapán
 
-## Overview
+## Description
 
-A little-known locality, reported in 2006 and revisited during the 2007 survey of southern Ahuachapán.
+A little-known locality, reported in 2006 and revisited during the 2007 survey of southern Ahuachapán. The article supplies no site-specific artifact, architecture, or excavation inventory. [[Papers/atalaya-acajutla#Page 11|Source: PDF p. 11, printed p. 143]]
 
-## Chronology
+## Studies
 
-The source identifies this as part of a reconnaissance of Preclassic sites but gives no separate phase or date for La Palma.
+### 2007: Fieldwork
 
-## How it was investigated
+The southern Ahuachapán reconnaissance revisited the little-known site and collected additional data. [[Papers/atalaya-acajutla#Page 11|Source: PDF p. 11, printed p. 143]]
 
-The regional summary states only that a survey visit collected additional information at the previously reported locality.
+### 2006: Site recording
 
-## What archaeologists found
-
-The article supplies no site-specific artifact, architecture, or excavation inventory.
-
-## Research history
-
-### 2007 — Fieldwork
-
-The southern Ahuachapán reconnaissance revisited the little-known site and collected additional data.
-
-**Evidence:** [[Papers/atalaya-acajutla#Page 11|PDF p. 11, printed p. 143]]
-
-### 2006 — Site recording
-
-The site was initially reported by Perrot-Minnot.
-
-**Evidence:** [[Papers/atalaya-acajutla#Page 11|PDF p. 11, printed p. 143]]
-
-## Location and uncertainty
-
-This is not La Palma in Chalatenango; the survey report gives only a regional placement.
-
-- **Coordinates:** 13.8150, -89.9250
-- **Placed from:** Southern Ahuachapán foothill survey area
-- **Precision:** approx
-
-## Sources
-
-### atalaya-acajutla.pdf
-
-**Citation:** PDF p. 11 (printed p. 143), regional survey summary
-
-[[Papers/atalaya-acajutla#Page 11|Open vault paper]] · [Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=11)
+The site was initially reported by Perrot-Minnot. [[Papers/atalaya-acajutla#Page 11|Source: PDF p. 11, printed p. 143]]

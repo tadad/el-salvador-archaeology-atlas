@@ -27,58 +27,16 @@ last_fieldwork_label: "Investigated within Gómez’s 2002–2005 Conchagüita/G
 
 # Teca (Isla Conchagüita)
 
-## Overview
+## Description
 
-Teca is a reported site near the north shore of Isla Conchagüita. Longyear saw low terraces and stone mounds from a boat but did not visit the site.
+Teca is a reported site near the north shore of Isla Conchagüita. Longyear saw low terraces and stone mounds from a boat but did not visit the site. The community was occupied in 1586; the cited source does not date the visible terraces and stone mounds. Several low terraces and poorly preserved stone mounds were visible in a cleared area. [[Papers/longyear#Page 19|Source: PDF p. 19 (printed p. 12), ‘Teca’ entry and Figure 1]]
 
-## Chronology
+## Studies
 
-The community was occupied in 1586; the cited source does not date the visible terraces and stone mounds.
+### 2002, 2003, and 2005: Fieldwork
 
-## How it was investigated
+Gómez investigated sites on Conchagüita and neighboring Gulf islands; the synthesis does not assign Teca to a particular season. [Source: Martínez Rosales thesis, PDF p. 20](https://biblioteca.utec.edu.sv/siab/virtual/tesis/87502.pdf#page=20)
 
-During his 1941–1942 reconnaissance, Longyear observed Teca from a boat and plotted it on a schematic island map. No excavation or surface collection is documented.
+### 1941–1942: Site recording
 
-## What archaeologists found
-
-Several low terraces and poorly preserved stone mounds were visible in a cleared area. The source reports no artifacts.
-
-## Research history
-
-### 2002, 2003, and 2005 — Fieldwork
-
-Gómez investigated sites on Conchagüita and neighboring Gulf islands; the synthesis does not assign Teca to a particular season.
-
-**Evidence:** asanyamba-concheros-golfo-fonseca.pdf, PDF p. 20
-
-### 1941–1942 — Site recording
-
-Longyear observed Teca from a boat but explicitly did not visit the site.
-
-**Evidence:** [[Papers/longyear#Page 16|longyear.pdf, PDF pp. 16, 19]]
-
-## Location and uncertainty
-
-The marker reconstructs Longyear’s shoreline description and schematic map; the source publishes no coordinate and states that its contours are approximate.
-
-- **Coordinates:** 13.2470, -87.7770
-- **Placed from:** North side of Isla Conchagüita, about 100 m inland and a 2 km trail west of the landing
-- **Precision:** approx
-
-## Sources
-
-### longyear.pdf
-
-**Citation:** PDF p. 19 (printed p. 12), ‘Teca’ entry and Figure 1
-
-[[Papers/longyear#Page 19|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=19)
-
-Longyear places Teca on the north side of Isla Conchagüita, about 100 m inland and 20 m above sea level, reached by a roughly 2 km trail west from the landing. He says he did not visit the site but saw from a boat several low terraces and poorly preserved stone mounds. Figure 1 marks Teca on a schematic island map whose contours are explicitly approximate. The entry identifies Teca as inhabited during Alonso Ponce’s 1586 visit, but it reports no artifacts, controlled excavation, archaeological coordinate, or date for the visible remains.
-
-### longyear.pdf
-
-**Citation:** PDF p. 16 (printed p. 9), Part II survey introduction
-
-[[Papers/longyear#Page 16|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=16)
-
-The introduction dates Longyear’s eastern El Salvador field surveys to fall and winter 1941–42. It explains that an asterisk marks entries not personally investigated; the Teca entry is asterisked and separately confirms that he did not visit it.
+Longyear observed Teca from a boat but explicitly did not visit the site. No excavation or surface collection is documented. Several low terraces and poorly preserved stone mounds were visible in a cleared area. The source reports no artifacts. [[Papers/longyear#Page 16|Source: longyear.pdf, PDF pp. 16, 19]]

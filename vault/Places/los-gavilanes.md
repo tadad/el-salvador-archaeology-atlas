@@ -27,66 +27,16 @@ last_fieldwork_label: "Survey and test excavation"
 
 # Los Gavilanes
 
-## Overview
+## Description
 
-An excavated Early Postclassic site on a proposed housing parcel east of Chalchuapa. Investigators documented two pre-Hispanic structures.
+An excavated Early Postclassic site on a proposed housing parcel east of Chalchuapa. Investigators documented two pre-Hispanic structures. About 900–1200 CE. Structure 2 had stone foundations, cobbled and burned-earth floors, and a stone-lined feature with burning traces that the authors tentatively linked to copal. [[Papers/2007-erquicia-los-gavilanes#Page 5|Source: PDF p. 5 (printed p. 857), site setting and investigation methods]]
 
-## Chronology
+## Studies
 
-About 900–1200 CE. Fieldwork ran from June through August 2005.
+### 2006: Reinterpretation
 
-## How it was investigated
+The 2005 field results were interpreted and presented at the 2006 Guatemala symposium. [[Papers/2007-erquicia-los-gavilanes#Page 1|Source: 2007-erquicia-los-gavilanes.pdf, PDF p. 1]]
 
-Investigators surveyed the parcel, collected surface material, and excavated test pits. The report describes six excavation operations.
+### June–August 2005: Fieldwork
 
-## What archaeologists found
-
-Structure 2 had stone foundations, cobbled and burned-earth floors, and a stone-lined feature with burning traces that the authors tentatively linked to copal. Finds included two fragments identified as a Xipe Totec effigy, Plumbate and Nicoya/Papagayo pottery, and a green obsidian blade attributed to Pachuca, Mexico.
-
-## Research history
-
-### 2006 — Reinterpretation
-
-The 2005 field results were interpreted and presented at the 2006 Guatemala symposium.
-
-**Evidence:** [[Papers/2007-erquicia-los-gavilanes#Page 1|2007-erquicia-los-gavilanes.pdf, PDF p. 1]]
-
-### June–August 2005 — Fieldwork
-
-The project conducted test pits and surface collection.
-
-**Evidence:** [[Papers/2007-erquicia-los-gavilanes#Page 4|2007-erquicia-los-gavilanes.pdf, PDF p. 4]]
-
-## Location and uncertainty
-
-Operation 1’s coordinates conflict with its stated Chalchuapa lot location, so the marker uses the coherent published coordinates for Operations 2–5.
-
-- **Coordinates:** 13.9809, -89.6674
-- **Placed from:** Mean of the published coordinates for Operations 2–5
-- **Precision:** published
-
-## Sources
-
-### 2007-erquicia-los-gavilanes.pdf
-
-**Citation:** PDF p. 5 (printed p. 857), site setting and investigation methods
-
-[[Papers/2007-erquicia-los-gavilanes#Page 5|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf#page=5)
-
-Documents surface collection and test excavation from June through August 2005 on a proposed housing parcel east of Chalchuapa.
-
-### 2007-erquicia-los-gavilanes.pdf
-
-**Citation:** PDF pp. 8–9 (printed pp. 860–861), Operations 1–4 and Structures 1–2
-
-[[Papers/2007-erquicia-los-gavilanes#Page 8|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf#page=8)
-
-Publishes coordinates for Operations 1–4, dates Structure 2 to 900–1200 CE, and describes the two stone-founded structures. Operation 1’s coordinate is inconsistent with the stated Chalchuapa location.
-
-### 2007-erquicia-los-gavilanes.pdf
-
-**Citation:** PDF pp. 11–13 (printed pp. 863–865), Structure 2 features and recovered materials
-
-[[Papers/2007-erquicia-los-gavilanes#Page 11|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf#page=11)
-
-Publishes the Operation 5 coordinate and describes the stone-lined burned feature, ceramic groups, obsidian objects, and two fragments identified as a Xipe Totec effigy; the copal-burning interpretation is explicitly tentative.
+The project conducted test pits and surface collection. Investigators surveyed the parcel, collected surface material, and excavated test pits. [[Papers/2007-erquicia-los-gavilanes#Page 4|Source: 2007-erquicia-los-gavilanes.pdf, PDF p. 4]]

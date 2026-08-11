@@ -25,50 +25,16 @@ last_fieldwork_year: null
 
 # La Joya (Singüil)
 
-## Overview
+## Description
 
-A published table preserves an archaeology-department registration-card entry named La Joya (Singüil) in Santa Ana.
+A published table preserves an archaeology-department registration-card entry named La Joya (Singüil) in Santa Ana. No finds are described for this entry. [[Papers/anales-56#Page 47|Source: PDF pp. 47, 50–51 (printed pp. 47, 50–51), registration-card caveat and Table 1]]
 
-## Chronology
+## Studies
 
-Unknown; the entry supplies neither a cultural period nor an investigation date.
+### 2016: Archival synthesis
 
-## How it was investigated
+A national burial review reassessed the undated archaeology-department registration card. [[Papers/anales-56#Page 47|Source: anales-56.pdf, PDF pp. 47, 50–51]]
 
-The evidence is limited to an archival table entry. No fieldwork method or reproducible location is published.
+### Undated: Site recording
 
-## What archaeologists found
-
-No finds are described for this entry.
-
-## Research history
-
-### 2016 — Archival synthesis
-
-A national burial review reassessed the undated archaeology-department registration card.
-
-**Evidence:** [[Papers/anales-56#Page 47|anales-56.pdf, PDF pp. 47, 50–51]]
-
-### Undated — Site recording
-
-Manuel López registered the site; the surviving table provides no date.
-
-**Evidence:** [[Papers/anales-56#Page 50|anales-56.pdf, PDF pp. 50–51]]
-
-## Location and uncertainty
-
-The marker is a generalized proxy, not a documented site coordinate.
-
-- **Coordinates:** 14.0533, -89.6314
-- **Placed from:** Broad Santa Ana placement; the published table provides no reproducible archaeological location
-- **Precision:** approx
-
-## Sources
-
-### anales-56.pdf
-
-**Citation:** PDF pp. 47, 50–51 (printed pp. 47, 50–51), registration-card caveat and Table 1
-
-[[Papers/anales-56#Page 47|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=47)
-
-PDF p. 47 warns that the archaeology-department cards contain variable information and cannot be treated as independently verified. PDF p. 50 lists La Joya (Singuil) as undated card 9-2, registered by Manuel López. PDF p. 51 supplies only Santa Ana as its location and gives no finds, period, fieldwork method or coordinate. The adjacent ‘Clásico y preclásico’ entry belongs to Bolinas 1, not La Joya.
+Manuel López registered the site; the surviving table provides no date. [[Papers/anales-56#Page 50|Source: anales-56.pdf, PDF pp. 50–51]]

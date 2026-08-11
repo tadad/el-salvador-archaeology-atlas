@@ -27,44 +27,12 @@ last_fieldwork_label: "Recorded during the 2006–2008 Atlas project; exact year
 
 # San José Jucuarán
 
-## Overview
+## Description
 
-A small group of isolated mounds in the coastal uplands west of Jucuarán, showing that settlement extended beyond the better-known river valleys and Gulf shore.
+A small group of isolated mounds in the coastal uplands west of Jucuarán, showing that settlement extended beyond the better-known river valleys and Gulf shore. The visible mounds establish a built pre-Hispanic presence in the estate landscape. [[Papers/2009-amador-atlas-arqueologico-oriente#Page 41|Source: PDF pp. 41, 202, 205–206 (printed pp. 30, 191, 194–195), site class and Lepa-phase synthesis]]
 
-## Chronology
+## Studies
 
-Late Classic–Terminal ceramic participation is documented in the Atlas synthesis; the visible mounds were recorded during the 2006–2008 project.
+### 2006–2008: Fieldwork
 
-## How it was investigated
-
-Regional reconnaissance located and described the mounds; the atlas does not report a full excavation program at this site.
-
-## What archaeologists found
-
-The visible mounds establish a built pre-Hispanic presence in the estate landscape. The record remains architectural and survey-based.
-
-## Research history
-
-### 2006–2008 — Fieldwork
-
-Atlas reconnaissance documented the site and collected surface material; the exact visit year is unstated.
-
-**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 41|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 41]]
-
-## Location and uncertainty
-
-The marker represents the named estate area; the isolated mounds were not published with GPS coordinates.
-
-- **Coordinates:** 13.2550, -88.3220
-- **Placed from:** Hacienda San José area about 8 km west of Jucuarán
-- **Precision:** approx
-
-## Sources
-
-### Atlas Arqueológico de la Región de Oriente de El Salvador
-
-**Citation:** PDF pp. 41, 202, 205–206 (printed pp. 30, 191, 194–195), site class and Lepa-phase synthesis
-
-[[Papers/2009-amador-atlas-arqueologico-oriente#Page 41|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=41)
-
-The Atlas classifies San José Jucuarán as a small group of isolated mounds and interprets it cautiously as a household-scale settlement using Bahía de Jiquilisco resources. The ceramic synthesis reports the Lepa-phase Sirama Rojo and Los Llanitos Polychrome groups there and includes the site in Late Classic–Terminal exchange networks, supporting a broad Classic-period link but not an ethnic assignment.
+Atlas reconnaissance documented the site and collected surface material; the exact visit year is unstated. Regional reconnaissance located and described the mounds; the atlas does not report a full excavation program at this site. The visible mounds establish a built pre-Hispanic presence in the estate landscape. The record remains architectural and survey-based. [[Papers/2009-amador-atlas-arqueologico-oriente#Page 41|Source: Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 41]]

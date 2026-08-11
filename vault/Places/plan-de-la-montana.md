@@ -26,44 +26,12 @@ last_fieldwork_label: "2003 Department of Archaeology site registration"
 
 # Plan de la Montaña
 
-## Overview
+## Description
 
-A mainland archaeological site on the west side of the Gulf of Fonseca with at least 17 shell middens.
+A mainland archaeological site on the west side of the Gulf of Fonseca with at least 17 shell middens. The source gives no occupational date. At least 17 shell middens with ceramics and stone artifacts. [[Papers/anales-53#Page 45|Source: PDF p. 45 (printed p. 45), regional research history]]
 
-## Chronology
+## Studies
 
-The source gives no occupational date.
+### 2003: Site recording
 
-## How it was investigated
-
-The cited synthesis documents the 2003 registration but does not describe the methods or report excavation.
-
-## What archaeologists found
-
-At least 17 shell middens with ceramics and stone artifacts. The source gives no artifact types or contexts.
-
-## Research history
-
-### 2003 — Site recording
-
-Erquicia formally registered Plan de la Montaña on Conchagüita.
-
-**Evidence:** asanyamba-concheros-golfo-fonseca.pdf, PDF p. 20; anales-53.pdf, PDF p. 45
-
-## Location and uncertainty
-
-The marker is an approximate regional placement, not a published archaeological coordinate.
-
-- **Coordinates:** 13.3750, -87.9050
-- **Placed from:** Mainland on the west side of the Gulf of Fonseca; the source publishes no coordinate
-- **Precision:** approx
-
-## Sources
-
-### anales-53.pdf
-
-**Citation:** PDF p. 45 (printed p. 45), regional research history
-
-[[Papers/anales-53#Page 45|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=45)
-
-The synthesis says the Department of Archaeology registered Plan de la Montaña in 2003. It places the site on the mainland west side of the Gulf of Fonseca and reports at least 17 shell middens with ceramics and stone artifacts. It does not publish a coordinate, assign an occupational date, describe the recording methods, or document excavation.
+Erquicia formally registered Plan de la Montaña in 2003 on the west side of the Gulf of Fonseca, in Conchagua. The cited syntheses do not describe the methods or report excavation. At least 17 shell middens contained ceramics and stone artifacts, but the sources give no artifact types or contexts. [Source: Martínez Rosales thesis, PDF p. 20](https://biblioteca.utec.edu.sv/siab/virtual/tesis/87502.pdf#page=20) [[Papers/anales-53#Page 45|Source: anales-53.pdf, PDF p. 45]]

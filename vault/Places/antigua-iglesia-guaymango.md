@@ -27,44 +27,12 @@ last_fieldwork_label: "Recorded during the 2008 PAHES field phase"
 
 # Antigua Iglesia de Guaymango
 
-## Overview
+## Description
 
-The surveyed remains of an earlier church in the garden of Guaymango’s current church. Its construction date is unknown.
+The surveyed remains of an earlier church in the garden of Guaymango’s current church. Its construction date is unknown. The report tentatively identifies the ruins as colonial from architectural comparisons. It cautiously links the ruined facade to an 1813 fire, but had not consulted the cited archival file. The report describes a badly deteriorated facade, visible walls and foundations; part of the former church footprint is now a garden beside the newer church. [Source: PDF p. 6 (printed p. 844), Antigua Iglesia de Guaymango entry; PDF p. 9 (printed p. 847), phase summary](https://www.asociaciontikal.com/wp-content/uploads/2016/12/63.09-Erquicia_09.pdf#page=6)
 
-## Chronology
+## Studies
 
-The report tentatively identifies the ruins as colonial from architectural comparisons. It cautiously links the ruined facade to an 1813 fire, but had not consulted the cited archival file.
+### 2008: Site recording
 
-## How it was investigated
-
-PAHES visited and inventoried the remains during its 2008 second phase. The report documents no controlled excavation and does not specify which project-wide field methods were used at this church.
-
-## What archaeologists found
-
-The report describes a badly deteriorated facade, visible walls and foundations; part of the former church footprint is now a garden beside the newer church.
-
-## Research history
-
-### 2008 — Site recording
-
-PAHES recorded and inventoried the church remains during its second field phase.
-
-**Evidence:** 2010-erquicia-pahes-segunda-fase.pdf, PDF pp. 6, 9 (printed pp. 844, 847)
-
-## Location and uncertainty
-
-The point marks the current church whose garden incorporates the older church remains; the report publishes no coordinate.
-
-- **Coordinates:** 13.7495, -89.8456
-- **Placed from:** Garden of the current church in central Guaymango
-- **Precision:** landmark
-
-## Sources
-
-### 2010-erquicia-pahes-segunda-fase.pdf
-
-**Citation:** PDF p. 6 (printed p. 844), Antigua Iglesia de Guaymango entry; PDF p. 9 (printed p. 847), phase summary
-
-[Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2016/12/63.09-Erquicia_09.pdf#page=6)
-
-PDF p. 6 places the remains in central Guaymango, describes the facade, walls and foundations, and says part of the older footprint is a garden beside the newer church. It states that the construction date is unknown, proposes a colonial date from architectural comparison, and cautiously connects the ruins with an 1813 fire mentioned in an archival file that the study had not consulted. PDF p. 9 identifies the work as PAHES Phase II in 2008. The source publishes no coordinate, controlled excavation, or certain construction or destruction date.
+PAHES recorded and inventoried the church remains during its second field phase. The report documents no controlled excavation and does not specify which project-wide field methods were used at this church. The report describes a badly deteriorated facade, visible walls and foundations; part of the former church footprint is now a garden beside the newer church. [[Papers/2010-erquicia-pahes-segunda-fase#Page 6|Source: 2010-erquicia-pahes-segunda-fase.pdf, PDF pp. 6, 9 (printed pp. 844, 847)]]

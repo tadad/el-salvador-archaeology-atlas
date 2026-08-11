@@ -26,44 +26,12 @@ last_fieldwork_year: null
 
 # Paraíso Basin excavation evidence
 
-## Overview
+## Description
 
-A regional marker for excavation evidence from the Paraíso Basin. It does not represent a single archaeological site or trench.
+A regional marker for excavation evidence from the Paraíso Basin. It does not represent a single archaeological site or trench. Pre-Hispanic, otherwise undated. The cited review discusses estimates for the Ilopango eruption, not a basin-wide occupation span. The review provides no site- or context-specific find inventory. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|Source: PDF p. 8 (printed p. 434), “Recientes investigaciones”]]
 
-## Chronology
+## Studies
 
-Pre-Hispanic, otherwise undated. The cited review discusses estimates for the Ilopango eruption, not a basin-wide occupation span.
+### 1999: Reinterpretation
 
-## How it was investigated
-
-A 1999 dissertation used excavation data from the Paraíso Basin and Nuevo Cuscatlán, ceramic study, and regional comparison. The cited review does not name the excavation locations or describe field methods.
-
-## What archaeologists found
-
-The review provides no site- or context-specific find inventory. It says the combined evidence contributed to reassessing the date of the Ilopango eruption.
-
-## Research history
-
-### 1999 — Reinterpretation
-
-Earnest's dissertation used Paraíso Basin excavation data in a regional ceramic and chronological reassessment; it does not document a new 1999 field season.
-
-**Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 8]]
-
-## Location and uncertainty
-
-This is a regional evidence marker, not a single archaeological site or trench.
-
-- **Coordinates:** 14.0610, -89.0670
-- **Placed from:** Approximate Paraíso Basin marker; the cited review publishes no excavation coordinate or evidence-area boundary
-- **Precision:** approx
-
-## Sources
-
-### 2012-escamilla-fowler-practica-arqueologia.pdf
-
-**Citation:** PDF p. 8 (printed p. 434), “Recientes investigaciones”
-
-[[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/03/036_Escamilla_y_Fowler.pdf#page=8)
-
-The review says a 1999 dissertation used excavation data from the Paraíso Basin and Nuevo Cuscatlán, ceramic study, and regional comparison to propose an early-fifth-century date for the Ilopango eruption. It also reports a separate radiocarbon estimate of 408–536 CE. The page does not identify the basin excavation locations, fieldwork dates or methods, context stratigraphy, artifact inventories, or coordinates.
+Earnest's dissertation used Paraíso Basin excavation data in a regional ceramic and chronological reassessment; it does not document a new 1999 field season. The cited review does not name the excavation locations or describe field methods. The review provides no site- or context-specific find inventory. It says the combined evidence contributed to reassessing the date of the Ilopango eruption. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 8|Source: 2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 8]]

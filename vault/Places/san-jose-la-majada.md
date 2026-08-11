@@ -25,50 +25,16 @@ last_fieldwork_year: null
 
 # San José La Majada
 
-## Overview
+## Description
 
-An archival table preserves a minimally documented archaeological lead named San José la Majada in Sonsonate Department.
+An archival table preserves a minimally documented archaeological lead named San José la Majada in Sonsonate Department. Unknown; the entry has no date or cultural period. The entry tentatively asks whether the locality was a cemetery, but gives no evidence that confirms this interpretation. [[Papers/anales-56#Page 47|Source: PDF pp. 47, 50–51 (printed pp. 47, 50–51), registration-card caveat and San José la Majada entry]]
 
-## Chronology
+## Studies
 
-Unknown; the entry has no date or cultural period.
+### 2016: Archival synthesis
 
-## How it was investigated
+A national burial review reassessed the undated archaeology-department registration card. [[Papers/anales-56#Page 47|Source: anales-56.pdf, PDF pp. 47, 50–51]]
 
-The table identifies a recorder but does not describe a survey, excavation, or other fieldwork.
+### Undated: Site recording
 
-## What archaeologists found
-
-The entry tentatively asks whether the locality was a cemetery, but gives no evidence that confirms this interpretation.
-
-## Research history
-
-### 2016 — Archival synthesis
-
-A national burial review reassessed the undated archaeology-department registration card.
-
-**Evidence:** [[Papers/anales-56#Page 47|anales-56.pdf, PDF pp. 47, 50–51]]
-
-### Undated — Site recording
-
-Manuel López registered the locality; the surviving table provides no date.
-
-**Evidence:** [[Papers/anales-56#Page 50|anales-56.pdf, PDF pp. 50–51]]
-
-## Location and uncertainty
-
-The marker represents the modern named locality, not a published archaeological coordinate. The archival table does not identify a parcel or site boundary.
-
-- **Coordinates:** 13.8492, -89.7109
-- **Placed from:** Modern San José La Majada locality; the archival entry gives only Sonsonate Department
-- **Precision:** approx
-
-## Sources
-
-### anales-56.pdf
-
-**Citation:** PDF pp. 47, 50–51 (printed pp. 47, 50–51), registration-card caveat and San José la Majada entry
-
-[[Papers/anales-56#Page 47|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=47)
-
-PDF p. 47 warns that the archaeology-department cards contain variable information and cannot be treated as independently verified. PDF p. 50 lists San José la Majada as registration-card 10-19, without a date, and names Manuel López as recorder. The aligned row on PDF p. 51 gives only Sonsonate Department and tentatively asks whether the locality was a cemetery. The table provides no archaeological coordinate, fieldwork method, period, culture, or identified finds.
+Manuel López registered the locality; the surviving table provides no date. [[Papers/anales-56#Page 50|Source: anales-56.pdf, PDF pp. 50–51]]

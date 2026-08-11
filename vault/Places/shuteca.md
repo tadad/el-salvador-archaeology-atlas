@@ -26,42 +26,12 @@ last_fieldwork_year: 2007
 
 # Shuteca
 
-## Overview
+## Description
 
-A Late Classic residential site beside the Shuteca River, partly destroyed during construction of a recreation facility.
+A Late Classic residential site beside the Shuteca River, partly destroyed during construction of a recreation facility. Late Classic, approximately 600–900 CE; recorded in 2007. The report identifies the damaged remains as Late Classic residential vestiges but gives no artifact or architectural inventory. [[Papers/fundar-saqueo#Page 24|Source: PDF pp. 24–25, Shuteca entry]]
 
-## Chronology
+## Studies
 
-Late Classic, approximately 600–900 CE; recorded in 2007.
+### 2007: Condition assessment
 
-## How it was investigated
-
-FUNDAR registered the site and informed the national archaeology department. The report does not describe excavation.
-
-## What archaeologists found
-
-The report identifies the damaged remains as Late Classic residential vestiges but gives no artifact or architectural inventory.
-
-## Research history
-
-### 2007 — Condition assessment
-
-FUNDAR registered the site and construction damage and notified the national archaeology department.
-
-**Evidence:** [[Papers/fundar-saqueo#Page 24|PDF pp. 24–25, Shuteca entry]]
-
-## Location and uncertainty
-
-FUNDAR’s public report identifies the river and municipal recreation project but no coordinate.
-
-- **Coordinates:** 13.7040, -89.7180
-- **Placed from:** Generalized Shuteca River corridor in Sonsonate
-- **Precision:** approx
-
-## Sources
-
-### fundar-saqueo.pdf
-
-**Citation:** PDF pp. 24–25, Shuteca entry; local snapshot of the public web report
-
-[[Papers/fundar-saqueo#Page 24|Open vault paper]] · [Open cited source](https://fundar.org.sv/saqueo.html#shuteca)
+FUNDAR registered the site and construction damage and notified the national archaeology department. The report does not describe excavation. The report identifies the damaged remains as Late Classic residential vestiges but gives no artifact or architectural inventory. [[Papers/fundar-saqueo#Page 24|Source: PDF pp. 24–25, Shuteca entry]]

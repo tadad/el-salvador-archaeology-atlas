@@ -28,58 +28,16 @@ last_fieldwork_label: "Archaeological sounding, 2001–2003"
 
 # Nuevo Tazumal (El Cuje)
 
-## Overview
+## Description
 
-An excavated Postclassic site, also called El Cuje, northeast of Tazumal and south of Laguna Cuscachapa.
+An excavated Postclassic site, also called El Cuje, northeast of Tazumal and south of Laguna Cuscachapa. The recorded architecture was assigned to the Postclassic. Archaeological sounding took place from 2001 to 2003. Across an area of about ten manzanas, investigators recorded one circular, two long, one polygonal, two semi-oval, and four square platforms, plus eight foundations. [[Papers/2007-erquicia-los-gavilanes#Page 3|Source: PDF p. 3 (printed p. 856), Nuevo Tazumal summary]]
 
-## Chronology
+## Studies
 
-The recorded architecture was assigned to the Postclassic. Archaeological sounding took place from 2001 to 2003.
+### 2004: Reinterpretation
 
-## How it was investigated
+The rescue results were analyzed and presented at the 2004 Guatemala symposium. [[Papers/anales-56#Page 54|Source: anales-56.pdf, PDF p. 54]]
 
-The cited synthesis reports archaeological sounding but does not describe its methods.
+### 2001–2003: Fieldwork
 
-## What archaeologists found
-
-Across an area of about ten manzanas, investigators recorded one circular, two long, one polygonal, two semi-oval, and four square platforms, plus eight foundations. The source says the architecture was built with stone and mud.
-
-## Research history
-
-### 2004 — Reinterpretation
-
-The rescue results were analyzed and presented at the 2004 Guatemala symposium.
-
-**Evidence:** [[Papers/anales-56#Page 54|anales-56.pdf, PDF p. 54]]
-
-### 2001–2003 — Fieldwork
-
-Rescue soundings documented Postclassic architecture.
-
-**Evidence:** [[Papers/2007-erquicia-los-gavilanes#Page 3|2007-erquicia-los-gavilanes.pdf, PDF p. 3]]
-
-## Location and uncertainty
-
-The source places Nuevo Tazumal northeast of Tazumal, south of Laguna Cuscachapa, and about 200 m southwest of Los Gavilanes, but publishes no coordinate for Nuevo Tazumal.
-
-- **Coordinates:** 13.9796, -89.6687
-- **Placed from:** Approximate point reconstructed from published relative locations
-- **Precision:** approx
-
-## Sources
-
-### 2007-erquicia-los-gavilanes.pdf
-
-**Citation:** PDF p. 3 (printed p. 856), Nuevo Tazumal summary
-
-[[Papers/2007-erquicia-los-gavilanes#Page 3|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf#page=3)
-
-Identifies Nuevo Tazumal with El Cuje, places it northeast of Tazumal and south of Laguna Cuscachapa, and reports archaeological sounding in 2001–2003. It assigns the recorded stone-and-mud architecture to the Postclassic and lists the platform forms and foundations across an area of about ten manzanas. It does not describe the sounding methods or publish a coordinate.
-
-### 2007-erquicia-los-gavilanes.pdf
-
-**Citation:** PDF pp. 7–8, 11, 13 (printed pp. 860–861, 864, 866), Los Gavilanes coordinates and relative location
-
-[[Papers/2007-erquicia-los-gavilanes#Page 7|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf#page=7)
-
-Publishes coherent coordinates for Los Gavilanes Operations 2–5 and states that Los Gavilanes is 200 m northeast of Nuevo Tazumal. These data support only an approximate reconstruction of the Nuevo Tazumal marker, not a published site coordinate.
+Rescue soundings documented Postclassic architecture. The cited synthesis reports archaeological sounding but does not describe its methods. Across an area of about ten manzanas, investigators recorded one circular, two long, one polygonal, two semi-oval, and four square platforms, plus eight foundations. The source says the architecture was built with stone and mud. [[Papers/2007-erquicia-los-gavilanes#Page 3|Source: 2007-erquicia-los-gavilanes.pdf, PDF p. 3]]

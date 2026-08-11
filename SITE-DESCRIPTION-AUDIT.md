@@ -111,12 +111,12 @@ Do not merge similarly named sites. Confirm the municipality, department, altern
 
 Write for a reader who knows nothing about the publications or archaeologists. Keep author names and publication history in the citation notes unless a name is necessary to understand the site.
 
-Use these limits:
+Use this Place-body structure:
 
-- **Overview:** one or two short sentences.
-- **When:** one short sentence.
-- **How it was investigated:** one or two short sentences.
-- **What archaeologists found:** one or two short sentences.
+- **Description:** a short, plain-language introduction that immediately identifies what the mapped place is. Include its archaeological period or defining evidence when known.
+- **Studies:** dated entries in reverse chronological order. Each entry describes what investigators did, what they learned, and the Paper pages that support those claims. If a source has not yet been ingested as a Paper record, link directly to the source page.
+
+Keep the description compact. It may cite the claims that establish the place's identity, period, or defining evidence. Put detailed investigation methods, results, and publication history in the relevant study entry instead of creating separate body sections.
 
 Use direct language:
 
@@ -183,7 +183,7 @@ Label historical background as context. Do not present it as evidence for a pre-
 
 - Leave period and culture arrays empty when the sources do not support an assignment.
 - Use the latest documented field visit, survey, excavation, site recording, or condition assessment for `lastInvestigatedYear`.
-- Record every substantiated study in the Place document's `## Research history`, distinguishing fieldwork, formal recording, collection analysis, archival synthesis, condition assessment, and reinterpretation.
+- Record every substantiated study in the Place document's `## Studies`, distinguishing fieldwork, formal recording, collection analysis, archival synthesis, condition assessment, and reinterpretation.
 - A later analysis or reinterpretation belongs in the study history and may become the atlas's “Latest study,” but it does not replace the separate last-field-investigation value.
 - Do not use a publication year as an investigation or study year merely because it appears in a title or citation. Count it only when the source itself constitutes a substantive new analysis, synthesis, or reinterpretation, and label that activity explicitly.
 - Preserve ranges, “by” dates, decades, and uncertainty in the display label. Use the endpoint only for ordering and filtering; do not present it as an exact field season.

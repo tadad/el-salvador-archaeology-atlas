@@ -27,52 +27,12 @@ last_fieldwork_label: "2007 mapping and test excavation"
 
 # El Cacao
 
-## Overview
+## Description
 
-An archaeological settlement on sloping ground in the Uluazapa area of San Miguel department. The mapped remains cover roughly ten hectares around a central plaza.
+An archaeological settlement on sloping ground in the Uluazapa area of San Miguel department. The mapped remains cover roughly ten hectares around a central plaza. Late Classic, approximately 600–900/1000 CE. They documented about ten low structures and four additional architectural features around the plaza. [[Papers/2009-amador-atlas-arqueologico-oriente#Page 51|Source: PDF pp. 32, 45, 51 (printed pp. 21, 34, 40), ‘El Cacao’ and figs. 4.1, 4.10–4.12]]
 
-## Chronology
+## Studies
 
-Late Classic, approximately 600–900/1000 CE. The site was mapped and test-excavated in 2007.
+### 1 June 2007 (within the 2006–2008 Atlas project): Fieldwork
 
-## How it was investigated
-
-Researchers mapped the site and opened four test pits.
-
-## What archaeologists found
-
-They documented about ten low structures and four additional architectural features around the plaza. The ceramic study assigns four groups found at El Cacao to the Lepa phase.
-
-## Research history
-
-### 1 June 2007 (within the 2006–2008 Atlas project) — Fieldwork
-
-The Atlas project mapped the site, opened four test pits, and analyzed ceramics; a dated site photograph securely fixes field activity in 2007.
-
-**Evidence:** [[Papers/2009-amador-atlas-arqueologico-oriente#Page 51|Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 51]]
-
-## Location and uncertainty
-
-Approximate regional marker. It does not represent an excavation-unit coordinate.
-
-- **Coordinates:** 13.5600, -88.1000
-- **Placed from:** Uluazapa area in San Miguel department; the report withholds the exact site location
-- **Precision:** approx
-
-## Sources
-
-### Atlas Arqueológico de la Región de Oriente de El Salvador
-
-**Citation:** PDF pp. 32, 45, 51 (printed pp. 21, 34, 40), ‘El Cacao’ and figs. 4.1, 4.10–4.12
-
-[[Papers/2009-amador-atlas-arqueologico-oriente#Page 51|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=51)
-
-PDF p. 51 identifies El Cacao in San Miguel department and documents a roughly 10-hectare site on sloping ground, a central plaza, about 10 structures, four additional architectural features, and four test units. The excavation photograph identifies Uluazapa and is dated 01-06-07. PDF p. 32 says the report does not publish specific site locations, while the map on PDF p. 45 supplies regional context only. These pages do not provide an occupation date, cultural affiliation, or site-specific ceramic chronology. The ceramic-count table on PDF p. 51 is headed ‘Salto El Cacao,’ apparently a title error; it appears within the El Cacao section and its units U1–U4 match the site map.
-
-### Atlas Arqueológico de la Región de Oriente de El Salvador — ceramic synthesis
-
-**Citation:** PDF p. 201 (printed p. 190), table 6.4: Fase Lepa
-
-[[Papers/2009-amador-atlas-arqueologico-oriente#Page 201|Open vault paper]] · [Open cited source](https://www.famsi.org/reports/07070es/07070esAmador01.pdf#page=201)
-
-Table 6.4 assigns four ceramic groups reported at El Cacao—Obrajuelo Ordinario, Púas Lolotique, Rojo sobre blanco Delirio, and Polícromo Campana—to the Late Classic Lepa phase, dated 600–900/1000 CE. This supports a Classic-period classification but not a specific cultural or ethnic attribution.
+The Atlas project mapped the site, opened four test pits, and analyzed ceramics; a dated site photograph securely fixes field activity in 2007. They documented about ten low structures and four additional architectural features around the plaza. The ceramic study assigns four groups found at El Cacao to the Lepa phase. [[Papers/2009-amador-atlas-arqueologico-oriente#Page 51|Source: Atlas Arqueológico de la Región de Oriente de El Salvador, PDF p. 51]]

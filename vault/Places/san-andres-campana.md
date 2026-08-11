@@ -39,126 +39,40 @@ last_fieldwork_label: "Latest field season specifically named in the 2016 articl
 
 # San Andrés (Campana San Andrés)
 
-## Overview
+## Description
 
-An excavated monumental center in the Zapotitán valley, with an acropolis, a north plaza, and Structure 5, known as La Campana.
+An excavated monumental center in the Zapotitán valley, with an acropolis, a north plaza, and Structure 5, known as La Campana. Material spans the Middle Preclassic through the Early Postclassic; the site reached its apogee in the Late Classic (600–900 CE). Excavations documented adobe-and-plaster monuments, successive construction episodes, volcanic ash and floors, pottery, figurines, obsidian, and carved stone. [[Papers/anales-56#Page 26|Source: PDF pp. 26–27 (printed pp. 26–27), site summary and fig. 1]] [[Papers/dimick_1941#Page 2|Source: PDF pp. 2–3 (printed pp. 298–299), Carnegie fieldwork summary]]
 
-## Chronology
+## Studies
 
-Material spans the Middle Preclassic through the Early Postclassic; the site reached its apogee in the Late Classic (600–900 CE).
+### 2021: Collection analysis
 
-## How it was investigated
+A San Andrés cranium was photographed, modeled through photogrammetry, and facially approximated. [[Papers/identidades-18-arqueologia#Page 268|Source: identidades-18-arqueologia.pdf, PDF pp. 268–274]]
 
-The Carnegie project made small excavations across the principal group and investigated several structures, a court, and a mound. Later work included two trenches beside La Campana and Mound B.
+### 2016: Reinterpretation
 
-## What archaeologists found
+The 2012 trenches were reanalyzed through ceramic and stratigraphic evidence. [[Papers/anales-56#Page 24|Source: anales-56.pdf, PDF pp. 24–39]]
 
-Excavations documented adobe-and-plaster monuments, successive construction episodes, volcanic ash and floors, pottery, figurines, obsidian, and carved stone.
+### 2013: Collection analysis
 
-## Research history
+A thesis analyzed Copador vessel contexts, forms, and chronology. [[Papers/anales-54#Page 10|Source: anales-54.pdf, PDF pp. 10–39]]
 
-### 2021 — Collection analysis
+### 2012: Fieldwork
 
-A San Andrés cranium was photographed, modeled through photogrammetry, and facially approximated.
+The named field season investigated trenches and archaeological deposits at San Andrés. [[Papers/anales-56#Page 24|Source: anales-56.pdf, PDF pp. 24–39]]
 
-**Evidence:** [[Papers/identidades-18-arqueologia#Page 268|identidades-18-arqueologia.pdf, PDF pp. 268–274]]
+### 1996–1997: Fieldwork
 
-### 2016 — Reinterpretation
+Intensive excavation investigated Structure 5. [[Papers/anales-56#Page 28|Source: anales-56.pdf, PDF pp. 28–29]]
 
-The 2012 trenches were reanalyzed through ceramic and stratigraphic evidence.
+### 1995: Fieldwork
 
-**Evidence:** [[Papers/anales-56#Page 24|anales-56.pdf, PDF pp. 24–39]]
+Rescue archaeology exposed and investigated the Colonial indigo works. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 6|Source: 2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 6 (printed p. 432)]]
 
-### 2013 — Collection analysis
+### 1977: Fieldwork
 
-A thesis analyzed Copador vessel contexts, forms, and chronology.
+Museo Nacional excavation investigated Structure 7. [[Papers/anales-54#Page 20|Source: anales-54.pdf, PDF pp. 20–21]]
 
-**Evidence:** [[Papers/anales-54#Page 10|anales-54.pdf, PDF pp. 10–39]]
+### 1940–1941: Fieldwork
 
-### 2012 — Fieldwork
-
-The named field season investigated trenches and archaeological deposits at San Andrés.
-
-**Evidence:** [[Papers/anales-56#Page 24|anales-56.pdf, PDF pp. 24–39]]
-
-### 1996–1997 — Fieldwork
-
-Intensive excavation investigated Structure 5.
-
-**Evidence:** [[Papers/anales-56#Page 28|anales-56.pdf, PDF pp. 28–29]]
-
-### 1995 — Fieldwork
-
-Rescue archaeology exposed and investigated the Colonial indigo works.
-
-**Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 6|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 6 (printed p. 432)]]
-
-### 1977 — Fieldwork
-
-Museo Nacional excavation investigated Structure 7.
-
-**Evidence:** [[Papers/anales-54#Page 20|anales-54.pdf, PDF pp. 20–21]]
-
-### 1940–1941 — Fieldwork
-
-The Dimick and Carnegie projects conducted the first intensive excavation campaigns.
-
-**Evidence:** [[Papers/ries_1940#Page 1|ries_1940.pdf, PDF pp. 1–3]]; [[Papers/dimick_1941#Page 2|dimick_1941.pdf, PDF pp. 2–3]]; [[Papers/tzunpame_boggs_sanandres#Page 2|tzunpame_boggs_sanandres.pdf, PDF pp. 2–16]]
-
-## Location and uncertainty
-
-The marker identifies the known archaeological site, not a coordinate published in the cited reports.
-
-- **Coordinates:** 13.8006, -89.3891
-- **Placed from:** San Andrés archaeological-site landmark; the cited sources publish no coordinate
-- **Precision:** landmark
-
-## Sources
-
-### ries_1940.pdf
-
-**Citation:** PDF pp. 1–3 (printed pp. 712–713 and plate 3), first field season
-
-[[Papers/ries_1940#Page 1|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/ries_1940.pdf#page=1)
-
-Ries reports the first 1940 season at Campana San Andrés, places the site beside the Río Sucio and International Highway, and describes work in Dueñas Plaza, Mounds A–D, and several smaller mounds. The report documents adobe-and-mortero construction, successive architectural levels, carved jadeite, serpent heads, figurines, obsidian, and survey work.
-
-### dimick_1941.pdf
-
-**Citation:** PDF pp. 2–3 (printed pp. 298–299), Carnegie fieldwork summary
-
-[[Papers/dimick_1941#Page 2|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/dimick_1941.pdf#page=2)
-
-The contemporary summary places Campana San Andrés in the Río Sucio valley and documents small excavations across the principal group, deeper work in Structures 1–4 and 8, a test pit, and a trench. It describes adobe-and-plaster monumental construction, successive building episodes, pottery, stone sculpture, a stone yoke, and plumbate sherds. It gives no coordinate and treats the duration of occupation as undetermined.
-
-### tzunpame_boggs_sanandres.pdf
-
-**Citation:** PDF pp. 2–16 (printed pp. 104–130), excavation history, site setting, methods, architecture, and material
-
-[[Papers/tzunpame_boggs_sanandres#Page 2|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/tzunpame_boggs_sanandres.pdf#page=2)
-
-Boggs combines the first two excavation seasons, describes the principal mound group between the Sucio and Agua Caliente rivers, and documents the project grid, excavated structures, architectural sequence, ceramics, and other finds. The article preserves historical interpretations that require comparison with later chronology and cultural analysis.
-
-### anales-56.pdf
-
-**Citation:** PDF pp. 26–27 (printed pp. 26–27), site summary and fig. 1
-
-[[Papers/anales-56#Page 26|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=26)
-
-The 2016 article places San Andrés between the Sucio and Agua Caliente rivers; identifies the Acropolis, North Plaza, and Structure 5 (La Campana); and dates site material from the Middle Preclassic through Early Postclassic, with a Late Classic apogee. Figure 1 is a site plan but does not publish a coordinate.
-
-### anales-56.pdf
-
-**Citation:** PDF pp. 30–31 (printed pp. 30–31), trenches 1–2 and fig. 3
-
-[[Papers/anales-56#Page 30|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=30)
-
-The article documents a 4 × 2 m trench beside Structure 5 and another trench beside Mound B. It reports volcanic ash, floors, pottery, figurines, obsidian, and other archaeological material in these contexts.
-
-### anales-56.pdf
-
-**Citation:** PDF pp. 28, 39 (printed pp. 28, 39), research history and references
-
-[[Papers/anales-56#Page 28|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=28)
-
-The research history lists multiple projects at San Andrés. Its latest specifically named field season is the 2012 San Andrés Archaeological Project, identified in the bibliography through a 2014 publication; the article does not date the two trenches it presents.
+The Dimick and Carnegie projects conducted the first intensive excavation campaigns. The Carnegie project made small excavations across the principal group and investigated several structures, a court, and a mound. Later work included two trenches beside La Campana and Mound B. Excavations documented adobe-and-plaster monuments, successive construction episodes, volcanic ash and floors, pottery, figurines, obsidian, and carved stone. [[Papers/ries_1940#Page 1|Source: ries_1940.pdf, PDF pp. 1–3]]; [[Papers/dimick_1941#Page 2|Source: dimick_1941.pdf, PDF pp. 2–3]]; [[Papers/tzunpame_boggs_sanandres#Page 2|Source: tzunpame_boggs_sanandres.pdf, PDF pp. 2–16]]

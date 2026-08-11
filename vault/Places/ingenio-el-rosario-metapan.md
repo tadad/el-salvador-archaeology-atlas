@@ -28,44 +28,12 @@ last_fieldwork_label: "Recorded during the August–December 2007 PAHES field ph
 
 # Ingenio El Rosario, Metapán
 
-## Overview
+## Description
 
-El Rosario is a surveyed water-powered ironworks complex 7.5 km east of Metapán, with a surviving hacienda house.
+El Rosario is a surveyed water-powered ironworks complex 7.5 km east of Metapán, with a surviving hacienda house. The report describes a main water channel and basin, foundations, walls, retaining walls, columns, water-control features, and wall niches, along with the hacienda house. [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|Source: PDF pp. 2–3, 6 (printed pp. 152–153, 156), project field phase and methodology and El Rosario entry]]
 
-## Chronology
+## Studies
 
-Operation is documented in 1858–1861; a possible eighteenth-century history remains unresolved.
+### August–December 2007: Site recording
 
-## How it was investigated
-
-PAHES visited and documented El Rosario during its August–December 2007 field phase, publishing a coordinate and description. The report does not specify site-specific methods and documents no controlled excavation.
-
-## What archaeologists found
-
-The report describes a main water channel and basin, foundations, walls, retaining walls, columns, water-control features, and wall niches, along with the hacienda house. Río El Rosario lies about 20 m south of the recorded remains.
-
-## Research history
-
-### August–December 2007 — Site recording
-
-PAHES documented and inventoried the ironworks during its first field phase.
-
-**Evidence:** [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|2009-erquicia-sitios-arqueologicos-historicos.pdf, PDF pp. 2–3, 6 (printed pp. 152–153, 156)]]
-
-## Location and uncertainty
-
-The published coordinate marks the surveyed ironworks and hacienda complex.
-
-- **Coordinates:** 14.3537, -89.3776
-- **Placed from:** 14°21′13.4″ N, 89°22′39.2″ W published by PAHES
-- **Precision:** published
-
-## Sources
-
-### 2009-erquicia-sitios-arqueologicos-historicos.pdf
-
-**Citation:** PDF pp. 2–3, 6 (printed pp. 152–153, 156), project field phase and methodology and El Rosario entry
-
-[[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/011_-_Erquicia-2.08.pdf#page=2)
-
-PDF pp. 2–3 (printed pp. 152–153) date the first PAHES field phase to August–December 2007 and describe exploratory field visits, surface collection, photography, location recording, preliminary mapping, description, and archaeological reconnaissance; they do not identify which methods were applied individually at El Rosario. PDF p. 6 (printed p. 156) places El Rosario 7.5 km east of Metapán, publishes its coordinate, describes the ironworks and surviving hacienda house, and documents operation in 1858–1861. It says an earlier history is unresolved, describes a main water channel, basin, foundations, walls, retaining walls, columns, water-control features, and wall niches, and places Río El Rosario about 20 m south. The source documents no controlled excavation, secure construction date, site boundary, labor organization, or subsurface evidence.
+PAHES visited, documented, and inventoried El Rosario during its August–December 2007 field phase, publishing a coordinate and description. The report does not specify site-specific methods or document controlled excavation. It describes a main water channel and basin, foundations, walls, retaining walls, columns, water-control features, and wall niches, along with the hacienda house. Río El Rosario lies about 20 m south of the recorded remains. [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|Source: 2009-erquicia-sitios-arqueologicos-historicos.pdf, PDF pp. 2–3, 6 (printed pp. 152–153, 156)]]

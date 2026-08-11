@@ -25,42 +25,12 @@ last_fieldwork_year: 2009
 
 # Chuchucato
 
-## Overview
+## Description
 
-A reported site in La Libertad Department where a broad platform supports a pyramid. Subdivision activity had begun by 2009.
+A reported site in La Libertad Department where a broad platform supports a pyramid. Subdivision activity had begun by 2009. Pre-Hispanic, otherwise undated in the available source. The report describes one broad platform supporting a pyramid. [[Papers/fundar-saqueo#Page 25|Source: PDF p. 25, Chuchucato entry]]
 
-## Chronology
+## Studies
 
-Pre-Hispanic, otherwise undated in the available source.
+### 2009: Condition assessment
 
-## How it was investigated
-
-FUNDAR photographed the site and reported the subdivision to the national archaeology department in 2009. No controlled excavation is described.
-
-## What archaeologists found
-
-The report describes one broad platform supporting a pyramid. It does not inventory other structures or artifacts.
-
-## Research history
-
-### 2009 — Condition assessment
-
-FUNDAR photographed Chuchucato and reported the beginning of subdivision activity; the report does not describe controlled excavation.
-
-**Evidence:** [[Papers/fundar-saqueo#Page 25|PDF p. 25, Chuchucato entry]]
-
-## Location and uncertainty
-
-FUNDAR names the department but publishes no locality, parcel boundary, or coordinate for Chuchucato.
-
-- **Coordinates:** 13.7437, -89.4222
-- **Placed from:** Generalized public marker in La Libertad Department
-- **Precision:** approx
-
-## Sources
-
-### fundar-saqueo.pdf
-
-**Citation:** PDF p. 25, Chuchucato entry; local snapshot of the public web report
-
-[[Papers/fundar-saqueo#Page 25|Open vault paper]] · [Open cited source](https://fundar.org.sv/saqueo.html#chuchucato)
+FUNDAR photographed Chuchucato and reported the beginning of subdivision activity to the national archaeology department; the report does not describe controlled excavation. It describes one broad platform supporting a pyramid but does not inventory other structures or artifacts. [[Papers/fundar-saqueo#Page 25|Source: PDF p. 25, Chuchucato entry]]

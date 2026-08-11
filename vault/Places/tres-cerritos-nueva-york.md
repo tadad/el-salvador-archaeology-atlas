@@ -26,42 +26,12 @@ last_fieldwork_year: 2007
 
 # Tres Cerritos de Nueva York
 
-## Overview
+## Description
 
-A previously unknown locality called Tres Cerritos de Nueva York, registered during the 2007 reconnaissance of southern Ahuachapán.
+A previously unknown locality called Tres Cerritos de Nueva York, registered during the 2007 reconnaissance of southern Ahuachapán. The article supplies no site-specific artifact, architecture, or excavation inventory; the name alone does not establish mound dimensions. [[Papers/atalaya-acajutla#Page 11|Source: PDF p. 11, printed p. 143]]
 
-## Chronology
+## Studies
 
-The source identifies this as part of a reconnaissance of Preclassic sites but gives no separate phase or date for Tres Cerritos de Nueva York.
+### 2007: Site recording
 
-## How it was investigated
-
-The regional summary records a survey visit and new registration. It does not state the site-specific methods.
-
-## What archaeologists found
-
-The article supplies no site-specific artifact, architecture, or excavation inventory; the name alone does not establish mound dimensions.
-
-## Research history
-
-### 2007 — Site recording
-
-The southern Ahuachapán reconnaissance newly registered Tres Cerritos de Nueva York.
-
-**Evidence:** [[Papers/atalaya-acajutla#Page 11|PDF p. 11, printed p. 143]]
-
-## Location and uncertainty
-
-Approximate cooperative-area marker; no mound-level coordinate is public in the cited article.
-
-- **Coordinates:** 13.7300, -90.0400
-- **Placed from:** Nueva York cooperative area on the southern Ahuachapán coastal plain
-- **Precision:** approx
-
-## Sources
-
-### atalaya-acajutla.pdf
-
-**Citation:** PDF p. 11 (printed p. 143), regional survey summary
-
-[[Papers/atalaya-acajutla#Page 11|Open vault paper]] · [Open cited source](https://repositorio.ues.edu.sv/bitstreams/3d2bc1ba-9ae1-4b55-b0c8-00d68cd72248/download#page=11)
+The southern Ahuachapán reconnaissance newly registered Tres Cerritos de Nueva York. The regional summary records a survey visit and new registration. It does not state the site-specific methods. The article supplies no site-specific artifact, architecture, or excavation inventory; the name alone does not establish mound dimensions. [[Papers/atalaya-acajutla#Page 11|Source: PDF p. 11, printed p. 143]]

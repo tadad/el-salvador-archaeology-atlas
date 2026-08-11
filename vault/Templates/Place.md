@@ -25,16 +25,12 @@ last_fieldwork_label:
 
 # {{title}}
 
-## Overview
+## Description
 
-## Chronology
+Write a short, plain-language introduction that immediately identifies what the mapped place is. Include its archaeological period or defining evidence when known, with citations for those claims.
 
-## How it was investigated
+## Studies
 
-## What archaeologists found
+### {{latest study date}}: {{study type}}
 
-## Research history
-
-## Location and uncertainty
-
-## Sources
+Describe what investigators did and what they learned. List every substantiated study in reverse chronological order and end each entry with a link to the supporting Paper page. When a source has not yet been ingested as a Paper record, link directly to the source page instead.

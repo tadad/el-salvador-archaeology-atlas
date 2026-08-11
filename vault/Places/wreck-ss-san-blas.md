@@ -28,44 +28,12 @@ last_fieldwork_label: "Registered in 2011; method and visit date unstated"
 
 # SS San Blas
 
-## Overview
+## Description
 
-A registered steamship wreck at San Blas, La Libertad.
+A registered steamship wreck at San Blas, La Libertad. Built in 1882 and wrecked in 1901. The inventory identifies a steamship wreck but does not describe its surviving remains. [[Papers/anales-53#Page 16|Source: PDF pp. 16–17, Figures 1–2]]
 
-## Chronology
+## Studies
 
-Built in 1882 and wrecked in 1901.
+### 2014: Registry synthesis
 
-## How it was investigated
-
-The wreck was entered in the national inventory in 2011. The cited source does not describe the field method or visit date.
-
-## What archaeologists found
-
-The inventory identifies a steamship wreck but does not describe its surviving remains.
-
-## Research history
-
-### 2014 — Registry synthesis
-
-A national summary mapped SS San Blas broadly at San Blas and tabulated its construction, wreck, and registration years.
-
-**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
-
-## Location and uncertainty
-
-The marker represents the San Blas locality. The local source does not support the former exact coordinate, debris-field dimensions, individual inspection dates, or machinery description.
-
-- **Coordinates:** 13.4841, -89.3581
-- **Placed from:** San Blas locality in the national inventory
-- **Precision:** approx
-
-## Sources
-
-### anales-53.pdf
-
-**Citation:** PDF pp. 16–17, Figures 1–2
-
-**Citation note:** Supports the San Blas location, steam propulsion, 1882 construction, 1901 wreck, and 2011 registration. It does not publish a coordinate, field method, or description of remains.
-
-[[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
+A national summary mapped SS San Blas broadly at San Blas and tabulated its construction, wreck, and registration years. The wreck was entered in the national inventory in 2011. The cited source does not describe the field method or visit date. The inventory identifies a steamship wreck but does not describe its surviving remains. [[Papers/anales-53#Page 16|Source: anales-53.pdf, PDF pp. 16–17]]

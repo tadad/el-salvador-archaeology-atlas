@@ -26,56 +26,20 @@ last_fieldwork_label: "Rescue program reported as conducted in 1974–1977"
 
 # Cerrón Grande rescue project area
 
-## Overview
+## Description
 
-A project-area marker for the Cerrón Grande archaeological rescue program. It is not the location of a single site.
+A project-area marker for the Cerrón Grande archaeological rescue program. It is not the location of a single site. The cited page gives no occupation dates for the individual sites. The cited page does not name or locate the nine excavated sites or describe their finds. [[Papers/drowned#Page 23|Source: PDF p. 23 (printed p. 21), project-impact assessment]]
 
-## Chronology
+## Studies
 
-The rescue program ran from 1974 to 1977. The cited page gives no occupation dates for the individual sites.
+### 2003: Archival synthesis
 
-## How it was investigated
+A regional assessment evaluated rescue coverage, inundation impacts, data gaps, and future survey needs across the reservoir area. [[Papers/drowned#Page 23|Source: drowned.pdf, PDF pp. 23–27]]
 
-The program identified 22 previously unknown sites and excavated nine before inundation. The cited page says an intensive survey was not possible.
+### 1985: Reinterpretation
 
-## What archaeologists found
+A regional study synthesized Paraíso Basin settlement patterns and culture history from the rescue data. [[Papers/drowned#Page 30|Source: drowned.pdf, PDF p. 30 (printed p. 28)]] [[Papers/kelley_1988#Page 22|Source: kelley_1988.pdf, PDF pp. 22–24]]
 
-The cited page does not name or locate the nine excavated sites or describe their finds.
+### 1974–1977: Fieldwork
 
-## Research history
-
-### 2003 — Archival synthesis
-
-A regional assessment evaluated rescue coverage, inundation impacts, data gaps, and future survey needs across the reservoir area.
-
-**Evidence:** [[Papers/drowned#Page 23|drowned.pdf, PDF pp. 23–27]]
-
-### 1985 — Reinterpretation
-
-A regional study synthesized Paraíso Basin settlement patterns and culture history from the rescue data.
-
-**Evidence:** [[Papers/drowned#Page 30|drowned.pdf, PDF p. 30 (printed p. 28); kelley_1988.pdf, PDF pp. 22–24]]
-
-### 1974–1977 — Fieldwork
-
-The regional rescue program identified twenty-two sites and excavated nine before inundation.
-
-**Evidence:** [[Papers/drowned#Page 23|drowned.pdf, PDF p. 23 (printed p. 21)]]
-
-## Location and uncertainty
-
-The point represents the broad rescue-project area, not any one of the 22 identified sites or nine excavated sites.
-
-- **Coordinates:** 14.0500, -89.0150
-- **Placed from:** Approximate Cerrón Grande reservoir-area marker
-- **Precision:** approx
-
-## Sources
-
-### drowned.pdf
-
-**Citation:** PDF p. 23 (printed p. 21), project-impact assessment
-
-[[Papers/drowned#Page 23|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/drowned.pdf#page=23)
-
-The retrospective reports that the 1974–1977 Cerrón Grande rescue program identified 22 previously unknown sites and excavated nine before inundation. It does not name or locate those nine sites, provide occupation dates, describe site-specific methods or finds, or support an aggregate of exactly four unnamed sites.
+The regional rescue program identified twenty-two sites and excavated nine before inundation. The cited page does not name or locate the nine excavated sites or describe their finds. [[Papers/drowned#Page 23|Source: drowned.pdf, PDF p. 23 (printed p. 21)]]

@@ -30,84 +30,28 @@ last_fieldwork_label: "Two technical inspections in 2009"
 
 # Atalaya, Acajutla
 
-## Overview
+## Description
 
-Atalaya is a coastal Sonsonate find locality whose ceramic material was compared with the Atiquizaya complex. The published local evidence is preliminary and does not define the site’s size or boundaries.
+Atalaya is a coastal Sonsonate find locality whose ceramic material was compared with the Atiquizaya complex. The published local evidence is preliminary and does not define the site’s size or boundaries. Haberland tentatively placed the Atiquizaya complex around 1000–700 BCE and suggested that Atalaya belonged to the same time level. Atalaya shared some material and decorative traits with the Atiquizaya complex but lacked others, including extensive grooving. [[Papers/haberland_sequences#Page 1|Source: PDF pp. 1–3 (printed pp. 21–23), fieldwork summary, fig. 1, and Atiquizaya-complex discussion]]
 
-## Chronology
+## Studies
 
-Haberland tentatively placed the Atiquizaya complex around 1000–700 BCE and suggested that Atalaya belonged to the same time level.
+### 2025: Reinterpretation
 
-## How it was investigated
+A regional synthesis reported that the late-2009 work recovered early polychrome sherds in Preclassic contexts and compared them with Chalchuapa complexes. [[Papers/2025-valdivieso-martinez-educacion-prehispanica#Page 49|Source: 2025 synthesis, PDF pp. 49–50]]
 
-Haberland’s 1953–1954 and 1958 surveys collected surface material at about 150 localities and sometimes dug non-stratigraphic tests, but the article does not say which work was done at Atalaya.
+### 2009: Fieldwork
 
-## What archaeologists found
+Controlled test operations and artifact study followed two technical inspections; the source gives no separate excavation date. [[Papers/atalaya-acajutla#Page 9|Source: atalaya-acajutla.pdf, PDF pp. 9–15]]
 
-Atalaya shared some material and decorative traits with the Atiquizaya complex but lacked others, including extensive grooving. The article provides no Atalaya-specific artifact inventory.
+### 17 February and 27 July 2009: Condition assessment
 
-## Research history
+Julio César Alvarado and Fabricio Valdivieso conducted two technical inspections. [[Papers/atalaya-acajutla#Page 9|Source: atalaya-acajutla.pdf, PDF p. 9]]
 
-### 2025 — Reinterpretation
+### 1953–1954: Fieldwork
 
-A regional synthesis reported that the late-2009 work recovered early polychrome sherds in Preclassic contexts and compared them with Chalchuapa complexes.
+Haberland investigated Atalaya during his early Salvador field program. Haberland’s 1953–1954 and 1958 surveys collected surface material at about 150 localities and sometimes dug non-stratigraphic tests, but the article does not say which work was done at Atalaya. Atalaya shared some material and decorative traits with the Atiquizaya complex but lacked others, including extensive grooving. The article provides no Atalaya-specific artifact inventory. [[Papers/haberland_sequences#Page 1|Source: haberland_sequences.pdf, PDF pp. 1–3]]
 
-**Evidence:** [[Papers/2025-valdivieso-martinez-educacion-prehispanica#Page 49|2025 synthesis, PDF pp. 49–50]]
+### 1926: Site recording
 
-### 2009 — Fieldwork
-
-Controlled test operations and artifact study followed two technical inspections; the source gives no separate excavation date.
-
-**Evidence:** atalaya-acajutla.pdf, PDF pp. 9–15
-
-### 17 February and 27 July 2009 — Condition assessment
-
-Julio César Alvarado and Fabricio Valdivieso conducted two technical inspections.
-
-**Evidence:** atalaya-acajutla.pdf, PDF p. 9
-
-### 1953–1954 — Fieldwork
-
-Haberland investigated Atalaya during his early Salvador field program.
-
-**Evidence:** [[Papers/haberland_sequences#Page 1|haberland_sequences.pdf, PDF pp. 1–3]]
-
-### 1926 — Site recording
-
-Jorge Lardé noted archaeological remains at the locality.
-
-**Evidence:** atalaya-acajutla.pdf, PDF p. 9
-
-## Location and uncertainty
-
-Approximate regional marker retained from the prior record. It is not a documented site coordinate, and the cited local sources do not define the site’s boundaries.
-
-- **Coordinates:** 13.6094, -89.8371
-- **Placed from:** Haberland’s small-scale national map places Atalaya on the Sonsonate coast; no reproducible coordinate is published
-- **Precision:** approx
-
-## Sources
-
-### Educación prehispánica en El Salvador
-
-**Citation:** PDF pp. 49–50 (printed pp. 60–61), Atalaya and Chalchuapa ceramic comparison
-
-[[Papers/2025-valdivieso-martinez-educacion-prehispanica#Page 49|Open vault paper]] · [Open cited source](https://revistas.utec.edu.sv/index.php/koot/article/download/1080/1697#page=49)
-
-The 2025 synthesis says work in the final months of 2009 recovered early polychrome sherds in Preclassic contexts at Atalaya and compares them with Colos, Kal, Chul, and Caynac material at Chalchuapa. This is a later synthesis rather than a substitute for the unpublished field report, and it does not provide a site coordinate or boundary.
-
-### haberland_sequences.pdf
-
-**Citation:** PDF pp. 1–3 (printed pp. 21–23), fieldwork summary, fig. 1, and Atiquizaya-complex discussion
-
-[[Papers/haberland_sequences#Page 1|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/haberland_sequences.pdf#page=1)
-
-PDF p. 1 (printed p. 21) summarizes Haberland’s 1953–1954 and 1958 field trips, surface collections at about 150 localities, and occasional non-stratigraphic tests, but does not identify which work occurred at Atalaya. PDF p. 2 (printed p. 22), fig. 1, places Atalaya only on a small-scale national map. PDF pp. 2–3 (printed pp. 22–23) tentatively include Atalaya in the Atiquizaya complex because some material and decorative traits match, despite missing features such as extensive grooving; the complex is placed around 1000–700 BCE. The article does not publish a reproducible Atalaya coordinate, site boundary, or Atalaya-specific artifact inventory.
-
-### casasola_panorama.pdf
-
-**Citation:** PDF p. 3 (printed pp. 716–717), western El Salvador research overview
-
-[[Papers/casasola_panorama#Page 3|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/casasola_panorama.pdf#page=3)
-
-PDF p. 3 (printed pp. 716–717) reviews Haberland’s work near Atiquizaya and Acajutla, lists Atalaya in Sonsonate among Middle Formative sites, and says its material relates to the Providencia and Conchas phases. This secondary review does not provide a site coordinate, boundary, excavation method, or artifact inventory.
+Jorge Lardé noted archaeological remains at the locality. [[Papers/atalaya-acajutla#Page 9|Source: atalaya-acajutla.pdf, PDF p. 9]]

@@ -31,48 +31,16 @@ last_fieldwork_label: "Excavation begun 2 April 2014"
 
 # San Luis, Chalchuapa
 
-## Overview
+## Description
 
-A component of the Chalchuapa archaeological zone investigated before subdivision. Excavation documented pre-Hispanic structures together with Colonial and Republican-period occupation.
+A component of the Chalchuapa archaeological zone investigated before subdivision. Excavation documented pre-Hispanic structures together with Colonial and Republican-period occupation. Structure 1 was assigned tentatively to the Late Classic–Early Postclassic transition and Structure 2 to the Postclassic. Colonial ceramics and Republican-period domestic remains document later reuse. Excavators recorded two stone-founded structures, floors, burned daub, ceramics, projectile points, obsidian blades, a metate fragment, and a near-complete pedestal-base vessel. [[Papers/2015-chalchuapa-san-luis#Page 1|Source: PDF pp. 1–2, printed pp. 537–538]]
 
-## Chronology
+## Studies
 
-Structure 1 was assigned tentatively to the Late Classic–Early Postclassic transition and Structure 2 to the Postclassic. Colonial ceramics and Republican-period domestic remains document later reuse.
+### 2015–2016: Analysis and publication
 
-## How it was investigated
+The project presented preliminary results at the July 2015 symposium; the paper was published in 2016. [[Papers/2015-chalchuapa-san-luis#Page 1|Source: PDF pp. 1–2, printed pp. 537–538]]; [[Papers/2015-chalchuapa-san-luis#Page 5|Source: PDF p. 5, printed p. 540]]
 
-The project divided the tract into four sectors and opened 67 initial 2 × 1 metre test pits, normally to 0.75 metres, with additional extensions around archaeological features.
+### From 2 April 2014: Fieldwork
 
-## What archaeologists found
-
-Excavators recorded two stone-founded structures, floors, burned daub, ceramics, projectile points, obsidian blades, a metate fragment, and a near-complete pedestal-base vessel.
-
-## Research history
-
-### 2015–2016 — Analysis and publication
-
-The project presented preliminary results at the July 2015 symposium; the paper was published in 2016.
-
-**Evidence:** [[Papers/2015-chalchuapa-san-luis#Page 1|PDF pp. 1–2, printed pp. 537–538]]; [[Papers/2015-chalchuapa-san-luis#Page 5|PDF p. 5, printed p. 540]]
-
-### From 2 April 2014 — Fieldwork
-
-Excavation began on 2 April 2014 and opened 67 initial test pits plus feature-driven extensions.
-
-**Evidence:** [[Papers/2015-chalchuapa-san-luis#Page 2|PDF pp. 2–3, printed pp. 537–538]]
-
-## Location and uncertainty
-
-The article maps the project internally; this marker is a reconstructed site-area centroid.
-
-- **Coordinates:** 13.9745, -89.6630
-- **Placed from:** Eastern Chalchuapa investigation area shown in the project plan
-- **Precision:** approx
-
-## Sources
-
-### 2015-chalchuapa-san-luis.pdf
-
-**Citation:** PDF pp. 2–5 (printed pp. 537–540), field methods, finds, chronology, and preliminary conclusions
-
-[[Papers/2015-chalchuapa-san-luis#Page 2|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2020/09/43-Lopez-et-al.pdf#page=2)
+Excavation began on 2 April 2014 and opened 67 initial test pits plus feature-driven extensions. The project divided the tract into four sectors and opened 67 initial 2 × 1 metre test pits, normally to 0.75 metres, with additional extensions around archaeological features. [[Papers/2015-chalchuapa-san-luis#Page 2|Source: PDF pp. 2–3, printed pp. 537–538]]

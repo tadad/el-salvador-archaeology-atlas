@@ -29,64 +29,20 @@ last_fieldwork_label: "Los Flores rescue subproject documented by 1976"
 
 # Hacienda Los Flores
 
-## Overview
+## Description
 
-A Late Preclassic center in the Paraíso Basin identified during the Cerrón Grande rescue project.
+A Late Preclassic center in the Paraíso Basin identified during the Cerrón Grande rescue project. Late Preclassic Dulce Nombre phase, about 400 BCE–250 CE. A later synthesis describes Los Flores as a ritual-administrative center for a substantial Late Preclassic population. [[Papers/roundreport#Page 2|Source: PDF p. 2 (printed p. 2), comparison of circular structures]] [[Papers/kelley_1988#Page 23|Source: PDF p. 23 (printed p. 9), Paraíso Basin culture history]]
 
-## Chronology
+## Studies
 
-Late Preclassic Dulce Nombre phase, about 400 BCE–250 CE.
+### 1988: Reinterpretation
 
-## How it was investigated
+A basin culture-history synthesis interpreted Los Flores as a Late Preclassic ritual and administrative center. [[Papers/kelley_1988#Page 22|Source: kelley_1988.pdf, PDF pp. 22–24]]
 
-The rescue project identified a circular Mound 10 at Los Flores. The cited sources do not describe site-specific methods or give a fieldwork year.
+### 1985: Reinterpretation
 
-## What archaeologists found
+A regional settlement study reanalyzed the Paraíso Basin sequence and Los Flores' role. [[Papers/kelley_1988#Page 22|Source: kelley_1988.pdf, PDF pp. 22–24]]
 
-A later synthesis describes Los Flores as a ritual-administrative center for a substantial Late Preclassic population. No site-specific artifact list is provided on the cited pages.
+### By 1976: Fieldwork
 
-## Research history
-
-### 1988 — Reinterpretation
-
-A basin culture-history synthesis interpreted Los Flores as a Late Preclassic ritual and administrative center.
-
-**Evidence:** [[Papers/kelley_1988#Page 22|kelley_1988.pdf, PDF pp. 22–24]]
-
-### 1985 — Reinterpretation
-
-A regional settlement study reanalyzed the Paraíso Basin sequence and Los Flores' role.
-
-**Evidence:** [[Papers/kelley_1988#Page 22|kelley_1988.pdf, PDF pp. 22–24]]
-
-### By 1976 — Fieldwork
-
-The Los Flores rescue subproject documented the site and circular Mound 10.
-
-**Evidence:** [[Papers/drowned#Page 30|drowned.pdf, PDF p. 30 (printed p. 28); roundreport.pdf, PDF pp. 2, 30]]
-
-## Location and uncertainty
-
-The sources identify a Late Preclassic center with a circular Mound 10, but do not establish its present condition.
-
-- **Coordinates:** 14.0306, -89.0472
-- **Placed from:** Approximate Los Flores marker; the cited pages publish no reproducible site coordinate.
-- **Precision:** approx
-
-## Sources
-
-### roundreport.pdf
-
-**Citation:** PDF p. 2 (printed p. 2), comparison of circular structures
-
-[[Papers/roundreport#Page 2|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/roundreport.pdf#page=2)
-
-The report identifies Los Flores Mound 10 as a circular Late Preclassic structure discovered during the Cerrón Grande rescue. It gives no Los Flores coordinate, fieldwork date, or investigation method.
-
-### kelley_1988.pdf
-
-**Citation:** PDF p. 23 (printed p. 9), Paraíso Basin culture history
-
-[[Papers/kelley_1988#Page 23|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/kelley_1988.pdf#page=23)
-
-The synthesis places Los Flores in the Late Preclassic Dulce Nombre phase (ca. 400 BCE–250 CE) and describes it as a ritual-administrative center for a substantial basin population. It does not publish a site coordinate or site-specific field methods.
+The Los Flores rescue subproject documented the site and circular Mound 10. [[Papers/drowned#Page 30|Source: drowned.pdf, PDF p. 30 (printed p. 28)]] [[Papers/roundreport#Page 2|Source: roundreport.pdf, PDF pp. 2, 30]]

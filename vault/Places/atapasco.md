@@ -31,58 +31,16 @@ last_fieldwork_label: "Registered by PAHES on November 1, 2007"
 
 # Atapasco
 
-## Overview
+## Description
 
-Atapasco is the surveyed remains of a historic hacienda and water-powered ironworks about 2 km north of Quezaltepeque.
+Atapasco is the surveyed remains of a historic hacienda and water-powered ironworks about 2 km north of Quezaltepeque. The registration form assigns the remains to the seventeenth and eighteenth centuries. Documentary context mentions a Dominican ironworks at Atapasco in 1746, but does not date individual structures. The report describes foundations, walls, retaining walls, channels, columns, water-drop and holding basins, wall niches, and other hydraulic features interpreted as parts of the former ironworks. [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 4|Source: PDF pp. 4–5 (printed pp. 154–155) and PDF pp. 18–19 (Atapasco registration form)]]
 
-## Chronology
+## Studies
 
-The registration form assigns the remains to the seventeenth and eighteenth centuries. Documentary context mentions a Dominican ironworks at Atapasco in 1746, but does not date individual structures.
+### 2021: Reinterpretation
 
-## How it was investigated
+A technological-history synthesis reconsidered Atapasco within the colonial ironworking network; it reports no new field visit. [[Papers/identidades-18-arqueologia#Page 81|Source: identidades-18-arqueologia.pdf, PDF p. 81]]
 
-PAHES registered the site on November 1, 2007, with coordinates, a plan and photographs. No controlled excavation is documented.
+### August–December 2007: Site recording
 
-## What archaeologists found
-
-The report describes foundations, walls, retaining walls, channels, columns, water-drop and holding basins, wall niches, and other hydraulic features interpreted as parts of the former ironworks.
-
-## Research history
-
-### 2021 — Reinterpretation
-
-A technological-history synthesis reconsidered Atapasco within the colonial ironworking network; it reports no new field visit.
-
-**Evidence:** [[Papers/identidades-18-arqueologia#Page 81|identidades-18-arqueologia.pdf, PDF p. 81]]
-
-### August–December 2007 — Site recording
-
-PAHES documented and inventoried the remains during its first field phase.
-
-**Evidence:** [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|2009-erquicia-sitios-arqueologicos-historicos.pdf, PDF pp. 2–5 (printed pp. 152–155)]]
-
-## Location and uncertainty
-
-The published coordinate marks the surveyed Atapasco remains.
-
-- **Coordinates:** 13.8553, -89.2874
-- **Placed from:** 13°51′19.0″ N, 89°17′14.8″ W published by PAHES
-- **Precision:** published
-
-## Sources
-
-### 2005 Quezaltepeque pottery study
-
-**Citation:** PDF p. 17, municipal context only
-
-[[Papers/2015-estudio-alfareria-quezaltepeque#Page 17|Open vault paper]]
-
-The report lists Hacienda Atapasco among the named haciendas in Quezaltepeque's jurisdiction. It neither investigates the archaeological site nor supplies evidence for the ironworks, so it is retained only as modern municipal context.
-
-### 2009-erquicia-sitios-arqueologicos-historicos.pdf
-
-**Citation:** PDF pp. 4–5 (printed pp. 154–155) and PDF pp. 18–19 (Atapasco registration form)
-
-[[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 4|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/011_-_Erquicia-2.08.pdf#page=4)
-
-PDF p. 4 (printed p. 154) places Atapasco 2 km north of Quezaltepeque, publishes the site coordinate, and summarizes documentary references to a Dominican ironworks in 1746 and indigo production later in the eighteenth century. PDF p. 5 (printed p. 155) describes foundations, walls, retaining walls, channels, columns, water-drop and holding basins, wall niches, and other hydraulic features interpreted as parts of the ironworks. PDF p. 18, the rendered first registration-form page, confirms the coordinate and gives a registration date of November 1, 2007. PDF p. 19 assigns the remains to the seventeenth and eighteenth centuries and records a plan and photographs. The source documents no controlled excavation, structure-by-structure date, or evidence that the surveyed remains belong to the later coffee-processing estate mentioned in the historical discussion.
+PAHES documented and inventoried the remains during its first field phase. PAHES registered the site on November 1, 2007, with coordinates, a plan and photographs. No controlled excavation is documented. The report describes foundations, walls, retaining walls, channels, columns, water-drop and holding basins, wall niches, and other hydraulic features interpreted as parts of the former ironworks. [[Papers/2009-erquicia-sitios-arqueologicos-historicos#Page 2|Source: 2009-erquicia-sitios-arqueologicos-historicos.pdf, PDF pp. 2–5 (printed pp. 152–155)]]

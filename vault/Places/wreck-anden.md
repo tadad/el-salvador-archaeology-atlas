@@ -28,44 +28,12 @@ last_fieldwork_label: "Registered in 2011; method and visit date unstated"
 
 # Anden
 
-## Overview
+## Description
 
-A registered diesel-freighter wreck at Barra de Santiago, Ahuachapán.
+A registered diesel-freighter wreck at Barra de Santiago, Ahuachapán. The inventory gives 1982 as the wreck year and does not state a construction year. The inventory identifies the site as a diesel-powered wreck but does not describe its surviving remains. [[Papers/anales-53#Page 16|Source: PDF pp. 16–17, Figures 1–2]]
 
-## Chronology
+## Studies
 
-The inventory gives 1982 as the wreck year and does not state a construction year.
+### 2014: Registry synthesis
 
-## How it was investigated
-
-The wreck was entered in the national inventory in 2011. The cited source does not describe the field method or visit date.
-
-## What archaeologists found
-
-The inventory identifies the site as a diesel-powered wreck but does not describe its surviving remains.
-
-## Research history
-
-### 2014 — Registry synthesis
-
-A national summary mapped Anden broadly at Barra de Santiago and tabulated its vessel type, wreck year, and 2011 registration.
-
-**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
-
-## Location and uncertainty
-
-The marker represents the Barra de Santiago locality. The local source does not support the former exact-wreck geometry, distance from shore, low-tide visibility, or storm account.
-
-- **Coordinates:** 13.6852, -90.0005
-- **Placed from:** Barra de Santiago locality in the national inventory
-- **Precision:** approx
-
-## Sources
-
-### anales-53.pdf
-
-**Citation:** PDF pp. 16–17, Figures 1–2
-
-**Citation note:** Supports the broad Barra de Santiago location, diesel propulsion, 1982 wreck year, and 2011 registration. It does not publish a coordinate, field method, or description of remains.
-
-[[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
+A national summary mapped Anden broadly at Barra de Santiago and tabulated its vessel type, wreck year, and 2011 registration. The cited source does not describe the field method or visit date. The inventory identifies the site as a diesel-powered wreck but does not describe its surviving remains. [[Papers/anales-53#Page 16|Source: anales-53.pdf, PDF pp. 16–17]]

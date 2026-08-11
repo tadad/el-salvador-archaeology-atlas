@@ -25,44 +25,12 @@ last_fieldwork_year: null
 
 # Amulunga
 
-## Overview
+## Description
 
-A published overview lists Amulunga among the archaeological sites of the Chalchuapa zone but provides no site description.
+A published overview lists Amulunga among the archaeological sites of the Chalchuapa zone but provides no site description. The cited source does not assign Amulunga to a period. The cited source does not describe any remains or finds from Amulunga. [[Papers/2007-erquicia-los-gavilanes#Page 1|Source: PDF p. 1 (printed p. 854), Chalchuapa archaeological-site list]]
 
-## Chronology
+## Studies
 
-The cited source does not assign Amulunga to a period.
+### Undated: Site recording
 
-## How it was investigated
-
-No Amulunga-specific investigation is documented in the cited source.
-
-## What archaeologists found
-
-The cited source does not describe any remains or finds from Amulunga.
-
-## Research history
-
-### Undated — Site recording
-
-Amulunga appears in a regional archaeological inventory without a dated investigation.
-
-**Evidence:** [[Papers/2007-erquicia-los-gavilanes#Page 1|2007-erquicia-los-gavilanes.pdf, PDF p. 1]]
-
-## Location and uncertainty
-
-The cited source names Amulunga but publishes no archaeological coordinate or site boundary; the marker is only a modern locality anchor.
-
-- **Coordinates:** 13.9964, -89.6572
-- **Placed from:** Approximate modern Amulunga locality east of Chalchuapa
-- **Precision:** approx
-
-## Sources
-
-### 2007-erquicia-los-gavilanes.pdf
-
-**Citation:** PDF p. 1 (printed p. 854), Chalchuapa archaeological-site list
-
-[[Papers/2007-erquicia-los-gavilanes#Page 1|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/50.06_-_Erquicia.pdf#page=1)
-
-PDF p. 1 (printed p. 854) lists Amulunga among the archaeological sites of the Chalchuapa zone. It does not give an Amulunga-specific coordinate, boundary, occupation date, cultural assignment, investigation, architecture, or artifact inventory.
+Amulunga appears in a regional archaeological inventory without a dated investigation. No Amulunga-specific investigation is documented in the cited source. The cited source does not describe any remains or finds from Amulunga. [[Papers/2007-erquicia-los-gavilanes#Page 1|Source: 2007-erquicia-los-gavilanes.pdf, PDF p. 1]]

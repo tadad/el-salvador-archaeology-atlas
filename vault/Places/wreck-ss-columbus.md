@@ -28,44 +28,12 @@ last_fieldwork_label: "Registered in 2010; method and visit date unstated"
 
 # SS Columbus
 
-## Overview
+## Description
 
-A registered steamship wreck at Los Cóbanos, Sonsonate.
+A registered steamship wreck at Los Cóbanos, Sonsonate. Built in 1848 and wrecked in 1861. The inventory identifies a steamship wreck but does not describe its surviving remains. [[Papers/anales-53#Page 16|Source: PDF pp. 16–17, Figures 1–2]]
 
-## Chronology
+## Studies
 
-Built in 1848 and wrecked in 1861.
+### 2014: Registry synthesis
 
-## How it was investigated
-
-The wreck was entered in the national inventory in 2010. The cited source does not describe the field method or visit date.
-
-## What archaeologists found
-
-The inventory identifies a steamship wreck but does not describe its surviving remains.
-
-## Research history
-
-### 2014 — Registry synthesis
-
-A national summary mapped SS Columbus broadly at Los Cóbanos and tabulated its construction, wreck, and registration years.
-
-**Evidence:** [[Papers/anales-53#Page 16|anales-53.pdf, PDF pp. 16–17]]
-
-## Location and uncertainty
-
-The marker represents the Los Cóbanos locality. The local source does not support the former depth, photographic-documentation date, machinery description, or inferred reef-sector placement.
-
-- **Coordinates:** 13.5515, -89.8280
-- **Placed from:** Los Cóbanos locality in the national inventory
-- **Precision:** approx
-
-## Sources
-
-### anales-53.pdf
-
-**Citation:** PDF pp. 16–17, Figures 1–2
-
-**Citation note:** Supports the Los Cóbanos location, steam propulsion, 1848 construction, 1861 wreck, and 2010 registration. It does not publish a coordinate, depth, field method, or description of remains.
-
-[[Papers/anales-53#Page 16|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-53/?wpdmdl=3359#page=16)
+A national summary mapped SS Columbus broadly at Los Cóbanos and tabulated its construction, wreck, and registration years. The wreck was entered in the national inventory in 2010. The cited source does not describe the field method or visit date. The inventory identifies a steamship wreck but does not describe its surviving remains. [[Papers/anales-53#Page 16|Source: anales-53.pdf, PDF pp. 16–17]]

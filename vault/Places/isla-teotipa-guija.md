@@ -26,44 +26,12 @@ last_fieldwork_label: "Visited during Boggs’s 1940–1942 western survey; exac
 
 # Isla Teotipa, Lake Güija
 
-## Overview
+## Description
 
-Teotipa, also called Tipa Adentro, is a small island in Lake Güija where pottery and stone objects had been reported by 1944.
+Teotipa, also called Tipa Adentro, is a small island in Lake Güija where pottery and stone objects had been reported by 1944. The report gives no occupation date or cultural assignment. Pottery and stone objects were reported without descriptions or findspots. [[Papers/longyear#Page 26|Source: PDF p. 26 (printed p. 19) and PDF p. 28 (printed p. 21), fig. 9 and Isla Teotipa entry]]
 
-## Chronology
+## Studies
 
-The report gives no occupation date or cultural assignment.
+### 1940–1942: Fieldwork
 
-## How it was investigated
-
-The report does not document a visit, survey, or excavation on Teotipa; it relays earlier reports of objects from the island.
-
-## What archaeologists found
-
-Pottery and stone objects were reported without descriptions or findspots. Reported indications of ruins concerned the nearby Tipa Afuera peninsula, not Teotipa itself.
-
-## Research history
-
-### 1940–1942 — Fieldwork
-
-Teotipa was included without an unvisited-site asterisk in Boggs's western survey; the exact visit year and methods are unstated.
-
-**Evidence:** [[Papers/longyear#Page 16|longyear.pdf, PDF pp. 16, 28 (printed pp. 9, 21)]]
-
-## Location and uncertainty
-
-The marker represents the mapped island, not a documented object findspot or archaeological site boundary.
-
-- **Coordinates:** 14.2470, -89.5120
-- **Placed from:** Teotipa Island (Tipa Adentro), mapped west of Igualtepeque in fig. 9
-- **Precision:** landmark
-
-## Sources
-
-### longyear.pdf
-
-**Citation:** PDF p. 26 (printed p. 19) and PDF p. 28 (printed p. 21), fig. 9 and Isla Teotipa entry
-
-[[Papers/longyear#Page 26|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=26)
-
-PDF p. 26 (printed p. 19), fig. 9, maps Teotipa Island west of Igualtepeque and labels it as a site in the Lake Güija zone. PDF p. 28 (printed p. 21) identifies the small island as Teotipa or Tipa Adentro and says pottery and stone objects had been reported from it. The same entry places reported indications of ruins on the separate Tipa Afuera peninsula. It documents no Teotipa field visit, excavation, object descriptions, findspots, occupation date, cultural assignment, reproducible coordinate, or site boundary.
+Teotipa was included without an unvisited-site asterisk in Boggs's western survey; the exact visit year and methods are unstated. The report does not document a visit, survey, or excavation on Teotipa; it relays earlier reports of objects from the island. Pottery and stone objects were reported without descriptions or findspots. Reported indications of ruins concerned the nearby Tipa Afuera peninsula, not Teotipa itself. [[Papers/longyear#Page 16|Source: longyear.pdf, PDF pp. 16, 28 (printed pp. 9, 21)]]

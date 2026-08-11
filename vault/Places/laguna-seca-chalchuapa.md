@@ -27,48 +27,12 @@ last_fieldwork_year: null
 
 # Laguna Seca, Chalchuapa
 
-## Overview
+## Description
 
-Laguna Seca is named as one of the archaeological areas that make up the greater Chalchuapa zone. The available sources do not describe its boundaries or architecture.
+Laguna Seca is named as one of the archaeological areas that make up the greater Chalchuapa zone. The available sources do not describe its boundaries or architecture. A regional synthesis places Laguna Seca within Chalchuapa’s Preclassic development, but the available sources do not establish later phases for this area. The available sources name the area but do not provide a site-specific inventory of finds. [[Papers/chalchuapa-architecture#Page 2|Source: PDF p. 2 (printed p. 201), regional area list]]
 
-## Chronology
+## Studies
 
-A regional synthesis places Laguna Seca within Chalchuapa’s Preclassic development, but the available sources do not establish later phases for this area.
+### 2006: Regional syntheses
 
-## How it was investigated
-
-No site-specific field method or excavation season is described in the available sources.
-
-## What archaeologists found
-
-The available sources name the area but do not provide a site-specific inventory of finds.
-
-## Research history
-
-### 2006 — Regional syntheses
-
-Shibata listed Laguna Seca among Chalchuapa’s nine archaeological areas; Méndez Arévalo mentioned it in a secondary summary of Preclassic settlement growth.
-
-**Evidence:** [[Papers/chalchuapa-architecture#Page 2|PDF p. 2, printed p. 201]]; [[Papers/finca-rosita-santa-ana#Page 24|PDF p. 24, printed p. 16]]
-
-## Location and uncertainty
-
-The marker represents the named Chalchuapa area, not a published excavation coordinate or boundary.
-
-- **Coordinates:** 13.9781, -89.6680
-- **Placed from:** Laguna Seca area on the published Chalchuapa plan
-- **Precision:** approx
-
-## Sources
-
-### chalchuapa-architecture.pdf
-
-**Citation:** PDF p. 2 (printed p. 201), regional area list
-
-[[Papers/chalchuapa-architecture#Page 2|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/01/19-_Shione.05_-_Digital.pdf#page=2)
-
-### finca-rosita-santa-ana.pdf
-
-**Citation:** PDF p. 24 (printed p. 16), regional Preclassic summary
-
-[[Papers/finca-rosita-santa-ana#Page 24|Open vault paper]] · [Open cited source](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941000713.pdf#page=24)
+Shibata listed Laguna Seca among Chalchuapa’s nine archaeological areas; Méndez Arévalo mentioned it in a secondary summary of Preclassic settlement growth. No site-specific field method or excavation season is described in the available sources. The available sources name the area but do not provide a site-specific inventory of finds. [[Papers/chalchuapa-architecture#Page 2|Source: PDF p. 2, printed p. 201]]; [[Papers/finca-rosita-santa-ana#Page 24|Source: PDF p. 24, printed p. 16]]

@@ -29,98 +29,32 @@ last_fieldwork_label: "2004–2005 archaeological sounding"
 
 # Tacuscalco–Los Cerritos
 
-## Overview
+## Description
 
-An excavated archaeological site in the Nahulingo area. The cited sources do not publish its boundaries or precise location.
+An excavated archaeological site in the Nahulingo area. The cited sources do not publish its boundaries or precise location. The cited pages do not date the site's occupation or burials. A later review reports three multiple burials. [[Papers/documentosantigu00alva#Page 24|Source: PDF pp. 24–30, second letter and coastal campaign]] [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 7|Source: PDF p. 7 (printed p. 432), 1990 research summary]]
 
-## Chronology
+## Studies
 
-Investigations are documented in 1990 and 2004–2005. The cited pages do not date the site's occupation or burials.
+### 2007: Reinterpretation
 
-## How it was investigated
+Funerary and biological results were reanalyzed and presented at the 2007 archaeology symposium. [[Papers/anales-56#Page 74|Source: anales-56.pdf, PDF p. 74]]
 
-The 1990 project included mapping, surface collection, and excavation. A 2004–2005 project conducted archaeological sounding and osteological study in the Tacuscalco–Los Cerritos/Ruiz sector.
+### 2006: Collection analysis
 
-## What archaeologists found
+A thesis dated the burials through ceramic and osteological analysis. [[Papers/anales-56#Page 56|Source: anales-56.pdf, PDF p. 56]]
 
-A later review reports three multiple burials. The cited pages do not describe the individuals or associated objects.
+### 2004–2005: Fieldwork
 
-## Research history
+A 2004–2005 project used archaeological soundings to locate multiple burials in the Tacuscalco–Los Cerritos/Ruiz sector, followed by osteological study. A later review reports three multiple burials. [[Papers/anales-56#Page 47|Source: anales-56.pdf, PDF pp. 47, 55–56]]
 
-### 2007 — Reinterpretation
+### 1990: Fieldwork
 
-Funerary and biological results were reanalyzed and presented at the 2007 archaeology symposium.
+The project conducted mapping, surface collection, and excavation. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 6|Source: 2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 6 (printed p. 432)]]
 
-**Evidence:** [[Papers/anales-56#Page 74|anales-56.pdf, PDF p. 74]]
+### 1914: Historical and archaeological synthesis
 
-### 2006 — Collection analysis
+Barberena identified ruins south of Sonsonate with the Tacuxcalco described in conquest narratives. That identification is historical interpretation, not a modern archaeological boundary. [[Papers/historiadeelsalv01barb#Page 328|Source: Barberena, PDF pp. 328–329]]
 
-A thesis dated the burials through ceramic and osteological analysis.
+### 1524: Colonial account
 
-**Evidence:** [[Papers/anales-56#Page 56|anales-56.pdf, PDF p. 56]]
-
-### 2004–2005 — Fieldwork
-
-Archaeological soundings located multiple burials; osteological study followed.
-
-**Evidence:** [[Papers/anales-56#Page 47|anales-56.pdf, PDF pp. 47, 55–56]]
-
-### 1990 — Fieldwork
-
-The project conducted mapping, surface collection, and excavation.
-
-**Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 6|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 6 (printed p. 432)]]
-
-### 1914 — Historical and archaeological synthesis
-
-Barberena identified ruins south of Sonsonate with the Tacuxcalco described in conquest narratives. That identification is historical interpretation, not a modern archaeological boundary.
-
-**Evidence:** [[Papers/historiadeelsalv01barb#Page 328|Barberena, PDF pp. 328–329]]
-
-### 1524 — Colonial account
-
-Alvarado’s second letter narrates the coastal campaign that later histories associate with Acaxual and Tacuxcalco. The letter is evidence for the invader’s account, not a neutral description or a precise archaeological location.
-
-**Evidence:** [[Papers/documentosantigu00alva#Page 24|Alvarado letter, PDF pp. 24–30]]
-
-## Location and uncertainty
-
-Research included mapping, surface collection, excavation, and later work on burial contexts; the point is not a published archaeological coordinate.
-
-- **Coordinates:** 13.7026, -89.7216
-- **Placed from:** Approximate Nahulingo-area marker; the cited sources publish no coordinate
-- **Precision:** approx
-
-## Sources
-
-### Documentos antiguos: Alvarado’s 1524 letters
-
-**Citation:** PDF pp. 24–30, second letter and coastal campaign
-
-[[Papers/documentosantigu00alva#Page 24|Open vault paper]] · [Open cited source](https://archive.org/download/documentosantigu00alva/documentosantigu00alva.pdf#page=24)
-
-The edition reproduces Alvarado’s account of the 1524 invasion. It records the conqueror’s actions and claims but does not provide a modern site coordinate, boundary, or archaeological identification; its self-justifying colonial perspective requires critical reading.
-
-### Historia de El Salvador
-
-**Citation:** PDF pp. 328–329, Tacuxcalco discussion
-
-[[Papers/historiadeelsalv01barb#Page 328|Open vault paper]] · [Open cited source](https://archive.org/download/historiadeelsalv01barb/historiadeelsalv01barb.pdf#page=328)
-
-Barberena places the ruins he identified as Tacuxcalco south of Sonsonate while reconstructing Alvarado’s route. This is valuable historiographic evidence, but it predates modern mapping and does not by itself prove that every later Tacuscalco–Los Cerritos context belongs to the conquest-period settlement.
-
-### 2012-escamilla-fowler-practica-arqueologia.pdf
-
-**Citation:** PDF p. 7 (printed p. 432), 1990 research summary
-
-[[Papers/2012-escamilla-fowler-practica-arqueologia#Page 7|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/03/036_Escamilla_y_Fowler.pdf#page=7)
-
-The synthesis reports that the 1990 Tacuscalco investigation included mapping, surface collection, and excavation. It does not publish a coordinate, describe the site plan or finds, date the occupation, or assign a cultural affiliation.
-
-### anales-56.pdf
-
-**Citation:** PDF p. 48 (printed p. 47), burial-project review; PDF pp. 56–57 (printed pp. 55–56), Table 2
-
-[[Papers/anales-56#Page 48|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=48)
-
-The review says that three multiple burials were found at Tacuscalco–Los Cerritos in work involving Sally Graver in 2005. Table 2 identifies a 2004–2005 preliminary sounding in the Tacuscalco–Los Cerritos/Ruiz sector with osteological study and a 2006 thesis on dating burials from that sector. These pages do not state the burials' date, describe the individuals or associated objects, or publish a coordinate.
+Alvarado’s second letter narrates the coastal campaign that later histories associate with Acaxual and Tacuxcalco. The letter is evidence for the invader’s account, not a neutral description or a precise archaeological location. [[Papers/documentosantigu00alva#Page 24|Source: Alvarado letter, PDF pp. 24–30]]

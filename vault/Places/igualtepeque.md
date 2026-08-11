@@ -34,110 +34,40 @@ last_fieldwork_label: "November 2020–February 2021 community survey and site r
 
 # Igualtepeque / Cerro de las Figuras
 
-## Overview
+## Description
 
-Igualtepeque occupies a Lake Güija peninsula that becomes an island at high water. Published surveys describe architecture across the peninsula and more than 200 shoreline rock carvings.
+Igualtepeque occupies a Lake Güija peninsula that becomes an island at high water. Published surveys describe architecture across the peninsula and more than 200 shoreline rock carvings. The architecture is assigned to the Guazapa phase (900–1200 CE). Many carvings have been related to a Nahua-Pipil occupation, but the carvings have not been directly dated. Reports describe two mounds in a walled plaza, approach terraces, a stair, pottery, worked-stone fragments, and carvings of human, animal, and geometric forms. [[Papers/igualtepeque#Page 1|Source: PDF pp. 1, 3, site summary, figs. 1–2, and rock-art chronology caution]] [[Papers/anales-56#Page 77|Source: PDF pp. 77–78 (printed pp. 77–78), abstract and introduction]]
 
-## Chronology
+## Studies
 
-The architecture is assigned to the Guazapa phase (900–1200 CE). Many carvings have been related to a Nahua-Pipil occupation, but the carvings have not been directly dated.
+### 14 November 2020–February 2021: Condition assessment
 
-## How it was investigated
+A community study combined interviews and surveys with site reconnaissance and archaeological observations on the island. [[Papers/identidades-18-arqueologia#Page 221|Source: identidades-18-arqueologia.pdf, PDF pp. 221, 224]]
 
-A 1942 survey mapped the architecture and recorded at least 200 carvings. The west side of Mound 1 had already been partly exposed, but no controlled excavation is documented; a 2013 team inventoried the rock carvings.
+### 2013: Site recording
 
-## What archaeologists found
+Hugo Chávez inventoried the petroglyphs with GPS coordinates and photographs and conducted comparative study. The west side of Mound 1 had already been partly exposed, but no controlled excavation is documented; a 2013 team inventoried the rock carvings. [[Papers/anales-56#Page 77|Source: anales-56.pdf, PDF pp. 77–83]]
 
-Reports describe two mounds in a walled plaza, approach terraces, a stair, pottery, worked-stone fragments, and carvings of human, animal, and geometric forms.
+### 2006: Condition assessment
 
-## Research history
+A dated report assessed the site's condition and summarized its archaeology. [[Papers/igualtepeque#Page 1|Source: igualtepeque.pdf, PDF pp. 1, 3]]
 
-### 14 November 2020–February 2021 — Condition assessment
+### 1996: Site recording
 
-A community study combined interviews and surveys with site reconnaissance and archaeological observations on the island.
+Andrea Stone photographed the rock art and conducted comparative analysis. [[Papers/anales-56#Page 77|Source: anales-56.pdf, PDF pp. 77–83]]
 
-**Evidence:** [[Papers/identidades-18-arqueologia#Page 221|identidades-18-arqueologia.pdf, PDF pp. 221, 224]]
+### 1986: Fieldwork
 
-### 2013 — Site recording
+Paul Amaroli visited Igualtepeque. [[Papers/igualtepeque#Page 1|Source: igualtepeque.pdf, PDF p. 1]]
 
-Hugo Chávez inventoried the petroglyphs with GPS coordinates and photographs and conducted comparative study.
+### 1983: Artifact recovery
 
-**Evidence:** [[Papers/anales-56#Page 77|anales-56.pdf, PDF pp. 77–83]]
+A diver recovered a carved greenstone plaque from lake sediments off the tip of the peninsula. The precise findspot was not reported, and attribution to the Igualtepeque site remains probable rather than certain. [[Papers/guijaplaque#Page 3|Source: guijaplaque.pdf, PDF pp. 3–4]]
 
-### 2006 — Condition assessment
+### 1959–1960: Site recording
 
-A dated report assessed the site's condition and summarized its archaeology.
+Fidias Jiménez reported and described the island and its carved stones. [[Papers/anales-56#Page 77|Source: anales-56.pdf, PDF pp. 77–83]]
 
-**Evidence:** [[Papers/igualtepeque#Page 1|igualtepeque.pdf, PDF pp. 1, 3]]
+### 1941–1942: Site recording
 
-### 1996 — Site recording
-
-Andrea Stone photographed the rock art and conducted comparative analysis.
-
-**Evidence:** [[Papers/anales-56#Page 77|anales-56.pdf, PDF pp. 77–83]]
-
-### 1986 — Fieldwork
-
-Paul Amaroli visited Igualtepeque.
-
-**Evidence:** [[Papers/igualtepeque#Page 1|igualtepeque.pdf, PDF p. 1]]
-
-### 1983 — Artifact recovery
-
-A diver recovered a carved greenstone plaque from lake sediments off the tip of the peninsula. The precise findspot was not reported, and attribution to the Igualtepeque site remains probable rather than certain.
-
-**Evidence:** [[Papers/guijaplaque#Page 3|guijaplaque.pdf, PDF pp. 3–4]]
-
-### 1959–1960 — Site recording
-
-Fidias Jiménez reported and described the island and its carved stones.
-
-**Evidence:** [[Papers/anales-56#Page 77|anales-56.pdf, PDF pp. 77–83]]
-
-### 1941–1942 — Site recording
-
-The Longyear expedition surveyed and recorded Igualtepeque.
-
-**Evidence:** [[Papers/longyear#Page 28|longyear.pdf, PDF p. 28]]
-
-## Location and uncertainty
-
-The marker identifies the mapped peninsula, which the report describes as archaeological throughout; it becomes an island when the lake level rises.
-
-- **Coordinates:** 14.2451, -89.4844
-- **Placed from:** Cerro de las Figuras peninsula mapped in the 2006 site report
-- **Precision:** landmark
-
-## Sources
-
-### guijaplaque.pdf
-
-**Citation:** PDF pp. 3–4 (printed pp. 1–2), discovery location and provenance caution
-
-[[Papers/guijaplaque#Page 3|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/guijaplaque.pdf#page=3)
-
-The report says the plaque was recovered in 1983 from lake sediments off the tip of Igualtepeque Peninsula. It considers origin at the peninsula site probable, but records no precise findspot and also allows an inundated or deeply buried Classic-period source; the link therefore does not establish a secure site context.
-
-### longyear.pdf
-
-**Citation:** PDF p. 28 (printed p. 21), Isla Igualtepeque entry and fig. 13
-
-[[Papers/longyear#Page 28|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/longyear.pdf#page=28)
-
-PDF p. 28 (printed p. 21) maps two mounds in a walled plaza, approach terraces, and shoreline carvings. It says the west side of Mound 1 had been partly excavated before publication, exposing a stair and terrace, but does not identify who did that work, when it occurred, or whether it was controlled. The 1942 survey recorded at least 200 human, animal, and geometric carvings, pottery, one fragmentary figurine, broken circular stone objects, metate fragments, and mano fragments. The source publishes no geodetic coordinate or secure occupation date.
-
-### igualtepeque.pdf
-
-**Citation:** PDF pp. 1, 3, site summary, figs. 1–2, and rock-art chronology caution
-
-[[Papers/igualtepeque#Page 1|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/igualtepeque.pdf#page=1)
-
-PDF p. 1 identifies Igualtepeque, or Cerro de las Figuras, as a Lake Güija peninsula that becomes an island at high water; maps the locality; describes terraces, platforms, a pyramid, and a wall across the peninsula; reports more than 200 shoreline carvings; and assigns the architecture to the Guazapa phase (900–1200 CE) from construction details and diagnostic ceramics. PDF p. 3 cautions that an Early Postclassic date for the carvings is only an initial assumption because their style does not match known Guazapa-phase or other identified styles.
-
-### anales-56.pdf
-
-**Citation:** PDF pp. 77–78 (printed pp. 77–78), abstract and introduction
-
-[[Papers/anales-56#Page 77|Open vault paper]] · [Open cited source](https://www.cultura.gob.sv/download/revista-anales-56/?wpdmdl=3459#page=77)
-
-PDF p. 77 reports a 2013 inventory of Igualtepeque’s rock carvings and relates many designs to a last known Nahua-Pipil occupation dated 900–1525. PDF p. 78 says no archaeological excavation had been conducted at the site or in the rock-art area and emphasizes that the carvings remain difficult to date. This conflicts with the older report’s wording that part of Mound 1 had been excavated; because neither source documents a controlled excavation, the public label remains ‘Surveyed site.’
+The Longyear expedition surveyed and recorded Igualtepeque. A 1942 survey mapped the architecture and recorded at least 200 carvings. Reports describe two mounds in a walled plaza, approach terraces, a stair, pottery, worked-stone fragments, and carvings of human, animal, and geometric forms. [[Papers/longyear#Page 28|Source: longyear.pdf, PDF p. 28]]

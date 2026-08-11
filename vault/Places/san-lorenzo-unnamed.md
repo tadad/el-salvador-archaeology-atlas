@@ -29,58 +29,16 @@ last_fieldwork_label: "1982–1983 salvage fieldwork"
 
 # San Lorenzo rescue area
 
-## Overview
+## Description
 
-A broad marker for salvage survey and excavation around the San Lorenzo dam. The surviving summaries do not name or locate every excavated site.
+A broad marker for salvage survey and excavation around the San Lorenzo dam. The surviving summaries do not name or locate every excavated site. The local sources describe the project only in aggregate; they do not support assigning individual names, coordinates, or discoveries to the unnamed excavations. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 5|Source: PDF p. 5]] [[Papers/earliest_pipil#Page 13|Source: PDF pp. 13–14 (printed pp. 11–12)]]
 
-## Chronology
+## Studies
 
-The excavated sites ranged from the Late Classic through the Late Postclassic.
+### 2012: Synthesis
 
-## How it was investigated
+A review summarized the 1982–1983 rescue as more than 80 registered sites in about 100 km², with eight excavated. The local sources describe the project only in aggregate; they do not support assigning individual names, coordinates, or discoveries to the unnamed excavations. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 5|Source: 2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 5]]
 
-Fieldwork resumed in 1982 after an interrupted 1980 survey. A later synthesis reports more than 80 recorded sites in about 100 km² and eight excavated sites, while the earlier account says approximately six were excavated.
+### 1982–1983: Fieldwork
 
-## What archaeologists found
-
-The local sources describe the project only in aggregate; they do not support assigning individual names, coordinates, or discoveries to the unnamed excavations.
-
-## Research history
-
-### 2012 — Synthesis
-
-A review summarized the 1982–1983 rescue as more than 80 registered sites in about 100 km², with eight excavated.
-
-**Evidence:** [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 5|2012-escamilla-fowler-practica-arqueologia.pdf, PDF p. 5]]
-
-### 1982–1983 — Fieldwork
-
-An earlier account describes an opportunistic survey and approximately six excavated sites, ranging from the Late Classic to the Late Postclassic. The discrepancy with the later count remains unresolved.
-
-**Evidence:** [[Papers/earliest_pipil#Page 13|earliest_pipil.pdf, PDF pp. 13–14]]
-
-## Location and uncertainty
-
-The marker represents the San Lorenzo dam salvage area, not one excavated place. The available local sources do not justify the former claim that exactly five unnamed excavations can be derived by subtracting separately mapped sites.
-
-- **Coordinates:** 13.6820, -88.5150
-- **Placed from:** Broad San Lorenzo dam project area on the lower Lempa River
-- **Precision:** approx
-
-## Sources
-
-### 2012-escamilla-fowler-practica-arqueologia.pdf
-
-**Citation:** PDF p. 5
-
-**Citation note:** Supports the 1982–1983 project dates, survey area, more-than-80 registration count, and eight-site excavation count; it names only Loma China.
-
-[[Papers/2012-escamilla-fowler-practica-arqueologia#Page 5|Open vault paper]] · [Open cited source](https://www.asociaciontikal.com/wp-content/uploads/2017/03/036_Escamilla_y_Fowler.pdf#page=5)
-
-### earliest_pipil.pdf
-
-**Citation:** PDF pp. 13–14 (printed pp. 11–12)
-
-**Citation note:** Supports the lower-Lempa dam setting, the interrupted 1980 survey, resumed 1982–1983 salvage, an estimate of approximately six excavated sites, and their Late Classic–Late Postclassic range. It does not name the other sites.
-
-[[Papers/earliest_pipil#Page 13|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/earliest_pipil.pdf#page=13)
+An earlier account describes an opportunistic survey and approximately six excavated sites, ranging from the Late Classic to the Late Postclassic. The discrepancy with the later count remains unresolved. Fieldwork resumed in 1982 after an interrupted 1980 survey. [[Papers/earliest_pipil#Page 13|Source: earliest_pipil.pdf, PDF pp. 13–14]]

@@ -32,64 +32,24 @@ last_fieldwork_label: "2001–2002 P-7 project; latest site-wide season cited he
 
 # Cihuatán
 
-## Overview
+## Description
 
-Cihuatán is a large Early Postclassic city in the lower Acelhuate valley. Its western ceremonial center includes [[Places/cihuatan-p7|Structure P-7]], the principal pyramid investigated separately in 2001–2002.
+Cihuatán is a large Early Postclassic city in the lower Acelhuate valley. Its western ceremonial center includes [[Places/cihuatan-p7|Structure P-7]], the principal pyramid investigated separately in 2001–2002. The cited P-7 report places the city in the Early Postclassic Guazapa phase, about 900–1200 CE. [[Papers/P7#Page 4|Source: PDF pp. 4–5 (printed pp. 1–2), site setting and chronology]]
 
-## Chronology
+## Studies
 
-The cited P-7 report places the city in the Early Postclassic Guazapa phase, about 900–1200 CE. The site-wide records gathered here document survey, excavation, and archaeobotanical work from 1966 through 1979 rather than every investigation at Cihuatán.
+### 2001–2002: Structure P-7 excavation
 
-## How it was investigated
+Investigators made a new topographic survey, excavated stratigraphic units along the western side of Cihuatán’s principal pyramid, and reopened part of the western stair first exposed in 1929. The separate [[Places/cihuatan-p7|Structure P-7 page]] presents the detailed results. [[Papers/P7#Page 4|Source: P7.pdf, PDF pp. 4–5, 12–17]]
 
-The 1966 Oxford expedition mapped the ceremonial center, ballcourt, and a sample of the residential zone. A systematic project ran its first field stage in 1974–1975, and the 1979 interdisciplinary season used flotation and comparative botanical sampling to examine plant remains from excavation contexts.
+### 1979: Fieldwork and archaeobotanical analysis
 
-## Research history
+The Cihuatán project collected flotation samples and comparative botanical material during an interdisciplinary field season. The reports present preliminary site-wide environmental, crop, and trade interpretations. [[Papers/botanical_final#Page 3|Source: Final botanical report, PDF pp. 3–4, 9–15]]; [[Papers/botanical_prelim#Page 1|Source: Preliminary archaeobotanical report, PDF p. 1 and following]]
 
-### 1979 — Fieldwork and archaeobotanical analysis
+### 1974–1975: Fieldwork
 
-The Cihuatán project collected flotation samples and comparative botanical material during an interdisciplinary field season. The reports present preliminary site-wide environmental, crop, and trade interpretations.
+The first stage of a planned systematic project ran from August 26, 1974, through March 12, 1975. [[Papers/Gloria1975#Page 3|Source: Hernández, PDF pp. 3–5]]
 
-**Evidence:** [[Papers/botanical_final#Page 3|Final botanical report, PDF pp. 3–4, 9–15]]; [[Papers/botanical_prelim#Page 1|Preliminary archaeobotanical report, PDF p. 1 and following]]
+### 1966: Site survey
 
-### 1974–1975 — Fieldwork
-
-The first stage of a planned systematic project ran from August 26, 1974, through March 12, 1975.
-
-**Evidence:** [[Papers/Gloria1975#Page 3|Hernández, PDF pp. 3–5]]
-
-### 1966 — Site survey
-
-An Oxford expedition mapped the ceremonial center, ballcourt, and part of the surrounding residential area.
-
-**Evidence:** [[Papers/dallyn_et_al_oxford#Page 3|Oxford expedition report, PDF p. 3]]
-
-## Location and uncertainty
-
-The marker represents the mapped archaeological-site feature, not a site centroid or excavation unit. The ancient city extends well beyond a single point.
-
-- **Coordinates:** 13.9811, -89.1652
-- **Placed from:** OpenStreetMap archaeological-site feature, way 376579718
-- **Precision:** landmark
-
-## Sources
-
-### Site-wide reports
-
-[[Papers/dallyn_et_al_oxford#Page 1|Oxford expedition report]] · [[Papers/Gloria1975#Page 3|First-stage excavation report]] · [[Papers/botanical_final#Page 3|Final botanical report]] · [[Papers/botanical_prelim#Page 1|Preliminary archaeobotanical report]]
-
-These records support the site-wide research history above. They do not establish the excavation history of every individual structure.
-
-### P7.pdf
-
-**Citation:** PDF pp. 4–5 (printed pp. 1–2), site setting and chronology
-
-[[Papers/P7#Page 4|Open vault paper]] · [Open cited source](https://fundar.org.sv/referencias/P7.pdf#page=4)
-
-The report identifies P-7 as the principal pyramid within Cihuatán’s western ceremonial center and summarizes the city’s area and Early Postclassic chronology. Its 2001–2002 field results belong to the separate P-7 record.
-
-### Mapped site feature
-
-[Open OpenStreetMap way 376579718](https://www.openstreetmap.org/way/376579718)
-
-The map coordinate is a public landmark reference for the named archaeological site, not a published archaeological datum or site boundary.
+An Oxford expedition mapped the ceremonial center, ballcourt, and part of the surrounding residential area. [[Papers/dallyn_et_al_oxford#Page 3|Source: Oxford expedition report, PDF p. 3]]
