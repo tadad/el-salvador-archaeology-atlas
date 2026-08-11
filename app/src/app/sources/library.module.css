@@ -62,6 +62,7 @@
 
 .kindNav {
   display: flex;
+  flex-wrap: wrap;
   gap: 14px;
 }
 
@@ -213,15 +214,67 @@
 
 .metadataGrid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
   gap: 16px;
   margin: 1.5rem 0;
 }
 
-.metadataGrid dd {
+.metadataGrid dd,
+.propertyGrid dd {
   margin: 3px 0 0;
   font-size: 0.85rem;
+  overflow-wrap: anywhere;
+}
+
+.propertyGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 18px 24px;
+  margin: 1.75rem 0 0;
+}
+
+.propertyGrid > div {
+  min-width: 0;
+}
+
+.propertyGrid dt,
+.nestedProperties dt {
+  color: #555;
+  font-size: 0.75rem;
   text-transform: capitalize;
+}
+
+.propertyGrid a,
+.nestedProperties a {
+  color: inherit;
+}
+
+.propertyList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px 10px;
+}
+
+.propertyList > span:not(:last-child)::after {
+  margin-left: 10px;
+  color: #aaa;
+  content: "·";
+}
+
+.nestedProperties {
+  margin: 0;
+}
+
+.nestedProperties div + div {
+  margin-top: 8px;
+}
+
+.nestedProperties dd {
+  margin: 2px 0 0;
+}
+
+.emptyValue {
+  color: #888;
 }
 
 .creditLines {

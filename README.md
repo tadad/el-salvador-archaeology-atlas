@@ -20,11 +20,14 @@ sources.
 
 ## Start here
 
-- [Interactive excavation atlas](app/) — a Next.js map of terrestrial and
-  maritime archaeological investigations with coordinates, narrative site
-  summaries, study-by-study timelines, and direct links to cited PDF pages
-- [Obsidian research vault](vault/Home.md) — linked Paper and Author records,
-  page-addressable OCR text, and local PDF attachments
+- [Interactive excavation atlas](app/) — a Next.js map built directly from
+  vault-native Place documents, with coordinates, narrative descriptions,
+  research histories, and direct links to cited Paper or external source pages
+- Web wiki — automatically generated collection indexes, properties, documents,
+  links, and backlinks for every typed ontology folder in the vault
+- [Obsidian research vault](vault/Home.md) — linked Place, Period, Culture,
+  People, Paper, and Author records, page-addressable OCR text, and local PDF
+  attachments
 - [Field guide](FIELD-GUIDE.md) — curated orientation and high-value research
   leads
 - [Source-derived leads](SOURCE-DERIVED-LEADS.md) — sites, artifacts, historical

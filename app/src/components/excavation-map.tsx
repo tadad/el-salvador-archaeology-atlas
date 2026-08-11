@@ -11,12 +11,12 @@ import {
   ZoomControl,
   useMap,
 } from "react-leaflet";
-import { precisionMeta, type Dig, type Precision } from "@/data/digs";
+import { precisionMeta, type AtlasPlace, type Precision } from "@/lib/atlas-types";
 
 type ExcavationMapProps = {
-  digs: Dig[];
-  selected: Dig | null;
-  onSelect: (dig: Dig) => void;
+  digs: AtlasPlace[];
+  selected: AtlasPlace | null;
+  onSelect: (dig: AtlasPlace) => void;
 };
 
 function makeIcon(precision: Precision, selected: boolean): DivIcon {
@@ -28,7 +28,7 @@ function makeIcon(precision: Precision, selected: boolean): DivIcon {
   });
 }
 
-function SelectedSiteFocus({ selected }: { selected: Dig | null }) {
+function SelectedSiteFocus({ selected }: { selected: AtlasPlace | null }) {
   const map = useMap();
 
   useEffect(() => {

@@ -37,7 +37,7 @@ export default async function PaperPage({ params }: PaperPageProps) {
   if (!paper) notFound();
 
   return (
-    <LibraryShell kind="papers" activeSlug={paper.slug}>
+    <LibraryShell collection="papers" activeSlug={paper.slug}>
       <article className={styles.document}>
         <header className={styles.documentHeader}>
           <p className={styles.eyebrow}>

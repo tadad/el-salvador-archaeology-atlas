@@ -29,7 +29,7 @@ export default async function AuthorPage({ params }: AuthorPageProps) {
   const papers = getAuthorPapers(author.slug);
 
   return (
-    <LibraryShell kind="authors" activeSlug={author.slug}>
+    <LibraryShell collection="authors" activeSlug={author.slug}>
       <article className={styles.authorDocument}>
         <header className={styles.authorHeader}>
           <p className={styles.eyebrow}>Author · {author.kind}</p>

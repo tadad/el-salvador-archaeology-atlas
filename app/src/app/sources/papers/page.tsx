@@ -13,7 +13,7 @@ export default function PapersIndexPage() {
   const pageCount = papers.reduce((total, paper) => total + paper.pages, 0);
 
   return (
-    <LibraryShell kind="papers">
+    <LibraryShell collection="papers">
       <div className={styles.indexPage}>
         <p className={styles.eyebrow}>The paper record</p>
         <h2>{papers.length} papers, kept whole.</h2>

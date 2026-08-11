@@ -13,7 +13,7 @@ export default function AuthorsIndexPage() {
   const people = authors.filter((author) => author.kind === "person").length;
 
   return (
-    <LibraryShell kind="authors">
+    <LibraryShell collection="authors">
       <div className={styles.indexPage}>
         <p className={styles.eyebrow}>The author record</p>
         <h2>{authors.length} credited contributors.</h2>

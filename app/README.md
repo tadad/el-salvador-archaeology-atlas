@@ -1,11 +1,16 @@
 # El Salvador Archaeology Atlas
 
-An interactive map of the excavation and maritime archaeology locations
-identified in the El Salvador corpus. Every site links to the cited source PDF
-and page. Site records distinguish the latest field investigation from later
-collection analysis, archival synthesis, and reinterpretation, and expose the
-full documented study history instead of substituting publication dates for
+An interactive map built from the Place records in the Obsidian vault. Every
+place links to locally mirrored Paper records and exact source pages; citations
+that are not mirrored remain direct external links. Place documents distinguish
+the latest field investigation from later collection analysis, archival
+synthesis, and reinterpretation instead of substituting publication dates for
 field seasons.
+
+The web wiki is also vault-driven. At build time it discovers every top-level
+vault folder containing Markdown records with a `type` property, then generates
+the collection index, record pages, properties, Obsidian links, and backlinks.
+New ontology types and fields do not require a new React page or stylesheet.
 
 ## Run it
 
