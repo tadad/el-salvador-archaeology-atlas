@@ -29,6 +29,10 @@ review_status: "unreviewed"
 
 ## Notes
 
+### Research leads
+
+- Boggs recorded the proposal that San Andrés might be colonial-period [[Places/tecpa-zapotitan|Tecpa]], but explicitly said the city remained unidentified and that the document might instead refer to ruins at San Andrés, Sitio del Niño, Hacienda Zapotitán, or Hacienda Presa. This is evidence against assigning Tecpa to a single mapped site without further documentation. [[#Page 16|PDF p. 16]]
+
 <!-- ocr:start -->
 ## Provenance
 

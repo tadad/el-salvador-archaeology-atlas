@@ -14,15 +14,23 @@ aliases:
 
 ## Contributions
 
-Lardé's [[Papers/arqueologia-cuzcatleca-valle-de-san-salvador|Arqueología Cuzcatleca: Valle de San Salvador]] documented sites around the capital. He also assisted [[samuel-k-lothrop|Samuel K. Lothrop]] during the Museum of the American Indian's 1925–1926 expedition, contributing local knowledge to its Salvadoran survey work.
+Lardé's [[Papers/arqueologia-cuzcatleca-valle-de-san-salvador|Arqueología Cuzcatleca: Valle de San Salvador]] documented sites around the capital. His work also crossed seismology, volcanology, geology, population history, historical linguistics, and archaeological interpretation. He assisted [[samuel-k-lothrop|Samuel K. Lothrop]] during the Museum of the American Indian's 1925–1926 expedition, contributing local knowledge to its Salvadoran survey work.
 
 ## Works in this corpus
 
 - [[Papers/arqueologia-cuzcatleca-valle-de-san-salvador|Arqueología Cuzcatleca: Valle de San Salvador]] (1924) — author
+- [[Papers/larde-1916-terremoto-6-septiembre|El terremoto del 6 de Septiembre de 1915 y los demás terremotos de El Salvador]] (1916) — author
+- [[Papers/larde-1921-poblacion-el-salvador|La población de El Salvador: su origen y su distribución geográfica]] (1921) — author
+- [[Papers/larde-1923-volcan-izalco|El Volcán de Izalco]] (1923) — author
+- [[Papers/larde-1924-geologia-centro-america|Geología General de Centro América y Especial de El Salvador]] (1924) — author
 
 ## Sources
 
 - Universidad Tecnológica de El Salvador, [study of Lardé's archaeological inventory](https://biblioteca.utec.edu.sv/siab/virtual/tesis/941001191.pdf)
 - Juan Albarracín-Jordán, [“Pasado, presente y futuro de la arqueología en El Salvador”](https://ecumenico.org/pasado-presente-y-futuro-de-la-arqueologia-en-el-salvador-juan-albarracin-2013)
 - [[Papers/arqueologia-cuzcatleca-valle-de-san-salvador|Arqueología Cuzcatleca: Valle de San Salvador]]
+- [[Papers/larde-1916-terremoto-6-septiembre|El terremoto del 6 de Septiembre de 1915 y los demás terremotos de El Salvador]]
+- [[Papers/larde-1921-poblacion-el-salvador|La población de El Salvador: su origen y su distribución geográfica]]
+- [[Papers/larde-1923-volcan-izalco|El Volcán de Izalco]]
+- [[Papers/larde-1924-geologia-centro-america|Geología General de Centro América y Especial de El Salvador]]
 - [[Papers/lothrop_pottery_types#Page 12|Pottery Types and Their Sequence in El Salvador, p. 12]] and [[Papers/lothrop_pottery_types#Page 14|p. 14]]

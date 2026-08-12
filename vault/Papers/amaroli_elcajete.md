@@ -28,6 +28,10 @@ review_status: "unreviewed"
 
 ## Notes
 
+### Research leads
+
+- The report securely identifies [[Places/isla-el-cajete|Isla El Cajete]] in the Barra de Santiago mangroves and places the surveyed architecture on the island's western half. Access was by water, about three kilometers from the sea through Estero El Zapote. Its preliminary plan is internally measured but not georeferenced. [[#Page 1|PDF pp. 1–2, 10]]
+
 <!-- ocr:start -->
 ## Provenance
 

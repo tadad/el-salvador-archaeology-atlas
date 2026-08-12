@@ -19,6 +19,8 @@ periods:
 cultures: []
 papers:
   - "[[Papers/amaroli_elcajete]]"
+  - "[[Papers/longyear]]"
+  - "[[Papers/larde-1921-poblacion-el-salvador]]"
 latest_study_year: 1983
 latest_study_label: "10 February 1983"
 last_fieldwork_year: 1983
@@ -40,3 +42,11 @@ Amaroli's dated report analyzed the collected surface ceramics. [[Papers/amaroli
 ### 9 February 1983: Fieldwork
 
 Amaroli reconnoitered the island and collected surface ceramics. [[Papers/amaroli_elcajete#Page 1|Source: amaroli_elcajete.pdf, PDF pp. 1–4]]
+
+### 1944: Published archaeological inventory
+
+Longyear identified Isla El Cajete with Barra de Santiago and located it on a small island in a shallow coastal bay under the jurisdiction of Jujutla. He reported mounds, pottery, and cut-stone objects, while making clear that some information was secondhand. [[Papers/longyear#Page 16|Source: longyear.pdf, PDF p. 16]]
+
+### 1921: Historical culture attribution
+
+Lardé listed Cajete with Cara Sucia among remains he assigned broadly to a “Maya” population. This is evidence for the history of archaeological interpretation, not a dependable modern cultural attribution. [[Papers/larde-1921-poblacion-el-salvador#Page 21|Source: larde-1921-poblacion-el-salvador.pdf, PDF pp. 21–22]]

@@ -24,6 +24,7 @@ papers:
   - "[[Papers/anales-54]]"
   - "[[Papers/chalchuapa-architecture]]"
   - "[[Papers/longyear]]"
+  - "[[Papers/larde-1921-poblacion-el-salvador]]"
   - "[[Papers/tzunpame_boggs_tazumal]]"
 latest_study_year: 2015
 latest_study_label: "2015"
@@ -38,6 +39,10 @@ last_fieldwork_label: "Project reported active through 2012"
 An excavated monumental precinct at Chalchuapa centered on Mounds 1 and 2. The cited publications document Late Classic architecture and an Early Postclassic addition dated to about 900–1200 CE. Excavation recorded repeated rebuilding of Mound 1, four post-construction burials, stone and obsidian objects, and distinct early and later pottery deposits. [[Papers/2007-erquicia-los-gavilanes#Page 2|Source: PDF p. 2 (printed p. 855), ‘El Postclásico en Chalchuapa’]] [[Papers/longyear#Page 61|Source: PDF pp. 61–63 (printed pp. 59–61), architecture, stone objects, burials, and pottery]]
 
 ## Studies
+
+### 1921: Early interpretation
+
+Lardé recorded an active disagreement over whether the name Tazumal and Chalchuapa’s major archaeological remains should be classified as Nahua or Maya. The passage is useful evidence for the history of interpretation, not a reliable modern cultural attribution. [[Papers/larde-1921-poblacion-el-salvador#Page 22|Source: PDF p. 22 (printed p. 32)]]
 
 ### 2015: Reinterpretation
 

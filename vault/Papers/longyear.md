@@ -28,6 +28,11 @@ review_status: "unreviewed"
 
 ## Notes
 
+### Research leads
+
+- Longyear independently identifies [[Places/isla-el-cajete|Isla El Cajete]] with Barra de Santiago and locates it on a small coastal island under Jujutla. [[#Page 16|PDF p. 16]]
+- His site list localizes the reported ruins of [[Places/belen-guijat-uixaca-mazahua|Belén-Güijat / Uixaca-Mazahua]] south of and near the outlet of Lake Güija, but repeats Lardé's proposed identification with Güijar rather than documenting a surveyed ruin coordinate. [[#Page 81|PDF p. 81]]
+
 <!-- ocr:start -->
 ## Provenance
 

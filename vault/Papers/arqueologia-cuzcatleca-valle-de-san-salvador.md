@@ -28,6 +28,11 @@ review_status: "unreviewed"
 
 ## Notes
 
+### Research leads
+
+- Lardé's evidence describes a widespread buried archaeological horizon rather than one securely bounded “city.” The more reproducible observations should be treated as separate find localities: a well in [[Places/barrio-concepcion-buried-horizon|Barrio Concepción]], a road cut [[Places/quinta-modelo-el-zapote-road-cut|between Quinta Modelo and Cuartel El Zapote]], a street cut in [[Places/barrio-candelaria-buried-horizon|Barrio Candelaria]], and excavations [[Places/san-jacinto-church-east-findspot|east of San Jacinto church]]. [[#Page 5|PDF pp. 5–7, 12–13]]
+- Lardé also traced comparable material through road cuts and barrancas south of San Salvador, including routes toward San Marcos, Huizúcar, and Panchimalco. These broader observations should not be collapsed into a single point marker. [[#Page 12|PDF pp. 12–13]]
+
 <!-- ocr:start -->
 ## Provenance
 

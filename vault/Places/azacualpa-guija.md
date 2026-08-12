@@ -20,6 +20,7 @@ papers:
   - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
   - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"
   - "[[Papers/longyear]]"
+  - "[[Papers/larde-1924-geologia-centro-america]]"
   - "[[Papers/notesoncentralam00squi]]"
   - "[[Papers/testimony1]]"
 latest_study_year: 2004
@@ -35,6 +36,10 @@ last_fieldwork_label: "Condition photographed by November 2004; exact visit date
 Azacualpa is a three-group mound complex on a flat bluff above the northeast shore of Lake Güija. The report does not date the site. The maps and text record a plaza, mounds, and low platforms. [[Papers/longyear#Page 11|Source: PDF p. 11 (printed p. 1) and PDF pp. 26–28 (printed pp. 19–21), expedition dates, Lake Güija map, Azacualpa entry, and figs. 9–12]]
 
 ## Studies
+
+### 1924: Historical-geological critique
+
+Lardé challenged a nineteenth-century claim that volcanic eruptions created Lake Güija and submerged Azacualpa and Güijar. He argued that the reported ruins lay near the lake’s outlet by Belén-Güijat and identified them with colonial-period Mazahua-Uixaca, while treating the lake as much older. The site identification and geological conclusion are historical interpretations that require modern verification. [[Papers/larde-1924-geologia-centro-america#Page 11|Source: PDF pp. 11–12 (printed pp. 20–21)]]
 
 ### By 2004: Condition assessment
 

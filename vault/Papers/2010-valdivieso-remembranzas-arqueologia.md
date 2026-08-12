@@ -29,6 +29,10 @@ review_status: "unreviewed"
 
 ## Notes
 
+### Research leads
+
+- Valdivieso recalls a government inspection of active looting at “[[Places/tecpa-zapotitan|Tecpan]], La Libertad.” The publication supplies no incident date, coordinate, map, artifact inventory, or argument connecting that locality to the historically documented town, but it points toward an unpublished institutional site or incident file. [[#Page 17|PDF p. 17]]
+
 <!-- ocr:start -->
 ## Provenance
 

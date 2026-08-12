@@ -21,6 +21,7 @@ papers:
   - "[[Papers/anales-56]]"
   - "[[Papers/documentosantigu00alva]]"
   - "[[Papers/historiadeelsalv01barb]]"
+  - "[[Papers/larde-1923-volcan-izalco]]"
 latest_study_year: 2007
 latest_study_label: "2007"
 last_fieldwork_year: 2005
@@ -54,6 +55,10 @@ The project conducted mapping, surface collection, and excavation. [[Papers/2012
 ### 1914: Historical and archaeological synthesis
 
 Barberena identified ruins south of Sonsonate with the Tacuxcalco described in conquest narratives. That identification is historical interpretation, not a modern archaeological boundary. [[Papers/historiadeelsalv01barb#Page 328|Source: Barberena, PDF pp. 328–329]]
+
+### 1923: Historical-geographical interpretation
+
+Lardé placed the ruins of the conquest-period Tacuzcalco about two kilometers from Sonsonate and related the locality to rivers descending from the Santa Ana–Izalco volcanic complex. This is an early location claim, not a modern site-boundary determination. [[Papers/larde-1923-volcan-izalco#Page 143|Source: PDF pp. 143–153 (printed pp. 62–67)]]
 
 ### 1524: Colonial account
 

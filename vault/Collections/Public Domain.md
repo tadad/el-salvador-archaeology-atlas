@@ -1,6 +1,6 @@
 # Public-Domain Primary and Early Sources
 
-Retrieved 2026-08-06 from Internet Archive.
+Retrieved from the Internet Archive, Biblioteca Nacional de España, Wikimedia Commons, and Biblioteca Digital del Patrimonio Iberoamericano; individual source records appear below.
 
 These works are preserved for their historical and research value concerning El Salvador. The collection includes administrative reports, early field observations, archaeological documentation, ethnography, and historically influential interpretations.
 
@@ -43,7 +43,7 @@ These works are preserved for their historical and research value concerning El 
 
 ## Arqueología Cuzcatleca Valle de San Salvador
 
-- Creator: Jorge Lardé y Larín
+- Creator: Jorge Lardé y Arthés
 - Date: 1924
 - Internet Archive: https://archive.org/details/arqueologia-cuzcatleca-valle-de-san-salvador
 - Local file: [arqueologia-cuzcatleca-valle-de-san-salvador.pdf](../Attachments/PDFs/public-domain/arqueologia-cuzcatleca-valle-de-san-salvador.pdf)
@@ -86,3 +86,44 @@ These works are preserved for their historical and research value concerning El 
 - Local file: [jstor-659933.pdf](../Attachments/PDFs/public-domain/jstor-659933.pdf)
 - Size: 754451 bytes
 - SHA-256: `d6781927748ce32924b19e33fcf6e1c1b8c293c665ec2b984b0b6ab3071a635e`
+
+## El terremoto del 6 de Septiembre de 1915 y los demás terremotos de El Salvador
+
+- Creator: Jorge Lardé y Arthés
+- Date: 1916
+- Biblioteca Nacional de España: https://bnedigital.bne.es/bd/card?id=91973c4f-979d-43bf-9d92-b9819d1fd313
+- Local file: [larde-1916-terremoto-6-septiembre.pdf](../Attachments/PDFs/public-domain/larde-1916-terremoto-6-septiembre.pdf)
+- Size: 10556065 bytes
+- SHA-256: `69b33f3da28c0a002be971f11ebd7363c333fa89b94dd08f6fa5f3f496f8965f`
+- License: https://creativecommons.org/licenses/by/4.0/
+- Source note: complete 1916 edition; 76 scan pages (71 numbered pages)
+
+## La población de El Salvador: su origen y su distribución geográfica
+
+- Creator: Jorge Lardé y Arthés
+- Date: 1921
+- Internet Archive: https://archive.org/details/demografiasalvad00fons
+- Local file: [larde-1921-poblacion-el-salvador.pdf](../Attachments/PDFs/public-domain/larde-1921-poblacion-el-salvador.pdf)
+- Size: 4187441 bytes
+- SHA-256: `f3055eee572cead8ff7a877508c6abc6977f50a53ab0f6fb07b516e1bc892a57`
+- Source note: complete work reprinted in *Demografía salvadoreña*; local derivative contains source-PDF pages 15–53
+
+## El Volcán de Izalco
+
+- Creator: Jorge Lardé y Arthés
+- Date: 1923
+- Internet Archive: https://archive.org/details/viaje-al-volca-n-de-izalco-1922
+- Local file: [larde-1923-volcan-izalco.pdf](../Attachments/PDFs/public-domain/larde-1923-volcan-izalco.pdf)
+- Size: 33238524 bytes
+- SHA-256: `2d338d7e6cd1065e85e72904c6d208e066f069166fe43e7b4d49dd607570a542`
+- Source note: complete standalone 1923 edition; Internet Archive item title differs from the volume's title page
+
+## Geología General de Centro América y Especial de El Salvador
+
+- Creator: Jorge Lardé y Arthés
+- Date: 1924
+- Biblioteca Digital del Patrimonio Iberoamericano: https://www.iberoamericadigital.net/BDPI/CompleteSearch.do?matter=El+Salvador-Historia&pageNumber=7&pageSize=1&pageSizeAbrv=20
+- Local file: [larde-1924-geologia-centro-america.pdf](../Attachments/PDFs/public-domain/larde-1924-geologia-centro-america.pdf)
+- Size: 8048983 bytes
+- SHA-256: `fe9e0a0b1115c5eef74f2f91ad8ab19a8a062cac7edc01b88f7fd765f8088178`
+- Source note: complete work reprinted in *Anales del Museo Nacional David J. Guzmán*, tomo IV, no. 14 (1953); local derivative contains source-PDF pages 10–54

@@ -29,6 +29,10 @@ review_status: "unreviewed"
 
 ## Notes
 
+### Research leads
+
+- The synthesis interprets Lardé's 1917 observations and Lothrop's later work as evidence for pre-Tierra Blanca Joven occupation across the metropolitan San Salvador area, rather than for a single buried settlement. It revisits Lardé's work represented by the [[Places/quinta-modelo-el-zapote-road-cut|Quinta Modelo–El Zapote road cut]], discusses later excavation at [[Places/cerro-zapote-san-jacinto|Cerro Zapote]], and lists additional findspots elsewhere in the city. [[#Page 3|PDF pp. 3–4]]
+
 <!-- ocr:start -->
 ## Provenance
 

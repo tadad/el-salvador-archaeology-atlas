@@ -22,6 +22,7 @@ cultures:
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/earliest_pipil]]"
+  - "[[Papers/larde-1921-poblacion-el-salvador]]"
 latest_study_year: 1989
 latest_study_label: "1989"
 last_fieldwork_year: 1983
@@ -35,6 +36,10 @@ last_fieldwork_label: "1982–1983 archaeological project"
 An excavated pre-Hispanic site on El Salvador’s western coastal plain. Its documented sequence includes Late Preclassic and Late/Terminal Classic occupations. The Terminal Classic facet included Motagua-style fine-paste pigment flasks, moldmade cylindrical vessels, fine-orange vessels similar to the Altar group, and copper. [[Papers/2012-escamilla-fowler-practica-arqueologia#Page 5|Source: PDF p. 5 (printed p. 431), 1980s research summary]] [[Papers/earliest_pipil#Page 8|Source: PDF p. 8 (printed p. 6), Late Classic cultural regions]]
 
 ## Studies
+
+### 1921: Early interpretation
+
+Lardé grouped the remains at Cara Sucia and Cajete as “more Maya than Nahua” within a proposed sequence inferred from place names. This is useful for tracing the site’s interpretive history, but its direct identification of archaeological remains with broad ethnic categories is obsolete. [[Papers/larde-1921-poblacion-el-salvador#Page 21|Source: PDF p. 21 (printed p. 31)]]
 
 ### 1989: Reinterpretation
 
