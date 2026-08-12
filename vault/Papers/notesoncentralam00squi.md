@@ -32,7 +32,7 @@ review_status: "unreviewed"
 
 - **Author and date:** [[Authors/e-g-squier|E. G. Squier]], 1855.
 - **Lake Güija notice:** PDF pp. 331–332 describe Lake Güija and repeat Juarros's report of island ruins called Zacualpa. [[Places/azacualpa-guija|Azacualpa, Lake Güija]] records this as an identification caution because Longyear's twentieth-century site is instead on a northeast-shore bluff.
-- **Historical ethnology:** Chapter XVI, especially PDF pp. 364–366, discusses populations that Squier called Nahual or Aztec in San Salvador. This is relevant to [[Peoples/nahua-pipil-peoples|Nahua-Pipil peoples]] as evidence for nineteenth-century scholarship, not as a modern cultural attribution.
+- **Historical ethnology:** Chapter XVI, especially PDF pp. 364–366, discusses populations that Squier called Nahual or Aztec in San Salvador. This is relevant to [[Cultures/nahua-pipil-related|Nahua-Pipil peoples]] as evidence for nineteenth-century scholarship, not as a modern cultural attribution.
 
 <!-- ocr:start -->
 ## Provenance

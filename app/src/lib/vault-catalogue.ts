@@ -40,7 +40,7 @@ type VaultCatalogue = {
   backlinksByKey: Map<string, VaultRecordSummary[]>;
 };
 
-const preferredCollectionOrder = ["places", "periods", "cultures", "peoples", "papers", "authors"];
+const preferredCollectionOrder = ["places", "periods", "cultures", "papers", "authors"];
 const ignoredDirectories = new Set(["Attachments", "Templates", "Views"]);
 const collator = new Intl.Collator("es", { sensitivity: "base", numeric: true });
 let catalogueCache: VaultCatalogue | undefined;

@@ -4,9 +4,7 @@ filters:
     - 'file.inFolder("Cultures")'
 properties:
   name:
-    displayName: Culture or tradition
-  associated_peoples:
-    displayName: Associated peoples
+    displayName: Culture, tradition, or people
   aliases:
     displayName: Aliases
 views:
@@ -14,5 +12,4 @@ views:
     name: Cultures
     order:
       - name
-      - associated_peoples
       - aliases

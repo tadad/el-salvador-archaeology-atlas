@@ -2,8 +2,8 @@
 
 This repository is an El Salvador-centered, multilingual research corpus and
 public atlas. It connects archaeological places with source documents,
-historical peoples, cultural classifications, and research history without
-treating any one of those evidence types as interchangeable.
+cultural classifications (including historical and ethnolinguistic groups),
+and research history without treating those evidence types as interchangeable.
 
 Regional material from Guatemala, Honduras, Nicaragua, Belize, southern
 Mexico, Costa Rica, and the Pacific maritime sphere is included only when it
@@ -49,13 +49,13 @@ available.
 
 ## Knowledge graph
 
-The vault models six linked record types:
+The vault models five linked record types:
 
 - **Places** own links to Periods, Cultures, and directly supporting Papers.
 - **Periods** provide controlled chronological facets.
-- **Cultures** describe cautious archaeological traditions or classifications.
-- **Peoples** represent historical or ethnolinguistic groups separately from
-  material culture.
+- **Cultures** describe cautious archaeological traditions, classifications,
+  and historical or ethnolinguistic groups. A shared record does not imply
+  that material culture and ethnic identity are interchangeable.
 - **Papers** preserve bibliographic, extraction, and provenance data and own
   links to canonical Authors.
 - **Authors** represent credited people and organizations.

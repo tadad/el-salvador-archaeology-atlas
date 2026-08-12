@@ -29,7 +29,7 @@ review_status: "unreviewed"
 
 ## Notes
 
-Related ontology records: [[Peoples/nahua-pipil-peoples|Nahua and Pipil peoples]]; [[Periods/colonial|Colonial]]; [[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]].
+Related ontology records: [[Cultures/nahua-pipil-related|Nahua and Pipil peoples]]; [[Periods/colonial|Colonial]]; [[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]].
 
 <!-- ocr:start -->
 ## Provenance

@@ -5,12 +5,11 @@ title: El Salvador Archaeology Library
 
 # El Salvador Archaeology Library
 
-This vault organizes the local research corpus as six linked record types:
+This vault organizes the local research corpus as five linked record types:
 
 - **Places** preserve atlas locations, descriptions, research histories, uncertainty, and links to supporting Papers.
 - **Periods** provide shared chronological concepts used by Place records.
-- **Cultures** describe archaeological affiliations and traditions and link to Peoples when supported by the cited sources.
-- **Peoples** represent historical or ethnolinguistic groups separately from material culture.
+- **Cultures** describe archaeological affiliations, traditions, and historical or ethnolinguistic groups. A shared record does not imply that material culture and ethnic identity are interchangeable.
 - **Papers** preserve the page-addressable OCR text, source provenance, and bibliographic metadata for each archived document.
 - **Authors** provide canonical identities for the people and organizations credited by those papers.
 
@@ -27,10 +26,6 @@ Place records own their links to Papers, Periods, and Cultures. Papers own their
 ## Cultures
 
 ![[Views/Cultures.base#Cultures]]
-
-## Peoples
-
-![[Views/Peoples.base#Peoples]]
 
 ## Papers
 

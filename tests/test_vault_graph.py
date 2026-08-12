@@ -12,7 +12,7 @@ class VaultGraphAuditTests(unittest.TestCase):
     def test_components_resolve_qualified_and_unique_unqualified_links(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             vault = Path(directory)
-            for collection in ("Places", "Periods", "Cultures", "Peoples", "Papers", "Authors"):
+            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors"):
                 (vault / collection).mkdir()
             (vault / "Places" / "one.md").write_text("[[Papers/source|Source]]")
             (vault / "Papers" / "source.md").write_text("[[writer]]")
@@ -29,7 +29,7 @@ class VaultGraphAuditTests(unittest.TestCase):
     def test_broken_typed_link_is_reported(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             vault = Path(directory)
-            for collection in ("Places", "Periods", "Cultures", "Peoples", "Papers", "Authors"):
+            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors"):
                 (vault / collection).mkdir()
             (vault / "Places" / "one.md").write_text("[[Papers/missing]]")
 
@@ -43,7 +43,7 @@ class VaultGraphAuditTests(unittest.TestCase):
     def test_qualified_link_does_not_fall_back_to_another_collection(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             vault = Path(directory)
-            for collection in ("Places", "Periods", "Cultures", "Peoples", "Papers", "Authors"):
+            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors"):
                 (vault / collection).mkdir()
             (vault / "Places" / "one.md").write_text("[[Papers/missing]]")
             (vault / "Authors" / "missing.md").write_text("")

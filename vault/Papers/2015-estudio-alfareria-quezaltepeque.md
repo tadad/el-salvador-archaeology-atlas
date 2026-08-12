@@ -38,7 +38,7 @@ PDF pages 45 and 46 are photographic plates without legible captions. They accou
 
 - **Authorship and date:** The cover and catalog page credit [[Authors/aracely-de-gutierrez|Aracely de Gutiérrez]], [[Authors/mario-mata|Mario Mata]], [[Authors/carlos-osegueda|Carlos Osegueda]], and [[Authors/alvaro-sermeno|Álvaro Sermeño]]. The Universidad Tecnológica de El Salvador published the work in July 2005 (PDF pp. 1–3).
 - **Scope and method:** The report documents [[Periods/modern-maritime|modern]] utilitarian pottery production through visits to three Quezaltepeque workshops and interviews with owners and workers (PDF p. 10).
-- **Contextual links:** Its municipal history names [[Places/atapasco|Atapasco]] only as a hacienda within Quezaltepeque's jurisdiction (PDF p. 17), not as an archaeological investigation. PDF p. 15 repeats historical Nahuatl etymology and Pipil-population claims relevant to [[Peoples/nahua-pipil-peoples|Nahua-Pipil peoples]], but those contextual claims do not establish continuity between pre-Hispanic communities and the modern workshops.
+- **Contextual links:** Its municipal history names [[Places/atapasco|Atapasco]] only as a hacienda within Quezaltepeque's jurisdiction (PDF p. 17), not as an archaeological investigation. PDF p. 15 repeats historical Nahuatl etymology and Pipil-population claims relevant to [[Cultures/nahua-pipil-related|Nahua-Pipil peoples]], but those contextual claims do not establish continuity between pre-Hispanic communities and the modern workshops.
 
 <!-- ocr:start -->
 ## Provenance

@@ -3,7 +3,6 @@ type: "culture"
 culture_id: "colonial-spanish-indigenous"
 name: "Colonial Spanish / Indigenous"
 sort_order: 50
-associated_peoples: []
 aliases: []
 ---
 

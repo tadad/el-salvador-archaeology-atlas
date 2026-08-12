@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_VAULT = ROOT / "vault"
-COLLECTIONS = ("Places", "Periods", "Cultures", "Peoples", "Papers", "Authors")
+COLLECTIONS = ("Places", "Periods", "Cultures", "Papers", "Authors")
 WIKILINK = re.compile(r"!?\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 
 

@@ -3,7 +3,6 @@ type: "culture"
 culture_id: "maritime-industrial"
 name: "Maritime / Industrial"
 sort_order: 60
-associated_peoples: []
 aliases: []
 ---
 

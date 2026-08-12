@@ -30,7 +30,7 @@ review_status: "unreviewed"
 
 ## Notes
 
-Related ontology record: [[Peoples/nahua-pipil-peoples|Nahua and Pipil peoples]].
+Related ontology record: [[Cultures/nahua-pipil-related|Nahua and Pipil peoples]].
 
 <!-- ocr:start -->
 ## Provenance

@@ -48,9 +48,9 @@ export default function AboutPage() {
               <p className={styles.eyebrow}>Scope and method</p>
               <h2>A source-linked atlas of archaeology in El Salvador.</h2>
               <p className={styles.indexLead}>
-                This project connects archaeological places with source documents, historical
-                peoples, cultural classifications, and research history without treating those
-                forms of evidence as interchangeable.
+                This project connects archaeological places with source documents, cultural
+                classifications (including historical and ethnolinguistic groups), and research
+                history without treating those forms of evidence as interchangeable.
               </p>
 
               <dl className={styles.metadataGrid} aria-label="Corpus record counts">
@@ -69,12 +69,13 @@ export default function AboutPage() {
                 sphere appear only when that connection is concrete.
               </p>
 
-              <h2 id="ontology">One graph, six record types</h2>
+              <h2 id="ontology">One graph, five record types</h2>
               <p>
                 <strong>Places</strong> link to <strong>Periods</strong>, <strong>Cultures</strong>,
                 and directly supporting <strong>Papers</strong>. Papers link to canonical
-                <strong> Authors</strong>. Cultures link to historical <strong>Peoples</strong> when
-                the cited sources support the relationship. Backlinks supply the reverse relationships.
+                <strong> Authors</strong>. Cultures include archaeological traditions and historical
+                or ethnolinguistic groups, while preserving source-specific distinctions between
+                material culture and ethnic identity. Backlinks supply the reverse relationships.
               </p>
 
               <h2 id="evidence">How to read the evidence</h2>

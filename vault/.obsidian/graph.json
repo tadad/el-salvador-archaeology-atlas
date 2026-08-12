@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "path:\"Peoples\"",
-      "color": {
-        "a": 1,
-        "rgb": 14767961
-      }
-    },
-    {
       "query": "path:\"Periods\"",
       "color": {
         "a": 1,
