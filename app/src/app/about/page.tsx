@@ -57,6 +57,7 @@ export default function AboutPage() {
                 <div><dt>Place records</dt><dd>{counts.places ?? 0}</dd></div>
                 <div><dt>Local papers</dt><dd>{counts.papers ?? 0}</dd></div>
                 <div><dt>Authors</dt><dd>{counts.authors ?? 0}</dd></div>
+                <div><dt>Organizations</dt><dd>{counts.organizations ?? 0}</dd></div>
               </dl>
             </header>
 
@@ -69,11 +70,13 @@ export default function AboutPage() {
                 sphere appear only when that connection is concrete.
               </p>
 
-              <h2 id="ontology">One graph, five record types</h2>
+              <h2 id="ontology">One graph, six record types</h2>
               <p>
                 <strong>Places</strong> link to <strong>Periods</strong>, <strong>Cultures</strong>,
                 and directly supporting <strong>Papers</strong>. Papers link to canonical
-                <strong> Authors</strong>. Cultures include archaeological traditions and historical
+                <strong> Authors</strong> and credited <strong>Organizations</strong>. Organization
+                records connect institutions to affiliated people, papers, places, and
+                institutional lineages. Cultures include archaeological traditions and historical
                 or ethnolinguistic groups, while preserving source-specific distinctions between
                 material culture and ethnic identity. Backlinks supply the reverse relationships.
               </p>

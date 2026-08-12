@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import Mock, patch
 
-from tools.build_vault_ontology import render_paper_note, validate
+from tools.build_vault_ontology import render_creator_note, render_paper_note, validate
 from tools.convert_pdfs_to_markdown import (
     OCR_END,
     OCR_START,
@@ -124,6 +124,20 @@ class OntologySafetyTests(unittest.TestCase):
     def test_current_registries_validate(self) -> None:
         self.assertEqual(validate(self.records, self.authors, self.relations, self.metadata), [])
 
+    def test_corporate_creator_renders_as_an_organization(self) -> None:
+        organization = {
+            "id": "museum",
+            "name": "Example Museum",
+            "sort_name": "Example Museum",
+            "kind": "organization",
+            "aliases": [],
+        }
+        rendered = render_creator_note(organization)
+        self.assertIn('type: "organization"', rendered)
+        self.assertIn('organization_id: "museum"', rendered)
+        self.assertIn("ontology_managed: true", rendered)
+        self.assertNotIn("author_id:", rendered)
+
     def test_semantic_registry_errors_are_rejected(self) -> None:
         cases = []
         relations = copy.deepcopy(self.relations)
@@ -188,7 +202,7 @@ Keep me.
             "languages": ["es"],
             "collection": "FUNDAR",
         }
-        authors = {"example": {"id": "example", "name": "Example Author"}}
+        authors = {"example": {"id": "example", "name": "Example Author", "kind": "person"}}
         rendered = render_paper_note(record, relation, metadata, authors, existing)
         for stale in ("editors:", "translators:", "publication_date:", "ocr_dpi:"):
             self.assertNotIn(stale, rendered)

@@ -2,8 +2,9 @@
 type: "paper"
 paper_id: "2004-el-cambio-arqueologia"
 title: "La destrucción inminente del sitio arqueológico “El Cambio”"
-authors:
-  - "[[Authors/fundar|Fundación Nacional de Arqueología de El Salvador (FUNDAR)]]"
+authors: []
+organizations:
+  - "[[Organizations/fundar|Fundación Nacional de Arqueología de El Salvador (FUNDAR)]]"
 creator_raw: "FUNDAR"
 publication_year: 2004
 work_type: "report"

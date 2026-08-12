@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build and validate the Author/Paper ontology in the Obsidian vault.
+"""Build and validate the Author/Organization/Paper ontology in the Obsidian vault.
 
 The local JSON files under ``tmp/data`` retain normalized identities and
 bibliographic classification. This tool renders those records as Obsidian
@@ -21,6 +21,7 @@ DATA = ROOT / "tmp" / "data"
 VAULT = ROOT / "vault"
 PAPERS = VAULT / "Papers"
 AUTHORS = VAULT / "Authors"
+ORGANIZATIONS = VAULT / "Organizations"
 EXTRACTION_MANIFEST = DATA / "text-extraction-manifest.json"
 AUTHORS_DATA = DATA / "authors.json"
 PAPER_AUTHORS_DATA = DATA / "paper-authors.json"
@@ -161,8 +162,9 @@ def paper_id(record: dict[str, object]) -> str:
     return Path(str(record["output_path"])).stem
 
 
-def author_link(author: dict[str, object]) -> str:
-    return f"[[Authors/{author['id']}|{author['name']}]]"
+def creator_link(author: dict[str, object]) -> str:
+    collection = "Organizations" if author["kind"] == "organization" else "Authors"
+    return f"[[{collection}/{author['id']}|{author['name']}]]"
 
 
 def pdf_link(record: dict[str, object]) -> str:
@@ -174,7 +176,20 @@ def pdf_link(record: dict[str, object]) -> str:
     return f"[[{relative.as_posix()}]]"
 
 
-def render_author_note(author: dict[str, object], existing: str = "") -> str:
+def render_creator_note(author: dict[str, object], existing: str = "") -> str:
+    if author["kind"] == "organization":
+        managed = [
+            ("type", yaml_scalar("type", "organization")),
+            ("organization_id", yaml_scalar("organization_id", author["id"])),
+            ("name", yaml_scalar("name", author["name"])),
+            ("sort_name", yaml_scalar("sort_name", author["sort_name"])),
+            ("aliases", yaml_list("aliases", author.get("aliases", []))),
+            ("ontology_managed", yaml_scalar("ontology_managed", True)),
+        ]
+        defaults = [("organization_kind", yaml_scalar("organization_kind", "other"))]
+        body = existing or f"# {author['name']}\n"
+        return merge_frontmatter(body, managed, defaults)
+
     managed = [
         ("type", yaml_scalar("type", "author")),
         ("author_id", yaml_scalar("author_id", author["id"])),
@@ -197,8 +212,12 @@ def render_paper_note(
     pid = paper_id(record)
     existing = ensure_paper_regions(existing)
 
-    def links(role: str) -> list[str]:
-        return [author_link(authors_by_id[author_id]) for author_id in relation.get(role, [])]
+    def links(role: str, kind: str = "person") -> list[str]:
+        return [
+            creator_link(authors_by_id[author_id])
+            for author_id in relation.get(role, [])
+            if authors_by_id[author_id]["kind"] == kind
+        ]
 
     managed: list[tuple[str, list[str]]] = [
         ("type", yaml_scalar("type", "paper")),
@@ -206,6 +225,10 @@ def render_paper_note(
         ("title", yaml_scalar("title", record["title"])),
         ("authors", yaml_list("authors", links("authors"))),
     ]
+    organizations = links("authors", "organization")
+    managed.append(
+        ("organizations", yaml_list("organizations", organizations) if organizations else [])
+    )
     for role in ("contributors", "editors", "translators"):
         values = links(role)
         # Empty blocks still mark canonical properties as managed, allowing a
@@ -366,9 +389,10 @@ def desired_files() -> dict[Path, str]:
     authors_by_id = {str(author["id"]): author for author in authors}
     output: dict[Path, str] = {}
     for author in authors:
-        path = AUTHORS / f"{author['id']}.md"
+        directory = ORGANIZATIONS if author["kind"] == "organization" else AUTHORS
+        path = directory / f"{author['id']}.md"
         existing = path.read_text(encoding="utf-8") if path.exists() else ""
-        output[path] = render_author_note(author, existing)
+        output[path] = render_creator_note(author, existing)
     for record in records:
         pid = paper_id(record)
         path = PAPERS / f"{pid}.md"
@@ -402,7 +426,12 @@ def main() -> int:
         for path, text in output.items()
         if not path.exists() or path.read_text(encoding="utf-8") != text
     ]
-    existing = set(AUTHORS.glob("*.md")) | set(PAPERS.glob("*.md"))
+    managed_organizations = {
+        path
+        for path in ORGANIZATIONS.glob("*.md")
+        if re.search(r"^ontology_managed:\s*true\s*$", path.read_text(encoding="utf-8"), re.MULTILINE)
+    }
+    existing = set(AUTHORS.glob("*.md")) | set(PAPERS.glob("*.md")) | managed_organizations
     obsolete = sorted(existing - set(output))
     if args.check:
         for path in stale:

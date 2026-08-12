@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 15583560
       }
+    },
+    {
+      "query": "path:\"Organizations\"",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
     }
   ],
   "collapse-display": true,

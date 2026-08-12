@@ -2,9 +2,10 @@
 type: "paper"
 paper_id: "anales-57-58"
 title: "Revista Anales 57 y 58"
-authors:
-  - "[[Authors/muna|Museo Nacional de Antropología Dr. David J. Guzmán]]"
-  - "[[Authors/ministerio-de-cultura|Ministerio de Cultura]]"
+authors: []
+organizations:
+  - "[[Organizations/muna|Museo Nacional de Antropología Dr. David J. Guzmán]]"
+  - "[[Organizations/ministerio-de-cultura|Ministerio de Cultura]]"
 creator_raw: "MUNA / Ministerio de Cultura"
 publication_year: 2017
 work_type: "journal-issue"

@@ -10,12 +10,14 @@ export type LibraryKind = "papers" | "authors";
 export type ContributorLink = {
   slug: string;
   name: string;
+  collection: "authors" | "organizations";
 };
 
 export type PaperRecord = {
   slug: string;
   title: string;
   authors: ContributorLink[];
+  organizations: ContributorLink[];
   contributors: ContributorLink[];
   editors: ContributorLink[];
   translators: ContributorLink[];
@@ -92,9 +94,13 @@ function authorMarkdownForWeb(markdown: string, authorSlugs: Set<string>): strin
 }
 
 function wikiContributor(value: string): ContributorLink | null {
-  const match = value.match(/^\[\[Authors\/([^|\]]+)(?:\|([^\]]+))?\]\]$/);
+  const match = value.match(/^\[\[(Authors|Organizations)\/([^|\]]+)(?:\|([^\]]+))?\]\]$/);
   if (!match) return null;
-  return { slug: match[1], name: match[2] || match[1] };
+  return {
+    collection: match[1] === "Organizations" ? "organizations" : "authors",
+    slug: match[2],
+    name: match[3] || match[2],
+  };
 }
 
 function contributors(value: unknown): ContributorLink[] {
@@ -139,14 +145,15 @@ function loadIndex(): VaultIndex {
         );
       }
       body = body.replace(
-        /\[\[Authors\/([^|\]]+)(?:\|([^\]]+))?\]\]/g,
-        (_match, slug: string, label: string | undefined) =>
-          `[${label || slug}](/sources/authors/${encodeURIComponent(slug)})`,
+        /\[\[(Authors|Organizations)\/([^|\]]+)(?:\|([^\]]+))?\]\]/g,
+        (_match, collection: string, slug: string, label: string | undefined) =>
+          `[${label || slug}](/sources/${collection.toLocaleLowerCase()}/${encodeURIComponent(slug)})`,
       );
       return {
         slug: String(parsed.data.paper_id || path.basename(filename, ".md")),
         title: String(parsed.data.title || path.basename(filename, ".md")),
         authors: contributors(parsed.data.authors),
+        organizations: contributors(parsed.data.organizations),
         contributors: contributors(parsed.data.contributors),
         editors: contributors(parsed.data.editors),
         translators: contributors(parsed.data.translators),

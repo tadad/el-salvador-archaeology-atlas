@@ -2,8 +2,9 @@
 type: "paper"
 paper_id: "fundar-saqueo"
 title: "Lucha contra el saqueo y tráfico ilícito de objetos arqueológicos"
-authors:
-  - "[[Authors/fundar|Fundación Nacional de Arqueología de El Salvador (FUNDAR)]]"
+authors: []
+organizations:
+  - "[[Organizations/fundar|Fundación Nacional de Arqueología de El Salvador (FUNDAR)]]"
 creator_raw: "Fundación Nacional de Arqueología de El Salvador (FUNDAR)"
 publication_year: 2011
 work_type: "report"
@@ -31,7 +32,7 @@ review_status: "unreviewed"
 
 ### Ontology summary
 
-- **Creator and format:** [[Authors/fundar|Fundación Nacional de Arqueología de El Salvador (FUNDAR)]]. This archived PDF is a 2026 local snapshot of FUNDAR’s public heritage-threat webpage, last modified by 2011; the original URL remains canonical.
+- **Creator and format:** [[Organizations/fundar|Fundación Nacional de Arqueología de El Salvador (FUNDAR)]]. This archived PDF is a 2026 local snapshot of FUNDAR’s public heritage-threat webpage, last modified by 2011; the original URL remains canonical.
 - **Shuteca:** FUNDAR reports that resort construction beside the Shuteca River damaged part of [[Places/shuteca|Shuteca]], a [[Periods/classic|Late Classic]] site with residential remains. FUNDAR registered it and notified the national archaeology department in 2007.
 - **Chuchucato:** FUNDAR reported subdivision activity at [[Places/chuchucato|Chuchucato]] in 2009 and described one broad platform supporting a pyramid. The report gives no period, excavation history, or public coordinate.
 - **Evidence limit:** this is condition and threat documentation, not an excavation report.

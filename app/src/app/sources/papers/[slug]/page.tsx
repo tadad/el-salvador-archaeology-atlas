@@ -27,9 +27,11 @@ export async function generateMetadata({ params }: PaperPageProps): Promise<Meta
 
 function ContributorList({ contributors }: { contributors: ContributorLink[] }) {
   return contributors.map((contributor, index) => (
-    <span key={contributor.slug}>
+    <span key={`${contributor.collection}/${contributor.slug}`}>
       {index > 0 ? ", " : ""}
-      <Link href={`/sources/authors/${encodeURIComponent(contributor.slug)}`}>{contributor.name}</Link>
+      <Link href={`/sources/${contributor.collection}/${encodeURIComponent(contributor.slug)}`}>
+        {contributor.name}
+      </Link>
     </span>
   ));
 }
@@ -47,7 +49,7 @@ export default async function PaperPage({ params }: PaperPageProps) {
           </p>
           <h2>{paper.title}</h2>
           <p className={styles.byline}>
-            <ContributorList contributors={paper.authors} />
+            <ContributorList contributors={[...paper.authors, ...paper.organizations]} />
           </p>
 
           <dl className={styles.metadataGrid}>

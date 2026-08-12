@@ -2,8 +2,9 @@
 type: "paper"
 paper_id: "identidades-19"
 title: "Revista Identidades 19"
-authors:
-  - "[[Authors/ministerio-de-cultura|Ministerio de Cultura]]"
+authors: []
+organizations:
+  - "[[Organizations/ministerio-de-cultura|Ministerio de Cultura]]"
 creator_raw: "Ministerio de Cultura"
 publication_year: 2021
 work_type: "journal-issue"

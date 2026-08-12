@@ -49,7 +49,7 @@ available.
 
 ## Knowledge graph
 
-The vault models five linked record types:
+The vault models six linked record types:
 
 - **Places** own links to Periods, Cultures, and directly supporting Papers.
 - **Periods** provide controlled chronological facets.
@@ -58,7 +58,10 @@ The vault models five linked record types:
   that material culture and ethnic identity are interchangeable.
 - **Papers** preserve bibliographic, extraction, and provenance data and own
   links to canonical Authors.
-- **Authors** represent credited people and organizations.
+- **Authors** represent credited people.
+- **Organizations** represent government bodies, universities, museums, NGOs,
+  scholarly societies, funders, and other institutions connected to the research.
+  They link to people, papers, places, and predecessor or parent bodies.
 
 Obsidian links provide reverse relationships through backlinks, so each edge
 is stored once. Research events remain cited prose in Place records rather than

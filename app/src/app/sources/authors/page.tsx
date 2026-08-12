@@ -5,33 +5,27 @@ import styles from "../library.module.css";
 
 export const metadata: Metadata = {
   title: "Authors | El Salvador Archaeology Atlas",
-  description: "Browse the people and organizations credited by the El Salvador archaeology vault.",
+  description: "Browse the people credited by the El Salvador archaeology vault.",
 };
 
 export default function AuthorsIndexPage() {
   const authors = getAuthors();
-  const people = authors.filter((author) => author.kind === "person").length;
-
   return (
     <LibraryShell collection="authors">
       <div className={styles.indexPage}>
         <p className={styles.eyebrow}>The author record</p>
         <h2>{authors.length} credited contributors.</h2>
         <p className={styles.indexLead}>
-          People and institutions are reconciled into canonical records, while attested spelling and
-          catalogue variants remain visible as aliases.
+          People are reconciled into canonical records, while attested spelling and catalogue
+          variants remain visible as aliases. Institutions have their own Organization records.
         </p>
         <dl className={styles.indexStats}>
           <div>
             <dt>People</dt>
-            <dd>{people}</dd>
+            <dd>{authors.length}</dd>
           </div>
           <div>
-            <dt>Organizations</dt>
-            <dd>{authors.length - people}</dd>
-          </div>
-          <div>
-            <dt>Total records</dt>
+            <dt>Author records</dt>
             <dd>{authors.length}</dd>
           </div>
         </dl>

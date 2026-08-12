@@ -12,7 +12,7 @@ class VaultGraphAuditTests(unittest.TestCase):
     def test_components_resolve_qualified_and_unique_unqualified_links(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             vault = Path(directory)
-            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors"):
+            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors", "Organizations"):
                 (vault / collection).mkdir()
             (vault / "Places" / "one.md").write_text("[[Papers/source|Source]]")
             (vault / "Papers" / "source.md").write_text("[[writer]]")
@@ -29,7 +29,7 @@ class VaultGraphAuditTests(unittest.TestCase):
     def test_broken_typed_link_is_reported(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             vault = Path(directory)
-            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors"):
+            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors", "Organizations"):
                 (vault / collection).mkdir()
             (vault / "Places" / "one.md").write_text("[[Papers/missing]]")
 
@@ -43,7 +43,7 @@ class VaultGraphAuditTests(unittest.TestCase):
     def test_qualified_link_does_not_fall_back_to_another_collection(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             vault = Path(directory)
-            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors"):
+            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors", "Organizations"):
                 (vault / collection).mkdir()
             (vault / "Places" / "one.md").write_text("[[Papers/missing]]")
             (vault / "Authors" / "missing.md").write_text("")
@@ -55,6 +55,22 @@ class VaultGraphAuditTests(unittest.TestCase):
             audit.unresolved_typed_links,
             (("Places/one", "Papers/missing"),),
         )
+
+    def test_organization_links_are_part_of_the_typed_graph(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            vault = Path(directory)
+            for collection in ("Places", "Periods", "Cultures", "Papers", "Authors", "Organizations"):
+                (vault / collection).mkdir()
+            (vault / "Organizations" / "university.md").write_text(
+                'people: ["[[Authors/researcher|Researcher]]"]'
+            )
+            (vault / "Authors" / "researcher.md").write_text("")
+
+            audit = audit_graph(vault)
+
+        self.assertEqual(len(audit.nodes), 2)
+        self.assertEqual(len(audit.edges), 1)
+        self.assertEqual(audit.unresolved_typed_links, ())
 
 
 if __name__ == "__main__":

@@ -19,7 +19,7 @@ export default function PapersIndexPage() {
         <h2>{papers.length} papers, kept whole.</h2>
         <p className={styles.indexLead}>
           Reports, books, journal issues, maps, testimony, and early accounts. Each record preserves
-          its source, credited people, and page-by-page machine transcription.
+          its source, credited people and organizations, and page-by-page machine transcription.
         </p>
         <dl className={styles.indexStats}>
           <div>

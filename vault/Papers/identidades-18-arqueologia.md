@@ -2,8 +2,9 @@
 type: "paper"
 paper_id: "identidades-18-arqueologia"
 title: "Revista Identidades 18: nuevas tendencias en arqueología"
-authors:
-  - "[[Authors/ministerio-de-cultura|Ministerio de Cultura]]"
+authors: []
+organizations:
+  - "[[Organizations/ministerio-de-cultura|Ministerio de Cultura]]"
 creator_raw: "Ministerio de Cultura"
 publication_year: 2021
 work_type: "journal-issue"

@@ -40,7 +40,14 @@ type VaultCatalogue = {
   backlinksByKey: Map<string, VaultRecordSummary[]>;
 };
 
-const preferredCollectionOrder = ["places", "periods", "cultures", "papers", "authors"];
+const preferredCollectionOrder = [
+  "places",
+  "periods",
+  "cultures",
+  "papers",
+  "authors",
+  "organizations",
+];
 const ignoredDirectories = new Set(["Attachments", "Templates", "Views"]);
 const collator = new Intl.Collator("es", { sensitivity: "base", numeric: true });
 let catalogueCache: VaultCatalogue | undefined;
@@ -81,11 +88,16 @@ export function vaultLinkLabel(value: string): string {
 function recordSubtitle(type: string, data: Record<string, unknown>): string {
   const parts: string[] = [];
   const year = data.publication_year ?? data.latest_study_year;
-  const kind = data.place_kind ?? data.author_kind ?? data.work_type;
+  const kind = data.place_kind ?? data.author_kind ?? data.organization_kind ?? data.work_type;
   if (typeof year === "number" || typeof year === "string") parts.push(String(year));
   if (typeof kind === "string" && kind) parts.push(kind.replaceAll("-", " "));
 
-  const linked = stringList(data.authors ?? data.periods ?? data.cultures)
+  const linked = [
+    ...stringList(data.authors),
+    ...stringList(data.organizations),
+    ...stringList(data.periods),
+    ...stringList(data.cultures),
+  ]
     .slice(0, 2)
     .map(vaultLinkLabel);
   if (linked.length) parts.push(linked.join(", "));
