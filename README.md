@@ -17,11 +17,6 @@ peoples and networks.
 - [`vault/Library.md`](vault/Library.md) indexes downloaded and linked sources.
 - [`vault/Views/Papers.base`](vault/Views/Papers.base) provides a searchable
   view of locally archived papers.
-- [`SITE-DESCRIPTION-AUDIT.md`](SITE-DESCRIPTION-AUDIT.md) defines the current
-  site-description audit method.
-- [`SITE-DESCRIPTION-AUDIT-CHECKLIST.md`](SITE-DESCRIPTION-AUDIT-CHECKLIST.md)
-  tracks that audit while it is in progress.
-
 The web application publishes every typed, top-level ontology collection in
 the vault. It currently provides specialized readers for Paper and Author
 records and generic pages for the rest of the graph.
