@@ -88,6 +88,22 @@ python3 tools/convert_pdfs_to_markdown.py --ocr auto --ocr-language spa+eng --dp
 Generated Markdown is a discovery and reading aid. Verify quotations, names,
 dates, diacritics, tables, and figures against the original PDF.
 
+## Web source discovery
+
+Government notices and repository records can document finds, rescue work,
+and research that has not entered the local PDF archive. Build a review queue
+from the Ministry of Culture and UTEC machine-readable endpoints:
+
+```bash
+python3 tools/discover_web_sources.py
+```
+
+The crawler compares source URLs and paper titles with the vault, searches the
+full text of Ministry notices, and writes ignored JSON and Markdown reports to
+`tmp/data/`. It never creates Place or Paper records. See
+[`docs/source-discovery.md`](docs/source-discovery.md) for source coverage,
+review rules, and the adapter expansion order.
+
 After changing normalized author, paper, or extraction metadata, render and
 validate the ontology:
 
