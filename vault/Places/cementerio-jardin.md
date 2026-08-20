@@ -5,14 +5,14 @@ name: "Cementerio Jardín"
 aliases: []
 place_kind: "Excavated site"
 atlas: true
-latitude: 13.9748
-longitude: -89.673
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Approximate locality about 700 m southeast of the main Tazumal group"
-coordinate_note: "The source gives an approximate distance and direction but no site coordinate or boundary; the marker is generalized."
+latitude: 13.974765
+longitude: -89.676054
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped Vergeles del Edén cemetery locality shown on the published Tazumal plan"
+coordinate_note: "The marker identifies the mapped cemetery containing the Cementerio Jardín locality; the source plan places it southwest of Tazumal despite describing it as southeast in the text."
 location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"

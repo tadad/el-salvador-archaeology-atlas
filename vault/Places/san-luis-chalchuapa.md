@@ -5,14 +5,14 @@ name: "San Luis, Chalchuapa"
 aliases: []
 place_kind: "Multi-period settlement · controlled excavation"
 atlas: true
-latitude: 13.9745
-longitude: -89.663
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Eastern Chalchuapa investigation area shown in the project plan"
-coordinate_note: "The article maps the project internally; this marker is a reconstructed site-area centroid."
+latitude: 13.962508
+longitude: -89.64811
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped location of Lotificación San Luis, the development investigated in 2014"
+coordinate_note: "The marker identifies the named lotificación and its mapped road network; the article does not publish the coordinates of individual excavation sectors."
 location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"

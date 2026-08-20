@@ -3,9 +3,16 @@ import "server-only";
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import type { AtlasData, AtlasPlace, Precision, TaxonomyEntry } from "@/lib/atlas-types";
+import type { AtlasData, AtlasPlace, CoordinateMethod, TaxonomyEntry } from "@/lib/atlas-types";
 
-const allowedPrecisions = new Set<Precision>(["published", "landmark", "approx"]);
+type StoredCoordinatePrecision = "published" | "landmark" | "approx";
+
+const coordinateMethodByPrecision: Record<StoredCoordinatePrecision, CoordinateMethod> = {
+  published: "published",
+  landmark: "mapped",
+  approx: "reconstructed",
+};
+const allowedCoordinatePrecisions = new Set(Object.keys(coordinateMethodByPrecision));
 let atlasCache: AtlasData | undefined;
 
 function vaultRoot(): string {
@@ -28,13 +35,6 @@ function strings(value: unknown): string[] {
 
 function optionalYear(value: unknown): number | null {
   return typeof value === "number" && Number.isFinite(value) ? value : null;
-}
-
-function requiredString(value: unknown, field: string, id: string): string {
-  if (typeof value !== "string" || !value.trim()) {
-    throw new Error(`Missing ${field} on ${id}`);
-  }
-  return value;
 }
 
 function wikiLabel(value: string): string {
@@ -88,10 +88,12 @@ function placeRecord(filename: string): AtlasPlace | null {
   if (parsed.data.atlas !== true) return null;
 
   const id = String(parsed.data.place_id || path.basename(filename, ".md"));
-  const precision = String(parsed.data.coordinate_precision) as Precision;
+  const coordinatePrecision = String(parsed.data.coordinate_precision);
   const lat = Number(parsed.data.latitude);
   const lon = Number(parsed.data.longitude);
-  if (!allowedPrecisions.has(precision)) throw new Error(`Invalid coordinate precision on ${id}`);
+  if (!allowedCoordinatePrecisions.has(coordinatePrecision)) {
+    throw new Error(`Invalid coordinate precision on ${id}`);
+  }
   if (!Number.isFinite(lat) || !Number.isFinite(lon)) throw new Error(`Invalid atlas coordinate on ${id}`);
   // `papers` contains only vault Paper entities. External-only citations stay
   // as direct links in the Place body's Sources section.
@@ -107,18 +109,7 @@ function placeRecord(filename: string): AtlasPlace | null {
     name: String(parsed.data.name || id),
     lat,
     lon,
-    precision,
-    precisionLabel: requiredString(parsed.data.coordinate_precision_label, "coordinate_precision_label", id),
-    precisionShortLabel: requiredString(
-      parsed.data.coordinate_precision_short_label,
-      "coordinate_precision_short_label",
-      id,
-    ),
-    precisionDescription: requiredString(
-      parsed.data.coordinate_precision_description,
-      "coordinate_precision_description",
-      id,
-    ),
+    coordinateMethod: coordinateMethodByPrecision[coordinatePrecision as StoredCoordinatePrecision],
     kind: String(parsed.data.place_kind || "Place"),
     basis: String(parsed.data.coordinate_basis || "Not documented"),
     note: String(parsed.data.coordinate_note || ""),
@@ -136,22 +127,11 @@ function placeRecord(filename: string): AtlasPlace | null {
 
 function validateAtlas(data: AtlasData): void {
   const ids = new Set<string>();
-  const precisionDefinitions = new Map<Precision, string>();
   const periodNames = new Set(data.periods.map((entry) => entry.name));
   const cultureNames = new Set(data.cultures.map((entry) => entry.name));
   for (const place of data.places) {
     if (ids.has(place.id)) throw new Error(`Duplicate place_id: ${place.id}`);
     ids.add(place.id);
-    const precisionDefinition = JSON.stringify([
-      place.precisionLabel,
-      place.precisionShortLabel,
-      place.precisionDescription,
-    ]);
-    const existingDefinition = precisionDefinitions.get(place.precision);
-    if (existingDefinition && existingDefinition !== precisionDefinition) {
-      throw new Error(`Conflicting ${place.precision} coordinate precision metadata on ${place.id}`);
-    }
-    precisionDefinitions.set(place.precision, precisionDefinition);
     for (const period of place.periods) {
       if (!periodNames.has(period)) throw new Error(`Unknown period ${period} on ${place.id}`);
     }

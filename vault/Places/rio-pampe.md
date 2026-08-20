@@ -7,12 +7,12 @@ place_kind: "Surveyed site"
 atlas: true
 latitude: 13.993515
 longitude: -89.678838
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Approximate Finca San Marcos area on the south bank of the Río Pampe"
-coordinate_note: "Longyear maps the group only at regional scale and gives no coordinate or site boundary; the marker is an approximate area anchor."
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped Pampe locality on the south side of Río Pampe"
+coordinate_note: "The marker identifies the mapped Pampe locality within Longyear’s described site area; it does not imply a surveyed archaeological boundary."
 location_visibility: "public"
 periods: []
 cultures: []

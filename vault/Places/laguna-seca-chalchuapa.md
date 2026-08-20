@@ -7,12 +7,12 @@ place_kind: "Chalchuapa archaeological area · limited published detail"
 atlas: true
 latitude: 13.9781
 longitude: -89.668029
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Laguna Seca area on the published Chalchuapa plan"
-coordinate_note: "The marker represents the named Chalchuapa area, not a published excavation coordinate or boundary."
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped location of Laguna Seca on the Chalchuapa plan"
+coordinate_note: "The marker identifies the accurately mapped Laguna Seca location; the cited sources do not define an archaeological boundary."
 location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"

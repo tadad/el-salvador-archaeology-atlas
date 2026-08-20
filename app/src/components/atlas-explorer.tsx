@@ -4,7 +4,15 @@ import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { VaultMarkdown } from "@/components/vault-markdown";
-import { type AtlasData, type AtlasPlace, type Precision } from "@/lib/atlas-types";
+import {
+  type AtlasData,
+  type AtlasPlace,
+  coordinateMethodMeta,
+  type LocationStatus,
+  locationStatusFor,
+  locationStatusMeta,
+  locationStatusOrder,
+} from "@/lib/atlas-types";
 
 const ExcavationMap = dynamic(() => import("./excavation-map"), {
   ssr: false,
@@ -16,7 +24,6 @@ const ExcavationMap = dynamic(() => import("./excavation-map"), {
   ),
 });
 
-const precisionOrder: Precision[] = ["published", "landmark", "approx"];
 const siteQueryParam = "site";
 const unknownFacetValue = "Unknown" as const;
 
@@ -44,20 +51,6 @@ function studyYearFor(place: AtlasPlace) {
 
 export function AtlasExplorer({ data }: { data: AtlasData }) {
   const digs = data.places;
-  const precisionMeta = Object.fromEntries(
-    precisionOrder.map((precision) => {
-      const place = digs.find((candidate) => candidate.precision === precision);
-      if (!place) throw new Error(`No Place defines ${precision} coordinate precision metadata`);
-      return [
-        precision,
-        {
-          label: place.precisionLabel,
-          shortLabel: place.precisionShortLabel,
-          description: place.precisionDescription,
-        },
-      ];
-    }),
-  ) as Record<Precision, { label: string; shortLabel: string; description: string }>;
   const periodOptions = [...data.periods.map((period) => period.name), unknownFacetValue];
   const cultureOptions = [...data.cultures.map((culture) => culture.name), unknownFacetValue];
   const periodDescriptions = Object.fromEntries(
@@ -88,10 +81,9 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
   const panelRef = useRef<HTMLElement>(null);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [query, setQuery] = useState("");
-  const [activePrecision, setActivePrecision] = useState<Record<Precision, boolean>>({
-    published: true,
-    landmark: true,
-    approx: true,
+  const [activeLocationStatus, setActiveLocationStatus] = useState<Record<LocationStatus, boolean>>({
+    located: true,
+    approximate: true,
   });
   const [activePeriods, setActivePeriods] = useState<string[]>([]);
   const [activeCultures, setActiveCultures] = useState<string[]>([]);
@@ -120,7 +112,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
         const searchableText = `${dig.name} ${dig.kind} ${dig.basis} ${dig.periods.join(" ")} ${dig.cultures.join(" ")} ${dig.lastFieldworkLabel ?? ""} ${dig.body}`;
 
         return (
-          activePrecision[dig.precision] &&
+          activeLocationStatus[locationStatusFor(dig.coordinateMethod)] &&
           matchesPeriod &&
           matchesCulture &&
           matchesYear &&
@@ -130,7 +122,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
     [
       activeCultures,
       activePeriods,
-      activePrecision,
+      activeLocationStatus,
       isYearFiltered,
       normalizedQuery,
       yearRange.max,
@@ -139,13 +131,14 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
   );
 
   const hasActiveFilters =
-    Object.values(activePrecision).some((isActive) => !isActive) ||
+    Object.values(activeLocationStatus).some((isActive) => !isActive) ||
     activePeriods.length > 0 ||
     activeCultures.length > 0 ||
     isYearFiltered;
   const selected = selectedId
     ? visibleDigs.find((dig) => dig.id === selectedId) ?? null
     : null;
+  const selectedLocationStatus = selected ? locationStatusFor(selected.coordinateMethod) : null;
 
   useEffect(() => {
     function restoreSelectionFromUrl() {
@@ -165,11 +158,11 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
     }
   }, [selected, selectedId]);
 
-  function togglePrecision(precision: Precision) {
-    setActivePrecision((current) => {
+  function toggleLocationStatus(status: LocationStatus) {
+    setActiveLocationStatus((current) => {
       const enabledCount = Object.values(current).filter(Boolean).length;
-      if (current[precision] && enabledCount === 1) return current;
-      return { ...current, [precision]: !current[precision] };
+      if (current[status] && enabledCount === 1) return current;
+      return { ...current, [status]: !current[status] };
     });
   }
 
@@ -190,7 +183,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
   }
 
   function resetFilters() {
-    setActivePrecision({ published: true, landmark: true, approx: true });
+    setActiveLocationStatus({ located: true, approximate: true });
     setActivePeriods([]);
     setActiveCultures([]);
     setYearRange(studyYearBounds);
@@ -218,21 +211,23 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
         <div className="map-column">
           <div className="map-toolbar">
             <div className="toolbar-controls">
-              <div className="precision-filters" aria-label="Filter by location precision">
-                {precisionOrder.map((precision) => {
-                  const count = digs.filter((dig) => dig.precision === precision).length;
+              <div className="location-filters" aria-label="Filter by location status">
+                {locationStatusOrder.map((status) => {
+                  const count = digs.filter(
+                    (dig) => locationStatusFor(dig.coordinateMethod) === status,
+                  ).length;
                   return (
                     <button
-                      className={`precision-filter precision-${precision}`}
+                      className={`location-filter location-${status}`}
                       type="button"
-                      key={precision}
-                      aria-pressed={activePrecision[precision]}
-                      aria-label={`${precisionMeta[precision].label}: ${count} sites`}
-                      onClick={() => togglePrecision(precision)}
-                      title={precisionMeta[precision].description}
+                      key={status}
+                      aria-pressed={activeLocationStatus[status]}
+                      aria-label={`${locationStatusMeta[status].label}: ${count} sites`}
+                      onClick={() => toggleLocationStatus(status)}
+                      title={locationStatusMeta[status].description}
                     >
-                      <span className="precision-symbol" aria-hidden="true" />
-                      <span>{precisionMeta[precision].shortLabel}</span>
+                      <span className="location-symbol" aria-hidden="true" />
+                      <span>{locationStatusMeta[status].label}</span>
                       <span className="filter-count">{count}</span>
                     </button>
                   );
@@ -432,13 +427,24 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
             </div>
           </div>
 
-          {selected ? (
+          {selected && selectedLocationStatus ? (
             <article className="site-record" key={selected.id}>
               <p className="record-kind">{selected.kind}</p>
               <h2>{selected.name}</h2>
-              <div className={`precision-badge precision-${selected.precision}`}>
-                <span className="precision-symbol" aria-hidden="true" />
-                {precisionMeta[selected.precision].label}
+              <div className={`location-badge location-${selectedLocationStatus}`}>
+                <span className="location-symbol" aria-hidden="true" />
+                {locationStatusMeta[selectedLocationStatus].label}
+              </div>
+
+              <div className="location-context">
+                <p
+                  className="location-method"
+                  title={coordinateMethodMeta[selected.coordinateMethod].description}
+                >
+                  {coordinateMethodMeta[selected.coordinateMethod].label}
+                </p>
+                <p className="location-basis">{selected.basis}</p>
+                {selected.note ? <p className="location-note">{selected.note}</p> : null}
               </div>
 
               <dl className="record-classification">
@@ -515,7 +521,10 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                     onClick={() => selectDig(dig)}
                     aria-current={dig.id === selected?.id ? "true" : undefined}
                   >
-                    <span className={`list-symbol precision-${dig.precision}`} aria-hidden="true" />
+                    <span
+                      className={`list-symbol location-${locationStatusFor(dig.coordinateMethod)}`}
+                      aria-hidden="true"
+                    />
                     <span>{dig.name}</span>
                     <span aria-hidden="true">→</span>
                   </button>

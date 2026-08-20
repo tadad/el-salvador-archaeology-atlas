@@ -7,12 +7,12 @@ place_kind: "Excavated residential site"
 atlas: true
 latitude: 13.988251
 longitude: -89.665507
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Finca Las Victorias, south of the Santa Ana–Ahuachapán highway and about 2 km east of Chalchuapa"
-coordinate_note: "The marker is fitted to Longyear's locality description and regional map; no site coordinate or boundary is published."
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped Colonia Las Victorias locality within the documented archaeological group"
+coordinate_note: "The marker identifies the mapped Las Victorias locality and agrees with the published archaeological plans; it does not imply a surveyed site boundary."
 location_visibility: "public"
 periods: []
 cultures: []

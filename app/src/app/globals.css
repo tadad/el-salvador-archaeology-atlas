@@ -13,6 +13,8 @@
   --rust-dark: #7f302b;
   --moss: #4f765c;
   --mustard: #3f718b;
+  --marker-ink: #111815;
+  --marker-halo: #ffffff;
   --shadow: none;
 }
 
@@ -149,13 +151,13 @@ h1 {
   padding-bottom: 10px;
 }
 
-.precision-filters {
+.location-filters {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
 
-.precision-filter {
+.location-filter {
   min-height: 35px;
   display: inline-flex;
   align-items: center;
@@ -166,53 +168,49 @@ h1 {
   color: var(--ink-soft);
   background: #ffffff;
   cursor: pointer;
+  font-size: 0.74rem;
+  white-space: nowrap;
   transition: border-color 160ms ease, background 160ms ease, opacity 160ms ease;
 }
 
-.precision-filter:hover {
+.location-filter:hover {
   border-color: rgba(0, 0, 0, 0.55);
   background: #f5f5f5;
 }
 
-.precision-filter[aria-pressed="false"] {
+.location-filter[aria-pressed="false"] {
   opacity: 0.44;
   background: transparent;
 }
 
-.precision-symbol,
+.location-symbol,
 .list-symbol {
-  width: 10px;
-  height: 10px;
+  width: 9px;
+  height: 9px;
   display: inline-block;
   flex: 0 0 auto;
-}
-
-.precision-published .precision-symbol,
-.list-symbol.precision-published {
   border-radius: 50%;
-  background: var(--rust);
 }
 
-.precision-landmark .precision-symbol,
-.list-symbol.precision-landmark {
-  background: var(--moss);
+.location-located .location-symbol,
+.list-symbol.location-located {
+  border: 1px solid var(--marker-ink);
+  background: var(--marker-ink);
 }
 
-.precision-approx .precision-symbol,
-.list-symbol.precision-approx {
-  width: 0;
-  height: 0;
-  border-left: 6px solid transparent;
-  border-right: 6px solid transparent;
-  border-bottom: 11px solid var(--mustard);
+.location-approximate .location-symbol,
+.list-symbol.location-approximate {
+  border: 1.5px solid var(--marker-ink);
+  background: transparent;
 }
 
 .filter-count {
-  min-width: 24px;
-  padding: 1px 5px;
+  min-width: 25px;
+  padding-left: 8px;
   border-left: 1px solid var(--line);
   color: var(--ink);
-  font-size: 0.72rem;
+  font-size: 0.68rem;
+  font-variant-numeric: tabular-nums;
   text-align: right;
 }
 
@@ -402,7 +400,7 @@ h1 {
   letter-spacing: -0.025em;
 }
 
-.precision-badge {
+.location-badge {
   width: fit-content;
   display: inline-flex;
   align-items: center;
@@ -415,6 +413,36 @@ h1 {
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+}
+
+.location-context {
+  margin: 10px 0 22px;
+  padding: 11px 12px;
+  border-left: 2px solid var(--line);
+  background: #f7f7f5;
+}
+
+.location-context p {
+  margin: 0;
+}
+
+.location-method {
+  color: var(--ink);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.location-basis,
+.location-note {
+  margin-top: 4px !important;
+  color: var(--ink-soft);
+  font-size: 0.76rem;
+  line-height: 1.45;
+}
+
+.location-note {
+  padding-top: 7px;
+  border-top: 1px solid var(--line);
 }
 
 .place-document > div {
@@ -701,59 +729,35 @@ h1 {
 .dig-marker::before {
   content: "";
   position: absolute;
-  inset: 3px;
-  border: 2px solid #ffffff;
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.35);
-  background: var(--marker-color);
-}
-
-.dig-marker.precision-published {
-  --marker-color: var(--rust);
-}
-
-.dig-marker.precision-published::before {
+  width: 14px;
+  height: 14px;
   border-radius: 50%;
 }
 
-.dig-marker.precision-landmark {
-  --marker-color: var(--moss);
+.dig-marker.location-located::before {
+  border: 2px solid var(--marker-halo);
+  background: var(--marker-ink);
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.72),
+    0 1px 4px rgba(0, 0, 0, 0.42);
 }
 
-.dig-marker.precision-landmark::before {
-  transform: rotate(45deg) scale(0.78);
-}
-
-.dig-marker.precision-approx {
-  --marker-color: var(--mustard);
-}
-
-.dig-marker.precision-approx::before {
-  inset: 2px;
-  border: 0;
-  background: var(--paper-light);
-  clip-path: polygon(50% 2%, 98% 94%, 2% 94%);
-}
-
-.dig-marker.precision-approx::after {
-  content: "";
-  position: absolute;
-  inset: 6px;
-  background: var(--mustard);
-  clip-path: polygon(50% 2%, 98% 94%, 2% 94%);
+.dig-marker.location-approximate::before {
+  border: 3px solid var(--marker-ink);
+  background: transparent;
+  box-shadow:
+    0 0 0 2px var(--marker-halo),
+    inset 0 0 0 1px var(--marker-halo),
+    0 1px 4px rgba(0, 0, 0, 0.42);
 }
 
 .dig-marker.is-selected {
-  transform: scale(1.08);
+  transform: scale(1.28);
   filter: none;
 }
 
 .dig-marker.is-selected::before {
-  box-shadow: 0 0 0 3px var(--ink);
-}
-
-.dig-marker.precision-approx.is-selected::before {
-  box-shadow: none;
-  filter: drop-shadow(0 0 2px var(--ink));
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.52));
 }
 
 .leaflet-tooltip {
@@ -820,11 +824,11 @@ h1 {
     align-items: flex-start;
   }
 
-  .precision-filters {
+  .location-filters {
     gap: 6px;
   }
 
-  .precision-filter {
+  .location-filter {
     min-height: 33px;
     padding: 6px 7px;
     gap: 6px;
@@ -869,10 +873,6 @@ h1 {
 }
 
 @media (max-width: 430px) {
-  .precision-filter > span:nth-child(2) {
-    display: none;
-  }
-
   .source-card {
     grid-template-columns: 1fr;
   }

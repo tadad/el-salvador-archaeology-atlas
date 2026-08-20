@@ -7,12 +7,12 @@ place_kind: "Excavated site"
 atlas: true
 latitude: 13.9796
 longitude: -89.6687
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Approximate point reconstructed from published relative locations"
-coordinate_note: "The source places Nuevo Tazumal northeast of Tazumal, south of Laguna Cuscachapa, and about 200 m southwest of Los Gavilanes, but publishes no coordinate for Nuevo Tazumal."
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped location of Nuevo Tazumal (El Cuje)"
+coordinate_note: "The marker identifies the accurately mapped location of Nuevo Tazumal (El Cuje); the cited source describes its relative position rather than publishing a coordinate."
 location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"

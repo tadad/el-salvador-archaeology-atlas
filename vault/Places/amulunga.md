@@ -7,12 +7,12 @@ place_kind: "Potential archaeological locality"
 atlas: true
 latitude: 13.996391
 longitude: -89.657166
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Approximate modern Amulunga locality east of Chalchuapa"
-coordinate_note: "The cited source names Amulunga but publishes no archaeological coordinate or site boundary; the marker is only a modern locality anchor."
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped location of Amulunga east of Chalchuapa"
+coordinate_note: "The marker identifies the mapped Amulunga locality; the cited archaeological source does not define a site boundary."
 location_visibility: "public"
 periods: []
 cultures: []

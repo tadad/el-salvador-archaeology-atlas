@@ -11,7 +11,13 @@ import {
   ZoomControl,
   useMap,
 } from "react-leaflet";
-import { type AtlasPlace, type Precision } from "@/lib/atlas-types";
+import {
+  type AtlasPlace,
+  coordinateMethodMeta,
+  type LocationStatus,
+  locationStatusFor,
+  locationStatusMeta,
+} from "@/lib/atlas-types";
 
 type ExcavationMapProps = {
   digs: AtlasPlace[];
@@ -31,10 +37,10 @@ const lidarBounds: [[number, number], [number, number]] = [
   [14.453935556, -87.673775302],
 ];
 
-function makeIcon(precision: Precision, selected: boolean): DivIcon {
+function makeIcon(status: LocationStatus, selected: boolean): DivIcon {
   return divIcon({
     className: "dig-marker-wrap",
-    html: `<span class="dig-marker precision-${precision}${selected ? " is-selected" : ""}"><span></span></span>`,
+    html: `<span class="dig-marker location-${status}${selected ? " is-selected" : ""}"><span></span></span>`,
     iconSize: selected ? [34, 34] : [26, 26],
     iconAnchor: selected ? [17, 17] : [13, 13],
   });
@@ -57,15 +63,29 @@ function SelectedSiteFocus({ selected }: { selected: AtlasPlace | null }) {
 export default function ExcavationMap({ digs, selected, onSelect }: ExcavationMapProps) {
   const [basemap, setBasemap] = useState<BasemapState>("lidar");
   const lidarErrorCount = useRef(0);
+  const markerGroups = useMemo(() => {
+    const groups = new Map<string, AtlasPlace[]>();
+
+    for (const dig of digs) {
+      const key = `${dig.lat}:${dig.lon}`;
+      const group = groups.get(key);
+
+      if (group) {
+        group.push(dig);
+      } else {
+        groups.set(key, [dig]);
+      }
+    }
+
+    return [...groups.values()];
+  }, [digs]);
   const icons = useMemo(
     () => ({
-      published: makeIcon("published", false),
-      landmark: makeIcon("landmark", false),
-      approx: makeIcon("approx", false),
+      located: makeIcon("located", false),
+      approximate: makeIcon("approximate", false),
       selected: {
-        published: makeIcon("published", true),
-        landmark: makeIcon("landmark", true),
-        approx: makeIcon("approx", true),
+        located: makeIcon("located", true),
+        approximate: makeIcon("approximate", true),
       },
     }),
     [],
@@ -122,16 +142,30 @@ export default function ExcavationMap({ digs, selected, onSelect }: ExcavationMa
         <ZoomControl position="bottomright" />
         <ScaleControl position="bottomleft" imperial={false} />
         <SelectedSiteFocus selected={selected} />
-        {digs.map((dig) => {
-          const isSelected = selected?.id === dig.id;
+        {markerGroups.map((colocatedDigs) => {
+          const selectedIndex = colocatedDigs.findIndex((dig) => dig.id === selected?.id);
+          const isSelected = selectedIndex >= 0;
+          const activeDig = isSelected ? colocatedDigs[selectedIndex] : colocatedDigs[0];
+          const hasAlternates = colocatedDigs.length > 1;
+          const locationStatus = locationStatusFor(activeDig.coordinateMethod);
+
+          function selectNextDig() {
+            if (!hasAlternates || selectedIndex < 0) {
+              onSelect(activeDig);
+              return;
+            }
+
+            onSelect(colocatedDigs[(selectedIndex + 1) % colocatedDigs.length]);
+          }
+
           return (
             <Marker
-              key={dig.id}
-              position={[dig.lat, dig.lon]}
-              icon={isSelected ? icons.selected[dig.precision] : icons[dig.precision]}
-              zIndexOffset={isSelected ? 1000 : dig.precision === "published" ? 200 : 0}
-              eventHandlers={{ click: () => onSelect(dig) }}
-              title={`${dig.name} — ${dig.precisionLabel}`}
+              key={colocatedDigs.map((dig) => dig.id).join(":")}
+              position={[activeDig.lat, activeDig.lon]}
+              icon={isSelected ? icons.selected[locationStatus] : icons[locationStatus]}
+              zIndexOffset={isSelected ? 1000 : locationStatus === "located" ? 200 : 0}
+              eventHandlers={{ click: selectNextDig }}
+              title={`${colocatedDigs.map((dig) => dig.name).join(", ")} — ${locationStatusMeta[locationStatus].label}`}
             >
               <Tooltip
                 key={isSelected ? "selected" : "hover"}
@@ -140,8 +174,16 @@ export default function ExcavationMap({ digs, selected, onSelect }: ExcavationMa
                 opacity={1}
                 permanent={isSelected}
               >
-                <strong>{dig.name}</strong>
-                <span>{dig.precisionLabel}</span>
+                <strong>
+                  {isSelected
+                    ? activeDig.name
+                    : colocatedDigs.map((dig) => dig.name).join(" / ")}
+                </strong>
+                <span>
+                  {hasAlternates
+                    ? `${isSelected ? `${selectedIndex + 1} of ` : ""}${colocatedDigs.length} records at this location · Click to switch`
+                    : `${locationStatusMeta[locationStatus].label} · ${coordinateMethodMeta[activeDig.coordinateMethod].label}`}
+                </span>
               </Tooltip>
             </Marker>
           );

@@ -96,9 +96,12 @@ export default function AboutPage() {
 
               <h2 id="coordinates">Map coordinates</h2>
               <p>
-                Public coordinates never imply more certainty than the source provides. Each marker
-                is identified as source-published, tied to a public landmark, or approximate. A
-                sensitive location may be generalized even when more precise information is known.
+                Public markers never imply more certainty than the sources provide. The map uses two
+                location statuses: located or approximate. A located marker is anchored either to a
+                source-published coordinate or to a known mapped reference point; the site record
+                explains which and states what the point represents. An approximate marker is a
+                best-fit area reconstructed from the cited evidence. A sensitive location may be
+                generalized even when more precise information is known.
               </p>
 
               <h2 id="sources">Sources and machine text</h2>

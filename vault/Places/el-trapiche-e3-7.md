@@ -7,12 +7,12 @@ place_kind: "Excavated site"
 atlas: true
 latitude: 13.9958
 longitude: -89.6697
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Approximate marker within the El Trapiche sector"
-coordinate_note: "The cited pages identify mound E3-7 at El Trapiche but do not publish a coordinate."
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped location of mound E3-7 within the El Trapiche sector"
+coordinate_note: "The marker identifies the accurately mapped location of mound E3-7; the cited pages identify the mound but do not publish a coordinate."
 location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"

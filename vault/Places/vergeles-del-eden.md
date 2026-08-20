@@ -5,14 +5,14 @@ name: "Vergeles del Edén"
 aliases: []
 place_kind: "Excavated site"
 atlas: true
-latitude: 13.9727
-longitude: -89.6696
-coordinate_precision: "approx"
-coordinate_precision_label: "Approximate area"
-coordinate_precision_short_label: "Approximate"
-coordinate_precision_description: "A best-fit location reconstructed from the paper’s description."
-coordinate_basis: "Named cemetery in Chalchuapa; the report gives no coordinate, parcel, or site boundary"
-coordinate_note: "Approximate marker retained from the prior record. It is not a published archaeological coordinate."
+latitude: 13.974765
+longitude: -89.676054
+coordinate_precision: "landmark"
+coordinate_precision_label: "Site or landmark"
+coordinate_precision_short_label: "Landmark"
+coordinate_precision_description: "A known site, church, estate, community, or mapped feature."
+coordinate_basis: "Mapped location of the Vergeles del Edén cemetery"
+coordinate_note: "The marker identifies the mapped cemetery where the archaeological test was conducted; it does not identify the precise test-pit position or an archaeological boundary."
 location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
