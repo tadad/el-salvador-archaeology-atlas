@@ -516,7 +516,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
           ) : (
             <div className="no-site-selected">
               <span aria-hidden="true">◎</span>
-              <p>Select a marker or choose a site below to read its archaeological story.</p>
+              <p>Select a map marker to read its archaeological story.</p>
             </div>
           )}
 
