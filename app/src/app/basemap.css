@@ -1,0 +1,95 @@
+.leaflet-atlas .basemap-osm {
+  filter: grayscale(0.72) saturate(0.52) contrast(0.95) brightness(1.05);
+}
+
+.basemap-control {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 800;
+  display: flex;
+  align-items: stretch;
+  border: 1px solid rgba(0, 0, 0, 0.45);
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.14);
+}
+
+.basemap-options {
+  display: flex;
+}
+
+.basemap-options button {
+  min-width: 52px;
+  min-height: 32px;
+  padding: 6px 9px;
+  border: 0;
+  border-left: 1px solid var(--line);
+  color: var(--ink-soft);
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+.basemap-options button:first-child {
+  border-left: 0;
+}
+
+.basemap-options button:hover {
+  color: var(--ink);
+  background: #f5f5f5;
+}
+
+.basemap-options button[aria-pressed="true"] {
+  color: #ffffff;
+  background: var(--ink);
+}
+
+.basemap-notice {
+  position: absolute;
+  top: 52px;
+  right: 10px;
+  z-index: 800;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: min(320px, calc(100% - 20px));
+  padding: 7px 8px 7px 10px;
+  border: 1px solid rgba(0, 0, 0, 0.45);
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.14);
+  font-size: 0.68rem;
+  line-height: 1.35;
+}
+
+.basemap-notice button {
+  padding: 3px 6px;
+  border: 1px solid var(--line);
+  color: var(--ink);
+  background: #ffffff;
+  cursor: pointer;
+  font-size: 0.65rem;
+  font-weight: 600;
+}
+
+.basemap-notice button:hover {
+  border-color: var(--ink);
+}
+
+@media (max-width: 430px) {
+  .basemap-control {
+    top: 8px;
+    right: 8px;
+  }
+
+  .basemap-options button {
+    min-width: 49px;
+    min-height: 34px;
+  }
+
+  .basemap-notice {
+    top: 50px;
+    right: 8px;
+  }
+}

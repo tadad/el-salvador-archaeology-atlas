@@ -11,6 +11,11 @@ vault/Attachments/PDFs/institutional/
 vault/Attachments/PDFs/public-domain/
 app/public/pdfs/
 
+# Source grayscale LiDAR cache and interrupted downloads. The colorized tile
+# pyramid is versioned so clean deployments include the default basemap.
+app/public/lidar/dem-2014/
+app/public/lidar/**/*.part
+
 # Per-user Obsidian window state
 vault/.obsidian/workspace.json
 vault/.obsidian/workspace-mobile.json

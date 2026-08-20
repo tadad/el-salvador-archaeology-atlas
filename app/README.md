@@ -22,8 +22,17 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-The map uses OpenStreetMap tiles and needs an internet connection for the
-basemap. Source buttons open the original PDFs hosted by FUNDAR, Cultura,
-Asociación Tikal, UES, UTEC, FAMSI, and other source repositories. The raw PDF
-archive is intentionally not part of the Git repository; original URLs and
-file hashes remain recorded in the corpus manifests and Markdown derivatives.
+`npm run lidar:download` mirrors the 2014 10 m LiDAR-derived DEM tile pyramid
+for zoom levels 7 through 14 into `public/lidar/dem-2014-elevation-v1`. The
+downloader converts the source grayscale raster to a blue-low, red-high
+elevation ramp, resumes partial downloads, and verifies that every response is
+a PNG before it is saved. The colorized tile pyramid is versioned so clean
+deployments include it; the source grayscale cache remains ignored. The app
+serves these tiles from its own origin with immutable cache headers.
+OpenStreetMap remains available through the Streets toggle and requires an
+internet connection.
+
+Source buttons open the original PDFs hosted by FUNDAR, Cultura, Asociación
+Tikal, UES, UTEC, FAMSI, and other source repositories. The raw PDF archive is
+intentionally not part of the Git repository; original URLs and file hashes
+remain recorded in the corpus manifests and Markdown derivatives.

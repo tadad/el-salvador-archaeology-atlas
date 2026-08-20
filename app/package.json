@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "typecheck": "next typegen && tsc --noEmit"
+    "typecheck": "next typegen && tsc --noEmit",
+    "lidar:download": "node scripts/download-lidar-tiles.mjs"
   },
   "dependencies": {
     "gray-matter": "4.0.3",
@@ -23,6 +24,7 @@
     "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
+    "sharp": "0.35.3",
     "typescript": "^5.9.0"
   }
 }
