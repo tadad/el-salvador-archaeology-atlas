@@ -49,6 +49,11 @@ function studyYearFor(place: AtlasPlace) {
   return place.latestStudyYear ?? place.lastFieldworkYear;
 }
 
+function googleMapsUrlFor(place: AtlasPlace) {
+  const coordinates = encodeURIComponent(`${place.lat},${place.lon}`);
+  return `https://www.google.com/maps/search/?api=1&query=${coordinates}`;
+}
+
 export function AtlasExplorer({ data }: { data: AtlasData }) {
   const digs = data.places;
   const periodOptions = [...data.periods.map((period) => period.name), unknownFacetValue];
@@ -445,6 +450,15 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                 </p>
                 <p className="location-basis">{selected.basis}</p>
                 {selected.note ? <p className="location-note">{selected.note}</p> : null}
+                <a
+                  className="google-maps-link"
+                  href={googleMapsUrlFor(selected)}
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label={`Open ${selected.name} coordinates in Google Maps (opens in a new tab)`}
+                >
+                  Open in Google Maps <span aria-hidden="true">↗</span>
+                </a>
               </div>
 
               <dl className="record-classification">

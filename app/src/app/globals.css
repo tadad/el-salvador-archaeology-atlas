@@ -447,6 +447,31 @@ h1 {
   border-top: 1px solid var(--line);
 }
 
+.google-maps-link {
+  width: fit-content;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  color: var(--mustard);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.google-maps-link span {
+  transition: transform 130ms ease;
+}
+
+.google-maps-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.google-maps-link:hover span {
+  transform: translate(2px, -2px);
+}
+
 .place-document > div {
   padding-top: 8px;
   color: var(--ink);
