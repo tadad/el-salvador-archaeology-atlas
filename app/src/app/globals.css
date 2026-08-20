@@ -13,8 +13,6 @@
   --rust-dark: #7f302b;
   --moss: #4f765c;
   --mustard: #3f718b;
-  --marker-ink: #111815;
-  --marker-halo: #ffffff;
   --shadow: none;
 }
 
@@ -194,14 +192,18 @@ h1 {
 
 .location-located .location-symbol,
 .list-symbol.location-located {
-  border: 1px solid var(--marker-ink);
-  background: var(--marker-ink);
+  width: 8px;
+  height: 8px;
+  border: 0;
+  border-radius: 1px;
+  background: var(--moss);
+  transform: rotate(45deg);
 }
 
 .location-approximate .location-symbol,
 .list-symbol.location-approximate {
-  border: 1.5px solid var(--marker-ink);
-  background: transparent;
+  border: 0;
+  background: var(--rust);
 }
 
 .filter-count {
@@ -729,35 +731,34 @@ h1 {
 .dig-marker::before {
   content: "";
   position: absolute;
-  width: 14px;
-  height: 14px;
-  border-radius: 50%;
+  inset: 3px;
+  border: 2px solid #ffffff;
+  background: var(--marker-color);
+}
+
+.dig-marker.location-located {
+  --marker-color: var(--moss);
 }
 
 .dig-marker.location-located::before {
-  border: 2px solid var(--marker-halo);
-  background: var(--marker-ink);
-  box-shadow:
-    0 0 0 1px rgba(0, 0, 0, 0.72),
-    0 1px 4px rgba(0, 0, 0, 0.42);
+  transform: rotate(45deg) scale(0.78);
+}
+
+.dig-marker.location-approximate {
+  --marker-color: var(--rust);
 }
 
 .dig-marker.location-approximate::before {
-  border: 3px solid var(--marker-ink);
-  background: transparent;
-  box-shadow:
-    0 0 0 2px var(--marker-halo),
-    inset 0 0 0 1px var(--marker-halo),
-    0 1px 4px rgba(0, 0, 0, 0.42);
+  border-radius: 50%;
 }
 
 .dig-marker.is-selected {
-  transform: scale(1.28);
+  transform: scale(1.08);
   filter: none;
 }
 
 .dig-marker.is-selected::before {
-  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.52));
+  box-shadow: 0 0 0 3px var(--ink);
 }
 
 .leaflet-tooltip {
