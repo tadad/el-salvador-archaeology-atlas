@@ -209,11 +209,14 @@
 }
 
 .record-classification {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
   margin: 18px 0 0;
   border-top: 1px solid var(--line);
 }
 
 .record-classification > div {
+  min-width: 0;
   display: grid;
   grid-template-columns: 94px minmax(0, 1fr);
   gap: 10px;
