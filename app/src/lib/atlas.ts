@@ -142,7 +142,7 @@ function validateAtlas(data: AtlasData): void {
 }
 
 export function getAtlasData(): AtlasData {
-  if (atlasCache) return atlasCache;
+  if (process.env.NODE_ENV === "production" && atlasCache) return atlasCache;
   const root = vaultRoot();
   const data = {
     places: markdownFiles(path.join(root, "Places"))
@@ -152,6 +152,6 @@ export function getAtlasData(): AtlasData {
     cultures: taxonomy(path.join(root, "Cultures"), "culture"),
   };
   validateAtlas(data);
-  atlasCache = data;
+  if (process.env.NODE_ENV === "production") atlasCache = data;
   return data;
 }
