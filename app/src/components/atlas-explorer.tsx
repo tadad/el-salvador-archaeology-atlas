@@ -520,34 +520,6 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
             </div>
           )}
 
-          <div className="site-index">
-            <div className="index-heading">
-              <span>Site index</span>
-              <span>{visibleDigs.length.toString().padStart(2, "0")}</span>
-            </div>
-            <div className="site-list">
-              {visibleDigs.length ? (
-                visibleDigs.map((dig) => (
-                  <button
-                    key={dig.id}
-                    type="button"
-                    className={`site-list-item ${dig.id === selected?.id ? "is-selected" : ""}`}
-                    onClick={() => selectDig(dig)}
-                    aria-current={dig.id === selected?.id ? "true" : undefined}
-                  >
-                    <span
-                      className={`list-symbol location-${locationStatusFor(dig.coordinateMethod)}`}
-                      aria-hidden="true"
-                    />
-                    <span>{dig.name}</span>
-                    <span aria-hidden="true">→</span>
-                  </button>
-                ))
-              ) : (
-                <p className="no-results">No site matches that search.</p>
-              )}
-            </div>
-          </div>
         </aside>
       </section>
     </main>

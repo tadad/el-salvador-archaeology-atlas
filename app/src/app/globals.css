@@ -78,7 +78,6 @@ input:focus-visible {
 .source-heading,
 .story-label,
 .map-evidence-heading,
-.index-heading,
 .panel-search label {
   font-size: 0.65rem;
   font-weight: 600;
@@ -687,58 +686,6 @@ h1 {
   font-weight: 500;
 }
 
-.site-index {
-  padding: 24px;
-}
-
-.index-heading {
-  display: flex;
-  justify-content: space-between;
-  padding-bottom: 9px;
-  border-bottom: 2px solid var(--ink);
-  color: var(--ink);
-}
-
-.site-list {
-  display: grid;
-}
-
-.site-list-item {
-  width: 100%;
-  display: grid;
-  grid-template-columns: 14px minmax(0, 1fr) auto;
-  gap: 10px;
-  align-items: center;
-  padding: 10px 2px;
-  border: 0;
-  border-bottom: 1px solid var(--line);
-  color: var(--ink-soft);
-  background: transparent;
-  font-family: var(--font-sans), sans-serif;
-  font-size: 0.84rem;
-  text-align: left;
-  cursor: pointer;
-  transition: color 130ms ease, padding 130ms ease, background 130ms ease;
-}
-
-.site-list-item:hover,
-.site-list-item.is-selected {
-  padding-left: 7px;
-  color: var(--ink);
-  background: rgba(63, 113, 139, 0.07);
-}
-
-.site-list-item > span:last-child {
-  font-family: var(--font-sans), sans-serif;
-}
-
-.no-results {
-  padding: 24px 0;
-  color: var(--ink-soft);
-  font-family: var(--font-sans), sans-serif;
-  font-style: italic;
-}
-
 .dig-marker-wrap {
   background: transparent;
   border: 0;
@@ -891,7 +838,6 @@ h1 {
   }
 
   .site-record,
-  .site-index,
   .panel-search {
     padding-left: 18px;
     padding-right: 18px;
