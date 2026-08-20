@@ -251,8 +251,7 @@
   margin: 1.5rem 0;
 }
 
-.metadataGrid dd,
-.propertyGrid dd {
+.metadataGrid dd {
   margin: 3px 0 0;
   font-size: 0.85rem;
   overflow-wrap: anywhere;
@@ -260,16 +259,35 @@
 
 .propertyGrid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 18px 24px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 4px;
   margin: 1.75rem 0 0;
 }
 
 .propertyGrid > div {
   min-width: 0;
+  display: grid;
+  grid-template-columns: clamp(170px, 29%, 210px) minmax(0, 1fr);
+  gap: 12px;
+  align-items: baseline;
+  padding: 2px 0;
 }
 
-.propertyGrid dt,
+.propertyGrid > div > dt {
+  color: #666;
+  font-family: "Avenir Next", Avenir, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.propertyGrid dd {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
 .nestedProperties dt {
   color: #555;
   font-family: inherit;
