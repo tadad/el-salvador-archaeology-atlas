@@ -249,6 +249,7 @@
 .propertyGrid dt,
 .nestedProperties dt {
   color: #555;
+  font-family: inherit;
   font-size: 0.75rem;
   text-transform: capitalize;
 }
