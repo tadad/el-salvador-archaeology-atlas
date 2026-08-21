@@ -49,26 +49,30 @@ export function LibraryShell({ collection: collectionSlug, activeSlug, children 
             <summary>
               Browse {collection.records.length} {collection.name.toLocaleLowerCase()}
             </summary>
-            <ol className={styles.recordList}>
-              {collection.records.map((record, index) => (
-                <li key={record.slug}>
-                  <Link
-                    aria-current={activeSlug === record.slug ? "page" : undefined}
-                    href={`/sources/${collection.slug}/${encodeURIComponent(record.slug)}`}
-                  >
-                    <span className={styles.recordNumber}>{String(index + 1).padStart(3, "0")}</span>
-                    <span>
-                      <strong>{record.title}</strong>
-                      <small>{record.subtitle}</small>
-                    </span>
-                  </Link>
-                </li>
-              ))}
-            </ol>
+            <div className={styles.recordListViewport}>
+              <ol className={styles.recordList}>
+                {collection.records.map((record, index) => (
+                  <li key={record.slug}>
+                    <Link
+                      aria-current={activeSlug === record.slug ? "page" : undefined}
+                      href={`/sources/${collection.slug}/${encodeURIComponent(record.slug)}`}
+                    >
+                      <span className={styles.recordNumber}>{String(index + 1).padStart(3, "0")}</span>
+                      <span>
+                        <strong>{record.title}</strong>
+                        <small>{record.subtitle}</small>
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ol>
+            </div>
           </details>
         </aside>
 
-        <section className={styles.reader}>{children}</section>
+        <section className={styles.reader} aria-label="Wiki article" tabIndex={0}>
+          {children}
+        </section>
       </div>
     </main>
   );

@@ -1,5 +1,9 @@
 .libraryPage {
+  height: 100svh;
   min-height: 100svh;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  overflow: hidden;
   color: #111;
   background: #fff;
   font-family: Georgia, "Times New Roman", serif;
@@ -29,15 +33,19 @@
 
 .libraryWorkspace {
   width: min(100%, 1120px);
-  min-height: calc(100svh - 68px);
+  min-height: 0;
   display: grid;
   grid-template-columns: 300px minmax(0, 1fr);
   margin: 28px auto 0;
-  padding: 0 20px 80px;
+  padding: 0 20px;
+  overflow: hidden;
 }
 
 .catalogue {
   min-width: 0;
+  min-height: 0;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
   border-right: 1px solid #ddd;
 }
 
@@ -86,11 +94,22 @@
   display: none;
 }
 
+.recordDrawer {
+  min-height: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.recordListViewport {
+  position: absolute;
+  inset: 0;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+}
+
 .recordList {
-  max-height: calc(100svh - 195px);
   margin: 0;
   padding: 0 20px 0 0;
-  overflow-y: auto;
   list-style: none;
 }
 
@@ -144,7 +163,11 @@
 
 .reader {
   min-width: 0;
-  padding-left: 36px;
+  min-height: 0;
+  padding: 0 0 80px 36px;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  scrollbar-gutter: stable;
 }
 
 .indexPage,
@@ -435,6 +458,12 @@
 }
 
 @media (max-width: 760px) {
+  .libraryPage {
+    height: auto;
+    display: block;
+    overflow: visible;
+  }
+
   .masthead,
   .libraryWorkspace {
     padding-inline: 16px;
@@ -442,9 +471,11 @@
 
   .libraryWorkspace {
     display: block;
+    overflow: visible;
   }
 
   .catalogue {
+    display: block;
     border-right: 0;
     border-bottom: 1px solid #ccc;
   }
@@ -459,13 +490,25 @@
     cursor: pointer;
   }
 
-  .recordList {
+  .recordListViewport {
+    position: static;
     max-height: 35svh;
+  }
+
+  .recordList {
     padding-right: 0;
   }
 
+  .recordDrawer {
+    position: static;
+    overflow: visible;
+  }
+
   .reader {
-    padding: 28px 0 0;
+    padding: 28px 0 80px;
+    overflow: visible;
+    overscroll-behavior-y: auto;
+    scrollbar-gutter: auto;
   }
 
   .metadataGrid {
