@@ -252,7 +252,7 @@
 
 .propertyGrid > div > dt {
   color: #666;
-  font-family: "Avenir Next", Avenir, sans-serif;
+  font-family: inherit;
   font-size: 0.7rem;
   font-weight: 600;
   line-height: 1.4;
