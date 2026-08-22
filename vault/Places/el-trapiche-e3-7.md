@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "burials-human-remains"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2020-flores-investigaciones-el-trapiche-1953-2019]]"

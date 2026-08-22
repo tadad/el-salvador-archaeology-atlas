@@ -16,6 +16,8 @@ coordinate_note: "The marker is only a display proxy. The source does not place 
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "burials-human-remains"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

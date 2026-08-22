@@ -16,6 +16,7 @@ coordinate_note:
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers: []
 latest_study_year:
 latest_study_label:

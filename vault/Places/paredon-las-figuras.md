@@ -16,6 +16,8 @@ coordinate_note: "The source gives distance and direction but no coordinate; the
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "rock-art"
 papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
 latest_study_year: 1996

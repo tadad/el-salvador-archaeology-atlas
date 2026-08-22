@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "middens-refuse"
+  - "architecture"
+  - "burials-human-remains"
+  - "shell-faunal-bone"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2012

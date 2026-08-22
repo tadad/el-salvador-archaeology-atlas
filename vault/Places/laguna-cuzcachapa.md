@@ -18,6 +18,8 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
   - "[[Papers/casasola_panorama]]"

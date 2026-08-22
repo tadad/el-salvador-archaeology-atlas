@@ -18,6 +18,7 @@ periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
 cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
+finds: []
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2014

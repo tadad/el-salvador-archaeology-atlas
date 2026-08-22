@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "ceramics"
+  - "shell-faunal-bone"
+  - "lithics-stone-tools"
+  - "burials-human-remains"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

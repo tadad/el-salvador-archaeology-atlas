@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/boggs_club]]"
 latest_study_year: 1945

@@ -16,6 +16,7 @@ coordinate_note: "The sources place the archaeological site north of the lake bu
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/2014-erquicia-estadistica-1854-arqueologia]]"
   - "[[Papers/anales-56]]"

@@ -17,6 +17,7 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds: []
 papers:
   - "[[Papers/chalchuapa-architecture]]"
   - "[[Papers/finca-rosita-santa-ana]]"

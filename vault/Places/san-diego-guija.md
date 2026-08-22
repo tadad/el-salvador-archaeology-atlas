@@ -16,6 +16,9 @@ coordinate_note: "Approximate marker reconstructed from Longyear’s route descr
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "architecture"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

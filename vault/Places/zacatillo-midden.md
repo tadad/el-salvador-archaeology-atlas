@@ -16,6 +16,9 @@ coordinate_note: "The marker is an island-scale offset for orientation, not a pu
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "middens-refuse"
+  - "shell-faunal-bone"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2005

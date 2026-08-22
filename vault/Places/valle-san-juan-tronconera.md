@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "fire-features"
+  - "architecture"
 papers:
   - "[[Papers/boggs_hornos]]"
 latest_study_year: null

@@ -147,6 +147,13 @@
   background: #f5f5f5;
 }
 
+.finds-popover .facet-option-list {
+  max-height: min(430px, calc(100vh - 250px));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+}
+
 .facet-option > span:last-child {
   color: var(--ink-soft);
   font-variant-numeric: tabular-nums;
@@ -283,5 +290,9 @@
     top: 112px;
     right: 12px;
     left: 12px;
+  }
+
+  .finds-popover .facet-option-list {
+    max-height: calc(100vh - 310px);
   }
 }

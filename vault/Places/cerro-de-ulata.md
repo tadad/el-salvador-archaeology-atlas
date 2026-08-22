@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/identidades-18-arqueologia]]"

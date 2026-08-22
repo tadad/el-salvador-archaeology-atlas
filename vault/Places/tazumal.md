@@ -18,6 +18,12 @@ periods:
   - "[[Periods/classic|Classic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "burials-human-remains"
+  - "lithics-stone-tools"
+  - "ceramics"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

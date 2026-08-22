@@ -16,6 +16,9 @@ coordinate_note: "Approximate marker reconstructed from the report’s road, str
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "ceramics"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

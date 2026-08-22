@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

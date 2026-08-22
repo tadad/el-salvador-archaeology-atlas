@@ -16,6 +16,8 @@ coordinate_note: "This point represents the described hacienda ridge, not a publ
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

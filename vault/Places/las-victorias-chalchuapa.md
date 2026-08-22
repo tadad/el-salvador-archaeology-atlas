@@ -16,6 +16,10 @@ coordinate_note: "The marker identifies the mapped Las Victorias locality and ag
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
+  - "stone-sculpture-monuments"
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/2020-flores-investigaciones-el-trapiche-1953-2019]]"

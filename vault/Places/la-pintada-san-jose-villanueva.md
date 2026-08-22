@@ -16,6 +16,8 @@ coordinate_note: "The publication describes the shelter and municipality but pro
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "rock-art"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

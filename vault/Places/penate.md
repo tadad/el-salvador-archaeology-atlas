@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
 papers:
   - "[[Papers/chalchuapa-architecture]]"
 latest_study_year: 2006

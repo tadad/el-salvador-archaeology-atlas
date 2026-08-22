@@ -18,6 +18,8 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "burials-human-remains"
 papers:
   - "[[Papers/2004-el-cambio-arqueologia]]"
   - "[[Papers/anales-56]]"

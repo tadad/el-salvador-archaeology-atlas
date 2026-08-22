@@ -18,6 +18,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "agriculture-cultivation"
 papers:
   - "[[Papers/2024-flores-riqueza-arqueologica-centro-san-salvador]]"
 latest_study_year: 2024

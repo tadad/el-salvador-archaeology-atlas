@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2009

@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "stone-sculpture-monuments"
+  - "ceramics"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"

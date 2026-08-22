@@ -16,6 +16,9 @@ coordinate_note: "Approximate town-area marker; the report gives no reproducible
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "architecture"
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/testimony1]]"

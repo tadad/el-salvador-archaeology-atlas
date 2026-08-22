@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "burials-human-remains"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/earliest_pipil]]"

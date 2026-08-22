@@ -18,6 +18,9 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "burials-human-remains"
+  - "architecture"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/anales-56]]"

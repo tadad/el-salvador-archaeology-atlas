@@ -16,6 +16,7 @@ coordinate_note: "A later review identifies a 1996 internal report on rescue exc
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 1996

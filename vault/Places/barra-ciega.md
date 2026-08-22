@@ -18,6 +18,8 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/casasola_panorama]]"
   - "[[Papers/haberland_marihua]]"

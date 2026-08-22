@@ -16,6 +16,9 @@ coordinate_note: "The source places one of two El Rico-area middens in Estero Ma
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "middens-refuse"
+  - "shell-faunal-bone"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2000

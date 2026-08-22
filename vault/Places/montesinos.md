@@ -16,6 +16,9 @@ coordinate_note: "The survey identifies an exposed eastern hill cut but no coord
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
   - "[[Papers/2005-amador-golfo-fonseca]]"

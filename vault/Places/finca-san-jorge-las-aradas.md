@@ -18,6 +18,9 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "ceramics"
 papers:
   - "[[Papers/finca-san-jorge-las-aradas]]"
 latest_study_year: 2013

@@ -17,6 +17,10 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/lasmariasurgencia]]"
   - "[[Papers/tlalocreport]]"

@@ -18,6 +18,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
 papers:
   - "[[Papers/P7]]"
   - "[[Papers/Gloria1975]]"

@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
+  - "ceramics"
 papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024

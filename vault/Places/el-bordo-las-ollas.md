@@ -16,6 +16,8 @@ coordinate_note: "The source gives a road exposure and registry number 31-4 but 
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

@@ -16,6 +16,9 @@ coordinate_note: "The eastern atlas records architecture here but withholds a co
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "architecture"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"

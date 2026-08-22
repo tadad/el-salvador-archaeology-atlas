@@ -3,7 +3,13 @@ import "server-only";
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import type { AtlasData, AtlasPlace, CoordinateMethod, TaxonomyEntry } from "@/lib/atlas-types";
+import {
+  findsTaxonomy,
+  type AtlasData,
+  type AtlasPlace,
+  type CoordinateMethod,
+  type TaxonomyEntry,
+} from "@/lib/atlas-types";
 
 type StoredCoordinatePrecision = "published" | "landmark" | "approx";
 
@@ -31,6 +37,13 @@ function markdownFiles(directory: string): string[] {
 
 function strings(value: unknown): string[] {
   return Array.isArray(value) ? value.filter((item): item is string => typeof item === "string") : [];
+}
+
+function requiredStrings(value: unknown, field: string, recordId: string): string[] {
+  if (!Array.isArray(value) || !value.every((item): item is string => typeof item === "string")) {
+    throw new Error(`Expected ${field} array on ${recordId}`);
+  }
+  return value;
 }
 
 function optionalYear(value: unknown): number | null {
@@ -88,6 +101,7 @@ function placeRecord(filename: string): AtlasPlace | null {
   if (parsed.data.atlas !== true) return null;
 
   const id = String(parsed.data.place_id || path.basename(filename, ".md"));
+  const finds = requiredStrings(parsed.data.finds, "finds", id);
   const coordinatePrecision = String(parsed.data.coordinate_precision);
   const lat = Number(parsed.data.latitude);
   const lon = Number(parsed.data.longitude);
@@ -115,6 +129,7 @@ function placeRecord(filename: string): AtlasPlace | null {
     note: String(parsed.data.coordinate_note || ""),
     periods: strings(parsed.data.periods).map(wikiLabel),
     cultures: strings(parsed.data.cultures).map(wikiLabel),
+    finds,
     latestStudyYear: optionalYear(parsed.data.latest_study_year),
     latestStudyLabel: parsed.data.latest_study_label ? String(parsed.data.latest_study_label) : null,
     lastFieldworkYear: optionalYear(parsed.data.last_fieldwork_year),
@@ -129,6 +144,7 @@ function validateAtlas(data: AtlasData): void {
   const ids = new Set<string>();
   const periodNames = new Set(data.periods.map((entry) => entry.name));
   const cultureNames = new Set(data.cultures.map((entry) => entry.name));
+  const findIds = new Set(data.finds.map((entry) => entry.id));
   for (const place of data.places) {
     if (ids.has(place.id)) throw new Error(`Duplicate place_id: ${place.id}`);
     ids.add(place.id);
@@ -137,6 +153,12 @@ function validateAtlas(data: AtlasData): void {
     }
     for (const culture of place.cultures) {
       if (!cultureNames.has(culture)) throw new Error(`Unknown culture ${culture} on ${place.id}`);
+    }
+    for (const find of place.finds) {
+      if (!findIds.has(find)) throw new Error(`Unknown find ${find} on ${place.id}`);
+    }
+    if (new Set(place.finds).size !== place.finds.length) {
+      throw new Error(`Duplicate finds on ${place.id}`);
     }
   }
 }
@@ -150,6 +172,7 @@ export function getAtlasData(): AtlasData {
       .filter((place): place is AtlasPlace => place !== null),
     periods: taxonomy(path.join(root, "Periods"), "period"),
     cultures: taxonomy(path.join(root, "Cultures"), "culture"),
+    finds: findsTaxonomy,
   };
   validateAtlas(data);
   if (process.env.NODE_ENV === "production") atlasCache = data;

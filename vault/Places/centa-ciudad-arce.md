@@ -16,6 +16,9 @@ coordinate_note: "The marker represents the named institution, not a published a
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "burials-human-remains"
+  - "ceramics"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

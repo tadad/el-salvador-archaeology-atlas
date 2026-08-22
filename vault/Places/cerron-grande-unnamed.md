@@ -16,6 +16,7 @@ coordinate_note: "The point represents the broad rescue-project area, not any on
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/drowned]]"
 latest_study_year: 2003

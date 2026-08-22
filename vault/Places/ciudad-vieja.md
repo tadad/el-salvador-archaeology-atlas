@@ -18,6 +18,7 @@ periods:
   - "[[Periods/colonial|Colonial]]"
 cultures:
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
+finds: []
 papers:
   - "[[Papers/2002-fowler-ciudad-vieja]]"
   - "[[Papers/2004-fowler-et-al-ciudad-vieja-teledeteccion]]"

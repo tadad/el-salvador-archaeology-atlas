@@ -17,6 +17,10 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "fire-features"
 papers:
   - "[[Papers/P7]]"
 latest_study_year: 2002

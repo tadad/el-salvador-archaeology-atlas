@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
 papers:
   - "[[Papers/carranza1]]"
   - "[[Papers/carranza2]]"

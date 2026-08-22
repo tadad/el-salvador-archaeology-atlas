@@ -16,6 +16,11 @@ coordinate_note: "The marker is an approximate regional placement, not a publish
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "middens-refuse"
+  - "shell-faunal-bone"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2003

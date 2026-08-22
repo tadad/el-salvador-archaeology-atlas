@@ -20,6 +20,9 @@ periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
 cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
+finds:
+  - "architecture"
+  - "industrial-works-machinery"
 papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021

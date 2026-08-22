@@ -16,6 +16,8 @@ coordinate_note: "The report gives only a relational location; the marker is app
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "rock-art"
 papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
 latest_study_year: 1996

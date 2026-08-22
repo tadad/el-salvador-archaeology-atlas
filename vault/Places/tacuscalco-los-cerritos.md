@@ -16,6 +16,8 @@ coordinate_note: "Research included mapping, surface collection, excavation, and
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "burials-human-remains"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-56]]"

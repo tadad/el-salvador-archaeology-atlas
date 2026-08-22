@@ -18,6 +18,7 @@ coordinate_note: "The marker identifies the present public school campus, not th
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers: []
 latest_study_year: 2026
 latest_study_label: "2026 Ministry of Culture retrospective notice; no site-specific study located"

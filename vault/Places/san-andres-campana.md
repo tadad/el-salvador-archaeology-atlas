@@ -20,6 +20,12 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures:
   - "[[Cultures/maya-related|Maya-related]]"
+finds:
+  - "architecture"
+  - "plazas-ballcourts"
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "stone-sculpture-monuments"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2018-ito-produccion-alfareria-san-andres]]"

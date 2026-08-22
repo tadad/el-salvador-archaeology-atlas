@@ -21,6 +21,9 @@ periods:
 cultures:
   - "[[Cultures/maya-related|Maya-related]]"
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
+finds:
+  - "architecture"
+  - "agriculture-cultivation"
 papers:
   - "[[Papers/1994-amaroli-hermes-velasquez-antiguo-cuscatlan]]"
   - "[[Papers/2025-flores-manzano-despues-ilopango]]"

@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/bruhns]]"
   - "[[Papers/drowned]]"

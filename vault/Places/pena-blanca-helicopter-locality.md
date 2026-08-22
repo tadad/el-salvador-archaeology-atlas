@@ -16,6 +16,7 @@ coordinate_note: "The marker is intentionally generalized and does not identify 
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

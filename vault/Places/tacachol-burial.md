@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "burials-human-remains"
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "shell-faunal-bone"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

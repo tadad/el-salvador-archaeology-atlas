@@ -19,6 +19,9 @@ periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
 cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
+finds:
+  - "architecture"
+  - "industrial-works-machinery"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
   - "[[Papers/2026-castellon-metapas-fierro]]"

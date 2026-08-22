@@ -17,6 +17,10 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/1987-fowler-et-al-chipped-stone-cihuatan]]"
   - "[[Papers/drowned]]"

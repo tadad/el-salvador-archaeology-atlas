@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
   - "[[Papers/anales-56]]"

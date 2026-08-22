@@ -16,6 +16,7 @@ coordinate_note: "Approximate town-center marker. The location of the reported r
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/anales-55]]"

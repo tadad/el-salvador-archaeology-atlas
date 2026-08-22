@@ -18,6 +18,9 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/arqueologia-cuzcatleca-valle-de-san-salvador]]"
   - "[[Papers/casasola_panorama]]"

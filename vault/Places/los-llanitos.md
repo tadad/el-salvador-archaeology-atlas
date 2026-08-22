@@ -17,6 +17,12 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
+  - "architecture"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/haberland_sequences]]"

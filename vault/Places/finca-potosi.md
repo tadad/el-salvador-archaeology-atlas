@@ -16,6 +16,10 @@ coordinate_note: "The marker is a proxy; the report publishes no archaeological 
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "rock-art"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

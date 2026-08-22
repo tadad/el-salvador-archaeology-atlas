@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/2025-valdivieso-martinez-educacion-prehispanica]]"
   - "[[Papers/atalaya-acajutla]]"

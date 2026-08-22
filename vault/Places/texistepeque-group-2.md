@@ -16,6 +16,8 @@ coordinate_note: "Approximate marker reconstructed from the report’s distance-
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

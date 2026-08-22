@@ -16,6 +16,8 @@ coordinate_note: "The report describes the shelter but gives no coordinate, dist
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "rock-art"
 papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
 latest_study_year: 1996

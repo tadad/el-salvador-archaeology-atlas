@@ -16,6 +16,9 @@ coordinate_note: "The marker approximates the described ridge-top area; the sour
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
 papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022

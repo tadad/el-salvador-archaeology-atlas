@@ -16,6 +16,11 @@ coordinate_note: "Habel witnessed a grave being opened at Apaneca; controlled ex
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "burials-human-remains"
+  - "ceramics"
+  - "stone-sculpture-monuments"
+  - "jade-greenstone"
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/spinden1915]]"

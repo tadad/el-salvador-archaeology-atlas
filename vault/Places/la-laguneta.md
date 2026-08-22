@@ -18,6 +18,10 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "plazas-ballcourts"
+  - "mounds-pyramids"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/anales-53]]"

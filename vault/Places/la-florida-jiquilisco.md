@@ -18,6 +18,8 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2008

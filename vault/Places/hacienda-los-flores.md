@@ -17,6 +17,7 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds: []
 papers:
   - "[[Papers/drowned]]"
   - "[[Papers/kelley_1988]]"

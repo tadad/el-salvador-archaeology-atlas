@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "plazas-ballcourts"
+  - "mounds-pyramids"
+  - "ceramics"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"

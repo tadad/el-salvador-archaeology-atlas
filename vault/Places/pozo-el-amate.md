@@ -16,6 +16,8 @@ coordinate_note: "The source locates the site on a terrace beside a brook but pu
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1954

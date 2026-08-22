@@ -18,6 +18,13 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures:
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "rock-art"
 papers:
   - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
   - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"

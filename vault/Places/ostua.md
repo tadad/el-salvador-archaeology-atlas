@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/colonial|Colonial]]"
 cultures: []
+finds:
+  - "architecture"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
 latest_study_year: 2007

@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
 papers:
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/anales-54]]"

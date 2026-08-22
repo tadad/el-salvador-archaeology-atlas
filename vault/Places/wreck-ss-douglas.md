@@ -19,6 +19,8 @@ periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
 cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
+finds:
+  - "shipwreck-vessel-remains"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-53]]"

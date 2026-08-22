@@ -18,6 +18,11 @@ coordinate_note: "The marker represents a candidate historical finca locality, n
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "architecture"
+  - "ceramics"
+  - "stone-sculpture-monuments"
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/finca-san-jorge-las-aradas]]"

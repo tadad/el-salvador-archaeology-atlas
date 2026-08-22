@@ -19,6 +19,9 @@ periods:
 cultures:
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
+finds:
+  - "architecture"
+  - "industrial-works-machinery"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
   - "[[Papers/2015-estudio-alfareria-quezaltepeque]]"

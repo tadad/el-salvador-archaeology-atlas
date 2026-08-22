@@ -18,6 +18,9 @@ periods:
   - "[[Periods/colonial|Colonial]]"
 cultures:
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
+finds:
+  - "architecture"
+  - "industrial-works-machinery"
 papers:
   - "[[Papers/2012-erquicia-obrajes-anil-san-vicente-la-paz]]"
 latest_study_year: 2012

@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "agriculture-cultivation"
 papers:
   - "[[Papers/1995-conyers-gpr-ceren]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

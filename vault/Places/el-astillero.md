@@ -16,6 +16,8 @@ coordinate_note: "The registry listed 12 mounds before inundation. The coordinat
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"

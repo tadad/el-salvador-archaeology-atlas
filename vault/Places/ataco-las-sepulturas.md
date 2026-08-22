@@ -18,6 +18,7 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"

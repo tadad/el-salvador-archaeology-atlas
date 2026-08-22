@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: 1995

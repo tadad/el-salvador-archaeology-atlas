@@ -16,6 +16,9 @@ coordinate_note: "FUNDAR names the department but publishes no locality, parcel 
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
 papers:
   - "[[Papers/fundar-saqueo]]"
 latest_study_year: 2009

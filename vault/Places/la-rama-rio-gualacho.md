@@ -18,6 +18,8 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/haberland_sequences]]"
   - "[[Papers/haberland_y_grebe]]"

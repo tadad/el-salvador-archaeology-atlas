@@ -17,6 +17,10 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/2017-mendez-arqueologia-publica-tamanique]]"
   - "[[Papers/anales-54]]"

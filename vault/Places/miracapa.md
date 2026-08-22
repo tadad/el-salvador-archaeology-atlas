@@ -16,6 +16,7 @@ coordinate_note: "The point is a broad locality marker, not a documented findspo
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: null

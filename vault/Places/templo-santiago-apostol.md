@@ -16,6 +16,7 @@ coordinate_note: "A national synthesis reports an investigation in 1998–1999 b
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
 latest_study_year: 1999

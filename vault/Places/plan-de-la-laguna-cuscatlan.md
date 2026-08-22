@@ -20,6 +20,7 @@ periods:
 cultures:
   - "[[Cultures/maya-related|Maya-related]]"
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
+finds: []
 papers:
   - "[[Papers/2025-flores-manzano-despues-ilopango]]"
   - "[[Papers/buscacuscatlan]]"

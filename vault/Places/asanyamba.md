@@ -19,6 +19,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "middens-refuse"
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "shell-faunal-bone"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/beaudry_asanyamba]]"

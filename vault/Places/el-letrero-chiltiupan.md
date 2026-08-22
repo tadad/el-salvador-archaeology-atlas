@@ -16,6 +16,8 @@ coordinate_note: "The marker is an approximate finca-scale placement retained fr
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "rock-art"
 papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022

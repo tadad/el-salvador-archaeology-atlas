@@ -18,6 +18,8 @@ periods:
   - "[[Periods/classic|Classic]]"
 cultures:
   - "[[Cultures/maya-related|Maya-related]]"
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/bruhns]]"
   - "[[Papers/drowned]]"

@@ -16,6 +16,8 @@ coordinate_note: "The marker is an approximate reconstruction of the published r
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "burials-human-remains"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

@@ -16,6 +16,8 @@ coordinate_note: "The report publishes a relative location and registry number 3
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

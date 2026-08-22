@@ -16,6 +16,8 @@ coordinate_note: "The marker identifies the public church, not the burial vault.
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "burials-human-remains"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

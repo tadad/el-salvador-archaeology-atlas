@@ -18,6 +18,10 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "burials-human-remains"
+  - "ceramics"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

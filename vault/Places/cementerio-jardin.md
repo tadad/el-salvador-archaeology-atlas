@@ -20,6 +20,12 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures:
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
+finds:
+  - "architecture"
+  - "ceramics"
+  - "jade-greenstone"
+  - "lithics-stone-tools"
+  - "fire-features"
 papers:
   - "[[Papers/earliest_pipil]]"
 latest_study_year: 2009

@@ -16,6 +16,9 @@ coordinate_note: "The marker is an island-scale placement, not a published finds
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "middens-refuse"
+  - "shell-faunal-bone"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2005

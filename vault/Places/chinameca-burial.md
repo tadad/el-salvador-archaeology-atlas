@@ -18,6 +18,9 @@ periods:
   - "[[Periods/classic|Classic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "burials-human-remains"
+  - "ceramics"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2015

@@ -16,6 +16,10 @@ coordinate_note: "The marker represents the shelter, not the 1977 test pits; the
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "rock-art"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
   - "[[Papers/haberland_corinto]]"

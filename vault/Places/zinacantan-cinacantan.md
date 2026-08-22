@@ -18,6 +18,11 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
   - "[[Periods/colonial|Colonial]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
+  - "architecture"
+  - "ceramics"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
   - "[[Papers/2025-erquicia-conquista-cuscatlan]]"

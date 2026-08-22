@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "burials-human-remains"
+  - "ceramics"
 papers:
   - "[[Papers/antiguo_preclasico]]"
   - "[[Papers/milpas]]"

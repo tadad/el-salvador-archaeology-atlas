@@ -16,6 +16,7 @@ coordinate_note: "The report gives a community sector rather than a coordinate."
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

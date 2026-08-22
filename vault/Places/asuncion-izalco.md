@@ -19,6 +19,12 @@ periods:
 cultures:
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
+finds:
+  - "architecture"
+  - "ceramics"
+  - "historical-materials"
+  - "shell-faunal-bone"
+  - "middens-refuse"
 papers:
   - "[[Papers/asuncion_izalco]]"
   - "[[Papers/larde-1923-volcan-izalco]]"

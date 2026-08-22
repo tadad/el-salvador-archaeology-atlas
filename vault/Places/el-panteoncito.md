@@ -16,6 +16,10 @@ coordinate_note: "The article maps El Panteoncito only at 1:100,000 scale and pu
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022

@@ -16,6 +16,7 @@ coordinate_note: "The cited bibliography identifies a 1974 excavation at Haciend
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/drowned]]"
 latest_study_year: 1974

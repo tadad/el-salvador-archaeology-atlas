@@ -17,6 +17,10 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "stone-sculpture-monuments"
+  - "lithics-stone-tools"
+  - "ceramics"
 papers:
   - "[[Papers/teopan]]"
 latest_study_year: 1996

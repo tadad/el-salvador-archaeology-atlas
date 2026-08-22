@@ -16,6 +16,9 @@ coordinate_note: "The marker represents the mapped island, not a documented obje
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

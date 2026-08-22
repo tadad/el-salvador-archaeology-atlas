@@ -19,6 +19,10 @@ location_visibility: "public"
 periods:
   - "[[Periods/colonial|Colonial]]"
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
+  - "historical-materials"
 papers:
   - "[[Papers/2024-flores-riqueza-arqueologica-centro-san-salvador]]"
 latest_study_year: 2024

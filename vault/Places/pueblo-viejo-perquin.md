@@ -16,6 +16,8 @@ coordinate_note: "The marker reconstructs Haberland’s route distances; the rep
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1954

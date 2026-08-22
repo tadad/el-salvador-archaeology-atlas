@@ -16,6 +16,7 @@ coordinate_note: "The marker is an approximate modern map placement, not a publi
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

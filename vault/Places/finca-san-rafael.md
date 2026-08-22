@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: 2006

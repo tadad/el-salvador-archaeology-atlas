@@ -18,6 +18,10 @@ periods:
   - "[[Periods/classic|Classic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "plazas-ballcourts"
+  - "ceramics"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
   - "[[Papers/2005-amador-golfo-fonseca]]"

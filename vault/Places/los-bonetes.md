@@ -16,6 +16,9 @@ coordinate_note: "The reports provide relative locations and a schematic map but
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "lithics-stone-tools"
+  - "ceramics"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/haberland_morazan]]"

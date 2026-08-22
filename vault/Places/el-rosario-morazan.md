@@ -16,6 +16,8 @@ coordinate_note: "The report places the finds on the plaza but publishes no arch
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1954

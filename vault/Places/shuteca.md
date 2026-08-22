@@ -17,6 +17,7 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds: []
 papers:
   - "[[Papers/fundar-saqueo]]"
 latest_study_year: 2007

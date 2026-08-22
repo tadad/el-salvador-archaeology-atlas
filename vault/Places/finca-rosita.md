@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/finca-rosita-santa-ana]]"
 latest_study_year: 2006

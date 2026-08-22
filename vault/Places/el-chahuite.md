@@ -16,6 +16,7 @@ coordinate_note: "The marker is a generalized valley placement, not a documented
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2001

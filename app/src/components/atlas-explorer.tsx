@@ -26,9 +26,10 @@ const ExcavationMap = dynamic(() => import("./excavation-map"), {
 
 const siteQueryParam = "site";
 const unknownFacetValue = "Unknown" as const;
+const notDescribedFacetValue = "Not described" as const;
 
-function matchesFacet(values: readonly string[], filter: string) {
-  return filter === unknownFacetValue ? values.length === 0 : values.includes(filter);
+function matchesFacet(values: readonly string[], filter: string, emptyValue: string) {
+  return filter === emptyValue ? values.length === 0 : values.includes(filter);
 }
 
 function siteIdFromUrl(places: AtlasPlace[]) {
@@ -58,22 +59,33 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
   const digs = data.places;
   const periodOptions = [...data.periods.map((period) => period.name), unknownFacetValue];
   const cultureOptions = [...data.cultures.map((culture) => culture.name), unknownFacetValue];
+  const findOptions = [...data.finds.map((find) => find.id), notDescribedFacetValue];
   const periodDescriptions = Object.fromEntries(
     data.periods.map((period) => [period.name, period.description]),
   );
   const cultureDescriptions = Object.fromEntries(
     data.cultures.map((culture) => [culture.name, culture.description]),
   );
+  const findLabels = Object.fromEntries(data.finds.map((find) => [find.id, find.name]));
+  const findDescriptions = Object.fromEntries(
+    data.finds.map((find) => [find.id, find.description]),
+  );
   const periodCounts = Object.fromEntries(
     periodOptions.map((period) => [
       period,
-      digs.filter((dig) => matchesFacet(dig.periods, period)).length,
+      digs.filter((dig) => matchesFacet(dig.periods, period, unknownFacetValue)).length,
     ]),
   );
   const cultureCounts = Object.fromEntries(
     cultureOptions.map((culture) => [
       culture,
-      digs.filter((dig) => matchesFacet(dig.cultures, culture)).length,
+      digs.filter((dig) => matchesFacet(dig.cultures, culture, unknownFacetValue)).length,
+    ]),
+  );
+  const findCounts = Object.fromEntries(
+    findOptions.map((find) => [
+      find,
+      digs.filter((dig) => matchesFacet(dig.finds, find, notDescribedFacetValue)).length,
     ]),
   );
   const knownStudyYears = digs
@@ -92,8 +104,9 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
   });
   const [activePeriods, setActivePeriods] = useState<string[]>([]);
   const [activeCultures, setActiveCultures] = useState<string[]>([]);
+  const [activeFinds, setActiveFinds] = useState<string[]>([]);
   const [yearRange, setYearRange] = useState(studyYearBounds);
-  const [openFacet, setOpenFacet] = useState<"period" | "culture" | "year" | null>(null);
+  const [openFacet, setOpenFacet] = useState<"period" | "culture" | "finds" | "year" | null>(null);
 
   const normalizedQuery = query.trim().toLocaleLowerCase();
   const isYearFiltered =
@@ -105,27 +118,41 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
         const studyYear = studyYearFor(dig);
         const matchesPeriod =
           activePeriods.length === 0 ||
-          activePeriods.some((period) => matchesFacet(dig.periods, period));
+          activePeriods.some((period) =>
+            matchesFacet(dig.periods, period, unknownFacetValue),
+          );
         const matchesCulture =
           activeCultures.length === 0 ||
-          activeCultures.some((culture) => matchesFacet(dig.cultures, culture));
+          activeCultures.some((culture) =>
+            matchesFacet(dig.cultures, culture, unknownFacetValue),
+          );
+        const matchesFinds =
+          activeFinds.length === 0 ||
+          activeFinds.some((find) =>
+            matchesFacet(dig.finds, find, notDescribedFacetValue),
+          );
         const matchesYear =
           !isYearFiltered ||
           (studyYear !== null &&
             studyYear >= yearRange.min &&
             studyYear <= yearRange.max);
-        const searchableText = `${dig.name} ${dig.kind} ${dig.basis} ${dig.periods.join(" ")} ${dig.cultures.join(" ")} ${dig.lastFieldworkLabel ?? ""} ${dig.body}`;
+        const searchableFinds = dig.finds
+          .flatMap((find) => [find, findLabels[find]])
+          .join(" ");
+        const searchableText = `${dig.name} ${dig.kind} ${dig.basis} ${dig.periods.join(" ")} ${dig.cultures.join(" ")} ${searchableFinds} ${dig.lastFieldworkLabel ?? ""} ${dig.body}`;
 
         return (
           activeLocationStatus[locationStatusFor(dig.coordinateMethod)] &&
           matchesPeriod &&
           matchesCulture &&
+          matchesFinds &&
           matchesYear &&
           (!normalizedQuery || searchableText.toLocaleLowerCase().includes(normalizedQuery))
         );
       }),
     [
       activeCultures,
+      activeFinds,
       activePeriods,
       activeLocationStatus,
       isYearFiltered,
@@ -139,6 +166,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
     Object.values(activeLocationStatus).some((isActive) => !isActive) ||
     activePeriods.length > 0 ||
     activeCultures.length > 0 ||
+    activeFinds.length > 0 ||
     isYearFiltered;
   const selected = selectedId
     ? visibleDigs.find((dig) => dig.id === selectedId) ?? null
@@ -187,10 +215,19 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
     );
   }
 
+  function toggleFind(find: string) {
+    setActiveFinds((current) =>
+      current.includes(find)
+        ? current.filter((candidate) => candidate !== find)
+        : [...current, find],
+    );
+  }
+
   function resetFilters() {
     setActiveLocationStatus({ located: true, approximate: true });
     setActivePeriods([]);
     setActiveCultures([]);
+    setActiveFinds([]);
     setYearRange(studyYearBounds);
     setOpenFacet(null);
   }
@@ -282,6 +319,55 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                     ))}
                     <p className="facet-note">
                       Unknown includes sites without a supported period.
+                    </p>
+                  </div>
+                </details>
+
+                <details
+                  className="facet-filter"
+                  open={openFacet === "finds"}
+                  onToggle={(event) => {
+                    if (event.currentTarget.open) setOpenFacet("finds");
+                    else if (openFacet === "finds") setOpenFacet(null);
+                  }}
+                >
+                  <summary>
+                    What was found here
+                    <span>{activeFinds.length || "All"}</span>
+                  </summary>
+                  <div className="facet-popover facet-popover-wide finds-popover">
+                    <button
+                      className="facet-close"
+                      type="button"
+                      aria-label="Close finds filter"
+                      onClick={() => setOpenFacet(null)}
+                    >
+                      ×
+                    </button>
+                    <p className="facet-instruction">Match any selected kind of find</p>
+                    <div className="facet-option-list">
+                      {findOptions.map((find) => (
+                        <button
+                          key={find}
+                          type="button"
+                          className="facet-option"
+                          aria-pressed={activeFinds.includes(find)}
+                          onClick={() => toggleFind(find)}
+                          title={
+                            find === notDescribedFacetValue
+                              ? "The reviewed description does not securely support one of the broad find categories."
+                              : findDescriptions[find]
+                          }
+                        >
+                          <span className="facet-check" aria-hidden="true" />
+                          <span>{find === notDescribedFacetValue ? find : findLabels[find]}</span>
+                          <span>{findCounts[find]}</span>
+                        </button>
+                      ))}
+                    </div>
+                    <p className="facet-note">
+                      Not described means the reviewed sources do not securely support
+                      one of these broad categories.
                     </p>
                   </div>
                 </details>
@@ -427,7 +513,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                 type="search"
                 value={query}
                 onChange={(event) => setQuery(event.target.value)}
-                placeholder="Site, period, or place…"
+                placeholder="Site, period, find, or place…"
               />
             </div>
           </div>
@@ -483,6 +569,16 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                       ))
                     ) : (
                       <span className="classification-empty">Not securely assigned</span>
+                    )}
+                  </dd>
+                </div>
+                <div>
+                  <dt>What was found here</dt>
+                  <dd>
+                    {selected.finds.length ? (
+                      selected.finds.map((find) => findLabels[find]).join(", ")
+                    ) : (
+                      <span className="classification-empty">Not described</span>
                     )}
                   </dd>
                 </div>

@@ -18,6 +18,9 @@ periods:
   - "[[Periods/colonial|Colonial]]"
 cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
+finds:
+  - "architecture"
+  - "industrial-works-machinery"
 papers: []
 latest_study_year: 2010
 latest_study_label: "2010 historical and archaeological synthesis"

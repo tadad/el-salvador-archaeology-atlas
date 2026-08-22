@@ -17,6 +17,7 @@ location_visibility: "public"
 periods:
   - "[[Periods/colonial|Colonial]]"
 cultures: []
+finds: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
 latest_study_year: 1995

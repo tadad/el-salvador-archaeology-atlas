@@ -16,6 +16,10 @@ coordinate_note: "Approximate marker derived from distances in a 1985 registrati
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
+  - "burials-human-remains"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

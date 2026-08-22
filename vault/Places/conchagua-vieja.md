@@ -17,6 +17,12 @@ location_visibility: "public"
 periods:
   - "[[Periods/colonial|Colonial]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2005

@@ -17,6 +17,7 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds: []
 papers:
   - "[[Papers/atalaya-acajutla]]"
 latest_study_year: 2007

@@ -20,6 +20,9 @@ periods:
   - "[[Periods/colonial|Colonial]]"
 cultures:
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
+finds:
+  - "architecture"
+  - "historical-materials"
 papers:
   - "[[Papers/2023-flores-bajo-tempisque-san-vicente]]"
 latest_study_year: 2024

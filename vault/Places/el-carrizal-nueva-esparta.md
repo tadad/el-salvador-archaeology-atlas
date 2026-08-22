@@ -16,6 +16,10 @@ coordinate_note: "The point is a broad locality marker, not a documented findspo
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "jade-greenstone"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: null

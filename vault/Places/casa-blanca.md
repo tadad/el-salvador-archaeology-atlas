@@ -19,6 +19,12 @@ periods:
   - "[[Periods/classic|Classic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "architecture"
+  - "ceramics"
+  - "burials-human-remains"
+  - "stone-sculpture-monuments"
 papers:
   - "[[Papers/2001-shibata-et-al-casa-blanca]]"
   - "[[Papers/2002-ito-casa-blanca]]"

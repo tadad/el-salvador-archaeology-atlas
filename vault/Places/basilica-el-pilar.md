@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/colonial|Colonial]]"
 cultures: []
+finds:
+  - "burials-human-remains"
+  - "architecture"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-57-58]]"

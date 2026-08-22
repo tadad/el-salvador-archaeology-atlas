@@ -16,6 +16,9 @@ coordinate_note: "The settlement landmark is used because the archaeological pla
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2008

@@ -16,6 +16,10 @@ coordinate_note: "The marker is a generalized modern proxy, not a documented arc
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

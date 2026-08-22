@@ -17,6 +17,12 @@ location_visibility: "public"
 periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "plazas-ballcourts"
+  - "architecture"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/amaroli_elcajete]]"
   - "[[Papers/longyear]]"

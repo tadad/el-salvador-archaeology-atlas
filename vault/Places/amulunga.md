@@ -16,6 +16,7 @@ coordinate_note: "The marker identifies the mapped Amulunga locality; the cited 
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: null

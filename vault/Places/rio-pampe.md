@@ -16,6 +16,10 @@ coordinate_note: "The marker identifies the mapped Pampe locality within Longyea
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "architecture"
+  - "plazas-ballcourts"
+  - "ceramics"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

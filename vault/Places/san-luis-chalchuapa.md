@@ -21,6 +21,11 @@ periods:
   - "[[Periods/modern-maritime|Modern / Maritime]]"
 cultures:
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
+finds:
+  - "architecture"
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "historical-materials"
 papers:
   - "[[Papers/2015-chalchuapa-san-luis]]"
 latest_study_year: 2016

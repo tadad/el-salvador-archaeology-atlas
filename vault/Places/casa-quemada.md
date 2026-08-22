@@ -18,6 +18,12 @@ periods:
   - "[[Periods/classic|Classic]]"
 cultures:
   - "[[Cultures/eastern-salvadoran-lenca-related|Eastern Salvadoran / Lenca-related]]"
+finds:
+  - "architecture"
+  - "ceramics"
+  - "lithics-stone-tools"
+  - "fire-features"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/anales-53]]"

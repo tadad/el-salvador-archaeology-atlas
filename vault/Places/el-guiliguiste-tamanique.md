@@ -16,6 +16,10 @@ coordinate_note: "The publications describe elevation and relative placement but
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
+  - "lithics-stone-tools"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"

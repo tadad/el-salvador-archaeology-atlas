@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "ceramics"
+  - "burials-human-remains"
+  - "mounds-pyramids"
+  - "architecture"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

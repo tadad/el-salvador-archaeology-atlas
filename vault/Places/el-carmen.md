@@ -17,6 +17,11 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "mounds-pyramids"
+  - "fire-features"
+  - "middens-refuse"
 papers:
   - "[[Papers/1989-arroyo-el-carmen]]"
   - "[[Papers/carmen]]"

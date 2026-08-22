@@ -18,6 +18,7 @@ periods:
   - "[[Periods/classic|Classic]]"
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
+finds: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/earliest_pipil]]"

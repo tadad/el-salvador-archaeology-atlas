@@ -16,6 +16,7 @@ coordinate_note: "This is a regional evidence marker, not a single archaeologica
 location_visibility: "public"
 periods: []
 cultures: []
+finds: []
 papers:
   - "[[Papers/1985-fowler-earnest-paraiso-basin]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

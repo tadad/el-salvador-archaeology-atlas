@@ -16,6 +16,8 @@ coordinate_note: "The report gives no reproducible coordinate or site boundary. 
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

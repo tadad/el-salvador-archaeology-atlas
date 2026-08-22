@@ -17,6 +17,10 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "plazas-ballcourts"
+  - "mounds-pyramids"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2017

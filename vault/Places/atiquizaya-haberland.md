@@ -17,6 +17,8 @@ location_visibility: "public"
 periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
+finds:
+  - "ceramics"
 papers:
   - "[[Papers/casasola_panorama]]"
   - "[[Papers/haberland_sequences]]"

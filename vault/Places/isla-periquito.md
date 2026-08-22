@@ -17,6 +17,9 @@ location_visibility: "public"
 periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "middens-refuse"
+  - "shell-faunal-bone"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/boggs_cayuco]]"

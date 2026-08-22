@@ -16,6 +16,10 @@ coordinate_note: "Approximate marker reconstructed from Longyear’s regional sk
 location_visibility: "public"
 periods: []
 cultures: []
+finds:
+  - "mounds-pyramids"
+  - "architecture"
+  - "plazas-ballcourts"
 papers:
   - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
   - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"

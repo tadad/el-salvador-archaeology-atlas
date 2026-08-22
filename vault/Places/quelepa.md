@@ -18,6 +18,9 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
   - "[[Periods/classic|Classic]]"
 cultures: []
+finds:
+  - "architecture"
+  - "ceramics"
 papers:
   - "[[Papers/1994-braswell-et-al-obsidian-quelepa]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

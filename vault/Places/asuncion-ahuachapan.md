@@ -19,6 +19,8 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
   - "[[Periods/colonial|Colonial]]"
 cultures: []
+finds:
+  - "burials-human-remains"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/asuncion_ahuachapan]]"
