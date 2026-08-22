@@ -21,6 +21,7 @@ cultures:
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
 finds:
   - "architecture"
+  - "burials-human-remains"
   - "ceramics"
   - "historical-materials"
   - "shell-faunal-bone"
