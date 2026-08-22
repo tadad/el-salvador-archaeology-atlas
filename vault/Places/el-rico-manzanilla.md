@@ -19,6 +19,8 @@ cultures: []
 finds:
   - "middens-refuse"
   - "shell-faunal-bone"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2000

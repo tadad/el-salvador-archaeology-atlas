@@ -21,6 +21,14 @@ cultures: []
 finds:
   - "architecture"
   - "mounds-pyramids"
+techniques:
+  - "excavation"
+  - "mapping-surveying"
+  - "aerial-satellite-imagery"
+  - "artifact-analysis"
+  - "archaeometry-compositional-analysis"
+  - "chronometric-dating"
+  - "bioenvironmental-analysis"
 papers:
   - "[[Papers/P7]]"
   - "[[Papers/Gloria1975]]"

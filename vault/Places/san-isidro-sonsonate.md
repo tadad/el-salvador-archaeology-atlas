@@ -22,6 +22,11 @@ finds:
   - "mounds-pyramids"
   - "plazas-ballcourts"
   - "ceramics"
+techniques:
+  - "excavation"
+  - "aerial-satellite-imagery"
+  - "detailed-visual-documentation"
+  - "geophysical-survey"
 papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024

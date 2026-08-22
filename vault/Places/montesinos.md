@@ -19,6 +19,8 @@ cultures: []
 finds:
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
   - "[[Papers/2005-amador-golfo-fonseca]]"

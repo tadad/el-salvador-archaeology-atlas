@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "artifact-analysis"
 papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
 latest_study_year: 2024

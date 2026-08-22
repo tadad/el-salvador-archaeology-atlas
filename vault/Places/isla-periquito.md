@@ -20,6 +20,8 @@ cultures: []
 finds:
   - "middens-refuse"
   - "shell-faunal-bone"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/boggs_cayuco]]"

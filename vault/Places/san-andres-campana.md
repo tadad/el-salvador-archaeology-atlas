@@ -26,6 +26,12 @@ finds:
   - "ceramics"
   - "lithics-stone-tools"
   - "stone-sculpture-monuments"
+techniques:
+  - "excavation"
+  - "detailed-visual-documentation"
+  - "artifact-analysis"
+  - "chronometric-dating"
+  - "geoarchaeology"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2018-ito-produccion-alfareria-san-andres]]"

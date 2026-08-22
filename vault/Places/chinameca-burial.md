@@ -21,6 +21,9 @@ cultures: []
 finds:
   - "burials-human-remains"
   - "ceramics"
+techniques:
+  - "artifact-analysis"
+  - "bioenvironmental-analysis"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2015

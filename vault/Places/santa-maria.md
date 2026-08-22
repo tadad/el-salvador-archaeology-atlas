@@ -21,6 +21,9 @@ finds:
   - "architecture"
   - "mounds-pyramids"
   - "plazas-ballcourts"
+techniques:
+  - "excavation"
+  - "mapping-surveying"
 papers:
   - "[[Papers/1987-fowler-et-al-chipped-stone-cihuatan]]"
   - "[[Papers/drowned]]"

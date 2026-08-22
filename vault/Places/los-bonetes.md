@@ -19,6 +19,8 @@ cultures: []
 finds:
   - "lithics-stone-tools"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/haberland_morazan]]"

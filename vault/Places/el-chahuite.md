@@ -17,6 +17,9 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques:
+  - "archival-historical-research"
+  - "artifact-analysis"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2001

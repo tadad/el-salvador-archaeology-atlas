@@ -23,6 +23,8 @@ cultures:
 finds:
   - "architecture"
   - "historical-materials"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2023-flores-bajo-tempisque-san-vicente]]"
 latest_study_year: 2024

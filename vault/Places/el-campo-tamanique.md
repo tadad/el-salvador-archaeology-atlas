@@ -22,6 +22,8 @@ finds:
   - "plazas-ballcourts"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"

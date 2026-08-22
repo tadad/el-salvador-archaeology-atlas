@@ -23,6 +23,9 @@ finds:
   - "architecture"
   - "ceramics"
   - "stone-sculpture-monuments"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/finca-san-jorge-las-aradas]]"

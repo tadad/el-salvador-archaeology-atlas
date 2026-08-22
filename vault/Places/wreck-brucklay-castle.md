@@ -19,6 +19,8 @@ periods:
 cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 finds: []
+techniques:
+  - "archival-historical-research"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2014

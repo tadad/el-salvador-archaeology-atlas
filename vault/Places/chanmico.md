@@ -17,6 +17,8 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques:
+  - "archival-historical-research"
 papers:
   - "[[Papers/2014-erquicia-estadistica-1854-arqueologia]]"
   - "[[Papers/anales-56]]"

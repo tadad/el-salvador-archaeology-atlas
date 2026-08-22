@@ -21,6 +21,9 @@ cultures:
   - "[[Cultures/cotzumalhuapa-tradition|Cotzumalhuapa tradition]]"
 finds:
   - "ceramics"
+techniques:
+  - "excavation"
+  - "chronometric-dating"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/earliest_pipil]]"

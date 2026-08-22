@@ -18,6 +18,11 @@ periods: []
 cultures: []
 finds:
   - "burials-human-remains"
+techniques:
+  - "surface-collection"
+  - "excavation"
+  - "artifact-analysis"
+  - "bioenvironmental-analysis"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-56]]"

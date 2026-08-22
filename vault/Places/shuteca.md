@@ -18,6 +18,7 @@ periods:
   - "[[Periods/classic|Classic]]"
 cultures: []
 finds: []
+techniques: []
 papers:
   - "[[Papers/fundar-saqueo]]"
 latest_study_year: 2007

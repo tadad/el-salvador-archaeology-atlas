@@ -21,6 +21,10 @@ cultures: []
 finds:
   - "burials-human-remains"
   - "architecture"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
+  - "chronometric-dating"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/anales-56]]"

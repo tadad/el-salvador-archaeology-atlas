@@ -25,6 +25,9 @@ finds:
   - "ceramics"
   - "burials-human-remains"
   - "stone-sculpture-monuments"
+techniques:
+  - "excavation"
+  - "archival-historical-research"
 papers:
   - "[[Papers/2001-shibata-et-al-casa-blanca]]"
   - "[[Papers/2002-ito-casa-blanca]]"

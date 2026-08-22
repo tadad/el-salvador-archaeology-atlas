@@ -18,6 +18,8 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
 finds: []
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/drowned]]"
   - "[[Papers/kelley_1988]]"

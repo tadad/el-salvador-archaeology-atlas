@@ -21,6 +21,8 @@ cultures: []
 finds:
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/arqueologia-cuzcatleca-valle-de-san-salvador]]"
   - "[[Papers/casasola_panorama]]"

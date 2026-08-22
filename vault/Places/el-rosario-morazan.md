@@ -18,6 +18,9 @@ periods: []
 cultures: []
 finds:
   - "lithics-stone-tools"
+techniques:
+  - "pedestrian-survey"
+  - "surface-collection"
 papers:
   - "[[Papers/haberland_morazan]]"
 latest_study_year: 1954

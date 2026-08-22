@@ -20,6 +20,9 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
+  - "excavation"
 papers:
   - "[[Papers/haberland_sequences]]"
   - "[[Papers/haberland_y_grebe]]"

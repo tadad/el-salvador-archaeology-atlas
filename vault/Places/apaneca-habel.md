@@ -21,6 +21,7 @@ finds:
   - "ceramics"
   - "stone-sculpture-monuments"
   - "jade-greenstone"
+techniques: []
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/spinden1915]]"

@@ -18,6 +18,8 @@ periods: []
 cultures: []
 finds:
   - "rock-art"
+techniques:
+  - "detailed-visual-documentation"
 papers:
   - "[[Papers/yaca]]"
 latest_study_year: 2007

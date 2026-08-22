@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "architecture"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
   - "[[Papers/anales-56]]"

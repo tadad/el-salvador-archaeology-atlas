@@ -20,6 +20,7 @@ cultures: []
 finds:
   - "burials-human-remains"
   - "architecture"
+techniques: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-57-58]]"

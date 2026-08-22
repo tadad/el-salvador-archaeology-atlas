@@ -20,6 +20,7 @@ finds:
   - "ceramics"
   - "lithics-stone-tools"
   - "jade-greenstone"
+techniques: []
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: null

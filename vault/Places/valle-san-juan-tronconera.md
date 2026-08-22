@@ -20,6 +20,9 @@ cultures: []
 finds:
   - "fire-features"
   - "architecture"
+techniques:
+  - "excavation"
+  - "chronometric-dating"
 papers:
   - "[[Papers/boggs_hornos]]"
 latest_study_year: null

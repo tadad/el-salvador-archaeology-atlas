@@ -23,6 +23,9 @@ finds:
   - "architecture"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "pedestrian-survey"
+  - "artifact-analysis"
 papers:
   - "[[Papers/amaroli_elcajete]]"
   - "[[Papers/longyear]]"

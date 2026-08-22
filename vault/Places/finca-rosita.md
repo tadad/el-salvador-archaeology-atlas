@@ -20,6 +20,9 @@ cultures: []
 finds:
   - "architecture"
   - "plazas-ballcourts"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
 papers:
   - "[[Papers/finca-rosita-santa-ana]]"
 latest_study_year: 2006

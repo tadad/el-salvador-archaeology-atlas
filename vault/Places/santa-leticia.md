@@ -20,6 +20,10 @@ cultures: []
 finds:
   - "stone-sculpture-monuments"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
+  - "excavation"
+  - "mapping-surveying"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"

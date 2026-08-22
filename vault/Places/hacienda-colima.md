@@ -17,6 +17,8 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/drowned]]"
 latest_study_year: 1974

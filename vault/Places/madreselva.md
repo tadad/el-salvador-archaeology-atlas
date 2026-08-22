@@ -25,6 +25,12 @@ finds:
   - "middens-refuse"
   - "burials-human-remains"
   - "ceramics"
+techniques:
+  - "excavation"
+  - "lidar-laser-scanning"
+  - "detailed-visual-documentation"
+  - "archival-historical-research"
+  - "artifact-analysis"
 papers:
   - "[[Papers/1994-amaroli-hermes-velasquez-antiguo-cuscatlan]]"
   - "[[Papers/2025-flores-manzano-despues-ilopango]]"

@@ -23,6 +23,10 @@ cultures:
 finds:
   - "architecture"
   - "industrial-works-machinery"
+techniques:
+  - "pedestrian-survey"
+  - "mapping-surveying"
+  - "detailed-visual-documentation"
 papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2021

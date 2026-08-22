@@ -19,6 +19,8 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/atalaya-acajutla]]"
 latest_study_year: 2025

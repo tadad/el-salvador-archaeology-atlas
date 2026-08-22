@@ -26,6 +26,10 @@ finds:
   - "jade-greenstone"
   - "lithics-stone-tools"
   - "fire-features"
+techniques:
+  - "pedestrian-survey"
+  - "excavation"
+  - "archival-historical-research"
 papers:
   - "[[Papers/earliest_pipil]]"
 latest_study_year: 2009

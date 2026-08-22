@@ -20,6 +20,8 @@ cultures: []
 finds:
   - "architecture"
   - "mounds-pyramids"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2005

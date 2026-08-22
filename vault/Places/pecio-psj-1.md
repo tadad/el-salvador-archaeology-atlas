@@ -20,6 +20,9 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 finds:
   - "shipwreck-vessel-remains"
+techniques:
+  - "excavation"
+  - "archival-historical-research"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/anales-55]]"

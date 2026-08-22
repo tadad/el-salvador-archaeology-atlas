@@ -21,6 +21,8 @@ finds:
   - "burials-human-remains"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

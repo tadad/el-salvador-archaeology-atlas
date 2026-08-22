@@ -21,6 +21,8 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 finds:
   - "shipwreck-vessel-remains"
+techniques:
+  - "underwater-survey"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/identidades-18-arqueologia]]"

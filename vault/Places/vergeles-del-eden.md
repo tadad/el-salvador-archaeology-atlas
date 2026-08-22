@@ -20,6 +20,8 @@ cultures: []
 finds:
   - "architecture"
   - "lithics-stone-tools"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: 1995

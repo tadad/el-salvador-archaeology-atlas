@@ -19,6 +19,8 @@ cultures: []
 finds:
   - "mounds-pyramids"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

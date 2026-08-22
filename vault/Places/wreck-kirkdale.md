@@ -20,6 +20,7 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 finds:
   - "shipwreck-vessel-remains"
+techniques: []
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2014

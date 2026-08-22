@@ -23,6 +23,8 @@ finds:
   - "architecture"
   - "ceramics"
   - "historical-materials"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2024-flores-riqueza-arqueologica-centro-san-salvador]]"
 latest_study_year: 2024

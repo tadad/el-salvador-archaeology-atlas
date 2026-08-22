@@ -19,6 +19,8 @@ periods:
   - "[[Periods/postclassic|Postclassic]]"
 cultures: []
 finds: []
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/earliest_pipil]]"

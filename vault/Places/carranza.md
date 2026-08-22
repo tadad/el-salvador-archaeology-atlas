@@ -20,14 +20,19 @@ cultures: []
 finds:
   - "architecture"
   - "ceramics"
+techniques:
+  - "surface-collection"
+  - "excavation"
+  - "archaeometry-compositional-analysis"
 papers:
+  - "[[Papers/anales-57-58]]"
   - "[[Papers/carranza1]]"
   - "[[Papers/carranza2]]"
   - "[[Papers/xipe1]]"
   - "[[Papers/xipe2]]"
   - "[[Papers/xipe3]]"
-latest_study_year: 2004
-latest_study_label: "By April 2004"
+latest_study_year: 2017
+latest_study_label: "2017 pigment analysis"
 last_fieldwork_year: 2004
 last_fieldwork_label: "Excavations reported as continuing in April 2004"
 ---
@@ -39,6 +44,10 @@ last_fieldwork_label: "Excavations reported as continuing in April 2004"
 Carranza is an excavated settlement near the southern end of Cihuatán. Rescue work focused on a low platform damaged by decades of sugarcane cultivation. Pottery from Structure 1 dates to the Early Postclassic (900–1200 CE), possibly 950–1100 CE. Nearly 100 fragments of a large ceramic Xipe Tótec figure were recovered mainly from Structure 1's central chamber. [[Papers/carranza2#Page 4|Source: PDF p. 4 (printed p. 1), summary and introduction]]
 
 ## Studies
+
+### 2017: Pigment analysis
+
+Samples from the excavated Xipe Tótec figure were analyzed with X-ray diffraction, Fourier-transform infrared spectroscopy, microscopy, and polarized light to characterize its blue and orange pigments. [[Papers/anales-57-58#Page 231|Source: anales-57-58.pdf, PDF pp. 231–243]]
 
 ### By April 2004: Fieldwork
 

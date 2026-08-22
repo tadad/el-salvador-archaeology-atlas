@@ -20,6 +20,9 @@ finds:
   - "mounds-pyramids"
   - "architecture"
   - "plazas-ballcourts"
+techniques:
+  - "pedestrian-survey"
+  - "mapping-surveying"
 papers:
   - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
   - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"

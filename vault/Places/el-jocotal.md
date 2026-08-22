@@ -22,6 +22,9 @@ finds:
   - "plazas-ballcourts"
   - "mounds-pyramids"
   - "ceramics"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"

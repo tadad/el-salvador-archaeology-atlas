@@ -22,6 +22,12 @@ finds:
   - "architecture"
   - "plazas-ballcourts"
   - "mounds-pyramids"
+techniques:
+  - "surface-collection"
+  - "excavation"
+  - "mapping-surveying"
+  - "gis-spatial-analysis"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/anales-53]]"

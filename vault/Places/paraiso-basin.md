@@ -17,6 +17,8 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/1985-fowler-earnest-paraiso-basin]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

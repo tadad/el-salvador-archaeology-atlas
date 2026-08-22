@@ -20,6 +20,10 @@ finds:
   - "rock-art"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "surface-collection"
+  - "excavation"
+  - "detailed-visual-documentation"
 papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
   - "[[Papers/haberland_corinto]]"

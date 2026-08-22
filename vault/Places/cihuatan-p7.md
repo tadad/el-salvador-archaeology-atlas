@@ -21,6 +21,9 @@ finds:
   - "architecture"
   - "mounds-pyramids"
   - "fire-features"
+techniques:
+  - "excavation"
+  - "mapping-surveying"
 papers:
   - "[[Papers/P7]]"
 latest_study_year: 2002

@@ -19,6 +19,9 @@ cultures: []
 finds:
   - "mounds-pyramids"
   - "architecture"
+techniques:
+  - "pedestrian-survey"
+  - "oral-history-ethnography"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"

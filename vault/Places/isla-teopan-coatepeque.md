@@ -21,6 +21,8 @@ finds:
   - "stone-sculpture-monuments"
   - "lithics-stone-tools"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/teopan]]"
 latest_study_year: 1996

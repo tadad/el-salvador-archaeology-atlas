@@ -20,6 +20,8 @@ finds:
   - "ceramics"
   - "lithics-stone-tools"
   - "rock-art"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

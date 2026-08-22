@@ -19,6 +19,8 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques:
+  - "mapping-surveying"
 papers: []
 latest_study_year: 2026
 latest_study_label: "2026 Ministry of Culture retrospective notice; no site-specific study located"

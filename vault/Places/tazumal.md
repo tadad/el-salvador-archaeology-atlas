@@ -24,6 +24,9 @@ finds:
   - "burials-human-remains"
   - "lithics-stone-tools"
   - "ceramics"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

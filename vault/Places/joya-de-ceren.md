@@ -20,6 +20,10 @@ cultures: []
 finds:
   - "architecture"
   - "agriculture-cultivation"
+techniques:
+  - "excavation"
+  - "geophysical-survey"
+  - "artifact-analysis"
 papers:
   - "[[Papers/1995-conyers-gpr-ceren]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

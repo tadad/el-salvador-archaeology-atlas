@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "aerial-satellite-imagery"
 papers:
   - "[[Papers/2025-valdivieso-martinez-educacion-prehispanica]]"
   - "[[Papers/atalaya-acajutla]]"

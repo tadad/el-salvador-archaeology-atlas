@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "architecture"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/chalchuapa-architecture]]"
 latest_study_year: 2006

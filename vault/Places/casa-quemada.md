@@ -24,6 +24,9 @@ finds:
   - "lithics-stone-tools"
   - "fire-features"
   - "plazas-ballcourts"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/anales-53]]"

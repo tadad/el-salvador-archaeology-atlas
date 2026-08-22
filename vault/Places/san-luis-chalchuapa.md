@@ -26,6 +26,8 @@ finds:
   - "ceramics"
   - "lithics-stone-tools"
   - "historical-materials"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2015-chalchuapa-san-luis]]"
 latest_study_year: 2016

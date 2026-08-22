@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "archival-historical-research"
 papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
   - "[[Papers/anales-56]]"

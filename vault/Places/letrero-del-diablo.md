@@ -18,6 +18,10 @@ periods: []
 cultures: []
 finds:
   - "rock-art"
+techniques:
+  - "pedestrian-survey"
+  - "lidar-laser-scanning"
+  - "gis-spatial-analysis"
 papers:
   - "[[Papers/identidades-18-arqueologia]]"
 latest_study_year: 2022

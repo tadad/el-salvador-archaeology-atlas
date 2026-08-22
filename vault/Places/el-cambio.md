@@ -20,6 +20,12 @@ periods:
 cultures: []
 finds:
   - "burials-human-remains"
+techniques:
+  - "excavation"
+  - "detailed-visual-documentation"
+  - "artifact-analysis"
+  - "bioenvironmental-analysis"
+  - "geoarchaeology"
 papers:
   - "[[Papers/2004-el-cambio-arqueologia]]"
   - "[[Papers/anales-56]]"

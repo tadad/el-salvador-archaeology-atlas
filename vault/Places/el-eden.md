@@ -21,6 +21,9 @@ finds:
   - "ceramics"
   - "lithics-stone-tools"
   - "shell-faunal-bone"
+techniques:
+  - "surface-collection"
+  - "excavation"
 papers:
   - "[[Papers/carmen]]"
 latest_study_year: 1988

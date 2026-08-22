@@ -21,6 +21,9 @@ cultures:
 finds:
   - "shipwreck-vessel-remains"
   - "industrial-works-machinery"
+techniques:
+  - "underwater-survey"
+  - "archival-historical-research"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2021

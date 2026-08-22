@@ -18,6 +18,8 @@ periods: []
 cultures: []
 finds:
   - "rock-art"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
 latest_study_year: 2010

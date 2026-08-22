@@ -18,6 +18,7 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques: []
 papers: []
 latest_study_year: 2025
 latest_study_label: "2025 Ministry registry reference"

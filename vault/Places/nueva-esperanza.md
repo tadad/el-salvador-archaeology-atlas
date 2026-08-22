@@ -20,6 +20,10 @@ periods:
 cultures: []
 finds:
   - "burials-human-remains"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
+  - "bioenvironmental-analysis"
 papers:
   - "[[Papers/2008-shibata-nueva-esperanza]]"
   - "[[Papers/anales-53]]"

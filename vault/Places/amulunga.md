@@ -17,6 +17,7 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques: []
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: null

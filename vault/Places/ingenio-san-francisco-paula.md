@@ -21,6 +21,7 @@ cultures:
 finds:
   - "architecture"
   - "industrial-works-machinery"
+techniques: []
 papers: []
 latest_study_year: 2010
 latest_study_label: "2010 historical and archaeological synthesis"

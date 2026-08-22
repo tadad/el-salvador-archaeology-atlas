@@ -20,6 +20,10 @@ cultures: []
 finds:
   - "architecture"
   - "plazas-ballcourts"
+techniques:
+  - "excavation"
+  - "mapping-surveying"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2007

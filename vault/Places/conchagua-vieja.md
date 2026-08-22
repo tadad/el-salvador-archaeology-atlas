@@ -23,6 +23,8 @@ finds:
   - "plazas-ballcourts"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 2005

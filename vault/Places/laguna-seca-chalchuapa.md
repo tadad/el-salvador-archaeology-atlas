@@ -18,6 +18,7 @@ periods:
   - "[[Periods/preclassic|Preclassic]]"
 cultures: []
 finds: []
+techniques: []
 papers:
   - "[[Papers/chalchuapa-architecture]]"
   - "[[Papers/finca-rosita-santa-ana]]"

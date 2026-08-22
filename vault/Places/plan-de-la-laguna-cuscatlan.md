@@ -21,6 +21,9 @@ cultures:
   - "[[Cultures/maya-related|Maya-related]]"
   - "[[Cultures/nahua-pipil-related|Nahua / Pipil-related]]"
 finds: []
+techniques:
+  - "pedestrian-survey"
+  - "archival-historical-research"
 papers:
   - "[[Papers/2025-flores-manzano-despues-ilopango]]"
   - "[[Papers/buscacuscatlan]]"

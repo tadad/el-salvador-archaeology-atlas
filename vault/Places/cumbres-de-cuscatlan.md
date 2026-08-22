@@ -24,6 +24,9 @@ cultures:
 finds:
   - "architecture"
   - "agriculture-cultivation"
+techniques:
+  - "excavation"
+  - "archival-historical-research"
 papers:
   - "[[Papers/1994-amaroli-hermes-velasquez-antiguo-cuscatlan]]"
   - "[[Papers/2025-flores-manzano-despues-ilopango]]"

@@ -20,6 +20,7 @@ cultures: []
 finds:
   - "ceramics"
   - "mounds-pyramids"
+techniques: []
 papers:
   - "[[Papers/larde-1921-poblacion-el-salvador]]"
 latest_study_year: 2024

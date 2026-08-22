@@ -21,6 +21,12 @@ cultures: []
 finds:
   - "mounds-pyramids"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
+  - "surface-collection"
+  - "mapping-surveying"
+  - "gis-spatial-analysis"
+  - "artifact-analysis"
 papers:
   - "[[Papers/finca-san-jorge-las-aradas]]"
 latest_study_year: 2013

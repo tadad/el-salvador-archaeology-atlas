@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "lithics-stone-tools"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2009

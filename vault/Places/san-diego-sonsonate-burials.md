@@ -18,6 +18,9 @@ periods: []
 cultures: []
 finds:
   - "burials-human-remains"
+techniques:
+  - "excavation"
+  - "archival-historical-research"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

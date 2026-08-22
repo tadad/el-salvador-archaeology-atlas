@@ -20,6 +20,10 @@ cultures: []
 finds:
   - "mounds-pyramids"
   - "burials-human-remains"
+techniques:
+  - "excavation"
+  - "artifact-analysis"
+  - "bioenvironmental-analysis"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/2020-flores-investigaciones-el-trapiche-1953-2019]]"

@@ -21,6 +21,9 @@ cultures:
 finds:
   - "architecture"
   - "industrial-works-machinery"
+techniques:
+  - "pedestrian-survey"
+  - "archival-historical-research"
 papers:
   - "[[Papers/2012-erquicia-obrajes-anil-san-vicente-la-paz]]"
 latest_study_year: 2012

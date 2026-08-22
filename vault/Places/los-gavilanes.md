@@ -20,6 +20,9 @@ cultures: []
 finds:
   - "architecture"
   - "fire-features"
+techniques:
+  - "surface-collection"
+  - "excavation"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: 2006

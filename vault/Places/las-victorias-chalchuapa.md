@@ -20,6 +20,9 @@ finds:
   - "architecture"
   - "ceramics"
   - "stone-sculpture-monuments"
+techniques:
+  - "surface-collection"
+  - "excavation"
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/2020-flores-investigaciones-el-trapiche-1953-2019]]"

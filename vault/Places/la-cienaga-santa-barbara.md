@@ -20,6 +20,8 @@ cultures:
   - "[[Cultures/maya-related|Maya-related]]"
 finds:
   - "ceramics"
+techniques:
+  - "archival-historical-research"
 papers:
   - "[[Papers/bruhns]]"
   - "[[Papers/drowned]]"

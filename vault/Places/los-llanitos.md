@@ -23,6 +23,9 @@ finds:
   - "architecture"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "excavation"
+  - "detailed-visual-documentation"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/haberland_sequences]]"

@@ -22,6 +22,9 @@ cultures:
 finds:
   - "architecture"
   - "industrial-works-machinery"
+techniques:
+  - "pedestrian-survey"
+  - "mapping-surveying"
 papers: []
 latest_study_year: 2008
 latest_study_label: "August 2008"

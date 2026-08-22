@@ -26,6 +26,8 @@ finds:
   - "historical-materials"
   - "shell-faunal-bone"
   - "middens-refuse"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/asuncion_izalco]]"
   - "[[Papers/larde-1923-volcan-izalco]]"

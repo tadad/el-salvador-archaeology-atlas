@@ -20,6 +20,9 @@ cultures: []
 finds:
   - "burials-human-remains"
   - "ceramics"
+techniques:
+  - "excavation"
+  - "geoarchaeology"
 papers:
   - "[[Papers/antiguo_preclasico]]"
   - "[[Papers/milpas]]"

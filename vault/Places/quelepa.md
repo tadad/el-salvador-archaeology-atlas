@@ -21,6 +21,14 @@ cultures: []
 finds:
   - "architecture"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
+  - "excavation"
+  - "aerial-satellite-imagery"
+  - "detailed-visual-documentation"
+  - "oral-history-ethnography"
+  - "artifact-analysis"
+  - "archaeometry-compositional-analysis"
 papers:
   - "[[Papers/1994-braswell-et-al-obsidian-quelepa]]"
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"

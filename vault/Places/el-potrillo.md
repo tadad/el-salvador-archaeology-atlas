@@ -22,6 +22,8 @@ finds:
   - "architecture"
   - "plazas-ballcourts"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/2010-torres-arqueologia-salvador-1992-2007]]"
   - "[[Papers/2005-amador-golfo-fonseca]]"

@@ -21,6 +21,11 @@ finds:
   - "architecture"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "excavation"
+  - "mapping-surveying"
+  - "aerial-satellite-imagery"
+  - "archival-historical-research"
 papers:
   - "[[Papers/lasmariasurgencia]]"
   - "[[Papers/tlalocreport]]"

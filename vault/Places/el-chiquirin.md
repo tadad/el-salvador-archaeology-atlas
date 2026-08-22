@@ -22,6 +22,12 @@ finds:
   - "architecture"
   - "burials-human-remains"
   - "shell-faunal-bone"
+techniques:
+  - "excavation"
+  - "mapping-surveying"
+  - "artifact-analysis"
+  - "chronometric-dating"
+  - "bioenvironmental-analysis"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: 2012

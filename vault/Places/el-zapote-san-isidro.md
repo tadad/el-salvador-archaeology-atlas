@@ -21,6 +21,8 @@ finds:
   - "architecture"
   - "mounds-pyramids"
   - "plazas-ballcourts"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/2017-mendez-arqueologia-publica-tamanique]]"
   - "[[Papers/anales-54]]"

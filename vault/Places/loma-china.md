@@ -22,6 +22,10 @@ finds:
   - "burials-human-remains"
   - "ceramics"
   - "lithics-stone-tools"
+techniques:
+  - "excavation"
+  - "oral-history-ethnography"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2016-barrera-puntas-flecha-oriente]]"
   - "[[Papers/earliest_pipil]]"

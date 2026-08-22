@@ -22,6 +22,8 @@ cultures:
 finds:
   - "architecture"
   - "industrial-works-machinery"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
   - "[[Papers/2026-castellon-metapas-fierro]]"

@@ -18,6 +18,8 @@ periods: []
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

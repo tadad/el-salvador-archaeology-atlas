@@ -20,6 +20,8 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "surface-collection"
 papers:
   - "[[Papers/casasola_panorama]]"
   - "[[Papers/haberland_marihua]]"

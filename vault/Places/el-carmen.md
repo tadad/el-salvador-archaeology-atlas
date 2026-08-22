@@ -22,6 +22,9 @@ finds:
   - "mounds-pyramids"
   - "fire-features"
   - "middens-refuse"
+techniques:
+  - "excavation"
+  - "chronometric-dating"
 papers:
   - "[[Papers/1989-arroyo-el-carmen]]"
   - "[[Papers/carmen]]"

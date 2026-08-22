@@ -25,6 +25,11 @@ finds:
   - "ceramics"
   - "lithics-stone-tools"
   - "rock-art"
+techniques:
+  - "pedestrian-survey"
+  - "mapping-surveying"
+  - "detailed-visual-documentation"
+  - "oral-history-ethnography"
 papers:
   - "[[Papers/2026-flores-peregrinaje-lempa-guija]]"
   - "[[Papers/2026-sermeno-sacrificio-infantes-guija]]"

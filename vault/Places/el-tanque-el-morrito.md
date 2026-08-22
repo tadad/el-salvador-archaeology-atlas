@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/bruhns]]"
   - "[[Papers/drowned]]"

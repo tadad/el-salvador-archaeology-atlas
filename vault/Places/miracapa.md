@@ -17,6 +17,8 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques:
+  - "archival-historical-research"
 papers:
   - "[[Papers/anales-53]]"
 latest_study_year: null

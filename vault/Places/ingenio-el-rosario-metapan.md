@@ -21,6 +21,8 @@ cultures:
 finds:
   - "architecture"
   - "industrial-works-machinery"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
 latest_study_year: 2007

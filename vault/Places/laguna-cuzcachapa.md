@@ -20,6 +20,10 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "surface-collection"
+  - "excavation"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2025-szymanski-prejs-san-isidro-figurines]]"
   - "[[Papers/casasola_panorama]]"

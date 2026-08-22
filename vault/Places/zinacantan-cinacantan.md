@@ -23,6 +23,11 @@ finds:
   - "plazas-ballcourts"
   - "architecture"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
+  - "mapping-surveying"
+  - "lidar-laser-scanning"
+  - "gis-spatial-analysis"
 papers:
   - "[[Papers/2009-erquicia-sitios-arqueologicos-historicos]]"
   - "[[Papers/2025-erquicia-conquista-cuscatlan]]"

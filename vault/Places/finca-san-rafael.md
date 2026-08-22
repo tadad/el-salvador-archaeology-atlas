@@ -19,6 +19,9 @@ periods:
 cultures: []
 finds:
   - "architecture"
+techniques:
+  - "excavation"
+  - "mapping-surveying"
 papers:
   - "[[Papers/2007-erquicia-los-gavilanes]]"
 latest_study_year: 2006

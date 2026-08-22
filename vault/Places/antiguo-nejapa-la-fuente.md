@@ -25,6 +25,9 @@ cultures:
   - "[[Cultures/colonial-spanish-indigenous|Colonial Spanish / Indigenous]]"
 finds:
   - "architecture"
+techniques:
+  - "pedestrian-survey"
+  - "surface-collection"
 papers: []
 latest_study_year: 2008
 latest_study_label: "2008"

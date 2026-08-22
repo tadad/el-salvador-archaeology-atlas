@@ -19,6 +19,8 @@ cultures: []
 finds:
   - "mounds-pyramids"
   - "plazas-ballcourts"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
 latest_study_year: 2008

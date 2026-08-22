@@ -18,6 +18,9 @@ periods: []
 cultures: []
 finds:
   - "rock-art"
+techniques:
+  - "pedestrian-survey"
+  - "detailed-visual-documentation"
 papers:
   - "[[Papers/1998-coladan-pinturas-rupestres-oriente]]"
 latest_study_year: 1996

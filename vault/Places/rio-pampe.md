@@ -20,6 +20,8 @@ finds:
   - "architecture"
   - "plazas-ballcourts"
   - "ceramics"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

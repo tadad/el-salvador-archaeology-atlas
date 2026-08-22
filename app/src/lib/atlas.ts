@@ -5,6 +5,7 @@ import path from "node:path";
 import matter from "gray-matter";
 import {
   findsTaxonomy,
+  techniquesTaxonomy,
   type AtlasData,
   type AtlasPlace,
   type CoordinateMethod,
@@ -102,6 +103,7 @@ function placeRecord(filename: string): AtlasPlace | null {
 
   const id = String(parsed.data.place_id || path.basename(filename, ".md"));
   const finds = requiredStrings(parsed.data.finds, "finds", id);
+  const techniques = requiredStrings(parsed.data.techniques, "techniques", id);
   const coordinatePrecision = String(parsed.data.coordinate_precision);
   const lat = Number(parsed.data.latitude);
   const lon = Number(parsed.data.longitude);
@@ -130,6 +132,7 @@ function placeRecord(filename: string): AtlasPlace | null {
     periods: strings(parsed.data.periods).map(wikiLabel),
     cultures: strings(parsed.data.cultures).map(wikiLabel),
     finds,
+    techniques,
     latestStudyYear: optionalYear(parsed.data.latest_study_year),
     latestStudyLabel: parsed.data.latest_study_label ? String(parsed.data.latest_study_label) : null,
     lastFieldworkYear: optionalYear(parsed.data.last_fieldwork_year),
@@ -145,6 +148,7 @@ function validateAtlas(data: AtlasData): void {
   const periodNames = new Set(data.periods.map((entry) => entry.name));
   const cultureNames = new Set(data.cultures.map((entry) => entry.name));
   const findIds = new Set(data.finds.map((entry) => entry.id));
+  const techniqueIds = new Set(data.techniques.map((entry) => entry.id));
   for (const place of data.places) {
     if (ids.has(place.id)) throw new Error(`Duplicate place_id: ${place.id}`);
     ids.add(place.id);
@@ -160,6 +164,14 @@ function validateAtlas(data: AtlasData): void {
     if (new Set(place.finds).size !== place.finds.length) {
       throw new Error(`Duplicate finds on ${place.id}`);
     }
+    for (const technique of place.techniques) {
+      if (!techniqueIds.has(technique)) {
+        throw new Error(`Unknown technique ${technique} on ${place.id}`);
+      }
+    }
+    if (new Set(place.techniques).size !== place.techniques.length) {
+      throw new Error(`Duplicate techniques on ${place.id}`);
+    }
   }
 }
 
@@ -173,6 +185,7 @@ export function getAtlasData(): AtlasData {
     periods: taxonomy(path.join(root, "Periods"), "period"),
     cultures: taxonomy(path.join(root, "Cultures"), "culture"),
     finds: findsTaxonomy,
+    techniques: techniquesTaxonomy,
   };
   validateAtlas(data);
   if (process.env.NODE_ENV === "production") atlasCache = data;

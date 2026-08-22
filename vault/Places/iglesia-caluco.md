@@ -18,6 +18,9 @@ periods:
   - "[[Periods/colonial|Colonial]]"
 cultures: []
 finds: []
+techniques:
+  - "excavation"
+  - "mapping-surveying"
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
 latest_study_year: 1995

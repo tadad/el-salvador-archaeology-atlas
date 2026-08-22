@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "artifact-analysis"
 papers:
   - "[[Papers/boggs_club]]"
 latest_study_year: 1945

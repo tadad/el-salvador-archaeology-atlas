@@ -17,6 +17,7 @@ location_visibility: "public"
 periods: []
 cultures: []
 finds: []
+techniques: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
 latest_study_year: 1999

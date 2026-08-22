@@ -18,6 +18,9 @@ periods: []
 cultures: []
 finds:
   - "mounds-pyramids"
+techniques:
+  - "pedestrian-survey"
+  - "excavation"
 papers:
   - "[[Papers/longyear]]"
 latest_study_year: 1942

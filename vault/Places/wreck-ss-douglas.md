@@ -21,6 +21,7 @@ cultures:
   - "[[Cultures/maritime-industrial|Maritime / Industrial]]"
 finds:
   - "shipwreck-vessel-remains"
+techniques: []
 papers:
   - "[[Papers/2012-escamilla-fowler-practica-arqueologia]]"
   - "[[Papers/anales-53]]"

@@ -19,6 +19,7 @@ cultures: []
 finds:
   - "architecture"
   - "mounds-pyramids"
+techniques: []
 papers:
   - "[[Papers/fundar-saqueo]]"
 latest_study_year: 2009

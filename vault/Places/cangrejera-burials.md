@@ -22,6 +22,8 @@ finds:
   - "burials-human-remains"
   - "mounds-pyramids"
   - "architecture"
+techniques:
+  - "archival-historical-research"
 papers:
   - "[[Papers/anales-56]]"
 latest_study_year: 2016

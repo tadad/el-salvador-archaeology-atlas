@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "ceramics"
+techniques:
+  - "excavation"
 papers:
   - "[[Papers/casasola_panorama]]"
   - "[[Papers/haberland_sequences]]"

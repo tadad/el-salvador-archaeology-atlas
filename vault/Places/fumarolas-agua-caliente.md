@@ -19,6 +19,8 @@ periods:
 cultures: []
 finds:
   - "lithics-stone-tools"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/anales-53]]"
   - "[[Papers/anales-54]]"

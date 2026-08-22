@@ -19,6 +19,8 @@ cultures: []
 finds:
   - "mounds-pyramids"
   - "architecture"
+techniques:
+  - "pedestrian-survey"
 papers:
   - "[[Papers/longyear]]"
   - "[[Papers/testimony1]]"

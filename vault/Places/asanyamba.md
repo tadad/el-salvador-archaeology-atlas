@@ -24,6 +24,9 @@ finds:
   - "ceramics"
   - "lithics-stone-tools"
   - "shell-faunal-bone"
+techniques:
+  - "surface-collection"
+  - "artifact-analysis"
 papers:
   - "[[Papers/2009-amador-atlas-arqueologico-oriente]]"
   - "[[Papers/beaudry_asanyamba]]"
