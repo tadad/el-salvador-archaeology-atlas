@@ -162,12 +162,6 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
     ],
   );
 
-  const hasActiveFilters =
-    Object.values(activeLocationStatus).some((isActive) => !isActive) ||
-    activePeriods.length > 0 ||
-    activeCultures.length > 0 ||
-    activeFinds.length > 0 ||
-    isYearFiltered;
   const selected = selectedId
     ? visibleDigs.find((dig) => dig.id === selectedId) ?? null
     : null;
@@ -221,15 +215,6 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
         ? current.filter((candidate) => candidate !== find)
         : [...current, find],
     );
-  }
-
-  function resetFilters() {
-    setActiveLocationStatus({ located: true, approximate: true });
-    setActivePeriods([]);
-    setActiveCultures([]);
-    setActiveFinds([]);
-    setYearRange(studyYearBounds);
-    setOpenFacet(null);
   }
 
   function selectDig(dig: AtlasPlace) {
@@ -332,7 +317,7 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                   }}
                 >
                   <summary>
-                    What was found here
+                    Finds
                     <span>{activeFinds.length || "All"}</span>
                   </summary>
                   <div className="facet-popover facet-popover-wide finds-popover">
@@ -476,12 +461,6 @@ export function AtlasExplorer({ data }: { data: AtlasData }) {
                     <p className="facet-note">Unknown years are omitted when narrowed.</p>
                   </div>
                 </details>
-
-                {hasActiveFilters ? (
-                  <button className="reset-filters" type="button" onClick={resetFilters}>
-                    Reset
-                  </button>
-                ) : null}
               </div>
             </div>
             <p className="visible-count" aria-live="polite">
